@@ -96,7 +96,7 @@ représentation graphique i=f(t) (fig2).
       2.1 Quelle est la valeur de la f.e.m d’auto-induction e ? En déduire la résistance r de la
           bobine.
       2.2Calculer le champ magnétique à l’intérieur de la bobine (solénoïde).
-          On prendra π 2 = 10
+          On prendra $\pi$ 2 = 10
       2.3A l’intérieur de la bobine S est placé une petite bobine S’ comportant 800 spires
       dont chacune a une section S’=2cm2.Les deux bobines ont le même axe ∆ horizontal.
       2.3.1 Quelle est la valeur du flux du champ magnétique à
@@ -117,7 +117,7 @@ représentation graphique i=f(t) (fig2).
             tension :u=Umcos( ω t).
          • Un résistor de résistance R=42 Ω .
          • Une bobine d’inductance L=0,4H de résistance r inconnue.
-         • Un condensateur de capacité C=10 µ F. On prendra π 2 = 10 .
+         • Un condensateur de capacité C=10 µ F. On prendra $\pi$ 2 = 10 .
       1. On veut visualiser sur l’écran d’un oscilloscope : en voie A, la tension u aux bornes
       du générateur et en voie B, la tension uR aux bornes du résistor R.
 
@@ -164,7 +164,7 @@ au point considéré.
                                       [ Mg ]0     ⎣        ⎦∞
  si Mg est le reactif lim i tan t :             =             or [ Mg ]0 = 4.10−2 mol / L
                                          1            1
- donc [ Mg ]0 ≠ ⎡ Mg 2 + ⎤ ⇒ Mg est le reactif en excés
+ donc [ Mg ]0 $\neq$ ⎡ Mg 2 + ⎤ ⇒ Mg est le reactif en excés
                 ⎣        ⎦∞
 1.3 Le reactif lim i tan t est donc H 3O +
 ⎡ H O+ ⎤     ⎡ Mg 2 + ⎤
@@ -268,7 +268,7 @@ e = 2,6V
 
 
 
-2.3.3 ϕ = N'BS'cos α avec α = ωt ⇒ ϕ = N'BS'cos ωt
+2.3.3 ϕ = N'BS'cos $\alpha$ avec $\alpha$ = ωt ⇒ ϕ = N'BS'cos ωt
       dϕ
 e=−       ⇒ e = N'BS' ω sin ωt
       dt
@@ -279,15 +279,15 @@ Eexrcice5
 
 
 
-Um = 5,6V ; T = 2.10−2 s ⇒ N = 50Hz et ω = 100π rd / s
+Um = 5,6V ; T = 2.10−2 s ⇒ N = 50Hz et ω = 100$\pi$ rd / s
 2.2 ∆t = 2.10−3 s
                                                        1
 2.3 u R est en avance sur u car le circuit est capacitif (  Lω )
                                                       Cω
 2.4 u R = U Rm Cos(ωt + ϕ ) avec U Rm = 1,2V et ϕ = ω∆t = 0,628rd
-u R = 1, 2Cos(100πt + 0,628)
+u R = 1, 2Cos(100$\pi$t + 0,628)
        u
-2.5 i = R ⇒ i = 2,8.10−2 Cos(100πt + 0,628)
+2.5 i = R ⇒ i = 2,8.10−2 Cos(100$\pi$t + 0,628)
         R
        U       5,6
 3.Z = m =             = 200Ω
@@ -300,10 +300,10 @@ r = Z 2 − (Lω −        ) − R ⇒ r = 10,8Ω
                     Cω
 
                                           169
-   4.1 Le phenoméne est appelé resonancedd'int ensité : LCω02 = 1 ⇒ 4π 2 N02 LC = 1
+   4.1 Le phenoméne est appelé resonancedd'int ensité : LCω02 = 1 ⇒ 4$\pi$ 2 N02 LC = 1
             1
    N0 =          = 80Hz
-          2π LC
+          2$\pi$ LC
 2.1          U       Um
     4.2 I =     =            = 0,07A
             R+r     2(R + r)

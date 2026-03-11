@@ -69,19 +69,19 @@ status: active
 
 ## Resting Potential
 - Neuron at rest: -70 mV (inside negative)
-- Maintained by Na⁺/K⁺ pump
-- 3 Na⁺ out, 2 K⁺ in (uses ATP)
+- Maintained by $Na^+$/$K^+$ pump
+- 3 $Na^+$ out, 2 $K^+$ in (uses ATP)
 
 ## Action Potential
 
 ### 1. Depolarization
-- Stimulus opens Na⁺ channels
-- Na⁺ rushes in
+- Stimulus opens $Na^+$ channels
+- $Na^+$ rushes in
 - Membrane potential becomes positive (+30 mV)
 
 ### 2. Repolarization
-- K⁺ channels open
-- K⁺ flows out
+- $K^+$ channels open
+- $K^+$ flows out
 - Returns toward negative
 
 ### 3. Hyperpolarization
@@ -89,7 +89,7 @@ status: active
 - Refractory period (cannot fire again)
 
 ### 4. Return to Resting
-- Na⁺/K⁺ pump restores balance
+- $Na^+$/$K^+$ pump restores balance
 
 ## All-or-None Principle
 Action potential either occurs fully or not at all

@@ -103,7 +103,7 @@ longueur l et distantes de d.
 2.1.1 Déterminer l'équation de la trajectoire de la particule
 entre les plaques et préciser sa nature.(0,75pt)
 2.1.2 Déterminer la valeur de la déviation angulaire
-électrique α . On donne : U = 50V, d = 4cm l=10cm.                   (0,25pt)
+électrique $\alpha$ . On donne : U = 50V, d = 4cm l=10cm.                   (0,25pt)
 2.2 On remplace le champ électrique E par un champ
 magnétique B crée dans une zone carrée MNPQ de
 coté a=6cm. La particule pénètre dans cette zone au
@@ -112,7 +112,7 @@ coté a=6cm. La particule pénètre dans cette zone au
 point O avec la même vitesse Vo .
 2.2.1 Déterminer la nature du mouvement de la particule dans le champ magnétique
  B et donner l'expression du rayon de la trajectoire en fonction de e, m, B et U0.
-2.2 2 Déterminer la valeur de la déviation       angulaire magnétique α si la particule sort
+2.2 2 Déterminer la valeur de la déviation       angulaire magnétique $\alpha$ si la particule sort
 entre P et N. On donne: B = 1,5.10-4T. (0,25pt)
 2.2.3 Quelle est la valeur minimale à donner au champ magnétique B pour que la
 particule décrive un demi cercle. (0,5pt)
@@ -169,7 +169,7 @@ Exercice 2
 1.1Pour savoir est ce que l’acide est fort ou faible on va vérifier est ce que pH = -
 logCa ou non
     Ca = 0,1 mol/L et pH de la solution est 3.
- -log0,1 =1≠3 l’acide est faible
+ -log0,1 =1$\neq$3 l’acide est faible
 1 .2 R − COOH + H 2 O R − COO− + H 3 O+
 1.3 L’élévation de la température favorise l’ionisation de l’acide donc augmente la
 concentration en ions hydronium :le pH diminue .
@@ -193,7 +193,7 @@ L’alcool A est : CH3-CH2-CH2-OH propan-1-ol
 
 
 
-D’après la relation de RFD on trouve: ∑ Fex = P + R + F = ma
+D’après la relation de RFD on trouve: $\sum$ Fex = P + R + F = ma
 La projection suivant AB donne:
                F
 F = ma ⇒ a =     = Cte le mvt est r.u.v
@@ -223,12 +223,12 @@ Rn = P cosθ +    VM
                    F
 Rn = 3mgCosθ + 2 l − 2mg
                    r
-Au po int C : θ = π et Rc ≥ 0
+Au po int C : θ = $\pi$ et Rc $\geq$ 0
                F
-RC = −3mg + 2     l − 2mg ≥ 0
+RC = −3mg + 2     l − 2mg $\geq$ 0
                r
    5mgr               5mgr
-F≥         et Fmin =
+F$\geq$         et Fmin =
      2l                 2l
 A.N Fmin = 3,33 N
 
@@ -255,29 +255,29 @@ A.N : VD = 2, 2m / s
                                          91
  P = ma
 ⇒ a x = 0 La projection suivant ox :Px max = 0           =
-Le mvt est rectiligne uniforme, V0 =VDCosβ ,Xo =0
+Le mvt est rectiligne uniforme, V0 =VDCos$\beta$ ,Xo =0
 Les équations horaire sur l’axe ox sont :
 ax = 0
-Vx = VDCosβ
-X = VDCosβ .t
+Vx = VDCos$\beta$
+X = VDCos$\beta$ .t
 La projection suivant oy donne :
 ay = g
-VDy = − VDSinβ
+VDy = − VDSin$\beta$
 Y0 = 0
 Les équations horaire sur oy sont :
 ay = g
-Vy = gt − VDSinβ
+Vy = gt − VDSin$\beta$
    1
-y = gt 2 − VDSinβ t
+y = gt 2 − VDSin$\beta$ t
    2
                                       1     x2
-L'équation de la trajectoire est : y = g           − xtgβ
-                                      2 V 2 Cos 2β
+L'équation de la trajectoire est : y = g           − xtg$\beta$
+                                      2 V 2 Cos 2$\beta$
                                                  D
 y = 4x 2 − 1,7x c'est une parabole
                                    ⎧ xI = ?
 4.3Le point I a pour coordonnées : ⎨
-                                   ⎩ y I = r + rCosβ = r(1 + Cosβ ) = 1,5m
+                                   ⎩ y I = r + rCos$\beta$ = r(1 + Cos$\beta$ ) = 1,5m
 calcul de xI : 4xI 2 − 1,7xI − 1,5 = 0
               ⎧⎪ xI = 0,86m
   ∆ = 5,18 et ⎨
@@ -316,7 +316,7 @@ y=                 ;y = 0,01x 2
                    0
 2.1.2
           2y s
-tgα =            = 2.10−3 (avec ys = 0,01 2 ) ⇒ α = 0,11°
+tg$\alpha$ =            = 2.10−3 (avec ys = 0,01 2 ) ⇒ $\alpha$ = 0,11°
 2.2.1Demontrons que le mvt est C.U
 ⎧ P = Fm .V = 0 car Fm ⊥ V
 ⎪
@@ -340,16 +340,16 @@ R=
 
                                                93
             a
-sin α ' =     = 0,15 ⇒ α ' = 9°
+sin $\alpha$ ' =     = 0,15 ⇒ $\alpha$ ' = 9°
             R
               a   1 2mU0 a
-2.2.3 R ≤       ⇒       ≤
+2.2.3 R $\leq$       ⇒       $\leq$
               4   B   q   4
      4 2mU0
-B≥          ⇒ Bmin = 0,38.10−4 T
+B$\geq$          ⇒ Bmin = 0,38.10−4 T
      a   q
 Exercice 5
-LCW02 = 1 ⇒ 4π 2 N 02 LC = 1
+LCW02 = 1 ⇒ 4$\pi$ 2 N 02 LC = 1
                        U
 1.2 U = RI 0 ⇒ R =        = 20Ω
                        I0
@@ -360,14 +360,14 @@ Oui car le circuit est inductif
 2.2 T =     = 8.10−3 s
         N0
 balayage :1ms  ->  1Cm
-2.3 ∆ϕ = w∆t = 2πN 0 ∆t
-∆ϕ = 0,45πrd
+2.3 ∆ϕ = w∆t = 2$\pi$N 0 ∆t
+∆ϕ = 0,45$\pi$rd
           Lw 0     Rtgϕ
 2.4 tgϕ =      ⇒L=       = 0,16H
-           R       2πN 0
+           R       2$\pi$N 0
                             1
 et LCW02 = 1 ⇒ C =                    = 10−5 F
-                        4π 2 N 02 L
+                        4$\pi$ 2 N 02 L
 3. R = 20Ω  ->  1Cm
    ZB = Lw = 50Ω  ->  2,5Cm
         1

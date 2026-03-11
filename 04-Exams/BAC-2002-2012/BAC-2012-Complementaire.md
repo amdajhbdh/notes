@@ -52,7 +52,7 @@ diverses espèces présentes dans le bécher.
 Données : C :12g/mol ; H:1g/mol ; O:16g/mol.
 Exercice 3
 Un solide S de masse m=0,14kg se déplace sur une piste rectiligne inclinée d’un angle
-α = 10° par rapport à l’horizontale. Le solide S est lâché sans vitesse initiale du point
+$\alpha$ = 10° par rapport à l’horizontale. Le solide S est lâché sans vitesse initiale du point
 A d’abscisse xA définie relativement au repère            . Arrivé au point O, il s’engage
 dans un mouvement de chute parabolique où tout type de frottement est négligeable et
 rencontre le sol au point I tel que la différence d’altitude entre les points O et I est
@@ -68,7 +68,7 @@ tracer le diagramme de la fig 2 correspondant à
 l’énergie cinétique du solide S en fonction de l’abscisse x.
  1 En appliquant le théorème de l’énergie cinétique au solide entre la position B et une
 position quelconque M d’abscisse x par rapport au repère       , montrer que :
-EC (x)= mgxsin α - fx+ECB
+EC (x)= mgxsin $\alpha$ - fx+ECB
 2 En utilisant le diagramme de la fig2 déterminer l’intensité de la force de frottement
 et la valeur de l’abscisse xA
 du point A. On donne g=9,8m/s**2.
@@ -109,7 +109,7 @@ donne : B=1 T , UP1P2 = 1000 V et mp = 1,67 10-27kg
 5. On trouve approximativement BC=27,4mm. Quel est l'élément X?
 Exercice 5
  Deux rails parallèles ab et a’b’ distants de d = 10cm, inclinés par rapport à l’horizontale
-d’un angle α =20°. On relie les extrémités des rails aux bornes d’un générateur de f.e.m
+d’un angle $\alpha$ =20°. On relie les extrémités des rails aux bornes d’un générateur de f.e.m
 E=1,4V et de résistance interne r =1,8Ω (voir figure 1).
 On branche dans le circuit, et en série avec le générateur un dipôle ohmique de
 résistance R =0,2Ω . Le circuit est fermé par l’intermédiaire d’une tige MN en cuivre
@@ -187,13 +187,13 @@ Conservation de la matiére : ⎡ CH 3 − CH 2 − COO − ⎤ + ⎡⎣CH 3 −
 
       Exercice3
       1.Ec(x) − EcB = mgh − fx
-                      = mgxsin α − fx + EcB
-                      = x(mg sin α − f ) + EcB
+                      = mgxsin $\alpha$ − fx + EcB
+                      = x(mg sin $\alpha$ − f ) + EcB
       2.Ec (x) = ax + b
           0,04 − 0
       a=           = 0,04 et b = 8.10−3 donc Ec (x) = 0,04x + 8.10−3
          0,8 + 0,2
-      Par identification : 0,04 = mgsin α − f ⇒ f = mgsin α − 0,04
+      Par identification : 0,04 = mgsin $\alpha$ − f ⇒ f = mgsin $\alpha$ − 0,04
            f = 0,2N
       Au po int A : EcA = 0 donc 0 = 0,04x A + 8.10−3 ⇒ x A = −0,2m
       3.∆Em = 0 ⇒ Em = Cte
@@ -207,7 +207,7 @@ Conservation de la matiére : ⎡ CH 3 − CH 2 − COO − ⎤ + ⎡⎣CH 3 −
         1                             2neU
       1. mVB2 = q.U ⇒ VB =
         2                              m
-      2.∑ Fex = ma ⇒ Fm = ma
+      2.$\sum$ Fex = ma ⇒ Fm = ma
 
 
 
@@ -235,15 +235,15 @@ Exercice 5
 
 
 A l'équilibre :     F+P+R=0
-projection suivant x'x : mgsinα − Fcosα = 0 ⇒ mgsinα = IdBcos α
-    mgtagα           E
+projection suivant x'x : mgsin$\alpha$ − Fcos$\alpha$ = 0 ⇒ mgsin$\alpha$ = IdBcos $\alpha$
+    mgtag$\alpha$           E
 B=           or I =       = 0,7A; donc B = 1T
         Id          r+R
            e             dϕ
-3.1 i 0 = 0 avec e0 = − ( )t = 0 et ϕ = BScos α;S = S0 − d.x
+3.1 i 0 = 0 avec e0 = − ( )t = 0 et ϕ = BScos $\alpha$;S = S0 − d.x
            R             dt
-                             BdV0 cos α
-donc e0 = BdV0 cos α ⇒ i 0 =             = 1,3A
+                             BdV0 cos $\alpha$
+donc e0 = BdV0 cos $\alpha$ ⇒ i 0 =             = 1,3A
                                   R
 
 
@@ -261,19 +261,19 @@ donc e0 = BdV0 cos α ⇒ i 0 =             = 1,3A
                                                   176
 3.2    Fi + P + R = ma
 Pr ojection suivant x'x :
-                                   − Fi cos α
-− Fi cos α + mg sin α = ma ⇒ a =              + g sin α = −2,68m / s 2 :
+                                   − Fi cos $\alpha$
+− Fi cos $\alpha$ + mg sin $\alpha$ = ma ⇒ a =              + g sin $\alpha$ = −2,68m / s 2 :
                                        m
 a et V sont opposés
-            F cos α
-3.3 a = 0 ⇒ 1       = g sin α donc F1 = mgtagα = 7.10−2 N
+            F cos $\alpha$
+3.3 a = 0 ⇒ 1       = g sin $\alpha$ donc F1 = mgtag$\alpha$ = 7.10−2 N
                m
                  F
 F1 = i1dB ⇒ i1 = 1 = 0,7A
                  dB
-     BdV1 cos α            i1R
+     BdV1 cos $\alpha$            i1R
 i1 =            ⇒ V1 =           = 1,5m / s
-          R              Bdcos α
+          R              Bdcos $\alpha$
 
 
 

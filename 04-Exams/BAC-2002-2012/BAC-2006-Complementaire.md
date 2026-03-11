@@ -79,7 +79,7 @@ r dont le centre O est confondu avec le centre de la terre.
     4.4 Calculer la masse M de la terre.(0,5pt)
 A.N : R=6400km;G=6,67.10 -11 S.I e g 0 =9,8m/s -2 .
 Exercice 4
-Deux rails parallèles en cuivre sont inclinés d'un angle α sur l'horizontale. Une tige MN de
+Deux rails parallèles en cuivre sont inclinés d'un angle $\alpha$ sur l'horizontale. Une tige MN de
 poids P peut glisser sans frottement sur ces rails. Deux butées situées à la base des rails
 empêchent la tige de quitter le circuit.
 Un champ magnétique uniforme B orthogonal aux rails
@@ -110,11 +110,11 @@ sens du courant induit qui traverse la tige et
 calculer sa valeur.                                        (0,5pt)
 3.2 Déterminer les caractéristiques de la force
 électromagnétique qui s'exerce sur la tige.                                              (0,5p
-A.N : Distance entre les rails l = 5cm ; α = 10° ;
+A.N : Distance entre les rails l = 5cm ; $\alpha$ = 10° ;
 d=5cm pour la zone d'action du champ ; B = 0,02T ; Poids de la tige : P = 0,05N ;
 résistance du circuit ; r=0, 2 Ω; Vitesse V = 2m/s
 Exercice 5 Les questions 1 et 2 sont indépendantes
-1 Le nucléide 23894 Pu qui est émetteur α donne un isotope de l'uranium U. Sa période
+1 Le nucléide 23894 Pu qui est émetteur $\alpha$ donne un isotope de l'uranium U. Sa période
 radioactive est T=86,4ans.
 1.1 Ecrire l'équation bilan de la réaction nucléaire
 correspondante.
@@ -125,7 +125,7 @@ radioactive λ.
 égale au nombre de désintégrations par unité de temps. Donner
 une relation entre l'activité A, la période T et le nombre N de noyaux présents dans
 l'échantillon.
-2 Les particules α émises de charge q=2e pénètrent en S avec une vitesse V o dans un
+2 Les particules $\alpha$ émises de charge q=2e pénètrent en S avec une vitesse V o dans un
 champ magnétique uniforme B s'exerçant dans un carré PQRS de 6cm de coté
 (voir fig).
 2.1 Donner le sens du vecteur B pour que les particules sortent du champ au point R.
@@ -222,7 +222,7 @@ Exercice 3
 -Intensité : F =
                   r2
 2.
-∑ fex = P = ma = m(aN + aT ) (car F = P )
+$\sum$ fex = P = ma = m(aN + aT ) (car F = P )
 PN = maN + maT
 par identification       on trouve :
              ⎧ dV               dV
@@ -264,28 +264,28 @@ V = r.                   =
                 r2              r
 4.1 le satellite est dans le plan de l’équateur
 4.2 Le satellite est géostationnaire Tsatellite = Tterre
-                  2πr           r
-     Tsatellite =     = 2πr
+                  2$\pi$r           r
+     Tsatellite =     = 2$\pi$r
                    V          goR 2
 
                                       r3
-      Tsatellite = 2π                       = Tterre
+      Tsatellite = 2$\pi$                       = Tterre
                                     goR 2
 
             2        r3
-      4π .                    = T2terre
+      4$\pi$ .                    = T2terre
                           2
                 goR
 
         3       T2terre .goR 2
       r =
-                             4π 2
+                             4$\pi$ 2
                  T2terre .goR 2
       r=3
-                             4π 2
+                             4$\pi$ 2
                              T2terre .goR 2            T2terre .goR 2
 R =R + h = 3                                  ⇒h=3                      − R =35954Km
-                                    4π 2                    4π 2
+                                    4$\pi$ 2                    4$\pi$ 2
 4.3
 P = ma la projection sur lanormale donne :
 
@@ -302,48 +302,48 @@ mg = mrω ⇒ ω =   =
 V = (R + h).ω
 A.N : V = 3103 m / s
 Exercice 4
-1.Pourque la tige soit en équilibre : ∑ Fex = P + R N + F = 0
+1.Pourque la tige soit en équilibre : $\sum$ Fex = P + R N + F = 0
 La projection suivant un axe parallèle avec les rails et orienté vers le bas donne :
-Psin α − F = 0
-F = Psin α
-                         mgsin α
-IlB = mgsin α ⇒ I =
+Psin $\alpha$ − F = 0
+F = Psin $\alpha$
+                         mgsin $\alpha$
+IlB = mgsin $\alpha$ ⇒ I =
                            lB
             0,05Sin10°
 A.N : I =               = 8,6A
            5.10−2 .0,02
 2.1La vitesse de la tige à l’instant de pénétration dans la zone ou règne le champ
-V 2 − Vo2 = 2aD ; a = g sin α ;Vo = o
-V 2 = 2aD ⇒ V = 2aD = 2 g sin α D
+V 2 − Vo2 = 2aD ; a = g sin $\alpha$ ;Vo = o
+V 2 = 2aD ⇒ V = 2aD = 2 g sin $\alpha$ D
 3 .2 Soit V’ la vitesse de la tige à l’instant de sa sortie du champ
 V '2 − V 2 = 2a ' d
-V '2 = 2a ' d + V 2 = 2a ' d + 2 g sin α .D
-           mg sin α − F mg sin α − IlB
+V '2 = 2a ' d + V 2 = 2a ' d + 2 g sin $\alpha$ .D
+           mg sin $\alpha$ − F mg sin $\alpha$ − IlB
   or a ' =                 =
                  m                   m
-          mg sin α − IlB
-V '2 = 2(                  )d + 2 g sin α .D
+          mg sin $\alpha$ − IlB
+V '2 = 2(                  )d + 2 g sin $\alpha$ .D
                  m
-           mg sin α − IlB
-V ' = 2(                    )d + 2 g sin α .D
+           mg sin $\alpha$ − IlB
+V ' = 2(                    )d + 2 g sin $\alpha$ .D
                   m
- pour quelatige sort du champ il faut que V ' ≥ o
-   mg sin α − IlB
-2(                  )d + 2 g sin α .D ≥ 0
+ pour quelatige sort du champ il faut que V ' $\geq$ o
+   mg sin $\alpha$ − IlB
+2(                  )d + 2 g sin $\alpha$ .D $\geq$ 0
            m
-                    mg sin α − IlB
-2 g sin α .D ≥ −2(                   )d
+                    mg sin $\alpha$ − IlB
+2 g sin $\alpha$ .D $\geq$ −2(                   )d
                             m
-         mg sin α − IlB
-D ≥ −(                  )d      Dmin = 0,06m
-            mg sin α
+         mg sin $\alpha$ − IlB
+D $\geq$ −(                  )d      Dmin = 0,06m
+            mg sin $\alpha$
 3.1 Le flux à travers le circuit est donné par :
 
 
 
 
                                             85
-ϕ = BSCosα , Cosα = 1(voir fig )
+ϕ = BSCos$\alpha$ , Cos$\alpha$ = 1(voir fig )
 S = S o − Vlt
 ϕ = B ( S − Vldt )
                                                   dϕ

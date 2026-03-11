@@ -5,24 +5,24 @@
 ## Complex Numbers
 
 ### Basic Level
-1. **EN:** Solve z² + 4 = 0
-   **FR:** Résoudre z² + 4 = 0
+1. **EN:** Solve $z^2$ + 4 = 0
+   **FR:** Résoudre $z^2$ + 4 = 0
 
 2. **EN:** Find |1 + i|
    **FR:** Trouver |1 + i|
 
-3. **EN:** Express i⁴ in simplest form
-   **FR:** Exprimer i⁴ sous forme simplifiée
+3. **EN:** Express $i^4$ in simplest form
+   **FR:** Exprimer $i^4$ sous forme simplifiée
 
 ### Intermediate Level
-1. **EN:** Solve z² - 2z + 5 = 0 and express in polar form
-   **FR:** Résoudre z² - 2z + 5 = 0 et exprimer sous forme polaire
+1. **EN:** Solve $z^2$ - 2z + 5 = 0 and express in polar form
+   **FR:** Résoudre $z^2$ - 2z + 5 = 0 et exprimer sous forme polaire
 
 2. **EN:** Find all fourth roots of 16
    **FR:** Trouver toutes les racines quatrièmes de 16
 
-3. **EN:** Prove |z₁ + z₂| ≤ |z₁| + |z₂|
-   **FR:** Prouver |z₁ + z₂| ≤ |z₁| + |z₂|
+3. **EN:** Prove |z₁ + z₂| $\leq$ |z₁| + |z₂|
+   **FR:** Prouver |z₁ + z₂| $\leq$ |z₁| + |z₂|
 
 ### Advanced Level
 1. **EN:** Solve z⁶ + 1 = 0 and find all solutions
@@ -39,34 +39,34 @@
 ## Integrals
 
 ### Basic Level
-1. **EN:** Calculate ∫ 3x² dx
-   **FR:** Calculer ∫ 3x² dx
+1. **EN:** Calculate $\int$ 3$x^2$ dx
+   **FR:** Calculer $\int$ 3$x^2$ dx
 
-2. **EN:** Find ∫₀¹ x dx
-   **FR:** Trouver ∫₀¹ x dx
+2. **EN:** Find $\int$₀¹ x dx
+   **FR:** Trouver $\int$₀¹ x dx
 
-3. **EN:** Evaluate ∫ eˣ dx
-   **FR:** Évaluer ∫ eˣ dx
+3. **EN:** Evaluate $\int$ eˣ dx
+   **FR:** Évaluer $\int$ eˣ dx
 
 ### Intermediate Level
-1. **EN:** Calculate ∫ x·sin(x) dx using integration by parts
-   **FR:** Calculer ∫ x·sin(x) dx par intégration par parties
+1. **EN:** Calculate $\int$ x·sin(x) dx using integration by parts
+   **FR:** Calculer $\int$ x·sin(x) dx par intégration par parties
 
-2. **EN:** Find ∫ 1/(x² + 1) dx
-   **FR:** Trouver ∫ 1/(x² + 1) dx
+2. **EN:** Find $\int$ 1/($x^2$ + 1) dx
+   **FR:** Trouver $\int$ 1/($x^2$ + 1) dx
 
-3. **EN:** Evaluate ∫₀^(π/2) cos²(x) dx
-   **FR:** Évaluer ∫₀^(π/2) cos²(x) dx
+3. **EN:** Evaluate $\int$₀^($\pi$/2) cos²(x) dx
+   **FR:** Évaluer $\int$₀^($\pi$/2) cos²(x) dx
 
 ### Advanced Level
-1. **EN:** Calculate ∫ √(1 - x²) dx and interpret geometrically
-   **FR:** Calculer ∫ √(1 - x²) dx et interpréter géométriquement
+1. **EN:** Calculate $\int$ √(1 - $x^2$) dx and interpret geometrically
+   **FR:** Calculer $\int$ √(1 - $x^2$) dx et interpréter géométriquement
 
-2. **EN:** Find ∫ (x³ + 2x)/(x² + 1) dx using partial fractions
-   **FR:** Trouver ∫ (x³ + 2x)/(x² + 1) dx en utilisant les fractions partielles
+2. **EN:** Find $\int$ (x³ + 2x)/($x^2$ + 1) dx using partial fractions
+   **FR:** Trouver $\int$ (x³ + 2x)/($x^2$ + 1) dx en utilisant les fractions partielles
 
-3. **EN:** Evaluate ∫₀^∞ e^(-x²) dx (Gaussian integral)
-   **FR:** Évaluer ∫₀^∞ e^(-x²) dx (intégrale gaussienne)
+3. **EN:** Evaluate $\int$₀^∞ e^(-$x^2$) dx (Gaussian integral)
+   **FR:** Évaluer $\int$₀^∞ e^(-$x^2$) dx (intégrale gaussienne)
 
 ---
 
@@ -113,8 +113,8 @@
 2. **EN:** Calculate weight of 5 kg object on Earth
    **FR:** Calculer le poids d'un objet de 5 kg sur Terre
 
-3. **EN:** Find velocity after 3 seconds if v₀ = 10 m/s and a = 2 m/s²
-   **FR:** Trouver la vitesse après 3 secondes si v₀ = 10 m/s et a = 2 m/s²
+3. **EN:** Find velocity after 3 seconds if $v_0$ = 10 m/s and a = 2 m/s²
+   **FR:** Trouver la vitesse après 3 secondes si $v_0$ = 10 m/s et a = 2 m/s²
 
 ### Intermediate Level
 1. **EN:** Analyze motion of 20 kg block on 30° incline with friction (μ = 0.3)

@@ -85,15 +85,15 @@ CH3 ;
    un courant de 5.10-2A.
    1.1 Faire le schéma du solénoïde en précisant un sens pour le courant, et
    donner les caractéristiques du champ magnétique crée par ce
-   courant en son centre C. On donne : µ 0 = 4 π .10-7S.I
+   courant en son centre C. On donne : µ 0 = 4 $\pi$ .10-7S.I
    1.2 Déterminer l'angle de déviation d'une petite aiguille
    aimantée sur pivot placée en son centre si l'axe ∆ du
    solénoïde est perpendiculaire au méridien magnétique
    (schéma obligatoire).
    2 L'aiguille aimantée est retirée et remplacée par une bobine
    plate carrée de coté 8cm, comportant 100 spires. Le solénoïde est traversé par un
-                                           π
-   courant variable i = 2.10 −1 cos(100π t + )
+                                           $\pi$
+   courant variable i = 2.10 −1 cos(100$\pi$ t + )
                                            2
    2.1 Donner les expressions du flux magnétique à travers la bobine et de la force
 
@@ -204,7 +204,7 @@ Le nom de l’ester E est le propanoate de butyle.
 Exercice 3
 1 Calcul de la constante de raideur K :
                                                                  mg
-A l’équilibre : ∑ Fext = 0 ⇔ P + T0 = 0 P − T0 = 0 ⇒ K =            Soit K = 200N / m
+A l’équilibre : $\sum$ Fext = 0 ⇔ P + T0 = 0 P − T0 = 0 ⇒ K =            Soit K = 200N / m
                                                                  ∆
 2.1 Expression de l’énergie potentielle de pesanteur :
  Epp = −mgx
@@ -226,8 +226,8 @@ C’est l’équation différentielle caractérisant un mouvement rectiligne sin
 pulsation ω =    K = 10 5 rad/s
                  m
 d’équation horaire x = xm cos(ωt + ϕ ) Conditions initiales :
-à t = 0 x0 = 0 et v0=-2m/s ⇒ ϕ = π2 et xm=9.10-2m
-Soit x = 9.10−2 cos(10 5 t+ π2 )
+à t = 0 x0 = 0 et v0=-2m/s ⇒ ϕ = $\pi$2 et xm=9.10-2m
+Soit x = 9.10−2 cos(10 5 t+ $\pi$2 )
 5 La valeur de Em
 Comme Em = cte
                                            2
@@ -256,19 +256,19 @@ Em = 0, 84j
                   tan θ =      A.N : θ=68,30
                             BH
 2.1 Expression du flux :
-Φ = NBS cos θ avec θ = (n, B) comme θ = π , on a Φ = − NBS
-Φ = -NSµ0ni avec i = 2.10−1 cos(100π t+ π ) . ⇒ Φ = −1, 3.10−4 cos(100π t+ π )
+Φ = NBS cos θ avec θ = (n, B) comme θ = $\pi$ , on a Φ = − NBS
+Φ = -NSµ0ni avec i = 2.10−1 cos(100$\pi$ t+ $\pi$ ) . ⇒ Φ = −1, 3.10−4 cos(100$\pi$ t+ $\pi$ )
                                         2                                  2
                                          dΦ          di
-Expression de la f.e.m induite : e = −      = NSµ 0n    ⇒ e = −4.10−2 sin(100π t+ π )
+Expression de la f.e.m induite : e = −      = NSµ 0n    ⇒ e = −4.10−2 sin(100$\pi$ t+ $\pi$ )
                                          dt          dt                           2
 
 ⇒ Φmax = 1, 3.10−4 Wb
 ⇒ emax = 4.10−2 V
 2.2 L’oscilloscope détecte la tension u aux bornes de la bobine.
 T = 20ms L’intervalle [0;20ms] correspond à une période
-                             π                2πt π
- u = − e = 4.10−2 sin(100πt + ) = 4.10−2 sin(    + )
+                             $\pi$                2$\pi$t $\pi$
+ u = − e = 4.10−2 sin(100$\pi$t + ) = 4.10−2 sin(    + )
                              2                 T   2
 t(s)            0              T              T            3T                    T
                                 4             2              4
@@ -305,7 +305,7 @@ La période T=8x2,5.10-3=2.10-2s⇒ N1 = T1 = 50Hz
       1.2
    • u R est en avance de phase sur u car u R (t) passe par son maximum avant
      u(t) donc le circuit est capacitif.
-   • Phase de i par rapport à u ϕ = ω∆t ⇒ ϕ = π5
+   • Phase de i par rapport à u ϕ = ω∆t ⇒ ϕ = $\pi$5
    • Expression de cos ϕ
                                           (R + r)I
      cos ϕ = R + r avec Z = U ⇒ cos ϕ =
@@ -330,7 +330,7 @@ L’ampèremètre indique l’intensité efficace maximale I 0 .
 I 0 = 3 = 3 = 73mA
      ΣR     R+r
 L’expression de la fréquence N 2 à la résonance N 2 =                1
-                                                                  2 π LC
+                                                                  2 $\pi$ LC
 3 Nature du circuit
 D’après l’exercice les tensions
 U , UC et Ub sont égales ; soit Z = ZC = Zb
@@ -351,13 +351,13 @@ en remplaçant          par 2Lω dans2 on
                     Cω
                                                               r
 obtient (2Lω)2 = r 2 + (Lω)2 ⇔ 3(Lω)2 = r 2 ⇒ L =                          A.N : L=13.10-3H.
-                                                           2πN 3 3
+                                                           2$\pi$N 3 3
                            1
 D’après4on a C =                            A.N : C=3.10-4F
-                       8π 2 N 23L
+                       8$\pi$ 2 N 23L
                                                             1
 Calcul de la fréquence à la résonance : N 2 =                       81Hz
-                                                         2 π LC
+                                                         2 $\pi$ LC
 
 
 

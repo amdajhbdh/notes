@@ -45,7 +45,7 @@ On donne: M(0)=16g /mol ; M(C)= 12g/mol ; M(H)=1g/moL
 Exercice 3 (4,5pt)
 1 Un skieur de masse m= 80kg est mis en mouvement, à
 partir de sa position de repos en O à l'aide d'un câble, sur
-une piste inclinée d'un angle α =30° par rapport à
+une piste inclinée d'un angle $\alpha$ =30° par rapport à
 l'horizontale. La tension du câble est représentée par une
 force F dont la droite d'action est parallèle à la ligne de
 plus grande pente (fig1).
@@ -63,9 +63,9 @@ d'origine O (figure 2).
 1.1Enoncer le théorème de l'énergie cinétique.              (0,5pt)
 1.2En appliquant le théorème de l'énergie cinétique au système {skieur} :
 1.2.1 Donner l'expression de l'énergie cinétique Ec en fonction de x, m, g, f, F
-et α, dans l'intervalle [0 ; 100m].
+et $\alpha$, dans l'intervalle [0 ; 100m].
 1.2.2 Donner l'expression de cette énergie cinétique E C en fonction de x, m, g,
-f et α, dans l'intervalle [100m ; 120m].
+f et $\alpha$, dans l'intervalle [100m ; 120m].
 1.3 En déduire les valeurs de f et F.
 1. 2 Une fois arrivée en C, préciser en le justifiant que le skieur se maintient en
 équilibre. Déterminer alors les caractéristiques de la réaction totale R exercée
@@ -200,22 +200,22 @@ Exercice 3
 La variation de l’énergie cinétique entre deux instants t1 et t2 est
 égale à la somme des travaux effectués par toutes les forces qui
 s’exercent sur le système entre ces deux instants.
-∆EC = ∑ WF
-1.2.1 Expression de EC en fonction de x, m, g, f, F et α
+∆EC = $\sum$ WF
+1.2.1 Expression de EC en fonction de x, m, g, f, F et $\alpha$
 En appliquant le théorème pour x ∈[0 ; 100].
-∆EC = ∑ WF
-EC − EC     = WP + WF + Wf + WR           EC = − mgx sin α + Fx − fx   (1)
+∆EC = $\sum$ WF
+EC − EC     = WP + WF + Wf + WR           EC = − mgx sin $\alpha$ + Fx − fx   (1)
         O                             n
        0                          0
-1.2.2 Expression de E’C en fonction de x, m, g, f, et α
+1.2.2 Expression de E’C en fonction de x, m, g, f, et $\alpha$
 En appliquant le théorème pour x ∈[100 ; 120]
-∆EC = ∑ WF
+∆EC = $\sum$ WF
                                                   3
 E'C − EC = WP + Wf + WR avec EC=16.10 J.
                             n
                       0
  '        3
-EC = 16.10 − mg(x − 100)sin α − f (x − 100) (2)
+EC = 16.10 − mg(x − 100)sin $\alpha$ − f (x − 100) (2)
 1.3 Calcul de la force f et F :
 Au point x=120m E’C =0
 D’après (2) ⇔ 16.103 – 80x10x20x0,5 – 20f=0
@@ -223,16 +223,16 @@ D’après (2) ⇔ 16.103 – 80x10x20x0,5 – 20f=0
 Calcul de la force F :
 Au point x=100m EC =16.103J.
                      EC
-D’après (1) : F =       + mg sin α + f
+D’après (1) : F =       + mg sin $\alpha$ + f
                       x
 ⇔ F =960N
 2 Equilibre du skieur :
 Comme la vitesse s’annule en C, le skieur cherche à rebrousser
-chemin : ∑ F = ma
+chemin : $\sum$ F = ma
 ⇔ P + R n + f = ma
 Par projection sur x'x :
                                       f
--Psinα + f =ma⇔ a = − g sin α +              ⇔ a=0
+-Psin$\alpha$ + f =ma⇔ a = − g sin $\alpha$ +              ⇔ a=0
                                       m
 Comme V=0 (E’C =0) et a =0 alors le skieur est en équilibre.
                                                       130
@@ -245,7 +245,7 @@ D’où R ⎨
        ⎪*sens : ascendant
        ⎪⎩*int ensité : R = mg = 800N
 3 Variation de l’énergie mécanique :
-∆Em = ∑ W
+∆Em = $\sum$ W
          Fext
 Entre O et C, on a :
 Em − Em = W + WF
@@ -265,11 +265,11 @@ Em − Em = W + WF
 Exercice 4
 1.1 Calcul de a :
 D’après le schéma
-  α   IS
+  $\alpha$   IS
 tan  = 1
   2    D
    a
-α= ⇒               a = αD
+$\alpha$= ⇒               a = $\alpha$D
    D
 soit a =2.10-3m
 1.2 Calcul de i :
@@ -315,7 +315,7 @@ soit x1 =                        = 1, 575.10−3 m
 1.1
 0 ≺ t ≺ 2s : ϕ ⇒ B i et B sont opposés (loi de LENZ)
 D’où le sens de i par la régle de la main droite(voir schéma)
-1.2 Comme pour t ≥ 2, B reste constant et le flux également, il n’ya
+1.2 Comme pour t $\geq$ 2, B reste constant et le flux également, il n’ya
                                                          dΦ
 pas de phénomène d’induction magnétique ( e = −             = 0 ). Il n’y a
                                                          dt

@@ -247,7 +247,7 @@ t(ms) 60        120 180 240 300 360
 V(m/s) 0,18 0,24 0,30 0,36 0,42 0,48
 2. Représentation de V=f(t) :
 3 .Calcul de f par application de la R.F.D:
-∑ Fext = ma
+$\sum$ Fext = ma
 ⇔ P + R n + F + f = ma
  par projection sur xx' on obtient :
 
@@ -259,7 +259,7 @@ avec a =       = 1m.s −2
 Soit : f = 0, 2N
 4. Calcul de f par application du théorème de l’énergie mécanique:
                                1      1
-∆Em = ∑ WFex + ∑ WFin.non cos ⇔ mVA2 − mVA2 = WF + Wf + WP + WR
+∆Em = $\sum$ WFex + $\sum$ WFin.non cos ⇔ mVA2 − mVA2 = WF + Wf + WP + WR
                                2    6 2    1                    n
   1
 ⇔ m(VA2 − VA2 ) = (F − f )A1A6
@@ -273,7 +273,7 @@ Exercice 4
 bas et q> 0.
 - Nature du mouvement : La seule force qui s’exerce est la force de Lorentz :
 F = 2ev ∧ B car le poids est négligeable.
-La RFD permet d’écrire ∑ Fext = ma ⇒ a = 2ev ∧ B A tout instant, on a : a ⊥ v .
+La RFD permet d’écrire $\sum$ Fext = ma ⇒ a = 2ev ∧ B A tout instant, on a : a ⊥ v .
                                                        m
                                                               dV
 • L’accélération tangentielle est donc nulle ⇒ at =              = 0 ⇒ V = Cste
@@ -297,7 +297,7 @@ VR ⎨             (la verticale QR)
     ⎪
     ⎪⎩-Module : VR = V0car le mvt est uniforme
 Calcul de U :
-A la sortie du champ électrique : ∆Ec = ∑ WF
+A la sortie du champ électrique : ∆Ec = $\sum$ WF
  1  2                 mV02
 ⇔ mV0 = Fd = qU ⇒ U =
  2                     2q
@@ -351,34 +351,34 @@ Pour que le phénomène parait unique et immobile, il faut que Ne=N/k
       contraire du mouvement réel.
 3 L’équation horaire du mouvement de la source O: Le mouvement étant sinusoïdal
 son équation serait de la forme yO = a cos(ωt+ϕ)
-Avec ω=2πN=200πHz et a=3.10-3m
+Avec ω=2$\pi$N=200$\pi$Hz et a=3.10-3m
 à t=0
  ⎧ x = acosϕ
  ⎪ 0                   cosϕ = 0
- ⎨                 ⇒ ⎧⎨              ⇔ ϕ = -π/2 d’où l’équation yO= 3.10-3cos(200πt - π/2)
+ ⎨                 ⇒ ⎧⎨              ⇔ ϕ = -$\pi$/2 d’où l’équation yO= 3.10-3cos(200$\pi$t - $\pi$/2)
  ⎪⎩ V0 = -ωxm sinϕ    ⎩sinϕ = -1
 
                                                 116
 L’équation horaire du mouvement d’un point M situé à la distance x de la source O :
-        yM= 3.10-3cos(200πt - π/2 - 2πx/λ)
+        yM= 3.10-3cos(200$\pi$t - $\pi$/2 - 2$\pi$x/λ)
 4 Les abscisses des points M qui vibrent en phase avec O :
- ∆ϕ = ϕO - ϕM = - π/2 + π/2 + 2πx/λ =2kπ
+ ∆ϕ = ϕO - ϕM = - $\pi$/2 + $\pi$/2 + 2$\pi$x/λ =2k$\pi$
 ⇔ x= kλ.
 Le point le plus proche de O correspond à k =1 soit x = λ = 0,2m.
 Le nombre des points qui vibrent en phase avec O :
-0 < x ≤ OO’ ⇔ 0 < kλ ≤ OO’
-⇔ 0 < k ≤ OO’/λ ⇔ 0 < k ≤ 10 soit 10 points.
+0 < x $\leq$ OO’ ⇔ 0 < kλ $\leq$ OO’
+⇔ 0 < k $\leq$ OO’/λ ⇔ 0 < k $\leq$ 10 soit 10 points.
 5 Les abscisses des points M qui vibrent en opposition de phase avec O :
- ∆ϕ = ϕO - ϕM = - π/2 + π/2 + 2πx/λ =(2k+1)π
+ ∆ϕ = ϕO - ϕM = - $\pi$/2 + $\pi$/2 + 2$\pi$x/λ =(2k+1)$\pi$
 ⇔ x= (2k+1)λ/2.
 Le point le plus proche de O correspond à k=0 soit x = λ/2 = 0,1m.
 Le nombre des points qui vibrent en opposition de phase avec O :
-0 < x ≤ OO’ ⇔ 0 < (2k+1)λ/2 ≤ OO’
-⇔ 0 < k ≤ OO’/λ - 1/2 ⇔ 0 ≤ k ≤ 9,5
+0 < x $\leq$ OO’ ⇔ 0 < (2k+1)λ/2 $\leq$ OO’
+⇔ 0 < k $\leq$ OO’/λ - 1/2 ⇔ 0 $\leq$ k $\leq$ 9,5
 soit 9 points.
 6 La représentation de la forme de la corde à l’instant t1=0,03s (Courbe).
-y = a cos(200π.0,04-π/2 - 2πx/λ)
-y = a cos(2πx/λ+π/2)
+y = a cos(200$\pi$.0,04-$\pi$/2 - 2$\pi$x/λ)
+y = a cos(2$\pi$x/λ+$\pi$/2)
 x 0 λ/4 λ/2 3λ/4 λ
 y 0 a          0     -a    0
 La distance parcourue à t=0,03s est :x =ct =3λ

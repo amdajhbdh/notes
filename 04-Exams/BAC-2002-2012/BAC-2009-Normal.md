@@ -76,13 +76,13 @@ mouvement.                                                                      
  2 On attache le solide S à une longue corde élastique qui pend librement. Lorsque le
  solide S est animé du même mouvement rectiligne sinusoïdal précédent, une onde
  transversale supposée sans amortissement ni réflexion se propage le long de la corde
-                        π
+                        $\pi$
 avec une célérité C =       m / s . (fig2)
                         2
 On considère les points P et Q de la corde situés respectivement à 12,5 cm et 37,5 cm
 du centre d'inertie G (source des ondes).
 2.1 Calculer la longueur d'onde λ du mouvement vibratoire de la corde. (Prendre
- π 2=10)
+ $\pi$ 2=10)
 2.2 Comparer les mouvements de P et de Q entre eux puis avec celui de G.                             p
 Exercice 4
 Des ions d'hélium 23 He 2+ et A2 He 2+ sont produit en un point A avec une vitesse nulle.
@@ -101,19 +101,19 @@ masse ml, de sa charge q et de la tension U. Calculer V1. A.N: e=1,6.10-19C,
 2.1Quelle est la nature du mouvement de 23 He 2+ dans le champ B ?
 2.2 Trouver l'expression du rayon r1 de la trajectoire de 23 He 2+ en fonction de B, e, m et U.
 Calculer r1
-2.3 Soit α l'angle que fait la trajectoire de l'ion 23 He 2+ après sa sortie du champ
+2.3 Soit $\alpha$ l'angle que fait la trajectoire de l'ion 23 He 2+ après sa sortie du champ
 magnétique B avec l'axe
-Ox; calculer l'angle de déviation α.
+Ox; calculer l'angle de déviation $\alpha$.
 3 En fait les trajectoires des deux ions 23 He 2+ et A2 He 2+ sont différentes.
 Soient m2 la masse de l'ion A2 He 2+ et r2 le rayon de sa trajectoire.
 
                                              119
-                                                                                 α2
-3.1 α2 étant la déviation angulaire de l'ion A2 He 2+ , montrer que le rapport        ne dépend
-                                                                                 α1
+                                                                                 $\alpha$2
+3.1 $\alpha$2 étant la déviation angulaire de l'ion A2 He 2+ , montrer que le rapport        ne dépend
+                                                                                 $\alpha$1
        que des masses m1 et m2. On supposera que les deux angles sont petits
-3.2 (sinα = tanα = α(rad)).
-3.2Calculer la masse atomique A de l'ion A2 He 2+ sachant que α2 = 0,216rad.
+3.2 (sin$\alpha$ = tan$\alpha$ = $\alpha$(rad)).
+3.2Calculer la masse atomique A de l'ion A2 He 2+ sachant que $\alpha$2 = 0,216rad.
 Exercice 5
 Pour déterminer les caractéristiques d'une bobine de résistance r et
 d'inductance L, on réalise l'expérience suivante :
@@ -203,7 +203,7 @@ l’alcool A secondaire est le propan-2-ol.
 Exercice 3
                                                    121
 1.1 Nature du mouvement.
-∑ F = ma ⇔ P + T + R = ma
+$\sum$ F = ma ⇔ P + T + R = ma
 En projetant suivant l’axe Ax :
 -T = ma ⇔ -kx = ma ⇒ a + K x = 0
                            m
@@ -224,7 +224,7 @@ cos ϕ =      =1 ⇒ ϕ = 0
 D’où l’équation horaire :
 x = 4.10−2 cos(20 t)
 2.1 Calcul de la longueur d’onde λ :
-            2 πC
+            2 $\pi$C
 λ = CT =         = 0, 5m
               ω
 2.2 Comparaison des mouvements :
@@ -259,7 +259,7 @@ VP > VP ⇒ VP − VP > 0
    1     2       1    2
 ⇔ U> 0
 1.2 Expression de V1 en B en fonction de m1, q et U.
- ∆EC = ∑ WF
+ ∆EC = $\sum$ WF
        1
  ⇔       m1V12 = Fd = qU
        2
@@ -272,7 +272,7 @@ La seule force qui s’exerce est la force de Lorentz :
 F = qV ∧ B car le poids est négligeable.
           1
                                               qV ∧ B
-La RFD permet d’écrire ∑ F = m1a ⇒ a =          1
+La RFD permet d’écrire $\sum$ F = m1a ⇒ a =          1
                                                 m
                                                   1
 A tout instant, on a :.
@@ -300,36 +300,36 @@ r1 =        avec V1 =               =
 Soit r1 =                 ⇒ r1 =
                    qB              B  e
 Soit r1 ≈0,06m.
-2.3 Calcul de α1 :
+2.3 Calcul de $\alpha$1 :
 
                                               123
        SS' l
-sin α1 =   = soit sinα1 = 0,25
+sin $\alpha$1 =   = soit sin$\alpha$1 = 0,25
        CS r1
-                         α
+                         $\alpha$
 3.1 Expression du rapport 2
-                         α1
+                         $\alpha$1
              l     l
-sin α1 =       =               1
+sin $\alpha$1 =       =               1
             r1 1 m1U
                  B   e
 
         l       l
-sin α 2 = =                    2
+sin $\alpha$ 2 = =                    2
        r2 1 m 2 U
              B    e
-2   sin α 2    m1
+2   sin $\alpha$ 2    m1
   ⇔         =
-1   sin α1     m2
-                                                                   α2   m1
-Comme les angles sont petits sinα1 ≈ α1 et sinα2 ≈ α2 , alors         =
-                                                                   α1   m2
-                                            α2   m1             α
+1   sin $\alpha$1     m2
+                                                                   $\alpha$2   m1
+Comme les angles sont petits sin$\alpha$1 ≈ $\alpha$1 et sin$\alpha$2 ≈ $\alpha$2 , alors         =
+                                                                   $\alpha$1   m2
+                                            $\alpha$2   m1             $\alpha$
 3.2 Calcul de la masse atomique A :            =    ⇒ m 2 = m1 ( 1 )2
-                                            α1   m2             α2
-              α
+                                            $\alpha$1   m2             $\alpha$2
+              $\alpha$
 Soit A = 3( 1 )2 ≈ 4
-              α2
+              $\alpha$2
 Exercice 5
 L’impédance Z du circuit (r, L) est : Z = r 2 + (Lω)2
 soit Z 2 = (Lω)2 + r 2 1 Cette relation est de la forme y = ax +b ; c’est une fonction

@@ -61,14 +61,14 @@ forme donnée par la fig1.
 Le mobile commence sa course
 au sommet A de la partie
 rectiligne AC qui fait un angle
-α = 60° avec la verticale et
+$\alpha$ = 60° avec la verticale et
 arrive au point B avec la vitesse VB=10m/s.
 1 Entre les points B et C s'exerce une force de frottement f 1 qui ralentit le mouvement.
 Déterminer l'intensité de cette force f 1 pour que le mobile arrive en C avec une vitesse
 de valeur double de VB. (1pt)
 2 Déterminer la valeur de la vitesse au point D si la force de frottement s'exerçant sur
 la partie horizontale CD représente le sixième du poids du mobile.
-3 Le mobile aborde alors la partie DE qui fait un angle β = 10° avec l'horizontale.
+3 Le mobile aborde alors la partie DE qui fait un angle $\beta$ = 10° avec l'horizontale.
 Déterminer la longueur l de cette partie pour que le mobile arrive en E avec une
 vitesse pratiquement nulle.(0,75pt)
 4 Arrivé au point E le mobile glisse sans frottement sur le quart du cercle EF de rayon
@@ -76,7 +76,7 @@ r et de centre O situé sur la même horizontale CDF.
 4.1 La position du mobile est repérée par l'angle (             ) . Exprimer la vitesse au
                                                     θ = OF, OM
 
-point M en fonction de θ , l, β et g.(1pt)
+point M en fonction de θ , l, $\beta$ et g.(1pt)
 4.2 Exprimer en fonction de θ , m et g la valeur de la réaction de la piste sur le mobile
 au point M. (1pt)
 Exercice 4
@@ -96,7 +96,7 @@ déduire la longueur d'onde λ de la lumière utilisée?(1pt)
 1.2 La fente F est maintenant éclairée en lumière blanche. Quelles sont les longueurs
 d'onde des radiations appartenant au spectre visible pour les quelles une frange
 obscure se forme au point N, sur E, à la distance ON=x= 9mm de la frange centrale?
-On donne pour le spectre visible:0,4µm≤λ≤0,8µm.          (0,75pt)
+On donne pour le spectre visible:0,4µm$\leq$λ$\leq$0,8µm.          (0,75pt)
 2 Une corde élastique sans raideur est placée verticalement.
 L'extrémité supérieure A est reliée à un vibreur (lame vibrante) qui
 lui impose un mouvement sinusoïdal entretenu, transversal, de
@@ -125,10 +125,10 @@ magnétique B à l'intérieur du solénoïde.                                   
 varie avec le temps comme l'indique le graphe (fig 4)
 
 5.1 Pour quels intervalles de temps y'a-t-il variation du flux à travers la bobine? On se
-limitera aux instants tel que 0≤ t ≤ 6.10-2s. (0,5pt)
+limitera aux instants tel que 0$\leq$ t $\leq$ 6.10-2s. (0,5pt)
 5.2 Calculer la f.e.m d'auto-induction dans ces intervalles de temps. (0,75pt)
 5.3 Donner l'expression littérale de la tension u aux bornes de la bobine pour
-0≤ t ≤ 6.10-2s.
+0$\leq$ t $\leq$ 6.10-2s.
 
 
 
@@ -252,28 +252,28 @@ E.E.N : [HCOO − ] = [H 3O + ] + [Na + ] − [OH − ]
 
 Exercice3
   1 Calcul de la distance BC.
-   ∆Ec = ∑ W
+   ∆Ec = $\sum$ W
    1
-    mV2 = mgh avec h = ABcosα car VA = 0
+    mV2 = mgh avec h = ABcos$\alpha$ car VA = 0
    2 B
          V2                            V2
 ⇒ AB =    B   or BC=AC-AB=AC- B A.N : BC=50m
-       2gcosα                       2gcosα
+       2gcos$\alpha$                       2gcos$\alpha$
   Calcul de la force de frottement f
   Appliquons le théorème de l’énergie cinétique entre B et C :
-   ∆Ec = ∑ W = WP + Wf + WR
+   ∆Ec = $\sum$ W = WP + Wf + WR
                                            n
    1     1
-    mV2 − mV2 = mgh - f.BC avec h = BCcosα et VC = 2VB
+    mV2 − mV2 = mgh - f.BC avec h = BCcos$\alpha$ et VC = 2VB
    2 C 2 B
 
 
                     3V2
-  soit f = m(gcosα - B ) A.N : f=1N
+  soit f = m(gcos$\alpha$ - B ) A.N : f=1N
                      BC
   2       Appliquons le théorème de l’énergie cinétique
          entre C et D :
-            ∆Ec = ∑ W = WP + Wf + WR
+            ∆Ec = $\sum$ W = WP + Wf + WR
                                                     n
             1             1            1
              mV2 − mV2 = -f.CD avec f = mg
@@ -284,28 +284,28 @@ Exercice3
           A.N :VD =10m/s
                                                             49
    3 Appliquons le théorème de l’énergie cinétique entre D et E :
-   ∆Ec = ∑ W = WP + WR
+   ∆Ec = $\sum$ W = WP + WR
                                  n
    1            1
-       mVE2 −       mVD2 = -mgh avec h = lsinβ        et VE = 0
+       mVE2 −       mVD2 = -mgh avec h = lsin$\beta$        et VE = 0
    2            2
        V2
         D
    l=
-      2gsinβ
+      2gsin$\beta$
    A.N : l=28,8m
    4.1 Appliquons le théorème de l’énergie
    cinétique entre E et M:
-   ∆Ec = ∑ W = WP + WR
+   ∆Ec = $\sum$ W = WP + WR
                                  n
    1     2−     1
        mVM          mVE2 = mgh
    2        2
-   avec h = r(1 - sinθ), r = lsinβ etVE = 0
-   ⇒ VM = 2glsinβ(1 - sinθ)
+   avec h = r(1 - sinθ), r = lsin$\beta$ etVE = 0
+   ⇒ VM = 2glsin$\beta$(1 - sinθ)
    4.2 Calcul de la réaction R :
    Appliquons la R.F.D :
-   ∑ Fext = ma
+   $\sum$ Fext = ma
    P + R = ma
    Projection sur la normale
            mgsinθ - R = man
@@ -350,26 +350,26 @@ Exercice4
 1.2       Les longueurs d’ondes pour les quelles une frange obscure est observée au point
           N : Les franges obscures sont caractérisées par une différence de
                                 λ                2ax             6
-          marche δ = (2k + 1)       soit λ =               =          µm          or 0, 4µm ≤ λ ≤ 0,8µm
+          marche δ = (2k + 1)       soit λ =               =          µm          or 0, 4µm $\leq$ λ $\leq$ 0,8µm
                                 2              D(2k + 1)       2K + 1
          6
-0,4 ≤         ≤ 0,8
+0,4 $\leq$         $\leq$ 0,8
        2K + 1
  1     2K + 1 1
-     ≤        ≤
+     $\leq$        $\leq$
 0,8      6      0,4
-3, 25 ≤ K ≤ 7
-4≤ K ≤7           K ∈ {4,5,6,7 }
+3, 25 $\leq$ K $\leq$ 7
+4$\leq$ K $\leq$7           K ∈ {4,5,6,7 }
 K                      4                         5                         6                 7
 Λ(µm)                  0,67                      0,54                      0,46              0,4
 
 2.1 L’équation du mouvement de la source A :
-      yA=acos(ωt + ϕ ) avec ω=2πN=100π rad/s et a=3.10-3m
-      Les conditions initiales : à t=0 yA=0 et V0 0 ⇒ ϕ=-π/2
-                      soit yA=3.10-3cos(100πt-π/2 )
+      yA=acos(ωt + ϕ ) avec ω=2$\pi$N=100$\pi$ rad/s et a=3.10-3m
+      Les conditions initiales : à t=0 yA=0 et V0 0 ⇒ ϕ=-$\pi$/2
+                      soit yA=3.10-3cos(100$\pi$t-$\pi$/2 )
         L’équation du mouvement du point M :
-        yM=yA(t-θ) avec θ = x/c soit yM=3.10-3cos(100πt-π/2-2πx/λ)
-       si x=0,15m, on a : yM=3.10-3cos(100πt)
+        yM=yA(t-θ) avec θ = x/c soit yM=3.10-3cos(100$\pi$t-$\pi$/2-2$\pi$x/λ)
+       si x=0,15m, on a : yM=3.10-3cos(100$\pi$t)
 2.2 Calcul des élongations aux instants t1 et t2 :
       à t1=0s yA=0m et yM=3.10-3m
       à t2=0,115s yA=-3.10-3m et yM=0m
@@ -382,7 +382,7 @@ K                      4                         5                         6    
                                                                     l d
         relation précédente étant vérifiée les spires sont jointives.
       2 La longueur l du fil conducteur : l=NC où C est la circonférence d’une spire,
-        soit C = dCx π soit l=N.dC. π A.N : l=125,7m
+        soit C = dCx $\pi$ soit l=N.dC. $\pi$ A.N : l=125,7m
 
 
 

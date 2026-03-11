@@ -245,7 +245,7 @@ avec la cétone.
     • La variation de l’énergie mécanique donne :
 
                                                  99
-   ∆Em = ∑ W(Fext ) + ∑ W(F int noncons ) = ∑ W(R) = 0
+   ∆Em = $\sum$ W(Fext ) + $\sum$ W(F int noncons ) = $\sum$ W(R) = 0
    L’énergie mécanique du système est constante et ce système est alors conservatif.
 1.2 L’expression de l’énergie mécanique :
    Em = Ec + Epp + Epe
@@ -309,7 +309,7 @@ la bobine est fermé.
 2 D’après la loi de Lenz le courant induit circule dans la tige de M vers N.
 3 Expression du flux :
 Φ = (S0 + x )B cos θ
-Avec x = V.t et θ = π
+Avec x = V.t et θ = $\pi$
 soit Φ = −S0B − Vt B
 Par identification avec l’expression
 Φ = Φ 0 + at on obtient :
@@ -328,7 +328,7 @@ Et i =     soit i = 0, 048A
              • La force motrice Fqui déplace la tige.
              • La force électromagnétique Fi induite.
 Calcul de la valeur de la force F :
-∑F = 0 ⇔P+ F+ R+ Fi = 0
+$\sum$F = 0 ⇔P+ F+ R+ Fi = 0
 Par projection sur l’axe Ox, on obtient :
 F − Fi = 0 ⇒ F = Fi = i B
 soit F   2, 3.10−3 N
@@ -379,12 +379,12 @@ x=        ⇒λ=    =
          4.10−6
 soit λ =
             k
-0, 4.10−6 ≤ λ ≤ 0, 8.10−6
+0, 4.10−6 $\leq$ λ $\leq$ 0, 8.10−6
                    4.10−6
-soit 0, 4.10−6 ≤          ≤ 0, 8.10−6
+soit 0, 4.10−6 $\leq$          $\leq$ 0, 8.10−6
                       k
    1    k       1
-⇔     ≤ ≤           ⇔ 5 ≤ k ≤ 10
+⇔     $\leq$ $\leq$           ⇔ 5 $\leq$ k $\leq$ 10
   0, 8 4 0, 4
  ⇒ k ∈ {5, 6, 7, 8, 9,10}
  On observe 6 franges brillantes au point M.

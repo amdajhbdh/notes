@@ -111,7 +111,7 @@ contre, on a représenté pour chaque satellite, les valeurs des couples (r 3, T
 vérifiée ?
 6.2 L’équation de la meilleure droite passant par les points obtenus est :
 T 2 = 3. 10 -16 r 3. En déduire la grandeur de la masse de Jupiter.
-On prend π **2 = 10 et G = 1 .10 -10 SI.
+On prend $\pi$ **2 = 10 et G = 1 .10 -10 SI.
 
 Exercice 4
 
@@ -133,7 +133,7 @@ même est alors en équilibre lorsque           . Fig1
 electromagnétique exercée sur le conducteur MN.
 En déduire le sens du courant dans le conducteur MN.
 1.1.2 Calculer l’intensité B du champ magnétique .
-1.1.3On incline le plan des rails d’un angle α =30° par
+1.1.3On incline le plan des rails d’un angle $\alpha$ =30° par
 rapport au plan horizontal. (Voir fig2). Quelle intensité
 doit avoir le champ magnétique pour que le conducteur
 MN puisse rester en équilibre sur les rails ?
@@ -162,7 +162,7 @@ Lorsqu’on augmente D de 0,5m l’interfrange devient i2=0,72mm.
 1.1Rappeler la définition de l’interfrange.
 1.2Déduire des données la valeur de D1 et celle de λ .
 2.On fixe D à 2m ; les faisceaux issus de S1 et S2 ont chacun pour angle d’ouverture
-α =0,008rad et les bords des faisceaux sont parallèles deux à deux.
+$\alpha$ =0,008rad et les bords des faisceaux sont parallèles deux à deux.
 2.1Représenter les faisceaux émis et hachurer le champ d’interférences. Déterminer la
 largeur l du champ d’interférences.
 2.2Déterminer le nombre de franges brillantes et celui de franges sombres sur l’écran.
@@ -191,7 +191,7 @@ nA= La formule brute esr : C2 H 4O 2
 4- CH3-COO-CH(CH3)-CH2-CH3 éthanoate de 1-methylpropyle
 5 CH3-COO-CH(CH3)-CH2-CH3+H2O            5CH3-COOH+ CH3-CHOH-CH2-CH3
 Exercice 2
-1.1 pH=4,18 ≠ -logCa l’indicateur se dissossie partiellement
+1.1 pH=4,18 $\neq$ -logCa l’indicateur se dissossie partiellement
 1.2 pKa = − log Ka = − log1,9.10−5 = 4,7
 L’indicateur est le vert de bromocrésol
 2.1 H 3O + + OH −  ->  2H 2O
@@ -213,7 +213,7 @@ Exercice
        GMm
 1. F =     N
         r2
-2.∑ Fex = F = ma
+2.$\sum$ Fex = F = ma
 proj/ T : 0 = maT
     dV
 m      = 0 ⇒ V = Cte et le mvt est u.
@@ -229,15 +229,15 @@ proj/ N :         =m    ⇒V=
 3.La pluproche de jupiter car la vitesse est inversement
 proportionnelle avec r
 
-        2πr        r      r3
-4.T =       = 2πr    = 2π
+        2$\pi$r        r      r3
+4.T =       = 2$\pi$r    = 2$\pi$
          V        GM      GM
-              r3   T2 4π 2
-5.T2 = 4π 2      ⇒    =    = Cte
+              r3   T2 4$\pi$ 2
+5.T2 = 4$\pi$ 2      ⇒    =    = Cte
               GM   r 3 GM
 6.1 parcequele T2est une fonction lineaire der 3
 T2 = Ar 3 = 3.10−16 r 3
-      4π 2                   4π 2
+      4$\pi$ 2                   4$\pi$ 2
 6.2        = 3.10−16 ⇒ M =            = 1,3.1027 Kg
       GM                         − 16
                            G3.10
@@ -255,11 +255,11 @@ Intensité : F = 1N
                      F       1
 P=F=i B⇒B=             =            = 0,5T
                      i   10.20.10−2
-1.1.3 ∑ Fex = T + F + P1 = 0
-T − FCosα + P Sinα = 0 ⇒ FCosα = T + P1Sinα
-                               T + P1Sinα 1 + 40.10−3 .10.0,5
-i BCosα = T + P1Sinα ⇒ B =               =                    = 0,7T
-                                 i Cosα                   3
+1.1.3 $\sum$ Fex = T + F + P1 = 0
+T − FCos$\alpha$ + P Sin$\alpha$ = 0 ⇒ FCos$\alpha$ = T + P1Sin$\alpha$
+                               T + P1Sin$\alpha$ 1 + 40.10−3 .10.0,5
+i BCos$\alpha$ = T + P1Sin$\alpha$ ⇒ B =               =                    = 0,7T
+                                 i Cos$\alpha$                   3
                                             10.20.10−2 .
                                                          2
 2.1
@@ -307,43 +307,43 @@ Longueur du champ d’interférence :
 
 
                                             161
-                              α   a  α   α  l    α
+                              $\alpha$   a  $\alpha$   $\alpha$  l    $\alpha$
 à partir du schéma : tg         =   = ,tg =    =
                               2 2d1 2    2 2d 2 2
-⎧ a      α    ⎧       a   ⎧      a
- ⎪ 2d  =       ⎪ α =        d  =
+⎧ a      $\alpha$    ⎧       a   ⎧      a
+ ⎪ 2d  =       ⎪ $\alpha$ =        d  =
  ⎪ 1 2         ⎪     d1   ⎪
                           ⎪  1
-                                 α
+                                 $\alpha$
  ⎨         ⇒⎨           ⇒⎨
- ⎪ l =α        ⎪α = l     ⎪d = l
-⎩⎪ 2d 2 2     ⎩⎪     d2   ⎩⎪ 2 α
+ ⎪ l =$\alpha$        ⎪$\alpha$ = l     ⎪d = l
+⎩⎪ 2d 2 2     ⎩⎪     d2   ⎩⎪ 2 $\alpha$
                 a l
-D = d1 + d 2 = + ⇒ Dα = a + l
-                α α
-l = Dα − a = 2.0,008 − 0,002 = 0,014m
+D = d1 + d 2 = + ⇒ D$\alpha$ = a + l
+                $\alpha$ $\alpha$
+l = D$\alpha$ − a = 2.0,008 − 0,002 = 0,014m
 2.2 Nombrede frangesbrillantes :
                   Dλ
-    −        ≤K      ≤
+    −        $\leq$K      $\leq$
         2          a   2
-    −       ≤ Ki ≤
+    −       $\leq$ Ki $\leq$
         2            2
-    −     ≤K≤−
+    −     $\leq$K$\leq$−
        2i         2i
-     − 9,72 ≤ K ≤ 9,72
-    − 10 ≤ K ≤ 10 : il y a 21 franges brillantes sur l'écran
+     − 9,72 $\leq$ K $\leq$ 9,72
+    − 10 $\leq$ K $\leq$ 10 : il y a 21 franges brillantes sur l'écran
     Nombre de franges sombres :
                      Dλ
-    −        ≤ (2K '+ 1)   ≤
+    −        $\leq$ (2K '+ 1)   $\leq$
        2              2a 2
                       i
-    − ≤ (2K '+ 1) ≤
+    − $\leq$ (2K '+ 1) $\leq$
        2             2 2
        1                     1
-     − − ≤ K' ≤ −
+     − − $\leq$ K' $\leq$ −
         2    2i          2i 2
-      − 10, 2 ≤ K ' ≤ 9, 2
-            − 10 ≤ K ' ≤ 9   : il y a 20 franges sombres sur l'écran
+      − 10, 2 $\leq$ K ' $\leq$ 9, 2
+            − 10 $\leq$ K ' $\leq$ 9   : il y a 20 franges sombres sur l'écran
 3. Il y a coïncidence entre franges brillantes lorsque : x = x’
  Dλ      Dλ '
 K   = K'      ⇒ Kλ = K ' λ '

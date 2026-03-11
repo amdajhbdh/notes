@@ -69,10 +69,10 @@ initiale.
     − 2 Le solide arrive au point C avec une vitesse nulle et continue son mouvement
         sur CD
     − 2.1 Donner l'expression de la réaction de la piste au point N en fonction de m,g et
-        α.
+        $\alpha$.
     − Si on considère que les frottements sur la partie BC sont assimilables à une force
         unique, constante f . Calculer son intensité,
-    − 3 Le solide quitte la piste pour une certaine valeur de α .
+    − 3 Le solide quitte la piste pour une certaine valeur de $\alpha$ .
 3.1 Calculer cette valeur.
 3.2 Donner les caractéristiques du vecteur vitesse V0 au point où le solide quitte la piste.
 4.1 Donner les équations paramétriques du mouvement de S dans le repère CXY.
@@ -84,10 +84,10 @@ Exercice 4
 Un solénoïde de longueur l, formé de N spires et d'inductance L.
 L'axe du solénoïde est perpendiculaire au méridien magnétique,
 1 Traversé par un courant d'intensité I, une aiguille aimantée d'axe confondu avec celui
-du solénoïde dévie d'un angle α =45°. Quelle est l'intensité du courant circulant dans le
+du solénoïde dévie d'un angle $\alpha$ =45°. Quelle est l'intensité du courant circulant dans le
 solénoïde et quel est l’angle de déviation de l'aiguille si on inverse le sens du courant,
 On donne: l=0,5m ; N=1000spires B0 =2.10-5T ;
-µ 0=4 π .10-7S.I
+µ 0=4 $\pi$ .10-7S.I
 2 L'inductance de ce solénoïde est L=20mH et sa
 résistance est négligeable. Il est traversé par un courant
 d'intensité i variable en fonction du temps selon le
@@ -180,25 +180,25 @@ Exercice3
 2   mVM2 − 21 mVA2 = wp + wR
 1
 2   mVM2 = mgRSinθ ⇒ VM = 2gRSinθ
-Au point B θ = π2 rd et VB = 2gR = 5, 5m / s
+Au point B θ = $\pi$2 rd et VB = 2gR = 5, 5m / s
 
-2.1 ∑
+2.1 $\sum$
            F = ma ⇒ P + R = ma
 
 En projetant sur l’axe n’n on trouve :
                                          VN2
-PSinα − R = ma n              or a n =
+PSin$\alpha$ − R = ma n              or a n =
                                           r
                         VN2
-R = mgCosα − m
+R = mgCos$\alpha$ − m
                          r
 L’expression de VN
 1
 2   mVN2 − 12 mVC2 = wp + wR
 1
-2   mVN2 = mgr(1 − Cosα)
-VN2 = 2gr(1 − Cosα)
-R = mg(3Cosα − 2)
+2   mVN2 = mgr(1 − Cos$\alpha$)
+VN2 = 2gr(1 − Cos$\alpha$)
+R = mg(3Cos$\alpha$ − 2)
                                                      14
 1.3 Calcul de f :
      1
@@ -207,28 +207,28 @@ R = mg(3Cosα − 2)
      − 12 mVB2 = −f .BC ⇒ f =             = 0, 75N
                                      2BC
 3.1 Le corps quitte la trajectoire lorsque R = 0 ce
-qui donne : 3Cosα − 2 = 0 ⇒ Cosα = 3 ∴ α = 48°
+qui donne : 3Cos$\alpha$ − 2 = 0 ⇒ Cos$\alpha$ = 3 ∴ $\alpha$ = 48°
                                        2
 
 
 
 3.2 Les caractéristiques de Vo
 Le sens : le sens du mvt
-La direction : tangentielle avec la trajectoire au point C telle que (Vo , Cx) = α = 48°
-L’intensité : V0 = 2gR(1 − Cosα) = 3, 2m / s
+La direction : tangentielle avec la trajectoire au point C telle que (Vo , Cx) = $\alpha$ = 48°
+L’intensité : V0 = 2gR(1 − Cos$\alpha$) = 3, 2m / s
 4.1 Le cors est soumis à son poids seulement
-∑ F = ma ⇒ P = ma
+$\sum$ F = ma ⇒ P = ma
 a=g                                   (1)
 En projetant suivant Cx on trouve : a x = 0 ⇒ x = V0 x t + x 0              et à t = 0
-{ xV00=x =RSin α
-           V0Cosα ⇒ x = V0 Cosα.t + RSin α
+{ xV00=x =RSin $\alpha$
+           V0Cos$\alpha$ ⇒ x = V0 Cos$\alpha$.t + RSin $\alpha$
 
                                                a y = −g ⇒ y = − 21 gt2 + V0 y t + y0
 En projetant suivant Cy on trouve :
-A t=0      {   y0 =−R(1−Cosα )
-               V0 y =−V0Sinα
+A t=0      {   y0 =−R(1−Cos$\alpha$ )
+               V0 y =−V0Sin$\alpha$
 
-           y = − 12 gt2 − V0Sinαt − R(1 − Cosα)
+           y = − 12 gt2 − V0Sin$\alpha$t − R(1 − Cos$\alpha$)
 D’où
                    {   x=2,14t+1,1
            AN : y=−5t2−2,5t−0,5 (3)
@@ -250,9 +250,9 @@ l’équation de la trajectoire −1,1xD2 + 1, 3xD + 0, 9 = 0 la résolution de 
 4.2 Calcul de la vitesse avec laquelle arrive le corps au sol :En choisissant l’origine des
 énergies potentielle la surface de la terre,on trouve :
 1
-2   mVD2 = 12 mV02 + mgRCosα
+2   mVD2 = 12 mV02 + mgRCos$\alpha$
 
-⇒ VD = V02 + 2gRCosα = 5, 5m / s
+⇒ VD = V02 + 2gRCos$\alpha$ = 5, 5m / s
 
 
 
@@ -262,10 +262,10 @@ l’équation de la trajectoire −1,1xD2 + 1, 3xD + 0, 9 = 0 la résolution de 
 1.Calcul de l’intensité qui traverse la bobine
 
         Bs                    N
-tan α =    , Bs = µ 0 nI = µ 0 I
+tan $\alpha$ =    , Bs = µ 0 nI = µ 0 I
        BH                     L
-   N                       B .L. tan α.
-µ 0 I = BH . tan α ⇒ I = H
+   N                       B .L. tan $\alpha$.
+µ 0 I = BH . tan $\alpha$ ⇒ I = H
    L                           µ 0N
 A.N : I = 7, 96.10−3 A
 Si on change le sens du courant l’eguille devit dans le sens opposé avec un angle de 45°

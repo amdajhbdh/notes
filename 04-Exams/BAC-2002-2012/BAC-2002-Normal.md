@@ -34,10 +34,10 @@ Exercice 1
   restant en solution est      mol/L                   10-
                                                         2
   de       la      forme:
-                      αVO 2
+                      $\alpha$VO 2
    [ H 2 O2 ] = C −
                       V .Vm
-   Préciser la valeur de α.
+   Préciser la valeur de $\alpha$.
    2-2 Tracer la courbe [H2O2] = f(t) . Echelle sur l'axe des abscisses 1 cm représente 3
    min, sur l'axe des ordonnés 2Cm représente 10-2 mol/L
    2-3 Donner la définition de la vitesse instantanée de disparition du peroxyde
@@ -171,7 +171,7 @@ D ' aprés l ' équation bilan :                       =
 (n H2O2 )d = 2 VOm2           , (n H2O2 )r = (n H2O2 )i − 2 VOm2
 En divisant les membres de l ' équation par V on trouve
                       2 VO2
-[H2O2 ]r = C − V .V ⇒ α = 2
+[H2O2 ]r = C − V .V ⇒ $\alpha$ = 2
                        m
 
 2.2 Graphe de [ H 2 O2 ] = f (t )
@@ -202,7 +202,7 @@ Exercice2
 La valeur du pH : pH =-logCa = 1
  2 .L’équation bilan de la réaction de l’amine avec l’eau :
 R-NH2 +H2O            R-NH3+ +OH-
-3. Pour démontrer que la réaction est limité,on démontre que : pH ≠ 14 + logCb
+3. Pour démontrer que la réaction est limité,on démontre que : pH $\neq$ 14 + logCb
 Ce qui est vérifié.
 Pour préparer une solution tampon on mélange na mol d’un acide fort avec nb mol
 d’une base faible de telle sorte que nb =2na.
@@ -238,12 +238,12 @@ Exercice 3
 
 1.La condition d’équilibre :
     ->         ->     ->     ->       -> 
-∑ F = 0 ⇔ P+ T+ R = 0
+$\sum$ F = 0 ⇔ P+ T+ R = 0
 En projetant sur l’axe ox on trouve : 0 + 0 + T = 0 ⇒ K∆l = 0 ∴ ∆l = 0
 Le ressort est ni comprimé ni tendu.
                                                   7
                                                   ->     ->       ->     ->      -> 
-2.L’equation différentielle du mouvement : ∑ F = 0 ⇔ P+ T+ R = ma
+2.L’equation différentielle du mouvement : $\sum$ F = 0 ⇔ P+ T+ R = ma
                                                                                      K
 En projetant sur l’axe ox on trouve : 0 + 0 − T = ma ⇒ Kx + ma = 0 d’où a +            x=0
                                                                                      m
@@ -260,11 +260,11 @@ A t= 0
                                     m
 
 
-  ⎧⎪ϕ=π2 rd
+  ⎧⎪ϕ=$\pi$2 rd
  ⇒⎨Xm=5.10−3 m
    ⎪⎪⎩
 D’où l’équation devient :
-                          π
+                          $\pi$
 x = 5.10−3 Cos(6, 25t +     )
                           2
 3.1 L’expression de la force électromotrice induite :Soit S0 la surface du cadre
@@ -276,18 +276,18 @@ est
             dϕ        dx
 D’où e = −     = −NBl     = −NBlV
             dt        dt
-                  π
+                  $\pi$
 V = −x m ωSin(ωt + ) soit
                   2
-                       π
+                       $\pi$
 ⇒ e = NBlX m ωSin(ωt + )
                        2
 3.2
-              π
+              $\pi$
 e = em Sin(ωt +  )
                2           et graphiquement e m = 63mV
 em = NBlXm ω = 62, 5mV
-                2π
+                2$\pi$
 La période T =       1S et graphiquement T = 1S
                  ω
 3.3 Si on relie les extrémités du cadre, un courant induit circule dans le circuit
@@ -309,7 +309,7 @@ oM⎨y0=0 , Vo ⎨V00xy=00
 La relation fondamentale donne :
                                              8
      ->                      -> 
-∑F = ma ⇔F = ma
+$\sum$F = ma ⇔F = ma
                   ->                 -> 
 
 
@@ -346,13 +346,13 @@ Le mouvement s’effectue dans le plan ABCD car az = 0 , Vz = 0
 y = 6,65x2
 1.3 Les coordonnées du points de sortie S1
 Il y a deux cas :
-a) y ≤5Cm , x =10Cm ne vérifie pas l’équation
-b) Y =5Cm       , X≤ 10Cm : y = 6,65x2  -> x =8,7Cm
+a) y $\leq$5Cm , x =10Cm ne vérifie pas l’équation
+b) Y =5Cm       , X$\leq$ 10Cm : y = 6,65x2  -> x =8,7Cm
 1.4.Les coordonnées du point de sortie de S2
  -> 
 E' = E ' i , V0 = V0 i
      ->                      -> 
-∑F = ma ⇔ F = ma
+$\sum$F = ma ⇔ F = ma
                   ->                 -> 
 
 
@@ -388,11 +388,11 @@ L’équation de la trajectoire circulaire :
 (x − x c )2 + (y − y c )2 = R 2 avec y c = R , x c = 0
 ⇒ x2 + (y − R)2 = R 2
 2.3Les coordonnées du point de sortie S3 :il ya deux cas
-a) y ≤ 5Cm , x = 10Cm ne vérifie pas l’équation
+a) y $\leq$ 5Cm , x = 10Cm ne vérifie pas l’équation
 
 
                                                         9
-     y = 5Cm , x ≤ 10Cm / x = R 2 − (y − R)2
+     y = 5Cm , x $\leq$ 10Cm / x = R 2 − (y − R)2
 b)                                                 vérifie l’équation
      A.N : x = 8, 3Cm
 3.Les coordonnées de S4 :
@@ -402,7 +402,7 @@ S4 (x = 10Cm, y = 0)
 La vitesse de sortie V2 du point S4 : V2 =V0 = 400Km/s
 Exercice 5
 1.calcul du rapport : U/I , Ue/Ie
-D1 solénoïde : Ue/Ie = 3,75 Ω ; U/I =2,5 Ω  -> Ue/Ie ≠ U/I
+D1 solénoïde : Ue/Ie = 3,75 Ω ; U/I =2,5 Ω  -> Ue/Ie $\neq$ U/I
 D2 un dipôle ohmique : Ue/Ie = 4,8 Ω ; U/I = 4,8 Ω  -> Ue/Ie =U/I
 D3 pas de courant :c’est un condensateur
 Ue/Ie =2400 Ω ; U/I ->  ∞
@@ -428,7 +428,7 @@ Ue/Ie =2400 Ω ; U/I ->  ∞
         Pour D1 :                  r
         Pour D2 : tan(ϕu − ϕi ) = 0 ⇒ (ϕu − ϕi ) = 0
         Pour D3 : tan(ϕu − ϕi ) = −∞ ⇒ (ϕu − ϕi ) = − 2 rd
-                                                           π
+                                                           $\pi$
 
 
         4.1 Sur la voie 1 on visualise u(t) et sur la voie2 on visualise uR(t) ou i(t) parce
@@ -436,13 +436,13 @@ Ue/Ie =2400 Ω ; U/I ->  ∞
         4.2 Le phénomène observé est le phénomène de résonance
                                                1
                                       f0 =         = 426Hz
-        Calcul de la fréquence :             2π LC
+        Calcul de la fréquence :             2$\pi$ LC
         Calcul de I0 :
                  Ue
          I0 =       = 3, 3A
                 R+r
         4 .3 Calcul du facteur de qualité : Q
-            2πLN 0
+            2$\pi$LN 0
         Q=          , A.N : Q = 0, 38
              L+r
                             N         N

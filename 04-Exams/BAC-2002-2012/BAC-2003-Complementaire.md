@@ -43,7 +43,7 @@ du pH d'une solution S2 de cet acide donne 3,4.
 2.1 Ecrire l'équation de la réaction de cet acide avec l'eau. Calculer les concentrations
 des différentes espèces chimiques présentes dans la solution et en déduire la
 concentration initiale de la solution S2.                                                    p
-2.2 Calculer le coefficient d'ionisation α de cet acide. (0,5pt)
+2.2 Calculer le coefficient d'ionisation $\alpha$ de cet acide. (0,5pt)
 3. On mélange le volume v1 = 20cm3 de la solution S1 avec un volume v2 = 40cm3 de
 la solution S2.
 3.1 Quel est le pH de ce mélange? Comment appelle-t-on ce genre de solution? Quelle
@@ -175,7 +175,7 @@ Ka =                               ⇒ [CH 3 − COOH ] =
 Conservation de la matière :
 C a = [CH 3 − COOH ] + [CH 3 − COO − ]
                                    [CH 3 − COO − ]
-C a = 1, 04.10−2 mol / L , α =                       = 3, 8%
+C a = 1, 04.10−2 mol / L , $\alpha$ =                       = 3, 8%
                                         CA
 3.1
  nb = C bV1   , na = C aV2
@@ -243,7 +243,7 @@ mg − K ∆lo = 0
                                                                       P,        T
 2/étude du mvt : les forces appliquées sont :
      ->                    ->     -> 
-∑F
+$\sum$F
                  ->                   -> 
         ext
             = m a ⇒ P+T = m a                                             (1)
@@ -271,7 +271,7 @@ A t= 0
 A.N : ⎢ tag ϕΠ=1         Zm =         , Z m = 2 2.10 − 2 m
        ⎢ ϕ = 4 rd               Cos ϕ
        ⎣
-                                     π
+                                     $\pi$
 D’ou l’équation Z = 2 2.10−2Cos(10t + )
                                           4
 3.1 en appliquant la théorème d’énergie cinétique on trouve
@@ -324,7 +324,7 @@ Le mvt des ions est r.u                                                 B
 
 2.2
         ->                    -> 
- ∑F = m a ⇒ F = m a
+ $\sum$F = m a ⇒ F = m a
                      ->              -> 
           ext             m
                  -> 
@@ -360,19 +360,19 @@ A1A2 = 3, 34Cm
 
 Exercice 5 :
 
-1. YA = aCos(2πNt + ϕ)
+1. YA = aCos(2$\pi$Nt + ϕ)
 
 
                                                       34
-                                         π
+                                         $\pi$
 à t = 0 {VYA0 =00 ⇒ {Cos ϕ=0
                      Sinϕ≺0 ⇒ ϕ = −        rd
                                          2
-                π
-YA = aCos(2πNt − ); yM = yA (t − θ)
+                $\pi$
+YA = aCos(2$\pi$Nt − ); yM = yA (t − θ)
                 2
-                   2πx π
-⇒ yM = aCos(2πNt −     − )
+                   2$\pi$x $\pi$
+⇒ yM = aCos(2$\pi$Nt −     − )
                      λ    2
     V
 λ=    = 0, 2m
@@ -392,40 +392,40 @@ K ∈ {1,2, 3, 4}
                                100Hz, 50Hz, 33, 3Hz ,25Hz
 Les valeurs de N e sont
 2.2 Ne = 99Hz :mouvement apparent ralenti dircet
-La vitesse apparente : Va = λγ = 0, 2m / s
+La vitesse apparente : Va = λ$\gamma$ = 0, 2m / s
 3.
 ⎧
 ⎪Y1 =a Cos (wt −
-                 2 πd1
+                 2 $\pi$d1
 ⎪                      )
-⎨Y = aCos (wt −2 πλd2 ) YM = Y1 + Y2
+⎨Y = aCos (wt −2 $\pi$λd2 ) YM = Y1 + Y2
 ⎪
 ⎪
 ⎩2                λ
-                         2πd1               2πd2
+                         2$\pi$d1               2$\pi$d2
 YM = aCos(wt −                ) + aCos(wt −      )
                            λ                  λ
-                     π(d − d1 )             π(d2 + d1 )
-YM = 2aCos( 2                  )Cos(2πNt −             )
+                     $\pi$(d − d1 )             $\pi$(d2 + d1 )
+YM = 2aCos( 2                  )Cos(2$\pi$Nt −             )
                          λ                      λ
 Aux points d’amplitudes maximales
-                 π(d2 − d1 )
+                 $\pi$(d2 − d1 )
 A = 0 ⇒ 2aCos(               )= 0
                      λ
                    λ
 d2 − d1 = (2K + 1)
                    2
-−d ≤ d2 − d1 ≤ d
+−d $\leq$ d2 − d1 $\leq$ d
         λ
-−d ≤ (2K + 1)
-          ≤d
+−d $\leq$ (2K + 1)
+          $\leq$d
         2
  d 1     d 1
-− − ≤K ≤ −
+− − $\leq$K $\leq$ −
  λ 2     λ 2
 Calcul de λ :
      V
-λ=     = 0,1m ∴ −1, 7 ≤ K ≤ 0, 7             ∴ K = −1; 0    il y a deux points au repos
+λ=     = 0,1m ∴ −1, 7 $\leq$ K $\leq$ 0, 7             ∴ K = −1; 0    il y a deux points au repos
      N
 
 

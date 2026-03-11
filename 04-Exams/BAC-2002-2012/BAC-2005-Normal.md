@@ -25,9 +25,9 @@ l'eau.(0.5pt)
 calculer sa valeur.(0,5pt)
 1.3 Définir le coefficient d'ionisation હ de l'acide et calculer sa valeur.(0,5pt)
 1.4 Montrer que l'expression du pKa de cet acide peut s'écrire sous la forme
-                  α
+                  $\alpha$
 pKa = pH − log
-                 1−α
+                 1−$\alpha$
 Calculer la valeur du pKa.(0,5pt)
 2 On prépare une solution S'a en diluant un volume Va=10mL de cet acide ; en lui
 ajoutant un volume Ve=30mL d'eau. Préciser le matériel et les produits utilisés, décrire
@@ -63,7 +63,7 @@ des produits organiques.(0,5pt)
 On donne : C =12g/mol; H = 1 g/mol; O = 16g/mol
 Exercice 3
 Un solide ponctuel de masse m=200g glisse sur un plan OA
-incliné d'un angle α=60° par rapport à la verticale. Il part du
+incliné d'un angle $\alpha$=60° par rapport à la verticale. Il part du
 point O origine de l'axe orienté X'X avec une vitesse initiale
 de valeur V 0 . Au cours de son mouvement, S subit une force
 de frottement f . Un dispositif approprié permet de mesurer
@@ -85,7 +85,7 @@ fonction de x en prenant pour référence de l'énergie potentielle le plan hori
 à 0,5 m en dessous du point O.
 5.2 Sur un même graphique, représenter les courbes Ec= f(x) et
 Ep= g(x) pour les valeurs de x telles que
-0 ≤ x ≤ 1m. (0,5pt)
+0 $\leq$ x $\leq$ 1m. (0,5pt)
 5.3 En déduire l'Expression de E-2 en fonction de x puis tracer la
 courbe E=h(x). On donne g=10m/s . (0,5pt)
 5.4 Le solide quitte le plan incliné en A tel que OA=3m.
@@ -112,8 +112,8 @@ après avoir précisé son sens. Donner l'expression du rayon R1, de la trajecto
 fonction de m1 ; e ; B ; E et d. (1pt)
 
                                           54
-2.2 Définir la déviation angulaire α et calculer sa valeur sachant que O'A1=23.04cm et que
-OO'≠O'A1. (0.75pt)
+2.2 Définir la déviation angulaire $\alpha$ et calculer sa valeur sachant que O'A1=23.04cm et que
+OO'$\neq$O'A1. (0.75pt)
 3 Dans une deuxième expérience68 on 2+place A
                                                dans
                                                  2+
@@ -159,7 +159,7 @@ supposera que la fréquence du courant a une valeur maximale de 200Hz .(0.5pt)
                                               Corrigé
 Exercice 1
 1.1 pH =3,1 ; C = 10-2 mol/L
--logC =2 ≠ pH  ->  C6H5-COOH (acide faible)
+-logC =2 $\neq$ pH  ->  C6H5-COOH (acide faible)
 L’équation de la réaction de cet acide avec l’eau :
 C6H5-COOH + H2O           C6H5-COO- + H3O+
 1.2 Calcul de la constante d’acidité:
@@ -179,9 +179,9 @@ C = [C6 H5 − COOH ] + [C6 H5 − COO− ]
            (7, 94.10−4 )2
 ∴ Ka =                    = 6, 85.10−5 mol / L
              9,21.10−3
-1.3 définition de α :
+1.3 définition de $\alpha$ :
     [C6 H5 − COO− ]
-α=                        A.N : α = 7, 94%
+$\alpha$=                        A.N : $\alpha$ = 7, 94%
               C
 1.4
                  [C6 H5 − COO− ]
@@ -191,14 +191,14 @@ pH = pKa + log
 ⇒ pKa = pH − log 6 5
                    [C6 H5 − COOH]
 or
- [C6 H5 − COO− ] = Cα       [C6 H5 − COOH] = C − αC
+ [C6 H5 − COO− ] = C$\alpha$       [C6 H5 − COOH] = C − $\alpha$C
 D’où
-                  Cα
+                  C$\alpha$
  pKa = pH − log
-                C − αC
-                 α
+                C − $\alpha$C
+                 $\alpha$
  pKa = pH − log      , A.N : pKa = 4,2
-                1− α
+                1− $\alpha$
 2/ Les produits et le matériel nécessaire pour préparer la solution S’a
 Matériels : Pipette ; fiole jauge de(40mL) ;
 Produits :solution mère ; eau distillée,
@@ -301,9 +301,9 @@ h=              = 8 m / s2
 2.
 EC − EC 0 = wP + wR N + wf
 1
-2   m(V2 − V2 0 ) = mgxCosα − f .x
+2   m(V2 − V2 0 ) = mgxCos$\alpha$ − f .x
                          f
-V2 = 2(gCosα −             )x + V2 0
+V2 = 2(gCos$\alpha$ −             )x + V2 0
                          m
 
 
@@ -317,7 +317,7 @@ V2 = 2(gCosα −             )x + V2 0
 ⎪
 ⎪
 ⎩
-         α−
+         $\alpha$−
             m
               )= 8
 
@@ -334,7 +334,7 @@ E px = mgz = 12 mV2
     V2
 z=      = 0,25m
      2g
-Le plan de référence est situe à l’altitude h = xCosα + z en dessous du plan horizontal
+Le plan de référence est situe à l’altitude h = xCos$\alpha$ + z en dessous du plan horizontal
 passant par O
 h = 0, 25 + 0,25 = 0, 5m
 5.1
@@ -344,9 +344,9 @@ EC =      or V2 = 8x + 1
        m
 ⇒ EC = (8x + 1) = 0, 8x + 0,1
         2
-EP = mgz   or z = h − xCosα
-⇒ EP = mg(h − xCosα)
-EP = −mgCosα.x + mgh          or h = 0, 5m
+EP = mgz   or z = h − xCos$\alpha$
+⇒ EP = mg(h − xCos$\alpha$)
+EP = −mgCos$\alpha$.x + mgh          or h = 0, 5m
 EP = −x + 1
 5.2 la représentation graphique de : EC (x) ;
 E P (x)
@@ -355,12 +355,12 @@ E P (x)
 -Sens : celui du mvt
 -Direction : OA
 -Norme :VA= 5m/s
-5.4.2 Conditions initiales : xo= 0ASinα , yo = -0ACosα ,Vox=VASinα,
-Voy=-VACosα
+5.4.2 Conditions initiales : xo= 0ASin$\alpha$ , yo = -0ACos$\alpha$ ,Vox=VASin$\alpha$,
+Voy=-VACos$\alpha$
 P = ma
 1/(0X) : o = ma x ⇒ a x = 0
-Vx = Cst , V0 x = VASinα
-x = VASinα.t + OA.Sinα
+Vx = Cst , V0 x = VASin$\alpha$
+x = VASin$\alpha$.t + OA.Sin$\alpha$
 A.N : x = 4, 3t + 2, 6
 
 
@@ -368,7 +368,7 @@ A.N : x = 4, 3t + 2, 6
 
                                              59
 1/(OY) : −mg = ma y ⇒ a y = −g = Cst
-y = − 12 gt2 − VA Sinα.t − OA.Sinα
+y = − 12 gt2 − VA Sin$\alpha$.t − OA.Sin$\alpha$
 A.N : y = −5t2 − 2, 5t − 1, 5
 Exercice 4
 1.1 Fe = qE or q       0 ⇒ Fe et E meme sens
@@ -412,13 +412,13 @@ Vo =        ⇒ R1 = 1
          1 Edm1
 ⇒ R1 =
          B   e
-2.2 déviation magnétique α :
+2.2 déviation magnétique $\alpha$ :
 
-α = (V,Vo )
+$\alpha$ = (V,Vo )
        O ' A1
-Sinα =        = 0, 86
+Sin$\alpha$ =        = 0, 86
         R1
-∴α     60°
+∴$\alpha$     60°
 3.1
     1 E.d.m1        1 E.d.m 2
 R1 =         , R2 =
@@ -459,11 +459,11 @@ Echelle : 0,5  ->  10V
                                    61
 Calcul de ϕ :
 OA2 = OA1 + A1A2 ⇒ A1A2 = OA2 − OA1
-            2           2            2                        π
+            2           2            2                        $\pi$
 ⇒ A1A2          = OA2       + OA1 − 2 OA1 . OA2 Cos(ϕ +         )
                                                               2
 U b2 = U2 + UC2 + 2U.UC .Sinϕ
-           U2b − U2 − UC2             π
+           U2b − U2 − UC2             $\pi$
 Sinϕ =                    = 0, 5 ∴ ϕ = rd
                2U.UC                  6
 Calcul de r :
@@ -473,7 +473,7 @@ Cosϕ =     ⇒ r = ZCosϕ
 A.N : r = 519, 6 520Ω
                                 1
 2.1 LCω20 = 1 ⇒ L =                   = 0, 51H
-                             4π N20 C
+                             4$\pi$ N20 C
                                  2
 
 

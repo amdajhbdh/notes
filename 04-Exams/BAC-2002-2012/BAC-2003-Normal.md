@@ -73,7 +73,7 @@ fil inextensible de masse négligeable et de
 longueur l = OA= 0,5m, mobile autour d'un axe
 A passant par son extrémité supérieure O. On
 fixe à son extrémité A une bille métallique ponctuelle de masse m = 20g. (fig1)
-1 Le pendule est écarté d'un angle α = 60° par rapport à sa position d'équilibre, puis
+1 Le pendule est écarté d'un angle $\alpha$ = 60° par rapport à sa position d'équilibre, puis
 lâché sans vitesse initiale.
 Calculer la vitesse, l'énergie cinétique et l'énergie mécanique du système au passage
 par la position d'équilibre M0.
@@ -109,16 +109,16 @@ A l'instant t = 0, le triangle pénètre par le point O dans un
 champ magnétique uniforme B horizontal et
 perpendiculaire au plan de la figure (voir fig4).
 1 Donner l'expression de la surface S de la partie immergée dans le champ
-magnétique B en fonction du temps t de la vitesse V et de l'angle α . (0,75pt)
-2 Ecrire l'expression du flux magnétique en fonction de V, t, B et α .
-3 Trouver l'expression de la f.e.m induite en fonction de V, t, B et α . En déduire
+magnétique B en fonction du temps t de la vitesse V et de l'angle $\alpha$ . (0,75pt)
+2 Ecrire l'expression du flux magnétique en fonction de V, t, B et $\alpha$ .
+3 Trouver l'expression de la f.e.m induite en fonction de V, t, B et $\alpha$ . En déduire
 l'expression de l'intensité i du courant induit si la résistance du circuit est r.
 4 Lorsque la spire pénètre complètement dans le champ magnétique, on l'immobilise et on
 fait varier la valeur B du champ
 magnétique en fonction du
 temps comme l'indique la
 courbe suivante:
-4.1 Donner l'expression de la f. e. m en fonction de α et de dB/dt. (0,75pt)
+4.1 Donner l'expression de la f. e. m en fonction de $\alpha$ et de dB/dt. (0,75pt)
 4.2 En déduire l'expression de l'intensité i du courant induit en fonction du temps.
 Représenter i en fonction du temps. On donne r =2Ω.(1pt)
 Exercice 5
@@ -140,7 +140,7 @@ Pour la fréquence N = 50Hz, le voltmètre indique la même
 valeur de la tension efficace aux bornes de la bobine B et
 aux bornes de la source S.
 2.1 Calculer la valeur de l'inductance L de la bobine B.               (0,5pt)
-2.2 Sachant que u = 40 2cos100πt , donner l'expression de l'intensité instantanée i en
+2.2 Sachant que u = 40 2cos100$\pi$t , donner l'expression de l'intensité instantanée i en
 fonction du temps t.                                                  (0,75pt)
 
                                             20
@@ -248,9 +248,9 @@ rapport au carbone fonctionnel
 Exercice 3
 1-
                   ->     1
-∆Ec = ∑W Fex ⇒          mVM2 0 = mgl (1 − Cos α)
+∆Ec = $\sum$W Fex ⇒          mVM2 0 = mgl (1 − Cos $\alpha$)
                       2
-VM 0 = 2gl (1 − Cos α)
+VM 0 = 2gl (1 − Cos $\alpha$)
 A.N : VMo = 2, 24m / s
       1
 EcMo =  mVMo2
@@ -261,7 +261,7 @@ EmMo = EcMo − mgl
 A.N : EmMo = −50.10−3 J
 2 - On considère que C le point le plus élevé de la trajectoire
        ->                ->     -> 
-∑ Fex = m a ⇒ P + T c = m a
+$\sum$ Fex = m a ⇒ P + T c = m a
               ->                   -> 
 
 
@@ -280,9 +280,9 @@ Appliquons le théorème de l’énergie cinétique entre M0 et C
 V c −V o = −4gl
 V 2c = V 2o − 4gl
        V2
-Tc = m( o − 5g ) or Tc ≥ 0
+Tc = m( o − 5g ) or Tc $\geq$ 0
         l
-⇒ Vo min ≥ 5gl ;V0 min = 5gl
+⇒ Vo min $\geq$ 5gl ;V0 min = 5gl
 A.N : V 0 min = 5m / s
 3.1
 
@@ -291,7 +291,7 @@ A.N : V 0 min = 5m / s
 
                                                   23
       -> 
-∑ Fex = m a
+$\sum$ Fex = m a
                        -> 
 
 
@@ -349,7 +349,7 @@ A.N : q = 5.10 C ⇒ q = −5.10−6C
 
 
       ->                                   ->     ->     ->          -> 
-∑F
+$\sum$F
                            ->                           -> 
          ext
                = m a = P + T = 0 or a = 0(1)
@@ -377,14 +377,14 @@ On remplace dans (3) t par sa valeur on trouve
 y = 0, 9x − 0, 2
 
 Exercice 4
- 1° S = x2tgα          ,       x= Vt  ->  S = V2t2tagα
-2°    Φ = B.S               ->  Φ = BV2t2tagα
+ 1° S = x2tg$\alpha$          ,       x= Vt  ->  S = V2t2tag$\alpha$
+2°    Φ = B.S               ->  Φ = BV2t2tag$\alpha$
                            dΦ
-                              ⇒ e = −2BV 2t.tag α
+                              ⇒ e = −2BV 2t.tag $\alpha$
                            e =−
                            dt
 3°
-                         e      −2BV 2t.tag α
+                         e      −2BV 2t.tag $\alpha$
                      i = ⇒i =
                          r            r
                                     dϕ            a2 3
@@ -434,13 +434,13 @@ A.N : r1 = 20Ω
 De la relation (1) on trouve :
                                               1     U
                                      L1 =          ( b )2 − r12 = 0, 25H
-                                            2 πN     I
+                                            2 $\pi$N     I
  2-1 en utilisant la construction de Fresnel Ub = U
                                                  1 2
                 r 2 + (Lw )2 = r 2 + (Lw −         )
                                                 Cw
                         1
-              ⇒L=           et w = 2πN
+              ⇒L=           et w = 2$\pi$N
                       2Cw 2
               A.N : L = 1H
               i = I mCos(wt − ϕ)

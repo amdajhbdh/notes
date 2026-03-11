@@ -88,3 +88,23 @@ aliases: [Chemistry Hub]
 ---
 
 *Chemistry: Where physics meets biology*
+
+### Advanced Aqueous Solutions (NEW)
+- [[Buffer-Solutions]]
+- [[Titration-Advanced]]
+- [[Polyprotic-Acids]]
+- [[Solubility-Equilibria]]
+- [[Solutions-Aqueuses-Avancees]]
+
+### Practice Sets - Advanced
+- [[Buffer-Exercises]]
+- [[Titration-Problems]]
+- [[Polyprotic-Exercises]]
+- [[Solubility-Exercises]]
+- [[Solutions-Aqueuses-Exercices]]
+
+### Moha Série 2024-2025 (NEW)
+- [[Moha-Serie-INDEX]] - 13 exercices avancés
+- [[Moha-Ex10-Dosage-Acide]] - Courbes titration
+- [[Moha-Ex11-Dosages-Compares]] - Comparaisons
+- [[Moha-Ex12-Amine]] - Organique + acide-base

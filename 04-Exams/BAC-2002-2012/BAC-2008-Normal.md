@@ -80,7 +80,7 @@ régulièrement sur une longueur l=40cm.
 caractéristiques (direction, sens, valeur) du vecteur champ magnétique crée à
 l'intérieur de la bobine. Faire un schéma sur lequel on
 précisera le sens du courant et du champ magnétique. On
-donne µ 0 = 4 π .10-7 u.S.I.                                                               (1p
+donne µ 0 = 4 $\pi$ .10-7 u.S.I.                                                               (1p
 1.2Calculer le coefficient d'auto inductance de la bobine.                               (0.5p
 2 L'intensité du courant dévient nulle pendant ∆t=0,05s.
 2.1 Quelle est la variation du flux à travers le solénoïde,
@@ -179,7 +179,7 @@ Cb =     or n =   ⇒ Cb =
        V        M        MV
 Avec M=82g/mol Soit Cb=10-1mol/L.
 2.2 Nature de la solution basique :
-pH=8,9 on a pH≠14+logCb=13 donc la base est faible.
+pH=8,9 on a pH$\neq$14+logCb=13 donc la base est faible.
 2.3 L’équation de la réaction :
 CH 3COONa ⎯⎯⎯
            H 2O
@@ -201,26 +201,26 @@ an=v2/r
                                        GM A
 an=v2/r et an=F /m ⇒ V =
                                         r
-                                                         2π         V        r      2πr
-1.3 Expression de V en fonction de T et r :         T=      avec ω = ⇒ T = 2π ⇒ V =
+                                                         2$\pi$         V        r      2$\pi$r
+1.3 Expression de V en fonction de T et r :         T=      avec ω = ⇒ T = 2$\pi$ ⇒ V =
                                                                     r        V       T
                                                          ω
                            r3
 Déduction de la relation 2 = kM A
                            T
               r         GM A             r
-On a T = 2π V   orV =         ⇒ T = 2πr
+On a T = 2$\pi$ V   orV =         ⇒ T = 2$\pi$r
                          r              GM A
-        4π 2r 3    r 3 GM A
+        4$\pi$ 2r 3    r 3 GM A
 ⇔ T2 =          ⇒      =      = kM
         GM           2      2      A
-             A     T     4π
+             A     T     4$\pi$
           G
 avec k =
-         4π2
+         4$\pi$2
 2.1 Calcul de la période du satellite :
             r
-T = 2πr         A.N : T≈ 86662s ≈24h.
+T = 2$\pi$r         A.N : T≈ 86662s ≈24h.
            GM T
 La période étant égale à celle de la terre, si le satellite tourne dans le plan de
 l’équateur et dans le même sens de rotation de la terre, il est dit géostationnaire.
@@ -284,7 +284,7 @@ Exercice 5
 A la résonance l’intensité efficace est max soit d’après la courbe N0=100Hz.
                                                                   1
 Déduction de l’inductance : A la résonance : LCω02 = 1 ⇒ L =
-                                                               4π N 02C
+                                                               4$\pi$ N 02C
                                                                  2
 
 
@@ -305,8 +305,8 @@ Soit     =
        R2 2
 4.1 Nature du circuit :
                                              1      1
-Comme Lω1 = 0, 25x2πx72 = 36π et               = -5       ; 69, 44π le circuit est capacitif car
-                                            Cω1 10 x2πx72
+Comme Lω1 = 0, 25x2$\pi$x72 = 36$\pi$ et               = -5       ; 69, 44$\pi$ le circuit est capacitif car
+                                            Cω1 10 x2$\pi$x72
           1
 Lω1 <        .
          Cω1
@@ -315,8 +315,8 @@ Donc uR est en avance de phase sur u d’où la courbe C2 correspond à uR .
 
 
 4.2 Le facteur de puissance cosϕ :
-                                   ∆t     1 π          1
-D’après les courbes ϕ = 2π            = 2π = d’où cosϕ= .
+                                   ∆t     1 $\pi$          1
+D’après les courbes ϕ = 2$\pi$            = 2$\pi$ = d’où cosϕ= .
                                    T      6 3          2
 4.3 Calcul de R1 :
                   1                    1

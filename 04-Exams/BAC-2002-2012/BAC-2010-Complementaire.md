@@ -62,7 +62,7 @@ molaire du diiode à différentes dates (voir courbe ci-contre).
     de disparition des ions iodure.
 
 Exercice 3
-On néglige le champ magnétique terrestre et on donne : µ 0 = 4π.10 −7 S.I
+On néglige le champ magnétique terrestre et on donne : µ 0 = 4$\pi$.10 −7 S.I
 On considère une bobine de longueur l=50 cm comprenant N=1000 spires de rayon
 moyen r=l cm.
 1. La bobine est traversée par un courant d'intensité
@@ -79,12 +79,12 @@ même courant.
 2.1 Reproduire le schéma en représentant au centre de la bobine les vecteurs champs
 magnétiques Ba (de valeur Ba= 1,5.10-2T) crée par l'aimant droit et B b crée par la
 bobine.
-2.2 Préciser l'angle α que fait l'aiguille avec sa postions initiale. Quelle est l'intensité
+2.2 Préciser l'angle $\alpha$ que fait l'aiguille avec sa postions initiale. Quelle est l'intensité
 Bt du champ résultant ?
 3 La bobine est maintenant en circuit ouvert. Dans le champ magnétique supposé
 uniforme horizontal Ba , un dispositif approprié permet de faire tourner librement la
 bobine autour d'un axe vertical passant par son centre avec une vitesse angulaire
-constante ω = 4π rad/ s.
+constante ω = 4$\pi$ rad/ s.
 A l'instant t=0, l'axe de la bobine et Ba sont parallèles. La normale aux spires étant
 orientée dans le sens de Ba , calculer le flux Φ 0 de la bobine.
 
@@ -98,7 +98,7 @@ date t=0,25s.
                                             142
 Exercice 4
 Le Polonium 210 est un élément radioactif rare de symbole Po. Son numéro atomique
-est 84. Cet élément constitue une source de radiations ( α ). Les notations α et
+est 84. Cet élément constitue une source de radiations ( $\alpha$ ). Les notations $\alpha$ et
 2 He sont équivalentes.
 4
 
@@ -113,7 +113,7 @@ noyau.(0,5pt) 2 Soit N(t) le nombre de noyaux N°                    81 82 83 84
 radioactifs d'un échantillon de Polonium, non atomique
 désintégrés à la date t.
 A t = 0 on note N0 le nombre de noyaux radioactifs initial.
-Un détecteur de radioactivité α associé à un compteur à affichage numérique permet
+Un détecteur de radioactivité $\alpha$ associé à un compteur à affichage numérique permet
 d'effectuer les mesures regroupées dans le tableau ci desous
 
      t (jours)       0      40       80       120      160      200       240
@@ -144,7 +144,7 @@ l'équation différentielle du mouvement
                                              143
 du centre d'inertie G du solide S . (0,75pt)
 1.2 La solution analytique de l'équation différentielle est de la forme :
-             2πt
+             2$\pi$t
 x = xmcos(       +ϕ)
              T0
 Comment nomme-t-on les constantes xm et ϕ ? Déterminer leurs valeurs à partir de
@@ -248,20 +248,20 @@ AN : I = 3,98A
 
 
 2.2
-L’équille deville d’un angle α par rapport à sa position initiale tel
+L’équille deville d’un angle $\alpha$ par rapport à sa position initiale tel
             Ba 1,5.10−2
-que : tgα =     =         = 1,5 ⇒ tgα = 56,30°
+que : tg$\alpha$ =     =         = 1,5 ⇒ tg$\alpha$ = 56,30°
             Bb      10−2
 Le champ resultant a pour intensité Bt tel que
 B t2 = Ba2 + Bb2  ->  B t = Ba2 + Bb2
 AN : B t = 1,8.10−2 T
 3.1 ϕo = NBa SCosθo      θo = (Ba ,n) = o car à t = o la normale est
 orienté dans le sens deBa
-S : la surface d'une spireS = πr 2 = 3,14(10 −2 )2 = 3,14.10−4 m 2
+S : la surface d'une spireS = $\pi$r 2 = 3,14(10 −2 )2 = 3,14.10−4 m 2
 ϕo = NBa S = 103 .1,5.10−2 .3,14.10−4 = 4,71.10−3 Wb
 3.2 ϕ = NBa SCosθ or θ = ωt
 ϕ(t) = NBa SCosωt
-Si t = 0,25 on a : ϕ(t) = 103 .1,5.10−2 .3,14.10−4 Cos4π .0,25
+Si t = 0,25 on a : ϕ(t) = 103 .1,5.10−2 .3,14.10−4 Cos4$\pi$ .0,25
 ϕ = −4,71.10−3 Wb
 
 
@@ -310,12 +310,12 @@ le graphiqueprécedent
 
                                           147
 Exercice 5
-       ∑ F = P + R + T = ma
+       $\sum$ F = P + R + T = ma
 1.1 proj/ ox : − T = ma ⇔ − Kx = ma
             K                                    K
        a+     x = 0 ⇔ a + ωo 2 x = 0 avec ωo 2 =
             m                                    m
-                 2π
+                 2$\pi$
 1.2 x = XmCos(      t + ϕ)
                  T
 D’après le graphe Xm =0,1m
@@ -323,11 +323,11 @@ D’après le graphe Xm =0,1m
 à t = 0 ;x0 = Xm ⇒ V0   donc ⎨               ⇒⎨         ∴ϕ = o
                                ⎩ −ωXmSinϕ = o ⎩Sinϕ = 0
 1.3 T = 1s d'aprés la courbe .
-            2π      m
-1.4 To =       = 2π
+            2$\pi$      m
+1.4 To =       = 2$\pi$
             ωo      K
                m            m
-T 2 o = 4π 2     ⇔ K = 4π 2 2    4N / m
+T 2 o = 4$\pi$ 2     ⇔ K = 4$\pi$ 2 2    4N / m
                K           To
 2.1 L’énergie potentielle élastique du système (ressort+solide) à un instant t est :
        1                                                        1

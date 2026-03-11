@@ -171,7 +171,7 @@ bobine.(1,25pt)
 la même source de tension. Pour une valeur donnée f0 = 100Hz de la fréquence f , on
 constate que les tensions efficaces aux bornes du condensateur, aux bornes de la
 bobine   et aux bornes du dipôle D sont égales. Déterminer L et C. On donne :
- π 2 =10.
+ $\pi$ 2 =10.
 
 
 
@@ -303,17 +303,17 @@ A.N :Em=7.10 J
 
                                                                      40
                                                                            3
-               GMM'                   GM'                       2π       r
+               GMM'                   GM'                       2$\pi$       r
                     = Mrω ⇒ ω =
                          2
       F=
                   2                      3
-                                           Expression de T : T=    = 2π
+                                           Expression de T : T=    = 2$\pi$
                 r                      r                        ω       GM'
 2.2    Expression du rapport
                           3       2      2
-           2          2 r       T     4π
-       T       = 4π         ⇒       =
+           2          2 r       T     4$\pi$
+       T       = 4$\pi$         ⇒       =
                        GM'        3   GM'
                                 r
 2.3    Calcul de T :
@@ -399,8 +399,8 @@ Exercice 5
     avance u AB et donc I correspond à uBD et II à u AB .
 • D’après la courbe la période T=10-2s d’où la fréquence
     N=T-1 soit N=100Hz.
-• Le déphasage ϕ de la tension par rapport à l’intensité ϕ = ω∆t = 2πN avec
-                       π           π
+• Le déphasage ϕ de la tension par rapport à l’intensité ϕ = ω∆t = 2$\pi$N avec
+                       $\pi$           $\pi$
       ∆t=1,25ms ⇒ ϕ =    soit ϕ = − car le circuit est capacitif.
                        4           4
                                                                 −1            1

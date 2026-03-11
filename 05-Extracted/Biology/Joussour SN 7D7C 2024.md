@@ -1228,11 +1228,11 @@ Expérience 1: on exerce sur le fuseau neuromusculaire (document 6) des étireme
    d- le rôle du fuseau neuromusculaire.
 Expérience 2
 On mesure la concentration en ions Na+ et K+ dans les
-corps cellulaires des motoneurones α1 et α2 avant et après injection de 2 neurotransmetteurs X et Y
+corps cellulaires des motoneurones $\alpha$1 et $\alpha$2 avant et après injection de 2 neurotransmetteurs X et Y
 dans chacune des fentes synaptiques F1 et F2. Le tableau résume les résultats obtenus :
 
                        Dans        les     corps    Dans le corps cellulaire de   Dans       le    corps
-                       cellulaires de α1 et α2      α1 après injection dans F1    cellulaire de α2 après
+                       cellulaires de $\alpha$1 et $\alpha$2      $\alpha$1 après injection dans F1    cellulaire de $\alpha$2 après
                        avant l’injection de X ou    de                            injection dans F2 de
                        de Y
                                                              X              Y        X            Y
@@ -1248,9 +1248,9 @@ dans chacune des fentes synaptiques F1 et F2. Le tableau résume les résultats 
  Sciences Naturelles                   Joussour pour réussir au BAC (SN et M)                     IGEN     27
 2-A partir de l’analyse des résultats de l’expérience 2 et en faisant appel à vos connaissances :
 a- expliquez le mécanisme à l’origine de la modification de la concentration en ions Na+ ou K+ dans les
-corps cellulaires de α1 et α2 après injection du neurotransmetteur X ou du neurotransmetteur Y.
+corps cellulaires de $\alpha$1 et $\alpha$2 après injection du neurotransmetteur X ou du neurotransmetteur Y.
 b-dégagez la conséquence de cette modification sur le potentiel de la membrane postsynaptique du
-corps cellulaire de α1 et α2.
+corps cellulaire de $\alpha$1 et $\alpha$2.
 c- Précisez la nature de chacune des synapses S1 et S2.
 3-Intégrez les informations tirées précédemment et vos connaissances en vue d’expliquer la
 coordination de l’activité des muscles extenseur et fléchisseur suite à un l’étirement du fuseau
@@ -1509,7 +1509,7 @@ Le tableau (D) montre les résultats d’analyse du sperme du mari de la femme T
                             Volume           Nombre de               Pourcentage des
                             d’éjaculat       Spermatozoïdes          spermatozoïdes normaux
 
- Sperme fécondant           ≥1.5 ml             ≥20 millions / ml            ≥60%
+ Sperme fécondant           $\geq$1.5 ml             $\geq$20 millions / ml            $\geq$60%
  Sperme du mari                    2.1               5 millions / ml                      75%
  de femme T
                                                      Tableau D
@@ -2319,12 +2319,12 @@ et c plus ample).
 
 
 b- Cette courbe montre trois parties :
-          ➢ Lorsque le ∆𝑡 ≤ 1,5ms Ce nerf ne répond pas à I2. C’est la période réfractaire absolue ;
+          ➢ Lorsque le ∆𝑡 $\leq$ 1,5ms Ce nerf ne répond pas à I2. C’est la période réfractaire absolue ;
               c’est-à-dire que toutes les fibres sont inexcitables.
           ➢ Lorsque 1,5 ˂ ∆𝑡 < 10ms Cette période est caractérisée par une augmentation de
               l’amplitude. C’est la période réfractaire relative ; c’est-à-dire que certaines fibres
               redeviennent excitables.
-          ➢ Lorsque ∆𝑡 ≥ 10𝑚𝑠. Amplitude constante à sa valeur maximale, malgré l’augmentation
+          ➢ Lorsque ∆𝑡 $\geq$ 10𝑚𝑠. Amplitude constante à sa valeur maximale, malgré l’augmentation
               du delai. C’est le retour à l’excitabilité normale (toutes les fibres sont redevenues
               excitables).
 C–
@@ -3324,7 +3324,7 @@ Exercice 2
                                                                  - est graduable
     proportionnellement avec l’augmentation de l’intensité
                                                                  - n’exige pas un seuil.
-    Pour I ≥4 : l’amplitude du PA reste constante (100mV)      Le PA exige un seuil
+    Pour I $\geq$4 : l’amplitude du PA reste constante (100mV)      Le PA exige un seuil
     malgré l’augmentation de I                                 Le PA est non graduable
 
 
@@ -4554,7 +4554,7 @@ B/ Pour tester la validité des hypothèses émises précédemment, des dosages 
 sont réalisés chez le sujet stérile.
 Le document 3 montre les concentrations plasmatiques de LH et de FSH (en Ul/L).
         Document 3                                                                  LH       FSH
-        Concentration plasmatique des hormones chez le sujet stérile                 ≤ 0,9    ≤ 0,4
+        Concentration plasmatique des hormones chez le sujet stérile                 $\leq$ 0,9    $\leq$ 0,4
         Concentration plasmatique des hormones chez un individu témoin.             2 à 10 1 à 2
 
 1°) Exploitez les résultats du tableau du document 3 en vue de préciser la ou les hypothèses
@@ -6247,8 +6247,8 @@ femelle de la souche S3 avec un mâle à soies doubles et à yeux rugueux.
 -La descendance de ce croisement montre des phénotypes répartis comme
 suit :
 Aspect des soies :
-     - Soies simples = 115+116 =231 soit ½
-              - Soies doubles = 228 soit ½
+     - Soies simples = 115+116 =231 soit $\frac{1}{2}$
+              - Soies doubles = 228 soit $\frac{1}{2}$
 Résultat d’un test cross, c’est-à-dire 2 hypothèses possibles :
 H1 : Simple > double.
 H2 : Double > simple.

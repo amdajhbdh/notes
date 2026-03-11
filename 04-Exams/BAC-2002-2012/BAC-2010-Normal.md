@@ -90,7 +90,7 @@ avec un condensateur de capacité réglable (boite de condensateur) une résista
 bornes d'une prise de courant alternatif sinusoïdal de fréquence 50Hz, de tension
 efficace 120V. L'intensité efficace passe par un maximum 1,5A pour C=318µF. On
 demande :
-1.1 La valeur théorique de l'inductance de la bobine. On donne : ૄ0=4π.10-7S.I.
+1.1 La valeur théorique de l'inductance de la bobine. On donne : ૄ0=4$\pi$.10-7S.I.
 1.2 La valeur de cette inductance déduite des résultats de l'expérience, expliquer le
 sens de la différence entre les deux valeurs trouvées.
 1.3 La valeur de la résistance R' de la bobine.
@@ -226,7 +226,7 @@ Exercice 4
                        S µ0 N 2
 ϕ p = NS µ0 ni ⇒ L =
 
-     π D 2 µ0 N 2
+     $\pi$ D 2 µ0 N 2
 L=                  ⇒= 36mH
          4
 
@@ -236,7 +236,7 @@ L=                  ⇒= 36mH
     1.2 à la resonance : LCw2 = 1
 1.1              1
     ⇒ Lexp = 2 2 = 31mH
-             4π N C
+             4$\pi$ N C
 La différence entre ces deux valeurs est due à l’absence du noyau de fer.
                                       U           U
 1.3à la résonance :Z = R+R’ et Z = ⇒ R ' = − R = 20Ω
@@ -269,7 +269,7 @@ OA = U = UmCos (ωt + ϕ )
               U 2 − U12 − U 22
       Cosϕ2 =
                   2U1U 2
-                                  π
+                                  $\pi$
       A.N : Cosϕ2 = 0,5 ⇒ ϕ 2 =       rd
                                   3
 2.5
@@ -281,7 +281,7 @@ Cosϕ2 =        ⇒ R = Z 2Cosϕ2 = 22Ω
             Z2
        LW           Rtgϕ2
 tgϕ2 =      ⇒L=            = 0,12 H
-         R           2π N
+         R           2$\pi$ N
                      (r + R )U12
 2.6 P = (r + R ) I =
                   2
@@ -294,12 +294,12 @@ Exercice 5
               ⎧ xo = XmCosϕ = Xm
        à t = 0⎨                    ⇒ Cosϕ = 1 donc ϕ = o
               ⎩Vo  = −ω XmSinϕ = o
-       et x = XmCosωt = 5.10−2 Cos100π t
+       et x = XmCosωt = 5.10−2 Cos100$\pi$ t
 1.1                                                       N
        1.2 La lame parait immobile si N = KNe ⇒ Ne =
                                                           K
             N
-       10 ≺    ≤⇒ 1 ≤ K ≺ 5π
+       10 ≺    $\leq$⇒ 1 $\leq$ K ≺ 5$\pi$
             K
        K ∈ {¨1;2;3;4 }
 
@@ -309,13 +309,13 @@ Ne(Hz)                50                    25         16,7    12,5
       λ = CT =            A.N : λ =    = 0,1m
                    N                50
       yM (t ) = y (t − θ )
-                                     2π x
-2.1 yM (t ) = 5.10−2 Cos (100π t −          )
+                                     2$\pi$ x
+2.1 yM (t ) = 5.10−2 Cos (100$\pi$ t −          )
                                       λ
-                                       π
-               = 5.10−2 Cos (100π t −       )
+                                       $\pi$
+               = 5.10−2 Cos (100$\pi$ t −       )
                                         2
-                           π
+                           $\pi$
       2.3∆ϕ = ϕo − ϕ M =         M et O sont en quadrature .
                            2
 

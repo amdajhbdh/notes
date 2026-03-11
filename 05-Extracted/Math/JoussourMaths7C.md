@@ -2001,7 +2001,7 @@ Soit f la fonction définie sur 0;  par : f (x) 
                                                                               x2
 1) a) Dresser le tableau de variation de f.
                                                                                         1
-b) Déduire que pour tout entier n ≥ 6, l’équation f (x)                                  admet dans l’intervalle
+b) Déduire que pour tout entier n $\geq$ 6, l’équation f (x)                                  admet dans l’intervalle
                                                                                         n
 1, e  une seule solution notée an
      
@@ -2723,7 +2723,7 @@ x 0          x0 x      x 0 x
                     f(x)                           2e
                                                   -∞                                               0
                                                                                   1
-a-         Montrons que pour tout entier n ≥ 6, l’équation f (x)                   admet dans l’intervalle
+a-         Montrons que pour tout entier n $\geq$ 6, l’équation f (x)                   admet dans l’intervalle
                                                                                   n
 1, e  une seule solution notée an :
      
@@ -3771,9 +3771,9 @@ Joussour pour réussir au Bac           IGEN             Mathématiques         
  1) Dresser le tableau de variation de f.
  2) Montrer que l’équation g(x) = 0 admet, dans 1;  , deux solutions : 0
                                                                                            0,5pt
- et α et vérifier que 3,8 < α < 4
+ et $\alpha$ et vérifier que 3,8 < $\alpha$ < 4
  3) En déduire le signe de g(x) sur  1;  .                                            0,5pt
- 4) Montrer que pour tout x de 1;  , on a g(x) ≤ 1.                                   0,5pt
+ 4) Montrer que pour tout x de 1;  , on a g(x) $\leq$ 1.                                   0,5pt
  II- Soit f la fonction définie sur  0,  par :
                         ln(1  x)
  f (0)  0 et f (x)       si x est positif .
@@ -4122,13 +4122,13 @@ zéro.
  Sur l’intervalle I 2  1,  , g est continue, strictement croissante et
 g(I 2 )  J 2  ,1  ln 2 et comme 0  J 2 alors d’après le théorème des valeurs
 intermédiaires, l’équation g(x)=0 admet sur I 2 une unique solution 
-   g(3, 8)  0, 01 et g(4)   0, 009 alors 3,8 < α < 4
+   g(3, 8)  0, 01 et g(4)   0, 009 alors 3,8 < $\alpha$ < 4
 
 
 3) D’après le tableau de variation, g est positive sur  0,   et négative sur
 1;0   ; 
 
-4) D’après le tableau de variation, g est majorée par 1 – ln2. D’où g(x) ≤ 1.
+4) D’après le tableau de variation, g est majorée par 1 – ln2. D’où g(x) $\leq$ 1.
 
 II- 1) Les fonctions : x  x  1 ; x  x et x  ln(x  1) sont continues sur ]0,+∞[ don f
 est continue sur ]0,+∞[.
@@ -5291,7 +5291,7 @@ Exercice 3 (5pt)
  naturel n par Mn+1 =f(Mn). On note zn l’affixe du point Mn. Placer les                  1pt
  points  ; M0 ; M1 ; M2 ; M3 et M4.
  b) Montrer par récurrence, pour tout entier naturel n, l’égalité :
-                    7nπ                                                                  0,5pt
+                    7n$\pi$                                                                  0,5pt
   z n - i = 2n e 6  z0 - i  .
                 i
 
@@ -5615,8 +5615,8 @@ et elle a les éléments caractéristiques suivants :
                            2
       a=
 
-Conclusion : f = r        7π 
-                                     oh Ω ; 2 = h Ω ; 2 or  7π 
+Conclusion : f = r        7$\pi$ 
+                                     oh Ω ; 2 = h Ω ; 2 or  7$\pi$ 
                         Ω; 6                                Ω; 6 
                                                                  
 
@@ -5640,7 +5640,7 @@ Joussour pour réussir au Bac                      IGEN                  Mathém
  u ; M  = arg  z - i  = arg  43 + 43 i - i  = arg  43 - 14 i  
            0                 0
                                                                          
-                   3 1            -i π6  -π
+                   3 1            -i $\pi$6  -$\pi$
               
     u ; M0  0 + arg    - i   arg  e  
                                                  6
@@ -5676,14 +5676,14 @@ Emplacement des points donnés
 
 
 Joussour pour réussir au Bac                    IGEN           Mathématiques              Série M               p 103
-                                                                                       7nπ
+                                                                                       7n$\pi$
 b) On démontre que pour tout n, z n - i = 2n e 6  z0 - i  . Celle-ci est vérifiée pour n =0,
                                                                                    i
 
 
 
 car, z0 - i = 20 ei0  z0 - i  =  z0 - i  . On suppose quelle est vraie pour n-1,
-                                  7(n-1)π
+                                  7(n-1)$\pi$
 
                                              z0 - i  et on démontre pour n.
                               i
@@ -5692,7 +5692,7 @@ z n-1 - i = 2n-1 e                   6
 
 
 On a :
-                                                                                        7(n-1)π
+                                                                                        7(n-1)$\pi$
                                                                                                          
                                                                                                         
                                                                          3 + i  2n-1 e 6  z0 - i  + i  -1 + i 1 + 3   
@@ -5700,14 +5700,14 @@ On a :
  zn = -         3 + i z n-1 -1 + i 1 + 3 = -
                                                                                                         
 
-                               7(n-1)π
+                               7(n-1)$\pi$
                                                 
                          
                 3 + i  2n-1 e 6  z0 - i  + i  -1 + i 1 + 3                              
                               i
 zn = -
                                                
-           7π                 7(n-1)π
+           7$\pi$                 7(n-1)$\pi$
 
                                          z0 - i  - i  3 + i  -1 + i  1 + 3  
        i                  i
@@ -5717,7 +5717,7 @@ zn = -
 
 
 
-                    7nπ                                                                              7nπ
+                    7n$\pi$                                                                              7n$\pi$
 z n = 2n e 6  z0 - i  - i 3 +1 -1 + i + i 3  z n - i = 2n e 6  z0 - i  .
                 i                                                                                i
 
@@ -5725,7 +5725,7 @@ z n = 2n e 6  z0 - i  - i 3 +1 -1 + i + i 3  z n - i = 2n e 6  z0 - 
 
 
 a) Calcul de Mn
-                                                         7nπ
+                                                         7n$\pi$
 
                                                                 z0 - i  , on a
                                                      i
@@ -5734,7 +5734,7 @@ De la relation z n - i = 2 e                              6
 
 
            i
-             7nπ
+             7n$\pi$
                                 3     1            1
 M n = 2n e 6 M 0 = 2n  1           = 2  1  = 2 .
                                                n         n-1
@@ -5762,8 +5762,8 @@ Il s’agit de la demi droite d’origine G, dirigée par u.
 
 Joussour pour réussir au Bac                                      IGEN                 Mathématiques       Série M         p 104
 c) Détermination des point Mn appartenant à ( )
-                              n7π                          n7π
-                                                                  i -π6        (7n-1)π
+                              n7$\pi$                          n7$\pi$
+                                                                  i -$\pi$6        (7n-1)$\pi$
 
                                      z0 - i  = 2 e
                           i                            i                       i

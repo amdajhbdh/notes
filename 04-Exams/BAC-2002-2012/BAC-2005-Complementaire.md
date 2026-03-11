@@ -70,7 +70,7 @@ calculer la valeur expérimentale de son
 accélération
 1.2 Sachant que la valeur de la force F est F = 2N dire est ce que le mouvement se fait
 sans frottement ou avec frottement. Déterminer la valeur de la réaction exercée par la
-piste sur le solide ainsi que l'angle α qu’elle fait avec la verticale.
+piste sur le solide ainsi que l'angle $\alpha$ qu’elle fait avec la verticale.
 1.3 Calculer la valeur de la vitesse au point B.         (0,5pt)
 2 Le solide continue son mouvement sans frottement sur la partie curviligne BC.
 2.1 Déterminer les caractéristiques de la vitesse au point C.(0,75pt)
@@ -83,11 +83,11 @@ Exercice 4
 1 On considère un solénoïde dont les caractéristiques sont : rayon de la spire R=20cm
 ; nombre de spires N=1000 spires ; longueur de la bobine l =2m.
 1.1 Etablir la formule donnant l’inductance L de ce solénoïde en fonction de R, l et N
-puis calculer sa valeur. On prendra π 2 =10. (1pt)
+puis calculer sa valeur. On prendra $\pi$ 2 =10. (1pt)
 1.2 Calculer la force électromotrice d'auto induction produite dans cette bobine lorsque
 l'intensité du courant qui circule prend l'une des expressions suivantes ;
-                                       π
-i1 = 3t + 4 et i = 5 2cos(200π t +
+                                       $\pi$
+i1 = 3t + 4 et i = 5 2cos(200$\pi$ t +
                 2
                                             )         (1pt)
                                         6
@@ -125,7 +125,7 @@ milieux sont situés aux points d'abscisses respectives x1=1,3mm et x2=2,08mm.
 λ’=0,48µm. A quelle distance de la frange centrale observe-t-on la première coïncidence
 entre les frangeas brillantes pour λ et λ'.(0,75pt)
 3 La source S émet maintenant la lumière blanche. Calculer les longueurs d'ondes des
-radiations éteintes au point P. On donne : 0,4µm ≤ λ ≤ 0,8µm.(1pt)
+radiations éteintes au point P. On donne : 0,4µm $\leq$ λ $\leq$ 0,8µm.(1pt)
 
                                            Corrigé
 Exercice 1
@@ -228,10 +228,10 @@ Exercice 3
               2           −3 2
           θ    (20.10 )
 1.2 En considérant que les frottements sont négligeables
-∑ F = ma ⇒ P + R + F = ma
+$\sum$ F = ma ⇒ P + R + F = ma
 La projection sur l’axe horizontal orienté dans le sens du déplace ment :
                 F
-F = ma ⇒ a =      = 10m / s2 ≠ a ex donc il y a des frottements
+F = ma ⇒ a =      = 10m / s2 $\neq$ a ex donc il y a des frottements
                m
 Calcul de la force de frottement P + R N + F + f = ma N
 En projetant b sur l’axe du déplacement : −f + F = ma ex ⇒ f = F − ma ex = 2 − 1 = 1N
@@ -243,7 +243,7 @@ L’angle que fait la reaction avec la vertical
 
 
                                                         f
-                                              tagβ =      = 21 ∴ β = 26, 56°
+                                              tag$\beta$ =      = 21 ∴ $\beta$ = 26, 56°
                                                        Rn
 
                                                 67
@@ -253,14 +253,14 @@ L’angle que fait la reaction avec la vertical
 2   mVB2 = (F − f )AB ⇒ VB =             = 6, 93m / s
                                  m
 2.1 Les caractéristiques de VC :
-Direction: (VC, Cx) = α = 60°
+Direction: (VC, Cx) = $\alpha$ = 60°
 Sens : celui du mvt
 Intensité :
 1
 2   mVC2 − 21 mVB2 = −mgh
-VC2 = VB2 − 2gh / h = r(1 − Cosα)
+VC2 = VB2 − 2gh / h = r(1 − Cos$\alpha$)
      2AB(F − f )
-VC2 =            − 2gr(1 − Cosα) = 33
+VC2 =            − 2gr(1 − Cos$\alpha$) = 33
            m
 VC = 5, 7 m / s
 2.2Calcul de Rc       :
@@ -270,20 +270,20 @@ P + R C + = ma
 
 
 La projection sur la normale donne:
-R C − PCosα = ma n
+R C − PCos$\alpha$ = ma n
                    mVC2
-R C = mgCosα +          = 10, 4N
+R C = mgCos$\alpha$ +          = 10, 4N
                     r
 3.1 P = ma
 Projection sur Cx :
-Px = ma x = 0 , V0x = VCCosα , xo = 0
+Px = ma x = 0 , V0x = VCCos$\alpha$ , xo = 0
 Les équations horaires sur cet axe sont:
 ⎧⎪
  ⎪ a x =0
- ⎨ V0 x =VCCosα
- ⎪⎪ x=VCCosα.t
+ ⎨ V0 x =VCCos$\alpha$
+ ⎪⎪ x=VCCos$\alpha$.t
   ⎩
-La projection sur l’axe Cy :        −Py = ma y ⇒ a y = −g , V0 y = VC Sinα , yo = 0
+La projection sur l’axe Cy :        −Py = ma y ⇒ a y = −g , V0 y = VC Sin$\alpha$ , yo = 0
 Les équations horaires sur cet axe
 
 
@@ -293,27 +293,27 @@ Les équations horaires sur cet axe
 ⎧
 ⎪
 ⎪ a y =−g
-⎨ Vy =−gt+VCSinα
+⎨ Vy =−gt+VCSin$\alpha$
 ⎪
 ⎪      1 2
 ⎪
-⎩ y=− 2 gt +VCSinα.t
+⎩ y=− 2 gt +VCSin$\alpha$.t
 L’équation de la trajectoire
-x = VCCosα.t (1) , y = − 12 gt2 + VCSinα.t     (2)
+x = VCCos$\alpha$.t (1) , y = − 12 gt2 + VCSin$\alpha$.t     (2)
          x
 t=
-    VCCosα.t
+    VCCos$\alpha$.t
                x
-y = − 12 g(          )2 + xtagα
-            VCCosα.t
+y = − 12 g(          )2 + xtag$\alpha$
+            VCCos$\alpha$.t
 3.2 La hauteur maximale correspond à
-                                VCSinα
-Vy = −gt + VCSinα = 0 ⇒ t =
+                                VCSin$\alpha$
+Vy = −gt + VCSin$\alpha$ = 0 ⇒ t =
                                   g
 
-⎧⎪ xS =VCCosα. VCSinα                   ⎧⎪ xS =( VCSinα)2
+⎧⎪ xS =VCCos$\alpha$. VCSin$\alpha$                   ⎧⎪ xS =( VCSin$\alpha$)2
  ⎪                                       ⎪
- ⎨ y =−1 g( VCSinα )2 +V Sinα. VCSinα ⇒ ⎨ ( VCSinα)2
+ ⎨ y =−1 g( VCSin$\alpha$ )2 +V Sin$\alpha$. VCSin$\alpha$ ⇒ ⎨ ( VCSin$\alpha$)2
                   g                                2g
  ⎪
  ⎪                                       ⎪⎪ yS =
@@ -321,13 +321,13 @@ Vy = −gt + VCSinα = 0 ⇒ t =
                                  g
                                           ⎪⎩       2g
 
-Les coordonnées du point le plus bas de la trajectoire : au point D : y D = −r(1 − Cosα)
+Les coordonnées du point le plus bas de la trajectoire : au point D : y D = −r(1 − Cos$\alpha$)
                            x
-−r(1 − Cosα) = − 21 g(           )2 + xtagα
-                        VCCosα.t
+−r(1 − Cos$\alpha$) = − 21 g(           )2 + xtag$\alpha$
+                        VCCos$\alpha$.t
            x
-− 12 g(          )2 + xtagα + r(1 − Cosα) = 0
-        VCCosα.t
+− 12 g(          )2 + xtag$\alpha$ + r(1 − Cos$\alpha$) = 0
+        VCCos$\alpha$.t
 A.N : −0, 6x2 + 1.73x + 0, 35 = 0
 −60x2 + 173x + 35 = 0
 ∆ = 38329
@@ -337,7 +337,7 @@ xD = 3, 07 ∴ { xyDD ==−3,07
 Exercice 4
     ⎧               N2
     ⎪ ϕ = NBS = µ 0    SI          N2
-1.1 ⎨                     ⇒ L = µ0    S avec S = πR 2
+1.1 ⎨                     ⇒ L = µ0    S avec S = $\pi$R 2
     ⎪ ϕ = LI
     ⎩
 L = 0,08H
@@ -353,8 +353,8 @@ e = −L
               di1
 pour i = i1 :     = 3 ⇒ e = −0,24V
               dt
-              di                       π                      π
-pour i = i 2 : 2 = −5 2.200πSin(200πt + ) ⇒ e = 355Sin(200πt + )
+              di                       $\pi$                      $\pi$
+pour i = i 2 : 2 = −5 2.200$\pi$Sin(200$\pi$t + ) ⇒ e = 355Sin(200$\pi$t + )
                dt                      6                      6
 1.3
          di
@@ -395,7 +395,7 @@ La nature des franges formées aux positions X1 et X2
                       2.10
     3.La position des franges sombres est donnée par la relation
 X= (2K+1)Dλ/2a  ->  λ = 2aX/D(2K+1) = 10,4/2000(2K+1)
-       0,4.10-3 ≤10,4/2000(2K+1)≤0,8.10-3 ⇒ 2, 75 ≤ K ≤ 6 ∴ K = 3, 4, 5, 6
+       0,4.10-3 $\leq$10,4/2000(2K+1)$\leq$0,8.10-3 ⇒ 2, 75 $\leq$ K $\leq$ 6 ∴ K = 3, 4, 5, 6
 K                     3                4            5               6
 λmm                   7,4.10-4         5,77.10-4    4,7.10-4        4.10-4
 

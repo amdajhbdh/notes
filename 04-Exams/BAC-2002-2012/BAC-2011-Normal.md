@@ -69,7 +69,7 @@ On pourra considérer que la mesure de la vitesse entre A et C
 permet de connaître avec une bonne précision la vitesse
 instantanée en B milieu de AC (voir fig1).
 On donne OB=1m ; AC=0,1m, MN=2m ; MH=0,6m.
-1 Calculer l’angle α .
+1 Calculer l’angle $\alpha$ .
 2.1 Calculer la variation de l’énergie cinétique du solide entre
 Oet B puis la somme des travaux des forces appliquées en
 négligeant les frottements.                                          Fig2
@@ -182,14 +182,14 @@ Exercice3
 
                                                   152
         MH
-1.Sinα =     = 0,3 ⇒ α = 17°
+1.Sin$\alpha$ =     = 0,3 ⇒ $\alpha$ = 17°
         MN
 2.1∆Ec = EcB − EcO
             1             AC
            = mVB2 or VB =    = 2m / s ⇒ ∆Ec = 0,8J
             2             ∆t
-       ∑ W = WP + WR = mgOBSinα = 1, 2J
- 2.2 ∆Ec ≠ WP ⇒ f existe
+       $\sum$ W = WP + WR = mgOBSin$\alpha$ = 1, 2J
+ 2.2 ∆Ec $\neq$ WP ⇒ f existe
 3. ∆Ec = WP + Wf = WP − fOB
     WP − ∆Ec
  f=            = 0,4N
@@ -209,7 +209,7 @@ endessous du plan horizontal passant par o
 
 
 
-Ep = mgh = mg(0, 2 − xSinα )
+Ep = mgh = mg(0, 2 − xSin$\alpha$ )
 Ep = −1,2x + 0,8 doncEc = Em − Ep = 0,8x
 position pour que Ec = Ep : 0,8x = −1,2x + 0,8 ⇒ x = 0,4m
 Exercice 4
@@ -217,7 +217,7 @@ Exercice 4
 1. mV02 = 2eU ⇒ V0 = 2    = 2,8.105 m / s
   2                    m
 2.1 B est entrant : ⊗
-2.2 ∑ Fex = ma ⇒ Fm = ma
+2.2 $\sum$ Fex = ma ⇒ Fm = ma
 projection sur la tan gente : at = 0 ⇒ V = V0 : m.u
                                                    V02
 projection sur la normale : Fm = man ⇒ 2eV0 .B = m

@@ -13,7 +13,7 @@
 
 
 L’acide est faible si son pH est différent de /.                               . −/.              #
-                                                                                                       # ≠ pH donné donc l’acide
+                                                                                                       # $\neq$ pH donné donc l’acide
 est faible
 
  $ + $ "                                                 + $# "%
