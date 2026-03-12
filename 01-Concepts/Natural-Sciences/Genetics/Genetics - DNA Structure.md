@@ -37,6 +37,8 @@ DNA (Deoxyribonucleic Acid) is the hereditary material that stores genetic infor
 
 ## Double Helix Structure
 
+![DNA Helix](assets/dna-helix.png)
+
 ### Components
 1. **Nucleotides** (building blocks)
    - Phosphate group

@@ -41,30 +41,6 @@ status: active
 
 ### 1. Molarity (M)
 Moles of solute per liter of solution
-
-**Formula**: M = n/V = moles/liters
-
-Units: mol/L or M
-
-**Example**: 2 moles NaCl in 1 L water = 2 M
-
-### 2. Molality (m)
-Moles of solute per kilogram of solvent
-
-**Formula**: m = n/kg_solvent
-
-Units: mol/kg
-
-### 3. Mass Percent
-**Formula**: % = (mass_solute/mass_solution) * 100%
-
-**Example**: 10 g salt in 90 g water
-% = 10/100 * 100% = 10%
-
-### 4. Volume Percent
-**Formula**: % = (V_solute/V_solution) * 100%
-
-### 5. Parts Per Million (ppm)
 **Formula**: ppm = (mass_solute/mass_solution) * 10**6
 
 Used for very dilute solutions

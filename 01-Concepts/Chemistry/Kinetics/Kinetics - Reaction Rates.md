@@ -34,6 +34,8 @@ status: active
 ## Definition
 The rate of a chemical reaction is the change in concentration of reactants or products per unit time.
 
+![Reaction Rate](assets/reaction-rate.png)
+
 **Formula**: Rate = -Δ[Reactant]/Δt = Δ[Product]/Δt
 
 Units: mol/(L·s) or M/s

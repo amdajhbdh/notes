@@ -39,23 +39,23 @@ Organic compounds containing only carbon and hydrogen atoms.
 ### 1. Alkanes (Saturated)
 Single bonds only (C-C)
 
-**General Formula**: $$C_n$H_{2n+2}$
+**General Formula**: C_nH_2_n₊_2
 
 **Examples**:
-- Methane: $CH_4$
-- Ethane: $C_2H_6$
-- Propane: $C_3H_8$
-- Butane: $C_4H_{10}$
+- Methane: CH_4
+- Ethane: C_2H_6
+- Propane: C_3H_8
+- Butane: C_4H_1_0
 
 **Properties**:
 - Least reactive
 - Undergo substitution reactions
-- Combustion: $C_n$$H_{2n+2}$ + O_2  ->  CO_2 + H_2O
+- Combustion: C_nH_2_n₊_2 + O_2  ->  CO_2 + H_2O
 
 ### 2. Alkenes (Unsaturated)
 One or more double bonds (C=C)
 
-**General Formula**: $C_n$H_2_n
+**General Formula**: C_nH_2_n
 
 **Examples**:
 - Ethene: C_2H_4
@@ -70,7 +70,7 @@ One or more double bonds (C=C)
 ### 3. Alkynes (Unsaturated)
 One or more triple bonds (C≡C)
 
-**General Formula**: $C_n$H_2_n₋_2
+**General Formula**: C_nH_2_n₋_2
 
 **Examples**:
 - Ethyne (Acetylene): C_2H_2
@@ -109,15 +109,15 @@ Contain benzene ring (C_6H_6)
 ## Isomers
 Compounds with same molecular formula but different structures
 
-**Example**: $C_4H_{10}$
+**Example**: C_4H_1_0
 - n-butane (straight chain)
 - isobutane (branched)
 
 ## Reactions
 
 ### Combustion
-Complete: $C_n$H_m + O_2  ->  CO_2 + H_2O
-Incomplete: $C_n$H_m + O_2  ->  CO + H_2O (or C + H_2O)
+Complete: C_nH_m + O_2  ->  CO_2 + H_2O
+Incomplete: C_nH_m + O_2  ->  CO + H_2O (or C + H_2O)
 
 ### Substitution (Alkanes)
 CH_4 + Cl_2  ->  CH_3Cl + HCl (with UV light)

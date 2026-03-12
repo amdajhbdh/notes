@@ -45,79 +45,79 @@ Used when integrand contains a function and its derivative.
 ## Basic Examples
 
 ### Example 1: Power of Function
-$\int$ 2x(x**2 + 1)**5 dx
+∫ 2x(x**2 + 1)**5 dx
 
 Let u = x**2 + 1
 du = 2x dx
 
-$\int$ u**5 du = u**6/6 + C = (x**2 + 1)**6/6 + C
+∫ u**5 du = u**6/6 + C = (x**2 + 1)**6/6 + C
 
 ### Example 2: Exponential
-$\int$ 3x**2e**(x**3) dx
+∫ 3x**2e**(x**3) dx
 
 Let u = x**3
 du = 3x**2 dx
 
-$\int$ e**u du = e**u + C = e**(x**3) + C
+∫ e**u du = e**u + C = e**(x**3) + C
 
 ### Example 3: Trigonometric
-$\int$ sin(x)cos(x) dx
+∫ sin(x)cos(x) dx
 
 Let u = sin(x)
 du = cos(x) dx
 
-$\int$ u du = u**2/2 + C = sin**2(x)/2 + C
+∫ u du = u**2/2 + C = sin**2(x)/2 + C
 
 ## Definite Integrals with Substitution
 
 ### Method 1: Change Limits
-$\int$[a to b] f(g(x))g'(x) dx
+∫[a to b] f(g(x))g'(x) dx
 
 Let u = g(x), change limits:
 - When x = a, u = g(a)
 - When x = b, u = g(b)
 
-$\int$[g(a) to g(b)] f(u) du
+∫[g(a) to g(b)] f(u) du
 
 ### Example 4
-$\int$[0 to 1] 2x(x**2 + 1)**3 dx
+∫[0 to 1] 2x(x**2 + 1)**3 dx
 
 Let u = x**2 + 1, du = 2x dx
 When x = 0: u = 1
 When x = 1: u = 2
 
-$\int$[1 to 2] u**3 du = [u**4/4] from 1 to 2
+∫[1 to 2] u**3 du = [u**4/4] from 1 to 2
 = 16/4 - 1/4 = 15/4
 
 ## Advanced Techniques
 
 ### Adjusting Constants
-$\int$ 6x(x**2 + 1)**5 dx
+∫ 6x(x**2 + 1)**5 dx
 
 Need 2x, have 6x  ->  multiply by 1/3
 
-= 3$\int$ 2x(x**2 + 1)**5 dx
+= 3∫ 2x(x**2 + 1)**5 dx
 = 3(x**2 + 1)**6/6 + C
 = (x**2 + 1)**6/2 + C
 
 ### Example 5: Rational Function
-$\int$ x/(x**2 + 1) dx
+∫ x/(x**2 + 1) dx
 
 Let u = x**2 + 1, du = 2x dx
 Need 2x, have x  ->  multiply by 1/2
 
-= (1/2)$\int$ 2x/(x**2 + 1) dx
-= (1/2)$\int$ 1/u du
+= (1/2)∫ 2x/(x**2 + 1) dx
+= (1/2)∫ 1/u du
 = (1/2)ln|u| + C
 = (1/2)ln(x**2 + 1) + C
 
 ### Example 6: Square Root
-$\int$ x√(x**2 + 4) dx
+∫ x√(x**2 + 4) dx
 
 Let u = x**2 + 4, du = 2x dx
 
-= (1/2)$\int$ 2x√(x**2 + 4) dx
-= (1/2)$\int$ √u du
+= (1/2)∫ 2x√(x**2 + 4) dx
+= (1/2)∫ √u du
 = (1/2)(2u**(3/2)/3) + C
 = u**(3/2)/3 + C
 = (x**2 + 4)**(3/2)/3 + C
@@ -144,33 +144,33 @@ Let u = x**2 + 4, du = 2x dx
 ## Practice Problems
 
 ### Problem 1
-$\int$ 4x**3(x**4 + 2)**7 dx
+∫ 4x**3(x**4 + 2)**7 dx
 
 <details>
 <summary>Solution</summary>
 u = x**4 + 2, du = 4x**3 dx
-$\int$ u**7 du = u**8/8 + C = (x**4 + 2)**8/8 + C
+∫ u**7 du = u**8/8 + C = (x**4 + 2)**8/8 + C
 </details>
 
 ### Problem 2
-$\int$[0 to $\pi$/4] tan(x)sec**2(x) dx
+∫[0 to π/4] tan(x)sec**2(x) dx
 
 <details>
 <summary>Solution</summary>
 u = tan(x), du = sec**2(x) dx
 When x = 0: u = 0
-When x = $\pi$/4: u = 1
+When x = π/4: u = 1
 
-$\int$[0 to 1] u du = [u**2/2] = 1/2 - 0 = 1/2
+∫[0 to 1] u du = [u**2/2] = 1/2 - 0 = 1/2
 </details>
 
 ### Problem 3
-$\int$ (ln(x))/x dx
+∫ (ln(x))/x dx
 
 <details>
 <summary>Solution</summary>
 u = ln(x), du = (1/x) dx
-$\int$ u du = u**2/2 + C = (ln(x))**2/2 + C
+∫ u du = u**2/2 + C = (ln(x))**2/2 + C
 </details>
 
 ## Related

@@ -74,7 +74,7 @@ If a|b and a|c, then a|(bx + cy) for any integers x, y
 
 ### Division Algorithm
 For any integers a and b (b>0), there exist unique integers q and r such that:
-a = bq + r, where 0 $\leq$ r < b
+a = bq + r, where 0 ≤ r < b
 
 ## Examples
 

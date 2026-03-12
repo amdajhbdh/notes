@@ -35,24 +35,24 @@ Force that opposes relative motion between surfaces in contact.
 
 ## Types of Friction
 
-### 1. Static Friction ($f_s$)
+### 1. Static Friction (fₛ)
 Prevents object from starting to move
 
-**Formula**: $f_s \leq \mu_s N$
+**Formula**: fₛ ≤ μ_sN
 
 Where:
-- $\mu_s$ = coefficient of static friction
+- μ_s = coefficient of static friction
 - N = normal force
-- $f_{s,max} = \mu_s N$ (maximum static friction)
+- fₛ,max = μ_sN (maximum static friction)
 
-### 2. Kinetic Friction ($$f_k$$)
+### 2. Kinetic Friction (f_k)
 Acts on moving object
 
-**Formula**: $$f_k$ = \mu_k N$
+**Formula**: f_k = μ_kN
 
 Where:
-- $\mu_k$ = coefficient of kinetic friction
-- Always: $\mu_k < \mu_s$
+- μ_k = coefficient of kinetic friction
+- Always: μ_k < μ_s
 
 ## Key Relationships
 
@@ -69,7 +69,7 @@ Where:
 ## Coefficients of Friction
 
 ### Typical Values
-| Surfaces | $\mu_s$ | $\mu_k$ |
+| Surfaces | μ_s | μ_k |
 |----------|-----|-----|
 | Steel on steel | 0.74 | 0.57 |
 | Wood on wood | 0.5 | 0.3 |
@@ -107,39 +107,39 @@ Where:
 ## Examples
 
 ### Example 1: Object on Horizontal Surface
-10 kg box on floor, $\mu_s$ = 0.4, $\mu_k$ = 0.3
+10 kg box on floor, μ_s = 0.4, μ_k = 0.3
 Applied horizontal force F = 30 N
 
 **Find**: Will it move? If yes, find acceleration.
 
 **Solution**:
 N = mg = 10 * 10 = 100 N
-$f_s$,max = $\mu_s$N = 0.4 * 100 = 40 N
+fₛ,max = μ_sN = 0.4 * 100 = 40 N
 
 F = 30 N < 40 N  ->  Box doesn't move
 
 If F = 50 N:
-F > $f_s$,max  ->  Box moves
-$f_k$ = $\mu_k$N = 0.3 * 100 = 30 N
-ΣF = F - $f_k$ = 50 - 30 = 20 N
+F > fₛ,max  ->  Box moves
+f_k = μ_kN = 0.3 * 100 = 30 N
+ΣF = F - f_k = 50 - 30 = 20 N
 a = F/m = 20/10 = 2 m/s**2
 
 ### Example 2: Inclined Plane
-5 kg block on 30° incline, $\mu_s$ = 0.5
+5 kg block on 30° incline, μ_s = 0.5
 
 **Find**: Will it slide?
 
 **Solution**:
 N = mg cos(30°) = 5 * 10 * 0.866 = 43.3 N
-$f_s$,max = $\mu_s$N = 0.5 * 43.3 = 21.65 N
+fₛ,max = μ_sN = 0.5 * 43.3 = 21.65 N
 
 F∥ = mg sin(30°) = 5 * 10 * 0.5 = 25 N
 
-F∥ > $f_s$,max  ->  Block slides
+F∥ > fₛ,max  ->  Block slides
 
 ### Example 3: Pulling at Angle
 20 kg box, pull at 37° above horizontal with F = 100 N
-$\mu_k$ = 0.25
+μ_k = 0.25
 
 **Find**: Acceleration
 
@@ -148,22 +148,22 @@ Vertical: N + F sin(37°) = mg
 N = mg - F sin(37°)
 N = 200 - 100(0.6) = 200 - 60 = 140 N
 
-$f_k$ = $\mu_k$N = 0.25 * 140 = 35 N
+f_k = μ_kN = 0.25 * 140 = 35 N
 
-Horizontal: F cos(37°) - $f_k$ = ma
+Horizontal: F cos(37°) - f_k = ma
 100(0.8) - 35 = 20a
 80 - 35 = 20a
 a = 45/20 = 2.25 m/s**2
 
 ### Example 4: Two Blocks Connected
 Block A (5 kg) on table, connected by string over pulley to hanging block B (3 kg)
-$\mu_k$ = 0.2 between A and table
+μ_k = 0.2 between A and table
 
 **Find**: Acceleration of system
 
 **Solution**:
-For A: T - $f_k$ = m_aa
-$f_k$ = $\mu_k$m_ag = 0.2 * 5 * 10 = 10 N
+For A: T - f_k = m_aa
+f_k = μ_km_ag = 0.2 * 5 * 10 = 10 N
 T - 10 = 5a ... (1)
 
 For B: m_bg - T = m_ba
@@ -176,19 +176,19 @@ a = 2.5 m/s**2
 ## Inclined Plane with Friction
 
 ### Sliding Down
-Net force = mg sin(θ) - $f_k$
-= mg sin(θ) - $\mu_k$mg cos(θ)
-= mg(sin(θ) - $\mu_k$ cos(θ))
+Net force = mg sin(θ) - f_k
+= mg sin(θ) - μ_kmg cos(θ)
+= mg(sin(θ) - μ_k cos(θ))
 
-a = g(sin(θ) - $\mu_k$ cos(θ))
+a = g(sin(θ) - μ_k cos(θ))
 
 ### Minimum Angle to Slide
-At threshold: mg sin(θ) = $\mu_s$mg cos(θ)
-tan(θ) = $\mu_s$
-θ = arctan($\mu_s$)
+At threshold: mg sin(θ) = μ_smg cos(θ)
+tan(θ) = μ_s
+θ = arctan(μ_s)
 
 ### Example 5
-$\mu_s$ = 0.6, find minimum angle
+μ_s = 0.6, find minimum angle
 
 θ = arctan(0.6) = 31°
 
@@ -196,11 +196,11 @@ $\mu_s$ = 0.6, find minimum angle
 
 ### With Friction
 v**2 = u**2 + 2as
-0 = u**2 - 2$\mu_k$gd (deceleration = $\mu_k$g)
-d = u**2/(2$\mu_k$g)
+0 = u**2 - 2μ_kgd (deceleration = μ_kg)
+d = u**2/(2μ_kg)
 
 ### Example 6
-Car at 20 m/s, $\mu_k$ = 0.7, find stopping distance
+Car at 20 m/s, μ_k = 0.7, find stopping distance
 
 d = 20**2/(2 * 0.7 * 10)
 d = 400/14 = 28.6 m
@@ -227,37 +227,37 @@ Typical μ_roll = 0.001 - 0.02
 ## Practice Problems
 
 ### Problem 1
-8 kg box, $\mu_s$ = 0.5, $\mu_k$ = 0.3
+8 kg box, μ_s = 0.5, μ_k = 0.3
 Horizontal force F = 50 N. Find acceleration.
 
 <details>
 <summary>Solution</summary>
 N = 80 N
-$f_s$,max = 0.5 * 80 = 40 N
-F > $f_s$,max  ->  moves
-$f_k$ = 0.3 * 80 = 24 N
+fₛ,max = 0.5 * 80 = 40 N
+F > fₛ,max  ->  moves
+f_k = 0.3 * 80 = 24 N
 a = (50-24)/8 = 3.25 m/s**2
 </details>
 
 ### Problem 2
-Block on 45° incline, $\mu_k$ = 0.4
+Block on 45° incline, μ_k = 0.4
 Find acceleration down the plane.
 
 <details>
 <summary>Solution</summary>
-a = g(sin(45°) - $\mu_k$cos(45°))
+a = g(sin(45°) - μ_kcos(45°))
 = 10(0.707 - 0.4×0.707)
 = 10(0.707 - 0.283)
 = 4.24 m/s**2
 </details>
 
 ### Problem 3
-Car braking, initial speed 25 m/s, $\mu_k$ = 0.6
+Car braking, initial speed 25 m/s, μ_k = 0.6
 Find stopping distance.
 
 <details>
 <summary>Solution</summary>
-d = u**2/(2$\mu_k$g)
+d = u**2/(2μ_kg)
 = 625/(2×0.6×10)
 = 625/12 = 52.1 m
 </details>

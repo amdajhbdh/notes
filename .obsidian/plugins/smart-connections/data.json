@@ -33,5 +33,6 @@
   "temperature": 0.7,
   "top_k": 10,
   "similarity_threshold": 0.5,
-  "last_version": "1.0.0"
+  "last_version": "1.0.0",
+  "installed_at": 1773293198208
 }

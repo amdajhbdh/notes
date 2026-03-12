@@ -1,6 +1,82 @@
-# AGENTS.md - Content Creation and Formatting Rules
+# AGENTS.md - Content Creation and Development Rules
 
-## Mathematical Notation Standards
+This file contains rules for agents working in this repository. It covers both **content creation** (educational materials) and **code development** (Python utilities).
+
+---
+
+## Part 1: Python Development Rules
+
+### Build/Lint/Test Commands
+
+**Python Version**: 3.11+
+
+**Linting** (uses ruff):
+```bash
+# Lint all Python files
+ruff check .
+
+# Fix auto-fixable issues
+ruff check . --fix
+
+# Lint specific file
+ruff check agent-system.py
+```
+
+**Testing**:
+```bash
+# Run pytest (if tests exist)
+pytest
+
+# Run a single test
+pytest tests/test_file.py::test_function_name
+
+# Run with verbose output
+pytest -v
+
+# Run tests matching a pattern
+pytest -k "test_pattern"
+```
+
+**Type Checking** (optional, using mypy):
+```bash
+mypy .
+```
+
+**Format Code**:
+```bash
+# Format with ruff
+ruff format .
+```
+
+### Code Style Guidelines
+
+**Imports**: Group: stdlib → third-party → local; avoid wildcards; sort alphabetically
+
+**Formatting**: 100 chars max, 4 spaces, trailing commas, one blank line between top-level
+
+**Types**: Use type hints, prefer `Optional[X]`, concrete types for public APIs
+
+**Naming**: Classes `PascalCase`, funcs/vars `snake_case`, constants `SCREAMING_SNAKE_CASE`, private `_prefix`
+
+**Error Handling**: Specific exceptions, meaningful messages, never silent catch
+
+```python
+def process_file(file_path: Path, output_dir: Path) -> List[str]:
+    """Process a single file and return results."""
+    if not file_path.exists():
+        raise FileNotFoundError(f"Input file not found: {file_path}")
+    results: List[str] = []
+    try:
+        content = file_path.read_text(encoding="utf-8")
+        results = parse_content(content)
+    except UnicodeDecodeError as e:
+        raise ValueError(f"Invalid encoding in {file_path}") from e
+    return results
+```
+
+---
+
+## Part 2: Mathematical Notation Standards
 
 ### ✅ **REQUIRED: Use LaTeX for ALL mathematical expressions**
 
@@ -16,68 +92,53 @@ $$K_a = \frac{[H_3O^+][A^-]}{[AH]}$$
 
 ### ❌ **FORBIDDEN: ASCII/Unicode math symbols**
 
-**ZERO TOLERANCE POLICY - Never use these in ANY context:**
+**Subscripts (FORBIDDEN):** H₂O, CO₂, NH₃, x₀, x₁ → Use `$H_2O$`, `$CO_2$`, `$NH_3$`, `$x_0$`, `$x_1$`
 
-**Subscripts (FORBIDDEN):**
-- H₂O, CO₂, NH₃, SO₄, CH₃, NO₃ → Use `$H_2O$`, `$CO_2$`, `$NH_3$`, `$SO_4$`, `$CH_3$`, `$NO_3$`
-- x₀, x₁, x₂, t₀, V₁, I₂ → Use `$x_0$`, `$x_1$`, `$x_2$`, `$t_0$`, `$V_1$`, `$I_2$`
+**Superscripts (FORBIDDEN):** x², x³, e^x, 10⁻⁴, Ca²⁺ → Use `$x^2$`, `$x^3$`, `$e^x$`, `$10^{-4}$`, `$Ca^{2+}$`
 
-**Superscripts (FORBIDDEN):**
-- x², x³, e^x, 10⁻⁴, 10⁻¹⁴, Ca²⁺, m² → Use `$x^2$`, `$x^3$`, `$e^x$`, `$10^{-4}$`, `$10^{-14}$`, `$Ca^{2+}$`, `$m^2$`
+**Greek letters (FORBIDDEN):** α, β, γ, δ, θ, λ, μ, π, σ, φ, ω → Use `$\alpha$`, `$\beta$`, etc.
 
-**Greek letters (FORBIDDEN):**
-- α, β, γ, δ, ε, θ, λ, μ, π, ρ, σ, φ, ω, Δ, Σ, Ω → Use `$\alpha$`, `$\beta$`, `$\gamma$`, `$\delta$`, `$\varepsilon$`, `$\theta$`, `$\lambda$`, `$\mu$`, `$\pi$`, `$\rho$`, `$\sigma$`, `$\phi$`, `$\omega$`, `$\Delta$`, `$\Sigma$`, `$\Omega$`
-
-**Special symbols (FORBIDDEN):**
-- ≤, ≥, ≠, ±, ×, ÷, ∑, ∫, √, ∞, ∂ → Use `$\leq$`, `$\geq$`, `$\neq$`, `$\pm$`, `$\times$`, `$\div$`, `$\sum$`, `$\int$`, `$\sqrt{}$`, `$\infty$`, `$\partial$`
-
-**Units with symbols (FORBIDDEN):**
-- Ω (ohm), µ (micro), ° (degree) → Use `$\Omega$`, `$\mu$`, `$^\circ$` or write as text: "ohms", "micro", "degrees"
+**Special symbols (FORBIDDEN):** ≤, ≥, ≠, ±, ×, ÷, ∑, ∫, √, ∞ → Use `$\leq$`, `$\geq$`, `$\neq$`, `$\pm$`, etc.
 
 ### **Common LaTeX Conversions**
 
-| ASCII/Unicode | LaTeX | Example |
-|---------------|-------|---------|
-| H₂SO₄ | `$H_2SO_4$` | Sulfuric acid |
-| 10⁻¹⁴ | `$10^{-14}$` | Scientific notation |
-| α = 0.1% | `$\alpha = 0.1\%$` | Ionization coefficient |
-| ΔH° | `$\Delta H^{\circ}$` | Standard enthalpy |
-| ∫₀¹ f(x)dx | `$\int_0^1 f(x)dx$` | Definite integral |
-| Σᵢ₌₁ⁿ xᵢ | `$\sum_{i=1}^n x_i$` | Summation |
+| ASCII/Unicode | LaTeX |
+|---------------|-------|
+| H₂SO₄ | `$H_2SO_4$` |
+| 10⁻¹⁴ | `$10^{-14}$` |
+| ∫₀¹ f(x)dx | `$\int_0^1 f(x)dx$` |
 
-## Content Organization Rules
+---
 
-### **File Structure**
-- Use descriptive filenames with hyphens: `Solutions-Aqueuses-Avancees.md`
-- Include level indicators: `(7ème/Terminale)`, `(Advanced)`, `(Basic)`
-- Add source attribution: `*Source: École XYZ - 2024-2025*`
+## Part 3: Content Organization Rules
 
-### **Section Headers**
+**File Structure**: `Topic-Subtopic.md`, include level `(7ème/Terminale)`, add source `*Source: ...*`
+
+**Section Headers**:
 ```markdown
 # Main Topic - Subtopic (Level)
 ## Concepts Clés / Key Concepts  
 ### Specific Topic
-#### Detailed Subtopic
 ```
 
-### **Exercise Format**
+**Exercise Format**:
 ```markdown
 ## Exercice N: Title
 
-### Énoncé / Problem Statement
-[Problem description with LaTeX math]
+### Énoncé
+[Problem with LaTeX math]
 
-### Méthode de résolution / Solution Method
+### Méthode de résolution
 1. **Step 1**: Description
    $$equation$$
-2. **Step 2**: Description
-   $$equation$$
 
-### Résultat / Result
+### Résultat
 $$final\_answer$$
 ```
 
-## Quality Standards
+---
+
+## Part 4: Quality Standards
 
 ### **Mathematical Rigor**
 - Always show units: `$C = 0.1 \text{ mol/L}$`
@@ -95,41 +156,30 @@ $$final\_answer$$
 - **Intermediate (7ème C/D)**: Complex problems, multiple steps
 - **Advanced (7ème/Terminale)**: University-prep level, theoretical depth
 
-## Automated Checks
+---
 
-### **Before Publishing**
+## Part 5: Automated Checks
+
 1. **Math Check**: Scan for ASCII math symbols
 2. **LaTeX Validation**: Ensure all `$...$` and `$$...$$` are properly closed
 3. **Level Verification**: Confirm content matches stated difficulty
 4. **Source Attribution**: Include original source information
+5. **Code Lint**: Run `ruff check .` on any modified Python files
 
-### **Conversion Script Usage**
 ```bash
-# Find ASCII math in files
-grep -r "[₀-₉⁺⁻²³¹⁴⁵⁶⁷⁸⁹]" *.md
-
-# Convert common patterns
+grep -r "[₀-₉⁺⁻²³¹⁴⁵⁆⁷⁸⁹]" *.md
 sed -i 's/H₂O/$H_2O$/g' *.md
-sed -i 's/CO₂/$CO_2$/g' *.md
-sed -i 's/10⁻¹⁴/$10^{-14}$/g' *.md
 ```
 
-## Agent Responsibilities
+---
 
-### **Content Extraction Agents**
-- Convert all ASCII/Unicode math to LaTeX during extraction
-- Maintain source attribution and academic level
-- Organize content into appropriate subject folders
+## Part 6: Agent Responsibilities
 
-### **Quality Assurance Agents**
-- Scan for non-LaTeX mathematical notation
-- Verify equation formatting and completeness
-- Check for proper academic level classification
-
-### **Update Agents**
-- Apply formatting rules to existing content
-- Maintain consistency across all files
-- Update indexes when content is modified
+- **Content Agents**: Convert ASCII math to LaTeX, maintain source attribution
+- **QA Agents**: Scan for non-LaTeX notation, verify equation formatting
+- **Code Agents**: Follow Part 1 guidelines, run linting, add type hints
+- **Update Agents**: Apply formatting rules, maintain consistency
 
 ---
+
 *This document must be followed by all content creation and modification agents*

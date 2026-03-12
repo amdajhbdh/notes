@@ -12,7 +12,12 @@
       "hiddenFileProperties": [],
       "navigationBanner": null,
       "periodicNotesFolder": "",
-      "shortcuts": []
+      "shortcuts": [
+        {
+          "type": "note",
+          "path": "01-Concepts/Biology/assets/media/images/action_potential/ActionPotential_ManimCE_v0.20.1.png"
+        }
+      ]
     }
   ],
   "vaultProfile": "default",

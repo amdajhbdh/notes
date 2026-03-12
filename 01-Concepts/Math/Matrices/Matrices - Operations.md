@@ -103,7 +103,7 @@ AB = | 1·1+2·2+3·3 | = | 14 |
      | 4·1+5·2+6·3 |   | 32 |
 
 ### Properties
-- **NOT commutative**: AB $\neq$ BA (usually)
+- **NOT commutative**: AB ≠ BA (usually)
 - Associative: (AB)C = A(BC)
 - Distributive: A(B + C) = AB + AC
 - Identity: AI = IA = A
@@ -116,7 +116,7 @@ A = | 1  2 |    B = | 0  1 |
 AB = | 2  1 |    BA = | 0  1 |
      | 1  0 |         | 1  2 |
 
-AB $\neq$ BA
+AB ≠ BA
 
 ## Matrix Powers
 

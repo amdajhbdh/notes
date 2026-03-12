@@ -98,7 +98,7 @@ det(A) = (aei + bfg + cdh) - (ceg + afh + bdi)
 
 ### Special Cases
 - det(A) = 0 ⟺ A is singular (not invertible)
-- det(A) $\neq$ 0 ⟺ A is invertible
+- det(A) ≠ 0 ⟺ A is invertible
 - If row/column is all zeros: det(A) = 0
 - If two rows/columns identical: det(A) = 0
 - Triangular matrix: det = product of diagonal elements

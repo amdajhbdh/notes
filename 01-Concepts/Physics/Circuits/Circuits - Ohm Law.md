@@ -36,6 +36,8 @@ The current through a conductor is directly proportional to the voltage and inve
 
 **Formula**: V = IR
 
+![Ohm's Law](assets/ohm-law.png)
+
 Where:
 - V = voltage (volts, V)
 - I = current (amperes, A)

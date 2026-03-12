@@ -13,26 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-03-11.md",
+                "file": "2026-03-12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-11"
-            }
-          },
-          {
-            "id": "7c35e975913d2532",
-            "type": "leaf",
-            "state": {
-              "type": "smart-release-notes-view",
-              "state": {},
-              "icon": "file-text",
-              "title": "Release Notes"
+              "title": "2026-03-12"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#help",
+                "query": "line:()",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,16 +90,16 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-ghost",
+              "title": "recent-files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "278ce2edc61e95f0",
@@ -126,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/Kinetics/Kinetics - Reaction Rates.md",
+                "file": "00-Meta/DEEP-DIVE-INDEX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kinetics - Reaction Rates"
+              "title": "Backlinks for DEEP-DIVE-INDEX"
             }
           },
           {
@@ -145,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/Solutions/Solutions - Concentration.md",
+                "file": "00-Meta/DEEP-DIVE-INDEX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Solutions - Concentration"
+              "title": "Outgoing links from DEEP-DIVE-INDEX"
             }
           },
           {
@@ -188,17 +177,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-03-11.md",
+                "file": "2026-03-12.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-03-11"
+              "title": "Outline of 2026-03-12"
             }
           },
           {
-            "id": "3e6db449d5196787",
+            "id": "72ecf36c25a9a795",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -208,7 +197,7 @@
             }
           },
           {
-            "id": "0460e960768cb50c",
+            "id": "8d0f715167df2622",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -216,9 +205,29 @@
               "icon": "smart-connections",
               "title": "Connections"
             }
+          },
+          {
+            "id": "d7eaffc014d481f8",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
+          },
+          {
+            "id": "e20d3bbb39a8e5d4",
+            "type": "leaf",
+            "state": {
+              "type": "smart-lookup-view",
+              "state": {},
+              "icon": "smart-lookup",
+              "title": "Lookup"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -233,66 +242,66 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-importer:Open Importer": false,
       "homepage:Open homepage": false,
       "omnisearch:Omnisearch": false,
       "notebook-navigator:Notebook Navigator": false,
-      "obsidian-importer:Open Importer": false,
       "companion:Toggle completion": false,
       "dashboard-navigator:Open dashboard navigator": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-git:Open Git source control": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Smart Lookup: Open lookup view": false,
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "0460e960768cb50c",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "LICENSE",
-    "notes/README.md",
-    "notes/LICENSE",
-    "notes",
-    "2026-03-11.md",
-    "05-Extracted/INDEX.md",
-    "00-Meta/MOCs/Math MOC.md",
-    "2026-03-10.md",
-    "goose-x86_64-unknown-linux-gnu.tar.bz2",
-    "tar_error.log",
-    "DEEP-DIVE-ALL-TOPICS.md",
-    "QUICK-REFERENCE.md",
-    "QUICK-START-TODAY.md",
-    "04-Exams/BAC-2002-2012/BAC-Index.md",
-    "RESEARCH-ANALYSIS-PLAN.md",
+    "01-Concepts/Physics/Energy/Energy - Practice Medium.md",
+    "01-Concepts/Physics/Energy/Energy - Practice Easy.md",
+    "01-Concepts/Physics/Circuits/Circuits - Practice Easy.md",
+    "01-Concepts/Physics/Electromagnetism/EM - Practice Hard.md",
+    "01-Concepts/Physics/Electromagnetism/EM - Practice Medium.md",
+    "01-Concepts/Physics/Electromagnetism/EM - Practice Easy.md",
+    "01-Concepts/Physics/Electromagnetism/EM - Magnetic Fields.md",
+    "01-Concepts/Physics/Energy/Energy - Kinetic.md",
+    "01-Concepts/Physics/Dynamics/Dynamics - Practice Hard.md",
+    "01-Concepts/Physics/Dynamics/Dynamics - Practice Medium.md",
+    "check_links.py",
     "00-Meta/DEEP-DIVE-INDEX.md",
-    "COMPREHENSIVE-STUDY-GUIDE.md",
-    "EXAM-QUESTION-BANK.html",
-    "EXAM-QUESTION-BANK.md",
-    "exam-question-generator.js",
-    "DEEP-DIVE-ALL-TOPICS.html",
-    "deep-dive-generator.js",
-    "03-Resources/INDEX.md",
-    "05-Extracted/Resources/Physics/الفيزياء-كتاب-المغنى-للأستاذ-لبات-_-Ch1-Donner lexpression vectorielle de la force gravita.md",
-    "07-Assets/PDFs/كتاب-الرياضيات-للسنة-السابعة-علمية-D-C.pdf",
-    "07-Assets/PDFs/كتاب-الرياضيات-للسنة-السابعة-علمية-D-C-1.pdf",
-    "05-Extracted/Resources/Physics/الفيزياء-كتاب-المغنى-للأستاذ-لبات-_-Ch6-Expression de T en fonction de V et r  T        av.md",
-    "06-Daily/Progress-Dashboard.md",
-    "Untitled.md",
-    "QUICK-COMMANDS.md",
-    "00-Meta/CLEANUP-REPORT.md",
-    "04-Exams/INDEX.md",
-    "02-Practice/INDEX.md",
-    "01-Concepts/INDEX.md",
-    "00-Meta/Archive/COMBINED-TASK-ARCHIVE.md",
-    "00-Meta/MOCs/Physics MOC.md",
-    "Animations/media/Tex/f27c00bbc70542aa_.svg",
-    "Animations/media/Tex/ba60e57d084ca759_.svg",
-    "Animations/media/texts/58ba6a101c9970d3_.svg",
-    "Animations/media/Tex/79f1156cc1f5337a_.svg",
-    "Animations/media/Tex/229a23370fbbb893_.svg",
-    "Animations/media/texts/25119a03d3dad242_.svg",
-    "Animations/media/texts/3d1aa923ef3ea264_.svg",
-    "Animations/media/texts/d74411f85a2ca0d5_.svg",
-    "Animations/media/texts/205ae85ed2ff03ea_.svg",
-    "Animations/media/texts/b02a716e4fbd4810_.svg"
+    "01-Concepts/Natural-Sciences/Geology/Geology - Rock Types.md",
+    "01-Concepts/Natural-Sciences/Nervous-System/Nervous - Reflexes.md",
+    "01-Concepts/Natural-Sciences/Nervous-System/Nervous - Brain Structure.md",
+    "01-Concepts/Natural-Sciences/Nervous-System/Nervous - PNS.md",
+    "01-Concepts/Natural-Sciences/Nervous-System/Nervous - CNS.md",
+    "01-Concepts/Natural-Sciences/Nervous-System/Nervous - Synapses.md",
+    "01-Concepts/Natural-Sciences/Nervous-System/Nervous - Action Potential.md",
+    "01-Concepts/Natural-Sciences/Reproduction/Reproduction - Hormones.md",
+    "01-Concepts/Natural-Sciences/Reproduction/Reproduction - Development.md",
+    "01-Concepts/Natural-Sciences/Reproduction/Reproduction - Fertilization.md",
+    "01-Concepts/Natural-Sciences/Reproduction/Reproduction - Gametogenesis.md",
+    "01-Concepts/Natural-Sciences/Reproduction/Reproduction - Female System.md",
+    "01-Concepts/Natural-Sciences/Reproduction/Reproduction - Male System.md",
+    "01-Concepts/Natural-Sciences/Genetics/Genetics - Punnett Squares.md",
+    "01-Concepts/Natural-Sciences/Genetics/Genetics - Mutations.md",
+    "01-Concepts/Physics/Laplace",
+    "01-Concepts/Physics/Satellites",
+    "01-Concepts/Physics/Circuits/assets/ohm-law.png",
+    "01-Concepts/Physics/Energy/Energy",
+    "01-Concepts/Physics/Energy",
+    "01-Concepts/Physics/Dynamics/assets/projectile-motion.png",
+    "01-Concepts/Physics/Dynamics/assets/media/images/projectile_motion/ProjectileMotion_ManimCE_v0.20.1.png",
+    "01-Concepts/Physics/Dynamics/assets/media/texts/03e5e58833ede88c_.svg",
+    "01-Concepts/Physics/Dynamics/assets/media/texts/03e5e58833ede88c.svg",
+    "01-Concepts/Physics/Dynamics/assets/media/images/projectile_motion",
+    "01-Concepts/Physics/Dynamics/assets/__pycache__/projectile_motion.cpython-314.pyc",
+    "01-Concepts/Physics/Dynamics/assets/projectile_motion.py",
+    "01-Concepts/Physics/Dynamics/assets/exponential-decay.png",
+    "01-Concepts/Physics/Dynamics/assets/media/images/exponential_decay/ExponentialDecay_ManimCE_v0.20.1.png",
+    "01-Concepts/Physics/Dynamics/assets/media/Tex/9e2d694b655c8910.svg",
+    "01-Concepts/Physics/Dynamics/assets/media/Tex/9e2d694b655c8910.aux",
+    "01-Concepts/Physics/Dynamics/assets/media/Tex/9e2d694b655c8910.log",
+    "01-Concepts/Physics/Dynamics/assets/media/Tex/e8c37c504f1ebf40_.svg",
+    "01-Concepts/Physics/Dynamics/assets/media/Tex/e8c37c504f1ebf40.svg"
   ]
 }

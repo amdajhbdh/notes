@@ -1,12 +1,9 @@
 {
   "theme": "system",
-  "accentColor": "#5cf2f5",
+  "accentColor": "#5cd6f5",
   "cssTheme": "Baseline",
-  "enabledCssSnippets": [
-    "Colored Sidebar Items",
-    "modern-theme",
-    "vault-styling"
-  ],
+  "enabledCssSnippets": [],
   "nativeMenus": true,
-  "baseFontSize": 20
+  "baseFontSize": 20,
+  "interfaceFontFamily": "BlexMono Font Mono"
 }

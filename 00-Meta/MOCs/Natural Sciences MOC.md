@@ -97,13 +97,3 @@ aliases: [Biology Hub, Natural Sciences Hub]
 ---
 
 *Understanding life and Earth*
-
-### Biology - Core Concepts (NEW)
-- [[Genetics-Basics]]
-- [[Hormones-Regulation]]
-- [[Nervous-System]]
-
-### Biology - Practice (NEW)
-- [[Genetics-Exercises]]
-- [[Hormones-Exercises]]
-- [[Nervous-System-Exercises]]

@@ -39,6 +39,8 @@ A **complex number** is a number of the form:
 
 $$z = a + bi$$
 
+![Argand Plane](assets/argand-plane.png)
+
 Where:
 - $a$ = real part, denoted $\text{Re}(z)$
 - $b$ = imaginary part, denoted $\text{Im}(z)$

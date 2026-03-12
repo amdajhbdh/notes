@@ -187,7 +187,7 @@ Each animation includes:
 2. **Scene 2** - Horizontal spring setup
 3. **Scene 3a** - Derive differential equation: mẍ + Kx = 0
 4. **Scene 3b** - Solve for x(t) with initial conditions
-5. **Scene 3c** - Express energy E = $\frac{1}{2}$Kx**2 + $\frac{1}{2}$mv**2 = $\frac{1}{2}$KXm**2
+5. **Scene 3c** - Express energy E = ½Kx**2 + ½mv**2 = ½KXm**2
 6. **Scene 4** - Verify differential equation from dE/dt = 0
 
 **Duration:** ~4 minutes

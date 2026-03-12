@@ -22,8 +22,11 @@
   "rainbow-colored-sidebar",
   "omnisearch",
   "notebook-navigator",
-  "cmdr",
   "companion",
   "dashboard-navigator",
-  "extended-graph"
+  "extended-graph",
+  "mermaid-tools",
+  "vimium",
+  "smart-connections",
+  "animated-cursor"
 ]

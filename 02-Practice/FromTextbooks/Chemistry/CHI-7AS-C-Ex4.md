@@ -18,7 +18,7 @@
 
 
 
-  6. Comparer $\alpha$1 et $\alpha$2. Conclure
+  6. Comparer α1 et α2. Conclure
                                 ‫رﺑو‬
   4. Déterminer la concentration des espèces chimiques pr
 

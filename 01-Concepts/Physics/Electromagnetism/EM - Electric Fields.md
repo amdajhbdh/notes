@@ -54,6 +54,9 @@ Where:
 - Toward negative charge
 
 ## Electric Field Lines
+
+![Electric Field](assets/electric-field.png)
+
 - Start on positive charges
 - End on negative charges
 - Never cross
