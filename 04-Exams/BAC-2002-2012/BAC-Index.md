@@ -104,9 +104,9 @@ Examens avec circuits:
 
 ## Analyses & Patterns
 
-- [[DEEP_PATTERN_ANALYSIS]] - Analyse complète des patterns (2002-2012)
-- [[7C_COMPLETE_CURRICULUM_ANALYSIS]] - Structure du curriculum
-- [[MASTER_REPORT]] - Rapport d'analyse global
+- [[ANALYZER-REPORT]] - Analyse des patterns par sujet
+- [[EXERCISE-BREAKDOWN-COMPLETE]] - Structure du curriculum
+- [[COMPREHENSIVE-STUDY-GUIDE]] - Guide d'étude complet
 
 ---
 
