@@ -4,24 +4,90 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "a66caac1b5e127fc",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "4deabe66e8bc3227",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "01-Concepts/Biology/Genetique-Diagrammes.excalidraw"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Genetique-Diagrammes"
+            }
+          },
+          {
+            "id": "e9341c357e364c26",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "01-Concepts/Biology/Genetique-Graph-Complet.canvas",
+                "viewState": {
+                  "x": 500.2257054368278,
+                  "y": 925.2831381177599,
+                  "zoom": -0.900905442057538
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Genetique-Graph-Complet"
+            }
+          },
+          {
+            "id": "77d42eb60e26e4cc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "01-Concepts/Biology/Genetique-Graph-Complet.excalidraw"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Genetique-Graph-Complet"
+            }
+          },
+          {
+            "id": "213b236e1f5e62c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-03-12.md",
+                "file": "01-Concepts/Biology/Genetique-Graphes-Visuels.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-12"
+              "title": "Genetique-Graphes-Visuels"
+            }
+          },
+          {
+            "id": "8f5c9edc6b4673a8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "81be413bb72a789a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Concepts/Biology/Genetique-Catalogue-Complet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Genetique-Catalogue-Complet"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -53,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:()",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,12 +160,12 @@
               "title": "recent-files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "278ce2edc61e95f0",
@@ -109,39 +175,6 @@
         "id": "ef59914f0edce0fb",
         "type": "tabs",
         "children": [
-          {
-            "id": "476000c0cce1bdf7",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "00-Meta/DEEP-DIVE-INDEX.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for DEEP-DIVE-INDEX"
-            }
-          },
-          {
-            "id": "80749cdc3e6acee4",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "00-Meta/DEEP-DIVE-INDEX.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from DEEP-DIVE-INDEX"
-            }
-          },
           {
             "id": "a174d17f9a012057",
             "type": "leaf",
@@ -156,82 +189,13 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "67faf3d1823a8e41",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "083a2659948129e8",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "2026-03-12.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 2026-03-12"
-            }
-          },
-          {
-            "id": "72ecf36c25a9a795",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
-          },
-          {
-            "id": "8d0f715167df2622",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "smart-connections",
-              "title": "Connections"
-            }
-          },
-          {
-            "id": "d7eaffc014d481f8",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
-            }
-          },
-          {
-            "id": "e20d3bbb39a8e5d4",
-            "type": "leaf",
-            "state": {
-              "type": "smart-lookup-view",
-              "state": {},
-              "icon": "smart-lookup",
-              "title": "Lookup"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 774.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,56 +216,63 @@
       "mermaid-tools:Open Mermaid Toolbar": false,
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Smart Lookup: Open lookup view": false,
-      "smart-connections:Smart Connections: Open random connection": false
+      "smart-connections:Smart Connections: Open random connection": false,
+      "ai-agent:Chat with Agent": false,
+      "obsidian42-brat:BRAT": false,
+      "agent-client:Open agent client": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "81be413bb72a789a",
   "lastOpenFiles": [
+    "01-Concepts/Biology/Genetique-Graph-Complet.canvas",
+    "01-Concepts/Biology/Genetique-Graph-Complet.excalidraw",
+    "01-Concepts/Biology/Genetique-Diagrammes.excalidraw",
+    "01-Concepts/Biology/Genetique-Graphes-Visuels.md",
+    "01-Concepts/Biology/Genetique-Graph-Complet.excalidraw 2.md",
+    "01-Concepts/Biology/Genetique-Graph-Complet.excalidraw 1.md",
+    "01-Concepts/Biology/Genetique-Graph-Complet.excalidraw.md",
+    "01-Concepts/Biology/Genetique-Catalogue-Complet.md",
+    "00-Meta/MOCs/Natural Sciences MOC.md",
+    "Untitled 1.md",
+    "01-Concepts/Natural-Sciences/Genetics/Genetics - Replication.md",
+    "01-Concepts/Biology/Genetique-Exercises.base",
+    "01-Concepts/Biology/Genetique-Overview.canvas",
+    "01-Concepts/Natural-Sciences/Genetics/Genetics - Mutations.md",
+    "04-Exams/INDEX.md",
+    "Untitled.canvas",
+    "2026-03-13.md",
+    "01-Concepts/Biology/Genetique-Diagrammes.excalidraw.md",
+    "Chats/chat-2026-03-13T19-12-33-622Z.md",
+    "Chats",
+    "media/videos/genetics_crosses/1080p60/TitleScene.mp4",
+    "media/videos/genetics_crosses/1080p60/partial_movie_files/TitleScene/partial_movie_file_list.txt",
+    "media/videos/genetics_crosses/1080p60/partial_movie_files/TitleScene/2844486279_2872842549_2927428464.mp4",
+    "media/videos/genetics_crosses/1080p60/partial_movie_files/TitleScene/2844486279_2328802516_1778827235.mp4",
+    "media/videos/genetics_crosses/1080p60/partial_movie_files/TitleScene/834906505_116295621_223132457.mp4",
+    "media/texts/c851e4ee460789b6_.svg",
+    "media/texts/c851e4ee460789b6.svg",
+    "media/texts/e2d486f938485f93_.svg",
+    "media/texts/e2d486f938485f93.svg",
+    "media/videos/genetics_crosses/1080p60/partial_movie_files/TitleScene",
+    "media/texts/b561469a49bc6b2d_.svg",
+    "media/texts/b561469a49bc6b2d.svg",
+    "media/texts/c2b81023f1b6a51d_.svg",
+    "media/texts/c2b81023f1b6a51d.svg",
+    "media/texts/7d508671e8589cd7_.svg",
+    "media/texts/7d508671e8589cd7.svg",
+    "01-Concepts/Biology/Genetique-Croisements.md",
+    "01-Concepts/Biology/Genetique-Croisements 1.md",
+    "05-Extracted/INDEX.md",
+    "04-Exams/BAC-2002-2012/BAC-Index.md",
+    "FINAL-SYSTEM-SUMMARY.md",
+    "08-Templates/Physics-Law-Template.md",
+    "08-Templates/Math-Theorem-Template.md",
+    "2026-03-12.md",
     "01-Concepts/Physics/Circuits/Circuits - Practice Hard.md",
     "01-Concepts/Physics/Circuits/Circuits - Practice Medium.md",
     "01-Concepts/Physics/Energy/Energy - Practice Hard.md",
-    "01-Concepts/Physics/Energy/Energy - Practice Medium.md",
-    "01-Concepts/Physics/Energy/Energy - Practice Easy.md",
-    "01-Concepts/Physics/Circuits/Circuits - Practice Easy.md",
-    "01-Concepts/Physics/Electromagnetism/EM - Practice Hard.md",
-    "01-Concepts/Physics/Electromagnetism/EM - Practice Medium.md",
-    "01-Concepts/Physics/Electromagnetism/EM - Practice Easy.md",
-    "01-Concepts/Physics/Electromagnetism/EM - Magnetic Fields.md",
-    "01-Concepts/Physics/Energy/Energy - Kinetic.md",
-    "01-Concepts/Physics/Dynamics/Dynamics - Practice Hard.md",
-    "01-Concepts/Physics/Dynamics/Dynamics - Practice Medium.md",
-    "check_links.py",
-    "00-Meta/DEEP-DIVE-INDEX.md",
-    "01-Concepts/Natural-Sciences/Geology/Geology - Rock Types.md",
-    "01-Concepts/Natural-Sciences/Nervous-System/Nervous - Reflexes.md",
-    "01-Concepts/Natural-Sciences/Nervous-System/Nervous - Brain Structure.md",
-    "01-Concepts/Natural-Sciences/Nervous-System/Nervous - PNS.md",
-    "01-Concepts/Natural-Sciences/Nervous-System/Nervous - CNS.md",
-    "01-Concepts/Natural-Sciences/Nervous-System/Nervous - Synapses.md",
-    "01-Concepts/Natural-Sciences/Nervous-System/Nervous - Action Potential.md",
-    "01-Concepts/Natural-Sciences/Reproduction/Reproduction - Hormones.md",
-    "01-Concepts/Natural-Sciences/Reproduction/Reproduction - Development.md",
-    "01-Concepts/Natural-Sciences/Reproduction/Reproduction - Fertilization.md",
-    "01-Concepts/Natural-Sciences/Reproduction/Reproduction - Gametogenesis.md",
-    "01-Concepts/Natural-Sciences/Reproduction/Reproduction - Female System.md",
-    "01-Concepts/Physics/Laplace",
-    "01-Concepts/Physics/Satellites",
-    "01-Concepts/Physics/Circuits/assets/ohm-law.png",
-    "01-Concepts/Physics/Energy/Energy",
-    "01-Concepts/Physics/Energy",
-    "01-Concepts/Physics/Dynamics/assets/projectile-motion.png",
-    "01-Concepts/Physics/Dynamics/assets/media/images/projectile_motion/ProjectileMotion_ManimCE_v0.20.1.png",
-    "01-Concepts/Physics/Dynamics/assets/media/texts/03e5e58833ede88c_.svg",
-    "01-Concepts/Physics/Dynamics/assets/media/texts/03e5e58833ede88c.svg",
-    "01-Concepts/Physics/Dynamics/assets/media/images/projectile_motion",
-    "01-Concepts/Physics/Dynamics/assets/__pycache__/projectile_motion.cpython-314.pyc",
-    "01-Concepts/Physics/Dynamics/assets/projectile_motion.py",
-    "01-Concepts/Physics/Dynamics/assets/exponential-decay.png",
-    "01-Concepts/Physics/Dynamics/assets/media/images/exponential_decay/ExponentialDecay_ManimCE_v0.20.1.png",
-    "01-Concepts/Physics/Dynamics/assets/media/Tex/9e2d694b655c8910.svg",
-    "01-Concepts/Physics/Dynamics/assets/media/Tex/9e2d694b655c8910.aux",
-    "01-Concepts/Physics/Dynamics/assets/media/Tex/9e2d694b655c8910.log",
-    "01-Concepts/Physics/Dynamics/assets/media/Tex/e8c37c504f1ebf40_.svg",
-    "01-Concepts/Physics/Dynamics/assets/media/Tex/e8c37c504f1ebf40.svg"
+    "01-Concepts/Physics/Energy/Energy - Practice Medium.md"
   ]
 }
