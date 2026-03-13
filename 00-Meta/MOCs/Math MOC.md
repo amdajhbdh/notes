@@ -82,9 +82,9 @@ aliases: [Mathematics, Math Hub]
 ---
 
 ## Diagrams & Visualizations
-- [[Math Diagrams/Complex Plane]]
+- [[Complex Numbers MOC]]
 - [[Math Diagrams/Integration Visualization]]
-- [[Math Diagrams/Matrix Transformations]]
+- [[Matrices MOC]]
 
 ---
 

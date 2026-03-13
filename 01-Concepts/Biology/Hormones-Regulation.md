@@ -19,4 +19,4 @@ Hormones = messagers chimiques transportés par le sang
 - FSH/LH → Reproduction
 - Adrénaline → Stress
 
-[[Natural Sciences MOC]]
+[[00-Meta/MOCs/Natural Sciences MOC]]

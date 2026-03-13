@@ -81,10 +81,10 @@ aliases: [Biology Hub, Natural Sciences Hub]
 ---
 
 ## Diagrams
-- [[Biology Diagrams/Cell Structure]]
+- [[Genetics MOC]]
 - [[Biology Diagrams/DNA Structure]]
 - [[Biology Diagrams/Neuron]]
-- [[Biology Diagrams/Brain]]
+- [[Nervous System MOC]]
 - [[Biology Diagrams/Reproductive Systems]]
 
 ---

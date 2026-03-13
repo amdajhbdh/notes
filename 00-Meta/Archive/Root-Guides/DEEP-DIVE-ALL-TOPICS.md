@@ -133,8 +133,8 @@ For rational functions: decompose into simpler fractions
 
 
 ## 2×2 Matrix
-det(A) = ad - bc for A = [[a,b],[c,d]]
-$A^-$¹ = (1/det(A)) × [[d,-b],[-c,a]]
+det(A) = ad - bc for A = [a,b],[c,d]
+$A^-$¹ = (1/det(A)) × [d,-b],[-c,a]
 
 ## 3×3 Matrix (Cofactor Expansion)
 det(A) = a₁₁(a₂₂a₃₃ - a₂₃a₃₂) - a₁₂(...) + a₁₃(...)
@@ -149,14 +149,14 @@ det(A) = a₁₁(a₂₂a₃₃ - a₂₃a₃₂) - a₁₂(...) + a₁₃(...)
 ## Questions d'Examen
 ### Questions BAC Possibles
 
-1. Find the determinant of [[1,2,3],[4,5,6],[7,8,9]]
-2. Calculate the inverse of [[2,1],[5,3]]
+1. Find the determinant of [1,2,3],[4,5,6],[7,8,9]
+2. Calculate the inverse of [2,1],[5,3]
 3. Solve the system using matrices: 2x + y = 5, x - y = 1
-4. Find eigenvalues of [[3,1],[1,3]]
+4. Find eigenvalues of [3,1],[1,3]
 5. Prove that det(AB) = det(A)·det(B)
-6. Find the rank of [[1,2,3],[2,4,6]]
-7. Calculate [[1,2],[3,4]]³
-8. Determine if [[1,0],[0,1]] is orthogonal
+6. Find the rank of [1,2,3],[2,4,6]
+7. Calculate [1,2],[3,4]³
+8. Determine if [1,0],[0,1] is orthogonal
 
 ---
 

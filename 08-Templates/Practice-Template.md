@@ -1,15 +1,15 @@
 ---
-tags: [practice, {{SUBJECT}}, {{TOPIC}}, {{DIFFICULTY}}-practice]
-difficulty: {{DIFFICULTY}}
-total_problems: {{NUMBER}}
+tags: [practice, biology, genetics, medium-practice]
+difficulty: medium
+total_problems: 5
 ---
 
-# {{TOPIC}} - Practice {{DIFFICULTY}}
+# Genetics - Practice Medium
 
-← Back to [[{{MOC_NAME}}]]
+← Back to [[Natural Sciences MOC]]
 
 ## Instructions
-- Time limit: {{TIME}} minutes
+- Time limit: 30 minutes
 - Show all work
 - Check answers at bottom
 
@@ -47,15 +47,15 @@ total_problems: {{NUMBER}}
 ---
 
 ## Score Yourself
-- {{HIGH}}: Excellent! Move to next level
-- {{MED}}: Good! Review mistakes
-- {{LOW}}: Review concepts
-- <{{LOW}}: Go back to basics
+- 90-100%: Excellent! Move to next level
+- 70-89%: Good! Review mistakes
+- 50-69%: Review concepts
+- <50%: Go back to basics
 
 ---
 
 ## Related Practice
-- [[{{TOPIC}} - Practice {{PREV_LEVEL}}]]
-- [[{{TOPIC}} - Practice {{NEXT_LEVEL}}]]
+- [[Genetics - Practice Easy]]
+- [[Genetics - Practice Hard]]
 
-Back to: [[{{MOC_NAME}}]] | [[000-INDEX]]
+Back to: [[Natural Sciences MOC]] | [[MASTER-INDEX]]

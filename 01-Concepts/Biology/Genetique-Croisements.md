@@ -1385,13 +1385,13 @@ $$\text{Ratio} = (3:1)^n$$
 
 ## Vidéos et Animations
 
-Voir [[Genetics-Manim-Animations]] pour les animations visuelles.
+Voir [[Genetique-Graph-Complet.canvas]] pour les animations visuelles.
 
 ## Exercices Complémentaires
 
-Voir [[Genetics-Exercises]] pour plus de problèmes.
+Voir [[02-Practice/Biology/Genetics-Exercises]] pour plus de problèmes.
 
 ---
 
 *Notes créées avec Obsidian*
-*Liens liés: [[Genetics-Basics]] | [[Genetics-Exercises]] | [[Natural Sciences MOC]]*
+*Liens liés: [[Genetics-Basics]] | [[02-Practice/Biology/Genetics-Exercises]] | [[00-Meta/MOCs/Natural Sciences MOC]]*

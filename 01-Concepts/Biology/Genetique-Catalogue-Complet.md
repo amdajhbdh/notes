@@ -389,4 +389,4 @@ Transmission exclusively maternelle.
 ---
 
 *Document complet - Tous les cas de croisements génétiques*
-*Voir aussi: [[Genetique-Croisements]] | [[Genetics-Manim-Animations]]*
+*Voir aussi: [[Genetique-Croisements]] | [[Genetique-Graph-Complet.canvas]]*

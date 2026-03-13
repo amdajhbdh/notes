@@ -163,10 +163,10 @@ EF min = 1.3
 
 ## Links
 
-- [[00 - Maps of Content/Math MOC]]
-- [[00 - Maps of Content/Physics MOC]]
-- [[00 - Maps of Content/Chemistry MOC]]
-- [[00 - Maps of Content/Natural Sciences MOC]]
+- [[Math MOC]]
+- [[Physics MOC]]
+- [[Chemistry MOC]]
+- [[Natural Sciences MOC]]
 
 ---
 

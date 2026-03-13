@@ -16,4 +16,4 @@
 ## Réflexe
 Arc réflexe: Récepteur → Neurone sensitif → Moelle → Neurone moteur → Effecteur
 
-[[Natural Sciences MOC]]
+[[00-Meta/MOCs/Natural Sciences MOC]]

@@ -1,13 +1,13 @@
 ---
-tags: [concept-note, {{SUBJECT}}, {{TOPIC}}]
+tags: [concept-note, biology, genetics]
 aliases: []
 status: todo
-created: {{date}}
+created: 2026-03-13
 ---
 
-# {{TITLE}}
+# Génétique - Titre
 
-← Back to [[{{MOC_NAME}}]]
+← Back to [[Natural Sciences MOC]]
 
 ## Key Concepts
 
@@ -29,13 +29,13 @@ $$
 
 ## Visualizations
 
-![[{{diagram-name}}.excalidraw]]
+![[Genetique-Diagrammes.excalidraw]]
 
 ## Related Notes
-- [[Related Note 1]]
-- [[Related Note 2]]
+- [[Genetics-Basics]]
+- [[Genetique-Croisements]]
 
-##Video Resources
+## Video Resources
 - [Video Title](URL)
 
 ## ✏Quick Practice
@@ -45,6 +45,6 @@ $$
 
 ---
 
-← [[Previous Topic]] | Next: [[Next Topic]]  -> 
+← Previous Topic | Next: Next Topic → 
 
-Back to: [[{{MOC_NAME}}]] | [[000-INDEX]]
+Back to: [[Natural Sciences MOC]] | [[MASTER-INDEX]]

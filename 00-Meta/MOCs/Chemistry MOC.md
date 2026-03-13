@@ -73,9 +73,9 @@ aliases: [Chemistry Hub]
 ---
 
 ## Diagrams
-- [[Chemistry Diagrams/Molecular Structures]]
-- [[Chemistry Diagrams/Reaction Mechanisms]]
-- [[Chemistry Diagrams/Energy Diagrams]]
+- [[Chemistry Formulas - Organic]]
+- [[Organic Chemistry MOC]]
+- [[Chemistry Formulas - Kinetics]]
 
 ---
 

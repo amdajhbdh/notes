@@ -111,7 +111,7 @@ aliases: [Physics Hub]
 - [[Physics Diagrams/Free Body Diagrams]]
 - [[Physics Diagrams/Electric Field Lines]]
 - [[Physics Diagrams/Magnetic Field Patterns]]
-- [[Physics Diagrams/Circuit Diagrams]]
+- [[Circuits MOC]]
 
 ---
 
