@@ -16,8 +16,13 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
+# Databases
+*.db
+*.db-journal
 
+# Cache
+.cache/
+.ruff_cache/
 
-
-# Ignore Smart Environment folder
-.smart-env
+# Keep this file
+!.gitignore
