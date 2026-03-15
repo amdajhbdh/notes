@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Session BAC — 14 Mars 2026</title>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<style>
+  :root { --accent: #2c5f8a; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'Segoe UI', sans-serif; background: #f5f5f5; color: #222; line-height: 1.7; }
+  body[dir="rtl"] { font-family: 'Segoe UI', 'Arial', sans-serif; }
+
+  header { background: var(--accent); color: white; padding: 1.2rem 2rem; display: flex; justify-content: space-between; align-items: center; }
+  header h1 { font-size: 1.2rem; font-weight: 600; }
+
+  .lang-btns button { background: rgba(255,255,255,0.2); border: 1px solid rgba(255,255,255,0.5); color: white; padding: 0.3rem 0.8rem; margin-left: 0.4rem; border-radius: 4px; cursor: pointer; font-size: 0.85rem; }
+  .lang-btns button.active { background: white; color: var(--accent); font-weight: bold; }
+
+  main { max-width: 860px; margin: 2rem auto; padding: 0 1rem; }
+
+  .lang-section { display: none; }
+  .lang-section.active { display: block; }
+
+  .dashboard { background: white; border-radius: 8px; padding: 1.2rem; margin-bottom: 1.5rem; box-shadow: 0 1px 4px rgba(0,0,0,0.08); }
+  table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+  th { background: var(--accent); color: white; padding: 0.5rem 0.8rem; text-align: left; }
+  body[dir="rtl"] th { text-align: right; }
+  td { padding: 0.45rem 0.8rem; border-bottom: 1px solid #eee; }
+  tr:last-child td { border-bottom: none; }
+  tr:nth-child(even) td { background: #f9f9f9; }
+
+  .card { background: white; border-radius: 8px; padding: 1.4rem; margin-bottom: 1.2rem; box-shadow: 0 1px 4px rgba(0,0,0,0.08); }
+  .card h2 { color: var(--accent); font-size: 1rem; border-bottom: 2px solid var(--accent); padding-bottom: 0.4rem; margin-bottom: 1rem; }
+  .card h3 { font-size: 0.95rem; margin: 1rem 0 0.5rem; color: #444; }
+  .card p, .card li { font-size: 0.9rem; margin-bottom: 0.4rem; }
+  .card ul { padding-left: 1.2rem; }
+  body[dir="rtl"] .card ul { padding-left: 0; padding-right: 1.2rem; }
+
+  ol.questions { list-style: none; padding: 0; margin: 0.5rem 0; }
+  ol.questions { counter-reset: q; }
+  ol.questions li { counter-increment: q; display: flex; align-items: flex-start; gap: 0.7rem; margin-bottom: 0.55rem; font-size: 0.9rem; }
+  ol.questions li::before { content: counter(q); min-width: 22px; height: 22px; background: var(--accent); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 0.72rem; font-weight: 700; flex-shrink: 0; margin-top: 0.1rem; }
+  body[dir="rtl"] ol.questions li { flex-direction: row-reverse; }
+
+  .pts { float: right; font-size: 0.8rem; background: #e8f0fe; color: var(--accent); padding: 0.1rem 0.5rem; border-radius: 10px; font-weight: 600; }
+  body[dir="rtl"] .pts { float: left; }
+
+  .formula-box { background: #f0f4ff; border-left: 3px solid var(--accent); padding: 0.6rem 1rem; margin: 0.5rem 0; border-radius: 0 4px 4px 0; font-size: 0.9rem; }
+  body[dir="rtl"] .formula-box { border-left: none; border-right: 3px solid var(--accent); border-radius: 4px 0 0 4px; }
+
+  .warning { background: #fff8e1; border-left: 3px solid #f9a825; padding: 0.5rem 1rem; margin: 0.4rem 0; border-radius: 0 4px 4px 0; font-size: 0.88rem; }
+  body[dir="rtl"] .warning { border-left: none; border-right: 3px solid #f9a825; border-radius: 4px 0 0 4px; }
+
+  input[type="number"] { width: 60px; border: 1px solid #ccc; border-radius: 4px; padding: 0.2rem 0.4rem; font-size: 0.85rem; }
+  textarea { width: 100%; border: 1px solid #ddd; border-radius: 4px; padding: 0.5rem; font-size: 0.85rem; resize: vertical; min-height: 60px; margin-top: 0.3rem; }
+
+  .score-total { font-size: 1.1rem; font-weight: bold; color: var(--accent); margin-top: 0.8rem; }
+</style>
+</head>
+<body>
+<header>
+  <h1 id="header-title">Session BAC — 14 Mars 2026</h1>
+  <div class="lang-btns">
+    <button onclick="setLang('fr')" id="btn-fr" class="active">FR</button>
+    <button onclick="setLang('ar')" id="btn-ar">AR</button>
+    <button onclick="setLang('en')" id="btn-en">EN</button>
+  </div>
+</header>
+<main>
+
+<!-- ===== FRENCH ===== -->
+<div class="lang-section active" id="lang-fr">
+
+  <div class="dashboard card">
+    <h2>Tableau de bord</h2>
+    <table>
+      <tr><th>Matière</th><th>Points</th><th>Score</th><th>Temps</th></tr>
+      <tr><td>Mathématiques</td><td>20</td><td><input type="number" min="0" max="20"> /20</td><td>1h45</td></tr>
+      <tr><td>Physique-Chimie</td><td>19</td><td><input type="number" min="0" max="19"> /19</td><td>1h30</td></tr>
+      <tr><td>SVT</td><td>18</td><td><input type="number" min="0" max="18"> /18</td><td>45 min</td></tr>
+    </table>
+    <p class="score-total">Total : <span id="total-fr">0</span> / 57</p>
+  </div>
+
+  <div class="card">
+    <h2>Formules clés</h2>
+    <h3>Probabilités</h3>
+    <div class="formula-box">\(P(A \cup B) = P(A) + P(B) - P(A \cap B)\)</div>
+    <div class="formula-box">\(P(A \cap B) = P(A) \cdot P(B|A)\)</div>
+    <h3>Complexes</h3>
+    <div class="formula-box">Racines de \(a+bi\) : poser \(z=x+iy\), résoudre \(x^2-y^2=a\) et \(2xy=b\)</div>
+    <h3>Analyse</h3>
+    <div class="formula-box">\(\displaystyle\int_a^b u\,v'\,dx = \bigl[uv\bigr]_a^b - \int_a^b u'\,v\,dx\)</div>
+    <h3>Chimie</h3>
+    <div class="formula-box">\(pH = pK_a + \log\dfrac{[A^-]}{[AH]} \implies \dfrac{[AH]}{[A^-]} = 10^{pK_a - pH}\)</div>
+    <h3>Physique</h3>
+    <div class="formula-box">\(F = B \cdot I \cdot \ell \qquad e = -\dfrac{d\Phi}{dt} \qquad L = \mu_0 \dfrac{N^2}{l} S\)</div>
+    <div class="formula-box">\(x_M(t) = a\cos\!\left(2\pi N t - \dfrac{2\pi d}{\lambda}\right)\)</div>
+  </div>
+
+  <div class="card">
+    <h2>Mathématiques — BAC 2025 Série D/SN</h2>
+
+    <h3>Ex 1 — Probabilités <span class="pts">3 pts</span></h3>
+    <p>120 fleurs : 25% parfumées, 40% des parfumées rouges, 55% blanches.</p>
+    <p>Calculer : \(P(S),\ P(R),\ P(B),\ P(B\cap S),\ P(B\cup S),\ P(S\cup R)\)</p>
+
+    <h3>Ex 2 — Nombres Complexes <span class="pts">5 pts</span></h3>
+    <p>\(P(z) = z^3 - (2+4i)z^2 - (2-8i)z + 4 - 12i\)</p>
+    <ol class="questions">
+      <li>Racines carrées de \(-8+6i\)</li>
+      <li>Résoudre \(z^2-(3+i)z+4=0\)</li>
+      <li>Trouver \(z_0\) tel que \(P(z)=(z-z_0)(z^2-(3+i)z+4)\)</li>
+      <li>Points \(A(1-i)\), \(B(2+2i)\), \(C(-1+3i)\) — vérifier \(f(z_C)=-i\), nature du triangle</li>
+      <li>Entiers \(n\) pour \(M_n \in\) axe réel, montrer \(M_{2025}\in(OA)\)</li>
+    </ol>
+
+    <h3>Ex 3 — Analyse <span class="pts">6 pts</span></h3>
+    <p>\(f(x) = (e^x - x - 2)e^{-x}\)</p>
+    <ol class="questions">
+      <li>Montrer \(f(x) = 1 - x + \frac{2}{e^x}\), limites, asymptote \(D\)</li>
+      <li>Montrer \(f'(x) = (x+1)e^{-x}\), tableau de variations</li>
+      <li>Bijection \(h=f|_{[-1,+\infty[}\), déterminer \(J\), tableau de \(h^{-1}\)</li>
+      <li>Montrer \(f(x)=0\) a 2 solutions, encadrer \(\alpha\)</li>
+      <li>\(\int_0^1 xe^x\,dx\) par parties, puis aire \(\mathcal{A}\)</li>
+    </ol>
+
+    <h3>Ex 4 — Logarithme <span class="pts">6 pts</span></h3>
+    <p>\(f(x) = \dfrac{x}{2} - \dfrac{\ln x}{2x},\quad x>0\)</p>
+    <ol class="questions">
+      <li>\(g(x)=x^2-1+\ln x\) : variations, signe</li>
+      <li>Limites de \(f\) en \(0^+\) et \(+\infty\), asymptote oblique \(\Delta: y=\frac{x}{2}\)</li>
+      <li>Montrer \(f'(x)=\frac{g(x)}{2x^2}\), tableau de variations</li>
+      <li>Tangente \(T\) parallèle à \(\Delta\), construction</li>
+      <li>Suite \(u_n = f(1/n)\) : croissante, limite</li>
+    </ol>
+  </div>
+
+  <div class="card">
+    <h2>Physique-Chimie — BAC 2010 Normal</h2>
+
+    <h3>Ex 1 — Acide Benzoïque <span class="pts">3 pts</span></h3>
+    <p>\(C_6H_5COOH\), \(pK_a=4{,}2\). Équation avec l'eau, \(K_a\), domaines, échelle pH.</p>
+    <p>Soda \(pH=3{,}7\) : calculer \(\dfrac{[C_6H_5COOH]}{[C_6H_5COO^-]}\). Dilution \(C_0=0{,}25\) → \(C=0{,}1\) mol/L.</p>
+
+    <h3>Ex 2 — Estérification <span class="pts">3,5 pts</span></h3>
+    <p>Acide éthanoïque (24g) + Butan-1-ol (29,6g), \(H_2SO_4\), 100°C. À \(t=1\)h : \(n_{\text{acide}}=0{,}132\) mol.</p>
+    <p>Équation, nom de l'ester, quantités initiales, rendement, rôle \(H_2SO_4\), méthode alternative.</p>
+
+    <h3>Ex 3 — Rails de Laplace <span class="pts">4 pts</span></h3>
+    <p>\(E=5\)V, \(r=5\,\Omega\), \(\ell=0{,}2\)m, \(B=0{,}2\)T, \(l=6\)cm.</p>
+    <p>Sens et intensité dans MN, force de Laplace, flux balayé (8cm), f.e.m en 1ms.</p>
+
+    <h3>Ex 4 — Bobine & Condensateur <span class="pts">4 pts</span></h3>
+    <p>2000 spires, \(\varnothing=6\)cm, \(l=40\)cm. Calculer \(L\) théorique et expérimentale, \(R'\), puis circuit \(r=25\,\Omega\) + bobine.</p>
+
+    <h3>Ex 5 — Ondes <span class="pts">3,5 pts</span></h3>
+    <p>\(N=50\)Hz, \(a=0{,}5\)cm, \(C=5\)m/s. Équation horaire, fréquence stroboscope, \(\lambda\), équation de \(M\) à 22,5cm.</p>
+  </div>
+
+  <div class="card">
+    <h2>SVT — BAC C/SN</h2>
+    <p>Ouvrir <code>mauritanian-bac/svt/bac_c_sn_2010_2018.pdf</code> — année 2016 ou 2017.</p>
+    <ol class="questions">
+      <li>Génétique : hérédité, crossing-over, dihybridisme</li>
+      <li>Système nerveux : réflexes, synapse, potentiel d'action</li>
+      <li>Reproduction : méiose, fécondation</li>
+      <li>Géologie : tectonique des plaques</li>
+    </ol>
+  </div>
+
+  <div class="card">
+    <h2>Erreurs fréquentes</h2>
+    <div class="warning">Probabilités : ne pas confondre \(P(B|S)\) et \(P(S|B)\)</div>
+    <div class="warning">Complexes : vérifier la forme exponentielle avant de conclure sur la nature d'un triangle</div>
+    <div class="warning">Analyse : justifier la bijectivité (monotonie stricte + continuité)</div>
+    <div class="warning">Estérification : utiliser les masses molaires pour les quantités initiales</div>
+    <div class="warning">Ondes : déphasage \(\varphi = -\dfrac{2\pi d}{\lambda}\) (signe négatif = retard)</div>
+  </div>
+
+  <div class="card">
+    <h2>Bilan</h2>
+    <p><strong>Ce qui était maîtrisé :</strong></p>
+    <textarea placeholder="..."></textarea>
+    <p><strong>À retravailler :</strong></p>
+    <textarea placeholder="..."></textarea>
+    <p><strong>Prochain objectif :</strong></p>
+    <textarea placeholder="..."></textarea>
+  </div>
+
+</div>
+
+<!-- ===== ARABIC ===== -->
+<div class="lang-section" id="lang-ar">
+
+  <div class="dashboard card">
+    <h2>لوحة المتابعة</h2>
+    <table>
+      <tr><th>المادة</th><th>النقاط</th><th>النتيجة</th><th>الوقت</th></tr>
+      <tr><td>الرياضيات</td><td>20</td><td><input type="number" min="0" max="20"> /20</td><td>1س45د</td></tr>
+      <tr><td>الفيزياء والكيمياء</td><td>19</td><td><input type="number" min="0" max="19"> /19</td><td>1س30د</td></tr>
+      <tr><td>علوم الحياة والأرض</td><td>18</td><td><input type="number" min="0" max="18"> /18</td><td>45 دقيقة</td></tr>
+    </table>
+    <p class="score-total">المجموع : <span id="total-ar">0</span> / 57</p>
+  </div>
+
+  <div class="card">
+    <h2>الصيغ الأساسية</h2>
+    <h3>الاحتمالات</h3>
+    <div class="formula-box">\(P(A \cup B) = P(A) + P(B) - P(A \cap B)\)</div>
+    <div class="formula-box">\(P(A \cap B) = P(A) \cdot P(B|A)\)</div>
+    <h3>الأعداد المركبة</h3>
+    <div class="formula-box">جذور \(a+bi\) : نضع \(z=x+iy\)، نحل \(x^2-y^2=a\) و \(2xy=b\)</div>
+    <h3>التحليل</h3>
+    <div class="formula-box">\(\displaystyle\int_a^b u\,v'\,dx = \bigl[uv\bigr]_a^b - \int_a^b u'\,v\,dx\)</div>
+    <h3>الكيمياء</h3>
+    <div class="formula-box">\(pH = pK_a + \log\dfrac{[A^-]}{[AH]} \implies \dfrac{[AH]}{[A^-]} = 10^{pK_a - pH}\)</div>
+    <h3>الفيزياء</h3>
+    <div class="formula-box">\(F = B \cdot I \cdot \ell \qquad e = -\dfrac{d\Phi}{dt} \qquad L = \mu_0 \dfrac{N^2}{l} S\)</div>
+    <div class="formula-box">\(x_M(t) = a\cos\!\left(2\pi N t - \dfrac{2\pi d}{\lambda}\right)\)</div>
+  </div>
+
+  <div class="card">
+    <h2>الرياضيات — باكالوريا 2025 شعبة د/ع.ط</h2>
+
+    <h3>تمرين 1 — الاحتمالات <span class="pts">3 نقاط</span></h3>
+    <p>120 زهرة : 25% عطرة، 40% من العطرة حمراء، 55% بيضاء.</p>
+    <p>احسب : \(P(S),\ P(R),\ P(B),\ P(B\cap S),\ P(B\cup S),\ P(S\cup R)\)</p>
+
+    <h3>تمرين 2 — الأعداد المركبة <span class="pts">5 نقاط</span></h3>
+    <p>\(P(z) = z^3 - (2+4i)z^2 - (2-8i)z + 4 - 12i\)</p>
+    <ol class="questions">
+      <li>الجذور التربيعية لـ \(-8+6i\)</li>
+      <li>حل \(z^2-(3+i)z+4=0\) في \(\mathbb{C}\)</li>
+      <li>إيجاد \(z_0\) بحيث \(P(z)=(z-z_0)(z^2-(3+i)z+4)\)</li>
+      <li>النقاط \(A(1-i)\)، \(B(2+2i)\)، \(C(-1+3i)\) — التحقق من \(f(z_C)=-i\)، طبيعة المثلث</li>
+      <li>الأعداد الصحيحة \(n\) التي تجعل \(M_n\) على المحور الحقيقي، إثبات \(M_{2025}\in(OA)\)</li>
+    </ol>
+
+    <h3>تمرين 3 — التحليل <span class="pts">6 نقاط</span></h3>
+    <p>\(f(x) = (e^x - x - 2)e^{-x}\)</p>
+    <ol class="questions">
+      <li>إثبات \(f(x) = 1 - x + \frac{2}{e^x}\)، النهايات، المقارب الأفقي \(D\)</li>
+      <li>إثبات \(f'(x) = (x+1)e^{-x}\)، جدول التغيرات</li>
+      <li>التقابل \(h=f|_{[-1,+\infty[}\)، تحديد \(J\)، جدول \(h^{-1}\)</li>
+      <li>إثبات أن \(f(x)=0\) لها حلان، حصر \(\alpha\)</li>
+      <li>\(\int_0^1 xe^x\,dx\) بالتكامل بالأجزاء، ثم المساحة \(\mathcal{A}\)</li>
+    </ol>
+
+    <h3>تمرين 4 — دالة اللوغاريتم <span class="pts">6 نقاط</span></h3>
+    <p>\(f(x) = \dfrac{x}{2} - \dfrac{\ln x}{2x},\quad x>0\)</p>
+    <ol class="questions">
+      <li>\(g(x)=x^2-1+\ln x\) : التغيرات، الإشارة</li>
+      <li>نهايات \(f\) عند \(0^+\) و \(+\infty\)، المقارب المائل \(\Delta: y=\frac{x}{2}\)</li>
+      <li>إثبات \(f'(x)=\frac{g(x)}{2x^2}\)، جدول التغيرات</li>
+      <li>المماس \(T\) الموازي لـ \(\Delta\)، الرسم</li>
+      <li>المتتالية \(u_n = f(1/n)\) : متزايدة، النهاية</li>
+    </ol>
+  </div>
+
+  <div class="card">
+    <h2>الفيزياء والكيمياء — باكالوريا 2010</h2>
+
+    <h3>تمرين 1 — حمض البنزويك <span class="pts">3 نقاط</span></h3>
+    <p>\(C_6H_5COOH\)، \(pK_a=4{,}2\). معادلة التفاعل مع الماء، \(K_a\)، المجالات، سلم الـ pH.</p>
+    <p>مشروب غازي \(pH=3{,}7\) : احسب \(\dfrac{[C_6H_5COOH]}{[C_6H_5COO^-]}\). تخفيف \(C_0=0{,}25\) → \(C=0{,}1\) mol/L.</p>
+
+    <h3>تمرين 2 — الأسترة <span class="pts">3,5 نقاط</span></h3>
+    <p>حمض الإيثانويك (24g) + بوتان-1-ول (29,6g)، \(H_2SO_4\)، 100°C. عند \(t=1\)س : \(n_{\text{حمض}}=0{,}132\) mol.</p>
+    <p>المعادلة، اسم الإستر، الكميات الابتدائية، المردود، دور \(H_2SO_4\)، طريقة بديلة.</p>
+
+    <h3>تمرين 3 — قضبان لابلاس <span class="pts">4 نقاط</span></h3>
+    <p>\(E=5\)V، \(r=5\,\Omega\)، \(\ell=0{,}2\)m، \(B=0{,}2\)T، \(l=6\)cm.</p>
+    <p>اتجاه وشدة التيار في MN، قوة لابلاس، الفيض المكتسح (8cm)، القوة الكهرومحركة في 1ms.</p>
+
+    <h3>تمرين 4 — الملف والمكثف <span class="pts">4 نقاط</span></h3>
+    <p>2000 لفة، \(\varnothing=6\)cm، \(l=40\)cm. حساب \(L\) النظرية والتجريبية، \(R'\)، ثم دائرة \(r=25\,\Omega\) + ملف.</p>
+
+    <h3>تمرين 5 — الموجات <span class="pts">3,5 نقاط</span></h3>
+    <p>\(N=50\)Hz، \(a=0{,}5\)cm، \(C=5\)m/s. المعادلة الزمنية، تردد الومضات، \(\lambda\)، معادلة النقطة \(M\) على بعد 22,5cm.</p>
+  </div>
+
+  <div class="card">
+    <h2>علوم الحياة والأرض — باكالوريا ج/ع.ط</h2>
+    <p>افتح <code>mauritanian-bac/svt/bac_c_sn_2010_2018.pdf</code> — سنة 2016 أو 2017.</p>
+    <ol class="questions">
+      <li>الوراثة : التوارث، العبور الصبغي، الهجانة الثنائية</li>
+      <li>الجهاز العصبي : المنعكسات، المشبك، كمون الفعل</li>
+      <li>التكاثر : الانقسام المنصف، الإخصاب</li>
+      <li>الجيولوجيا : تكتونية الصفائح</li>
+    </ol>
+  </div>
+
+  <div class="card">
+    <h2>أخطاء شائعة يجب تجنبها</h2>
+    <div class="warning">الاحتمالات : لا تخلط بين \(P(B|S)\) و \(P(S|B)\)</div>
+    <div class="warning">الأعداد المركبة : تحقق من الصيغة الأسية قبل تحديد طبيعة المثلث</div>
+    <div class="warning">التحليل : برهن على التقابل (رتابة صارمة + استمرارية)</div>
+    <div class="warning">الأسترة : استخدم الكتل المولية لحساب الكميات الابتدائية</div>
+    <div class="warning">الموجات : تأخر الطور \(\varphi = -\dfrac{2\pi d}{\lambda}\) (الإشارة سالبة = تأخر)</div>
+  </div>
+
+  <div class="card">
+    <h2>تقييم الجلسة</h2>
+    <p><strong>ما تم إتقانه :</strong></p>
+    <textarea placeholder="..."></textarea>
+    <p><strong>ما يجب مراجعته :</strong></p>
+    <textarea placeholder="..."></textarea>
+    <p><strong>الهدف القادم :</strong></p>
+    <textarea placeholder="..."></textarea>
+  </div>
+
+</div>
+
+<!-- ===== ENGLISH ===== -->
+<div class="lang-section" id="lang-en">
+
+  <div class="dashboard card">
+    <h2>Dashboard</h2>
+    <table>
+      <tr><th>Subject</th><th>Points</th><th>Score</th><th>Time</th></tr>
+      <tr><td>Mathematics</td><td>20</td><td><input type="number" min="0" max="20"> /20</td><td>1h45</td></tr>
+      <tr><td>Physics & Chemistry</td><td>19</td><td><input type="number" min="0" max="19"> /19</td><td>1h30</td></tr>
+      <tr><td>Biology & Earth Sciences</td><td>18</td><td><input type="number" min="0" max="18"> /18</td><td>45 min</td></tr>
+    </table>
+    <p class="score-total">Total: <span id="total-en">0</span> / 57</p>
+  </div>
+
+  <div class="card">
+    <h2>Key Formulas</h2>
+    <h3>Probability</h3>
+    <div class="formula-box">\(P(A \cup B) = P(A) + P(B) - P(A \cap B)\)</div>
+    <div class="formula-box">\(P(A \cap B) = P(A) \cdot P(B|A)\)</div>
+    <h3>Complex Numbers</h3>
+    <div class="formula-box">Square roots of \(a+bi\): set \(z=x+iy\), solve \(x^2-y^2=a\) and \(2xy=b\)</div>
+    <h3>Calculus</h3>
+    <div class="formula-box">\(\displaystyle\int_a^b u\,v'\,dx = \bigl[uv\bigr]_a^b - \int_a^b u'\,v\,dx\)</div>
+    <h3>Chemistry</h3>
+    <div class="formula-box">\(pH = pK_a + \log\dfrac{[A^-]}{[AH]} \implies \dfrac{[AH]}{[A^-]} = 10^{pK_a - pH}\)</div>
+    <h3>Physics</h3>
+    <div class="formula-box">\(F = B \cdot I \cdot \ell \qquad e = -\dfrac{d\Phi}{dt} \qquad L = \mu_0 \dfrac{N^2}{l} S\)</div>
+    <div class="formula-box">\(x_M(t) = a\cos\!\left(2\pi N t - \dfrac{2\pi d}{\lambda}\right)\)</div>
+  </div>
+
+  <div class="card">
+    <h2>Mathematics — BAC 2025 Series D/SN</h2>
+
+    <h3>Ex 1 — Probability <span class="pts">3 pts</span></h3>
+    <p>120 flowers: 25% scented, 40% of scented are red, 55% white.</p>
+    <p>Compute: \(P(S),\ P(R),\ P(B),\ P(B\cap S),\ P(B\cup S),\ P(S\cup R)\)</p>
+
+    <h3>Ex 2 — Complex Numbers <span class="pts">5 pts</span></h3>
+    <p>\(P(z) = z^3 - (2+4i)z^2 - (2-8i)z + 4 - 12i\)</p>
+    <ol class="questions">
+      <li>Square roots of \(-8+6i\)</li>
+      <li>Solve \(z^2-(3+i)z+4=0\) in \(\mathbb{C}\)</li>
+      <li>Find \(z_0\) such that \(P(z)=(z-z_0)(z^2-(3+i)z+4)\)</li>
+      <li>Points \(A(1-i)\), \(B(2+2i)\), \(C(-1+3i)\) — verify \(f(z_C)=-i\), nature of triangle \(ABC\)</li>
+      <li>Integers \(n\) for which \(M_n\) lies on the real axis; show \(M_{2025}\in(OA)\)</li>
+    </ol>
+
+    <h3>Ex 3 — Calculus <span class="pts">6 pts</span></h3>
+    <p>\(f(x) = (e^x - x - 2)e^{-x}\)</p>
+    <ol class="questions">
+      <li>Show \(f(x) = 1 - x + \frac{2}{e^x}\), limits, horizontal asymptote \(D\)</li>
+      <li>Show \(f'(x) = (x+1)e^{-x}\), variation table</li>
+      <li>Bijection \(h=f|_{[-1,+\infty[}\), determine \(J\), variation table of \(h^{-1}\)</li>
+      <li>Show \(f(x)=0\) has 2 solutions, bound \(\alpha\)</li>
+      <li>\(\int_0^1 xe^x\,dx\) by parts, then area \(\mathcal{A}\)</li>
+    </ol>
+
+    <h3>Ex 4 — Logarithm <span class="pts">6 pts</span></h3>
+    <p>\(f(x) = \dfrac{x}{2} - \dfrac{\ln x}{2x},\quad x>0\)</p>
+    <ol class="questions">
+      <li>\(g(x)=x^2-1+\ln x\): variations, sign</li>
+      <li>Limits of \(f\) at \(0^+\) and \(+\infty\), oblique asymptote \(\Delta: y=\frac{x}{2}\)</li>
+      <li>Show \(f'(x)=\frac{g(x)}{2x^2}\), variation table</li>
+      <li>Tangent \(T\) parallel to \(\Delta\), sketch</li>
+      <li>Sequence \(u_n = f(1/n)\): show increasing, find limit</li>
+    </ol>
+  </div>
+
+  <div class="card">
+    <h2>Physics & Chemistry — BAC 2010 Normal Session</h2>
+
+    <h3>Ex 1 — Benzoic Acid <span class="pts">3 pts</span></h3>
+    <p>\(C_6H_5COOH\), \(pK_a=4{.}2\). Reaction with water, \(K_a\), acid/base domains, pH scale.</p>
+    <p>Soda \(pH=3{.}7\): compute \(\dfrac{[C_6H_5COOH]}{[C_6H_5COO^-]}\). Dilution \(C_0=0{.}25\) → \(C=0{.}1\) mol/L.</p>
+
+    <h3>Ex 2 — Esterification <span class="pts">3.5 pts</span></h3>
+    <p>Ethanoic acid (24g) + Butan-1-ol (29.6g), \(H_2SO_4\), 100°C. At \(t=1\)h: \(n_{\text{acid}}=0{.}132\) mol.</p>
+    <p>Equation, name of ester, initial amounts, yield, role of \(H_2SO_4\), alternative method.</p>
+
+    <h3>Ex 3 — Laplace Rails <span class="pts">4 pts</span></h3>
+    <p>\(E=5\)V, \(r=5\,\Omega\), \(\ell=0{.}2\)m, \(B=0{.}2\)T, \(l=6\)cm.</p>
+    <p>Direction and intensity of current in MN, Laplace force, swept flux (8cm), induced EMF in 1ms.</p>
+
+    <h3>Ex 4 — Coil & Capacitor <span class="pts">4 pts</span></h3>
+    <p>2000 turns, \(\varnothing=6\)cm, \(l=40\)cm. Compute theoretical and experimental \(L\), \(R'\), then circuit \(r=25\,\Omega\) + coil.</p>
+
+    <h3>Ex 5 — Waves <span class="pts">3.5 pts</span></h3>
+    <p>\(N=50\)Hz, \(a=0{.}5\)cm, \(C=5\)m/s. Time equation, strobe frequency, \(\lambda\), equation of point \(M\) at 22.5cm.</p>
+  </div>
+
+  <div class="card">
+    <h2>Biology & Earth Sciences — BAC C/SN</h2>
+    <p>Open <code>mauritanian-bac/svt/bac_c_sn_2010_2018.pdf</code> — year 2016 or 2017.</p>
+    <ol class="questions">
+      <li>Genetics: heredity, crossing-over, dihybridism</li>
+      <li>Nervous system: reflexes, synapse, action potential</li>
+      <li>Reproduction: meiosis, fertilization</li>
+      <li>Geology: plate tectonics</li>
+    </ol>
+  </div>
+
+  <div class="card">
+    <h2>Common Mistakes</h2>
+    <div class="warning">Probability: do not confuse \(P(B|S)\) and \(P(S|B)\)</div>
+    <div class="warning">Complex numbers: verify exponential form before concluding on triangle type</div>
+    <div class="warning">Calculus: justify bijectivity (strict monotonicity + continuity)</div>
+    <div class="warning">Esterification: use molar masses to compute initial amounts</div>
+    <div class="warning">Waves: phase lag \(\varphi = -\dfrac{2\pi d}{\lambda}\) (negative sign = delay)</div>
+  </div>
+
+  <div class="card">
+    <h2>Session Review</h2>
+    <p><strong>What I mastered:</strong></p>
+    <textarea placeholder="..."></textarea>
+    <p><strong>What needs more work:</strong></p>
+    <textarea placeholder="..."></textarea>
+    <p><strong>Next goal:</strong></p>
+    <textarea placeholder="..."></textarea>
+  </div>
+
+</div>
+
+</main>
+
+<script>
+function setLang(lang) {
+  document.querySelectorAll('.lang-section').forEach(s => s.classList.remove('active'));
+  document.querySelectorAll('.lang-btns button').forEach(b => b.classList.remove('active'));
+  document.getElementById('lang-' + lang).classList.add('active');
+  document.getElementById('btn-' + lang).classList.add('active');
+  document.documentElement.lang = lang;
+  document.body.dir = lang === 'ar' ? 'rtl' : 'ltr';
+  if (window.MathJax) MathJax.typesetPromise();
+}
+
+// Live score totals
+document.querySelectorAll('input[type="number"]').forEach(input => {
+  input.addEventListener('input', () => {
+    ['fr','ar','en'].forEach(lang => {
+      const section = document.getElementById('lang-' + lang);
+      if (!section) return;
+      let sum = 0;
+      section.querySelectorAll('input[type="number"]').forEach(i => sum += Number(i.value) || 0);
+      const el = document.getElementById('total-' + lang);
+      if (el) el.textContent = sum;
+    });
+  });
+});
+</script>
+</body>
+</html>
