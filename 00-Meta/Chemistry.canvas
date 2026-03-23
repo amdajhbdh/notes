@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"group-kinetics","type":"group","x":-400,"y":200,"width":350,"height":300,"label":"Kinetics"},
+		{"id":"group-organic","type":"group","x":0,"y":200,"width":350,"height":300,"label":"Organic Chemistry"},
+		{"id":"group-solutions","type":"group","x":400,"y":200,"width":350,"height":300,"label":"Solutions"},
+		{"id":"chem-hub","type":"text","text":"# ⚗️ Chemistry Hub\nConcepts & Practice","x":0,"y":0,"width":300,"height":100,"color":"4"},
+		{"id":"file-kinetics-index","type":"file","file":"00-Meta/Master.canvas","x":-375,"y":250,"width":300,"height":250},
+		{"id":"file-organic-index","type":"file","file":"01-Concepts/Chemistry/Organic/INDEX.md","x":25,"y":250,"width":300,"height":80},
+		{"id":"file-solutions-index","type":"file","file":"01-Concepts/Chemistry/Solutions/INDEX.md","x":425,"y":250,"width":300,"height":80}
+	],
+	"edges":[
+		{"id":"e-chem-1","fromNode":"chem-hub","fromSide":"bottom","toNode":"group-kinetics","toSide":"top"},
+		{"id":"e-chem-2","fromNode":"chem-hub","fromSide":"bottom","toNode":"group-organic","toSide":"top"},
+		{"id":"e-chem-3","fromNode":"chem-hub","fromSide":"bottom","toNode":"group-solutions","toSide":"top"}
+	]
+}

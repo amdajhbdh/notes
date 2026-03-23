@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "abc65e0ea1d61550",
+      "type": "file",
+      "file": "01-Concepts/Biology/Hormones-Regulation.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "cf550443a94c33c6",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "d36d8eee8a6ef32c",
+      "type": "file",
+      "file": "01-Concepts/Biology/assets/action-potential.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "c0fc82df5ead3dd2",
+      "fromNode": "abc65e0ea1d61550",
+      "toNode": "cf550443a94c33c6",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

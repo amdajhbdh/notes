@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "id": "ohm-main",
+      "type": "file",
+      "file": "01-Concepts/Physics/Circuits/Circuits - Ohm Law.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 600
+    },
+    {
+      "id": "group-practice",
+      "type": "group",
+      "label": "🎯 Practice",
+      "x": 650,
+      "y": 0,
+      "width": 450,
+      "height": 550
+    },
+    {
+      "id": "node-prac-easy",
+      "type": "file",
+      "file": "01-Concepts/Physics/Circuits/Circuits - Practice Easy.md",
+      "x": 675,
+      "y": 50,
+      "width": 400,
+      "height": 200
+    },
+    {
+      "id": "node-prac-medium",
+      "type": "file",
+      "file": "01-Concepts/Physics/Circuits/Circuits - Practice Medium.md",
+      "x": 675,
+      "y": 300,
+      "width": 400,
+      "height": 200
+    },
+    {
+      "id": "group-visuals",
+      "type": "group",
+      "label": "🖼️ Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "node-vis-1",
+      "type": "file",
+      "file": "01-Concepts/Physics/Circuits/assets/ohm-law.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    },
+    {
+      "id": "group-related",
+      "type": "group",
+      "label": "🔗 Related Concepts",
+      "x": -500,
+      "y": 500,
+      "width": 450,
+      "height": 250
+    },
+    {
+      "id": "node-rel-1",
+      "type": "file",
+      "file": "01-Concepts/Physics/Circuits/Circuits - Kirchhoff Laws.md",
+      "x": -475,
+      "y": 550,
+      "width": 400,
+      "height": 150
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-prac",
+      "fromNode": "ohm-main",
+      "toNode": "group-practice",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "id": "e-vis",
+      "fromNode": "ohm-main",
+      "toNode": "group-visuals",
+      "fromSide": "left",
+      "toSide": "right"
+    },
+    {
+      "id": "e-rel",
+      "fromNode": "ohm-main",
+      "toNode": "group-related",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

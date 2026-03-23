@@ -18,4 +18,4 @@
 - Ségrégation F2 (3:1)
 - Indépendance
 
-[[00-Meta/MOCs/Natural Sciences MOC]]
+[[Natural Sciences MOC]]

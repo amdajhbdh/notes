@@ -1,0 +1,125 @@
+{
+  "nodes": [
+    {
+      "id": "math-hub",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 300,
+      "height": 100,
+      "text": "# 📐 Mathematics Hub\nConcepts & Practice",
+      "color": "1"
+    },
+    {
+      "id": "group-complex",
+      "type": "group",
+      "x": -400,
+      "y": 200,
+      "width": 350,
+      "height": 300,
+      "label": "Complex Numbers"
+    },
+    {
+      "id": "file-complex-basics",
+      "type": "file",
+      "x": -375,
+      "y": 250,
+      "width": 300,
+      "height": 80,
+      "file": "01-Concepts/Math/Complex-Numbers/Complex Numbers - Basics.md"
+    },
+    {
+      "id": "file-complex-ops",
+      "type": "file",
+      "x": -375,
+      "y": 350,
+      "width": 300,
+      "height": 80,
+      "file": "01-Concepts/Math/Complex-Numbers/Complex Numbers - Operations.md"
+    },
+    {
+      "id": "group-integrals",
+      "type": "group",
+      "x": 0,
+      "y": 200,
+      "width": 350,
+      "height": 300,
+      "label": "Integrals"
+    },
+    {
+      "id": "file-integrals-index",
+      "type": "file",
+      "x": 25,
+      "y": 250,
+      "width": 300,
+      "height": 80,
+      "file": "01-Concepts/Math/Integrals/INDEX.md"
+    },
+    {
+      "id": "group-matrices",
+      "type": "group",
+      "x": 400,
+      "y": 200,
+      "width": 350,
+      "height": 300,
+      "label": "Matrices"
+    },
+    {
+      "id": "file-matrices-index",
+      "type": "file",
+      "x": 425,
+      "y": 250,
+      "width": 300,
+      "height": 80,
+      "file": "01-Concepts/Math/Matrices/INDEX.md"
+    },
+    {
+      "id": "group-number-theory",
+      "type": "group",
+      "x": 0,
+      "y": 550,
+      "width": 350,
+      "height": 300,
+      "label": "Number Theory"
+    },
+    {
+      "id": "file-nt-index",
+      "type": "file",
+      "x": 25,
+      "y": 600,
+      "width": 300,
+      "height": 80,
+      "file": "01-Concepts/Math/Number-Theory/INDEX.md"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-math-1",
+      "fromNode": "math-hub",
+      "fromSide": "bottom",
+      "toNode": "group-complex",
+      "toSide": "top"
+    },
+    {
+      "id": "e-math-2",
+      "fromNode": "math-hub",
+      "fromSide": "bottom",
+      "toNode": "group-integrals",
+      "toSide": "top"
+    },
+    {
+      "id": "e-math-3",
+      "fromNode": "math-hub",
+      "fromSide": "bottom",
+      "toNode": "group-matrices",
+      "toSide": "top"
+    },
+    {
+      "id": "e-math-4",
+      "fromNode": "group-integrals",
+      "fromSide": "bottom",
+      "toNode": "group-number-theory",
+      "toSide": "top"
+    }
+  ]
+}

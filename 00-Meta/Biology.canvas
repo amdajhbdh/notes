@@ -1,0 +1,93 @@
+{
+  "nodes": [
+    {
+      "id": "bio-hub",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 300,
+      "height": 100,
+      "text": "# 🧬 Biology Hub\nConcepts & Practice",
+      "color": "4"
+    },
+    {
+      "id": "group-genetics",
+      "type": "group",
+      "x": -400,
+      "y": 200,
+      "width": 350,
+      "height": 400,
+      "label": "Genetics"
+    },
+    {
+      "id": "file-genetics-basics",
+      "type": "file",
+      "x": -375,
+      "y": 250,
+      "width": 300,
+      "height": 80,
+      "file": "01-Concepts/Biology/Genetics-Basics.md"
+    },
+    {
+      "id": "file-genetics-catalogue",
+      "type": "file",
+      "x": -375,
+      "y": 350,
+      "width": 300,
+      "height": 80,
+      "file": "01-Concepts/Biology/Genetique-Catalogue-Complet.md"
+    },
+    {
+      "id": "canvas-genetics-graph",
+      "type": "file",
+      "x": -375,
+      "y": 450,
+      "width": 300,
+      "height": 80,
+      "file": "01-Concepts/Biology/Genetique-Graph-Complet.canvas"
+    },
+    {
+      "id": "group-nervous",
+      "type": "group",
+      "x": 0,
+      "y": 200,
+      "width": 350,
+      "height": 300,
+      "label": "Systems"
+    },
+    {
+      "id": "file-nervous",
+      "type": "file",
+      "x": 25,
+      "y": 250,
+      "width": 300,
+      "height": 80,
+      "file": "01-Concepts/Biology/Nervous-System.md"
+    },
+    {
+      "id": "file-hormones",
+      "type": "file",
+      "x": 25,
+      "y": 350,
+      "width": 300,
+      "height": 80,
+      "file": "01-Concepts/Biology/Hormones-Regulation.md"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-bio-1",
+      "fromNode": "bio-hub",
+      "fromSide": "bottom",
+      "toNode": "group-genetics",
+      "toSide": "top"
+    },
+    {
+      "id": "e-bio-2",
+      "fromNode": "bio-hub",
+      "fromSide": "bottom",
+      "toNode": "group-nervous",
+      "toSide": "top"
+    }
+  ]
+}

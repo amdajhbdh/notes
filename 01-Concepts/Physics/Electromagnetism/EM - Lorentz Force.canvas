@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "03adc4abaae1f0a4",
+      "type": "file",
+      "file": "01-Concepts/Physics/Electromagnetism/EM - Lorentz Force.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "70d84e090f243f52",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "50e34048cd1170a9",
+      "type": "file",
+      "file": "01-Concepts/Physics/Electromagnetism/assets/electric-field.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "2a57986ed16bfd9f",
+      "fromNode": "03adc4abaae1f0a4",
+      "toNode": "70d84e090f243f52",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "nodes": [
+    {
+      "id": "22379a0512f7c262",
+      "type": "file",
+      "file": "01-Concepts/Chemistry/Solutions/Solutions - Concentration.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "b8714337f9950510",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "8d18773edd057973",
+      "type": "file",
+      "file": "01-Concepts/Chemistry/Solutions/assets/titration-curve.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    },
+    {
+      "id": "fed9f75f08e64f08",
+      "type": "group",
+      "label": "\ud83d\udcd6 Textbook Context",
+      "x": 0,
+      "y": 850,
+      "width": 600,
+      "height": 300
+    },
+    {
+      "id": "29f1bb22b6fb7e77",
+      "type": "file",
+      "file": "05-Extracted/Resources/Chemistry/CHI-7AS-C-Ch2-Par dilution dune solution de concentration connue.md",
+      "x": 25,
+      "y": 900,
+      "width": 550,
+      "height": 230
+    }
+  ],
+  "edges": [
+    {
+      "id": "cac3bf1887c46ee9",
+      "fromNode": "22379a0512f7c262",
+      "toNode": "b8714337f9950510",
+      "fromSide": "left",
+      "toSide": "right"
+    },
+    {
+      "id": "4eeac36190e556d4",
+      "fromNode": "22379a0512f7c262",
+      "toNode": "fed9f75f08e64f08",
+      "fromSide": "bottom",
+      "toSide": "top"
+    }
+  ]
+}

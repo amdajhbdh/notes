@@ -1,0 +1,100 @@
+{
+  "nodes": [
+    {
+      "id": "res-nav",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 300,
+      "height": 100,
+      "text": "# 📚 Resource Navigator\nTextbooks & Extractions",
+      "color": "3"
+    },
+    {
+      "id": "group-textbooks",
+      "type": "group",
+      "x": -400,
+      "y": 200,
+      "width": 350,
+      "height": 300,
+      "label": "Textbooks (PDFs)"
+    },
+    {
+      "id": "file-textbook-1",
+      "type": "file",
+      "x": -375,
+      "y": 250,
+      "width": 300,
+      "height": 80,
+      "file": "03-Resources/Cours matrices 7C E.P ISLAH ERRAID 2025-2026.pdf"
+    },
+    {
+      "id": "file-textbook-2",
+      "type": "file",
+      "x": -375,
+      "y": 350,
+      "width": 300,
+      "height": 80,
+      "file": "03-Resources/Moha-Serie-solutions-aqueuses-2024.pdf"
+    },
+    {
+      "id": "group-extracted",
+      "type": "group",
+      "x": 400,
+      "y": 200,
+      "width": 350,
+      "height": 300,
+      "label": "Extracted Content"
+    },
+    {
+      "id": "file-extracted-index",
+      "type": "file",
+      "x": 425,
+      "y": 250,
+      "width": 300,
+      "height": 80,
+      "file": "05-Extracted/INDEX.md"
+    },
+    {
+      "id": "group-practice-books",
+      "type": "group",
+      "x": 0,
+      "y": 550,
+      "width": 350,
+      "height": 300,
+      "label": "Practice from Textbooks"
+    },
+    {
+      "id": "file-practice-books-index",
+      "type": "file",
+      "x": 25,
+      "y": 600,
+      "width": 300,
+      "height": 80,
+      "file": "02-Practice/INDEX.md"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-res-1",
+      "fromNode": "res-nav",
+      "fromSide": "bottom",
+      "toNode": "group-textbooks",
+      "toSide": "top"
+    },
+    {
+      "id": "e-res-2",
+      "fromNode": "res-nav",
+      "fromSide": "bottom",
+      "toNode": "group-extracted",
+      "toSide": "top"
+    },
+    {
+      "id": "e-res-3",
+      "fromNode": "res-nav",
+      "fromSide": "bottom",
+      "toNode": "group-practice-books",
+      "toSide": "top"
+    }
+  ]
+}

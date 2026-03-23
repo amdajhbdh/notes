@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "be4a10b9d6fe78ed",
+      "type": "file",
+      "file": "01-Concepts/Chemistry/Kinetics/Kinetics - Catalysts.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "6ae950a8f24344f6",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "1059a1bca1992e19",
+      "type": "file",
+      "file": "01-Concepts/Chemistry/Kinetics/assets/reaction-rate.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "1e8e7805b4c9bd9e",
+      "fromNode": "be4a10b9d6fe78ed",
+      "toNode": "6ae950a8f24344f6",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

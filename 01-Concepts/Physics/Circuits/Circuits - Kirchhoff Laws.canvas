@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "67f90781661ff8fd",
+      "type": "file",
+      "file": "01-Concepts/Physics/Circuits/Circuits - Kirchhoff Laws.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "1d25650914cc23f4",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "09725e85336ef5d5",
+      "type": "file",
+      "file": "01-Concepts/Physics/Circuits/assets/ohm-law.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "e03d5fc754daa9a3",
+      "fromNode": "67f90781661ff8fd",
+      "toNode": "1d25650914cc23f4",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

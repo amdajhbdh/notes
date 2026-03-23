@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "0580bb2c2855ce1c",
+      "type": "file",
+      "file": "01-Concepts/Math/Complex-Numbers/Complex Numbers - Real World.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "68753712c82fc71c",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "a36a41f501974813",
+      "type": "file",
+      "file": "01-Concepts/Math/Complex-Numbers/assets/argand-plane.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "d781e3e3fe352d50",
+      "fromNode": "0580bb2c2855ce1c",
+      "toNode": "68753712c82fc71c",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

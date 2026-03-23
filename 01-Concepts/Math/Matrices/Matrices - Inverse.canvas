@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "3fbcd40e04de956d",
+      "type": "file",
+      "file": "01-Concepts/Math/Matrices/Matrices - Inverse.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "ce29d63d64970553",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "7ea20e0af3b142cb",
+      "type": "file",
+      "file": "01-Concepts/Math/Matrices/assets/matrix-transform.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "8000f5c86d98b302",
+      "fromNode": "3fbcd40e04de956d",
+      "toNode": "ce29d63d64970553",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

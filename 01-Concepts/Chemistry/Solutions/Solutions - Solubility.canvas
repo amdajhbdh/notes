@@ -1,0 +1,65 @@
+{
+  "nodes": [
+    {
+      "id": "bf519e835f2030ae",
+      "type": "file",
+      "file": "01-Concepts/Chemistry/Solutions/Solutions - Solubility.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "728aad50071b72c6",
+      "type": "group",
+      "label": "\ud83c\udfaf Practice",
+      "x": 650,
+      "y": 0,
+      "width": 450,
+      "height": 300
+    },
+    {
+      "id": "079db3fa996ef1a0",
+      "type": "file",
+      "file": "02-Practice/Chemistry/Solutions/Solubility-Exercises.md",
+      "x": 675,
+      "y": 50,
+      "width": 400,
+      "height": 200
+    },
+    {
+      "id": "5dc4dd2a6783b70b",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "0666b2ab9203dba6",
+      "type": "file",
+      "file": "01-Concepts/Chemistry/Solutions/assets/titration-curve.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "101babd504b22aed",
+      "fromNode": "bf519e835f2030ae",
+      "toNode": "728aad50071b72c6",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "id": "80892d15117b4eb5",
+      "fromNode": "bf519e835f2030ae",
+      "toNode": "5dc4dd2a6783b70b",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

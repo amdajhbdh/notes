@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "af74dba545d7227e",
+      "type": "file",
+      "file": "01-Concepts/Natural-Sciences/Genetics/Genetics - Replication.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "38a9817ed829889b",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "188816df0a93dc85",
+      "type": "file",
+      "file": "01-Concepts/Natural-Sciences/Genetics/assets/dna-helix.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "710c40866e8ad0d1",
+      "fromNode": "af74dba545d7227e",
+      "toNode": "38a9817ed829889b",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "300ece457560ed6f",
+      "type": "file",
+      "file": "01-Concepts/Physics/Dynamics/Dynamics - Circular Motion.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "835d6aceaa425042",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "ef56bc33a172c2fa",
+      "type": "file",
+      "file": "01-Concepts/Physics/Dynamics/assets/circular-motion.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "78e439389f6ed422",
+      "fromNode": "300ece457560ed6f",
+      "toNode": "835d6aceaa425042",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

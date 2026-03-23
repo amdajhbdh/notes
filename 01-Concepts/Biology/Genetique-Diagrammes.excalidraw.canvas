@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "2652c283e801af76",
+      "type": "file",
+      "file": "01-Concepts/Biology/Genetique-Diagrammes.excalidraw.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "0f8f1a7680295720",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "d3d096d1c0bafc40",
+      "type": "file",
+      "file": "01-Concepts/Biology/assets/action-potential.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "22392a9f792fd4e5",
+      "fromNode": "2652c283e801af76",
+      "toNode": "0f8f1a7680295720",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

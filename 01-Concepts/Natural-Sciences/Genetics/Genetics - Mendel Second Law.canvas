@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "c01924f3b96cbcef",
+      "type": "file",
+      "file": "01-Concepts/Natural-Sciences/Genetics/Genetics - Mendel Second Law.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "9f96b19cbbdce923",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "d8a73eea2ca931bc",
+      "type": "file",
+      "file": "01-Concepts/Natural-Sciences/Genetics/assets/dna-helix.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "cff871a9c4153390",
+      "fromNode": "c01924f3b96cbcef",
+      "toNode": "9f96b19cbbdce923",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "8dbdb8328785c47f",
+      "type": "file",
+      "file": "01-Concepts/Math/Integrals/Integrals - Trig Substitution.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "c24f9b10a9bfb2df",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "24db96692173a25b",
+      "type": "file",
+      "file": "01-Concepts/Math/Integrals/assets/area-under-curve.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "ee59810f387f5355",
+      "fromNode": "8dbdb8328785c47f",
+      "toNode": "c24f9b10a9bfb2df",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

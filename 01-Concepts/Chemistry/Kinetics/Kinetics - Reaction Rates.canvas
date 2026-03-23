@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "id": "kinetics-main",
+      "type": "file",
+      "file": "01-Concepts/Chemistry/Kinetics/Kinetics - Reaction Rates.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "group-extracted",
+      "type": "group",
+      "label": "📖 Textbook Context",
+      "x": 650,
+      "y": 0,
+      "width": 450,
+      "height": 300
+    },
+    {
+      "id": "node-ext-1",
+      "type": "file",
+      "file": "05-Extracted/Chemistry/Série cinétique chimique E.P GÉNÉRATION DU FUTUR 2025-2026.md",
+      "x": 675,
+      "y": 50,
+      "width": 400,
+      "height": 200
+    },
+    {
+      "id": "group-visuals",
+      "type": "group",
+      "label": "🖼️ Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "node-vis-1",
+      "type": "file",
+      "file": "01-Concepts/Chemistry/Kinetics/assets/reaction-rate.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    },
+    {
+      "id": "group-related",
+      "type": "group",
+      "label": "🔗 Related Concepts",
+      "x": -500,
+      "y": 500,
+      "width": 450,
+      "height": 400
+    },
+    {
+      "id": "node-rel-1",
+      "type": "file",
+      "file": "01-Concepts/Chemistry/Kinetics/Kinetics - Rate Laws.md",
+      "x": -475,
+      "y": 550,
+      "width": 400,
+      "height": 100
+    },
+    {
+      "id": "node-rel-2",
+      "type": "file",
+      "file": "01-Concepts/Chemistry/Kinetics/Kinetics - Activation Energy.md",
+      "x": -475,
+      "y": 700,
+      "width": 400,
+      "height": 100
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-ext",
+      "fromNode": "kinetics-main",
+      "toNode": "group-extracted",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "id": "e-vis",
+      "fromNode": "kinetics-main",
+      "toNode": "group-visuals",
+      "fromSide": "left",
+      "toSide": "right"
+    },
+    {
+      "id": "e-rel",
+      "fromNode": "kinetics-main",
+      "toNode": "group-related",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

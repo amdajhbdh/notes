@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "d8a22110a0999090",
+      "type": "file",
+      "file": "01-Concepts/Natural-Sciences/Genetics/Genetics - Mutations.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "daf93398baac9d62",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "19c1818a112c1bb4",
+      "type": "file",
+      "file": "01-Concepts/Natural-Sciences/Genetics/assets/dna-helix.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "099dbdf675f89054",
+      "fromNode": "d8a22110a0999090",
+      "toNode": "daf93398baac9d62",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

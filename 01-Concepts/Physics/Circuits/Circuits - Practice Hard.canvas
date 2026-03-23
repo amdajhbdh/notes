@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "25610f59014774f4",
+      "type": "file",
+      "file": "01-Concepts/Physics/Circuits/Circuits - Practice Hard.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "d793ace1446643e0",
+      "type": "group",
+      "label": "\ud83c\udfaf Practice",
+      "x": 650,
+      "y": 0,
+      "width": 450,
+      "height": 550
+    },
+    {
+      "id": "5b2bcafb3f58ada1",
+      "type": "file",
+      "file": "02-Practice/Physics/Magnetic-Induction/Induction - Practice Hard.md",
+      "x": 675,
+      "y": 50,
+      "width": 400,
+      "height": 200
+    },
+    {
+      "id": "62ffe14f54ee3542",
+      "type": "file",
+      "file": "02-Practice/Math/Complex-Numbers/Complex Numbers - Practice Hard.md",
+      "x": 675,
+      "y": 300,
+      "width": 400,
+      "height": 200
+    },
+    {
+      "id": "680f5fdd28857c65",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "fdea4eae86f16934",
+      "type": "file",
+      "file": "01-Concepts/Physics/Circuits/assets/ohm-law.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "ef34337585fbb953",
+      "fromNode": "25610f59014774f4",
+      "toNode": "d793ace1446643e0",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "id": "dc56c842c2549559",
+      "fromNode": "25610f59014774f4",
+      "toNode": "680f5fdd28857c65",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

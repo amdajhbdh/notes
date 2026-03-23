@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "6cb8d71b9ce196e7",
+      "type": "file",
+      "file": "01-Concepts/Chemistry/Kinetics/Kinetics - Activation Energy.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "d536ee748938c7a9",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "d4dd92b2009c4bb2",
+      "type": "file",
+      "file": "01-Concepts/Chemistry/Kinetics/assets/reaction-rate.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "ad6fd5819c3d0497",
+      "fromNode": "6cb8d71b9ce196e7",
+      "toNode": "d536ee748938c7a9",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

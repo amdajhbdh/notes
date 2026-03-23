@@ -1,0 +1,65 @@
+{
+  "nodes": [
+    {
+      "id": "aba38e8062d283f7",
+      "type": "file",
+      "file": "01-Concepts/Physics/Dynamics/Dynamics - Forces.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "23cfcbdf9b7a5c37",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "48822530de6fabb8",
+      "type": "file",
+      "file": "01-Concepts/Physics/Dynamics/assets/circular-motion.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    },
+    {
+      "id": "1c600f63027c9bde",
+      "type": "group",
+      "label": "\ud83d\udcd6 Textbook Context",
+      "x": 0,
+      "y": 850,
+      "width": 600,
+      "height": 300
+    },
+    {
+      "id": "d7ecc730755473ea",
+      "type": "file",
+      "file": "05-Extracted/Resources/Physics/Livre-physique-7D-7c-Ch1- Forces et champs.md",
+      "x": 25,
+      "y": 900,
+      "width": 550,
+      "height": 230
+    }
+  ],
+  "edges": [
+    {
+      "id": "c97bbfda0bc6a752",
+      "fromNode": "aba38e8062d283f7",
+      "toNode": "23cfcbdf9b7a5c37",
+      "fromSide": "left",
+      "toSide": "right"
+    },
+    {
+      "id": "21430ca413f99294",
+      "fromNode": "aba38e8062d283f7",
+      "toNode": "1c600f63027c9bde",
+      "fromSide": "bottom",
+      "toSide": "top"
+    }
+  ]
+}

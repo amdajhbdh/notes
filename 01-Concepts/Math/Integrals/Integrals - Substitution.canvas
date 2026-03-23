@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "b9790a79ae173dae",
+      "type": "file",
+      "file": "01-Concepts/Math/Integrals/Integrals - Substitution.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "dc8e178f1089d00e",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "013503176e965277",
+      "type": "file",
+      "file": "01-Concepts/Math/Integrals/assets/area-under-curve.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "5d8ecebe62d6d504",
+      "fromNode": "b9790a79ae173dae",
+      "toNode": "dc8e178f1089d00e",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

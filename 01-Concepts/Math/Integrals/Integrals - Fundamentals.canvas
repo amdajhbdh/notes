@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "id": "node-main",
+      "type": "file",
+      "file": "01-Concepts/Math/Integrals/Integrals - Fundamentals.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "group-practice",
+      "type": "group",
+      "label": "🎯 Practice",
+      "x": 650,
+      "y": 0,
+      "width": 450,
+      "height": 550
+    },
+    {
+      "id": "node-practice-easy",
+      "type": "file",
+      "file": "02-Practice/Math/Integrals/Integrals - Practice Easy.md",
+      "x": 675,
+      "y": 50,
+      "width": 400,
+      "height": 200
+    },
+    {
+      "id": "node-practice-medium",
+      "type": "file",
+      "file": "02-Practice/Math/Integrals/Integrals - Practice Medium.md",
+      "x": 675,
+      "y": 300,
+      "width": 400,
+      "height": 200
+    },
+    {
+      "id": "group-visuals",
+      "type": "group",
+      "label": "🖼️ Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "node-visual-1",
+      "type": "file",
+      "file": "01-Concepts/Math/Integrals/assets/area-under-curve.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    },
+    {
+      "id": "group-extracted",
+      "type": "group",
+      "label": "📖 Textbook Extracts",
+      "x": 0,
+      "y": 850,
+      "width": 600,
+      "height": 300
+    },
+    {
+      "id": "node-extracted-1",
+      "type": "file",
+      "file": "05-Extracted/Math/série intégrales  7C LYCÉE D'EXCELLENCE 3 CN&CS 2025-2026.md",
+      "x": 25,
+      "y": 900,
+      "width": 550,
+      "height": 230
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-practice",
+      "fromNode": "node-main",
+      "toNode": "group-practice",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "id": "edge-visuals",
+      "fromNode": "node-main",
+      "toNode": "group-visuals",
+      "fromSide": "left",
+      "toSide": "right"
+    },
+    {
+      "id": "edge-extracted",
+      "fromNode": "node-main",
+      "toNode": "group-extracted",
+      "fromSide": "bottom",
+      "toSide": "top"
+    }
+  ]
+}

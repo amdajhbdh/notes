@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "55ba2bacdc983668",
+      "type": "file",
+      "file": "01-Concepts/Physics/Magnetic-Induction/Induction - Self-Induction.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "1ab5a79ae3eebab4",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "e14c7e6c9c171723",
+      "type": "file",
+      "file": "01-Concepts/Physics/Magnetic-Induction/assets/faraday-law.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "efd29ab53a227f9c",
+      "fromNode": "55ba2bacdc983668",
+      "toNode": "1ab5a79ae3eebab4",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

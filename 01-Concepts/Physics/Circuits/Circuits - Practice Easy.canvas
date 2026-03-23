@@ -1,0 +1,83 @@
+{
+  "nodes": [
+    {
+      "id": "326c9b35e0172e1e",
+      "type": "file",
+      "file": "01-Concepts/Physics/Circuits/Circuits - Practice Easy.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "af78d0107b081d50",
+      "type": "group",
+      "label": "\ud83c\udfaf Practice",
+      "x": 650,
+      "y": 0,
+      "width": 450,
+      "height": 800
+    },
+    {
+      "id": "ca91da4356681d1c",
+      "type": "file",
+      "file": "02-Practice/Physics/Dynamics/Dynamics - Practice Easy.md",
+      "x": 675,
+      "y": 50,
+      "width": 400,
+      "height": 200
+    },
+    {
+      "id": "9156ef47443e3ed8",
+      "type": "file",
+      "file": "02-Practice/Physics/Dynamics/Dynamics - Springs Practice Easy.md",
+      "x": 675,
+      "y": 300,
+      "width": 400,
+      "height": 200
+    },
+    {
+      "id": "618b63f6b18de4b6",
+      "type": "file",
+      "file": "02-Practice/Physics/Magnetic-Induction/Induction - Practice Easy.md",
+      "x": 675,
+      "y": 550,
+      "width": 400,
+      "height": 200
+    },
+    {
+      "id": "7715979c81e8567c",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "9c7b466963985b79",
+      "type": "file",
+      "file": "01-Concepts/Physics/Circuits/assets/ohm-law.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "3c69b6d9d97fd85d",
+      "fromNode": "326c9b35e0172e1e",
+      "toNode": "af78d0107b081d50",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "id": "b8d13a8a588677d4",
+      "fromNode": "326c9b35e0172e1e",
+      "toNode": "7715979c81e8567c",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

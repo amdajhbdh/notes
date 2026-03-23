@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "fad6534f6d4bbf05",
+      "type": "file",
+      "file": "01-Concepts/Physics/Energy/Energy - Conservation.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "4aa4817f3bfaa8c7",
+      "type": "group",
+      "label": "\ud83d\udcd6 Textbook Context",
+      "x": 0,
+      "y": 850,
+      "width": 600,
+      "height": 300
+    },
+    {
+      "id": "fa32207689bb4095",
+      "type": "file",
+      "file": "05-Extracted/Resources/Chemistry/CHI-7AS-C-Ch7-Les Lois de Conservation .md",
+      "x": 25,
+      "y": 900,
+      "width": 550,
+      "height": 230
+    }
+  ],
+  "edges": [
+    {
+      "id": "ad4e32590e477cc6",
+      "fromNode": "fad6534f6d4bbf05",
+      "toNode": "4aa4817f3bfaa8c7",
+      "fromSide": "bottom",
+      "toSide": "top"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "7e3d1957fb727695",
+      "type": "file",
+      "file": "01-Concepts/Physics/Electromagnetism/EM - Coulomb Law.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "1866d41fbfc0f868",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "9dfbc46aa55fe915",
+      "type": "file",
+      "file": "01-Concepts/Physics/Electromagnetism/assets/electric-field.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "ade0adf3079664cf",
+      "fromNode": "7e3d1957fb727695",
+      "toNode": "1866d41fbfc0f868",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

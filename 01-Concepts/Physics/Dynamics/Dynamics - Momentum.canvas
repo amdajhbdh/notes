@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "b49581650de45f9f",
+      "type": "file",
+      "file": "01-Concepts/Physics/Dynamics/Dynamics - Momentum.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "a9a542f18524a6f9",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "cea5d7769a43b771",
+      "type": "file",
+      "file": "01-Concepts/Physics/Dynamics/assets/circular-motion.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "fb81b379e6d9141d",
+      "fromNode": "b49581650de45f9f",
+      "toNode": "a9a542f18524a6f9",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

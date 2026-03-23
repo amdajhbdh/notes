@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"4e5f67890a1b2c3d","type":"group","x":-680,"y":840,"width":1680,"height":760,"label":"Resources & Visuals"},
+		{"id":"e5f67890a1b2c3d4","type":"group","x":-160,"y":200,"width":640,"height":550,"label":"Core Content"},
+		{"id":"1b2c3d4e5f67890a","type":"group","x":560,"y":200,"width":600,"height":550,"label":"Assessment"},
+		{"id":"b2c3d4e5f67890a1","type":"group","x":-800,"y":200,"width":430,"height":550,"label":"Meta & Organization"},
+		{"id":"a1b2c3d4e5f67890","type":"text","text":"# Baccalaureate Study Vault\nMaster Hub","x":0,"y":0,"width":300,"height":100,"color":"6"},
+		{"id":"f67890a1b2c3d4e5","type":"file","file":"01-Concepts/INDEX.md","x":-120,"y":269,"width":560,"height":206},
+		{"id":"0a1b2c3d4e5f6789","type":"file","file":"02-Practice/INDEX.md","x":-120,"y":506,"width":560,"height":210},
+		{"id":"c3d4e5f67890a1b2","type":"file","file":"00-Meta/INDEX.md","x":-720,"y":225,"width":300,"height":200},
+		{"id":"d4e5f67890a1b2c3","type":"file","file":"00-Meta/PROGRESS-TABLE.md","x":-720,"y":475,"width":300,"height":200},
+		{"id":"2c3d4e5f67890a1b","type":"file","file":"04-Exams/INDEX.md","x":640,"y":238,"width":460,"height":175},
+		{"id":"3d4e5f67890a1b2c","type":"file","file":"06-Daily/Progress-Dashboard.md","x":640,"y":506,"width":460,"height":169},
+		{"id":"5f67890a1b2c3d4e","type":"file","file":"03-Resources/INDEX.md","x":-570,"y":880,"width":1440,"height":320},
+		{"id":"6a7b8c9d0e1f2a3b","type":"file","file":"Animations/README.md","x":-570,"y":1240,"width":1440,"height":347}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"a1b2c3d4e5f67890","fromSide":"bottom","toNode":"b2c3d4e5f67890a1","toSide":"top"},
+		{"id":"e2","fromNode":"a1b2c3d4e5f67890","fromSide":"bottom","toNode":"e5f67890a1b2c3d4","toSide":"top"},
+		{"id":"e3","fromNode":"a1b2c3d4e5f67890","fromSide":"bottom","toNode":"1b2c3d4e5f67890a","toSide":"top"},
+		{"id":"e4","fromNode":"e5f67890a1b2c3d4","fromSide":"bottom","toNode":"4e5f67890a1b2c3d","toSide":"top"},
+		{"id":"f8ae76ce7db0b702","fromNode":"f67890a1b2c3d4e5","fromSide":"bottom","toNode":"0a1b2c3d4e5f6789","toSide":"top"}
+	]
+}

@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "674e87dbea8fa15f",
+      "type": "file",
+      "file": "01-Concepts/Math/Matrices/Matrices - Systems of Equations.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "c9e447b1ef5a8a1c",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "22205c78e5d85c22",
+      "type": "file",
+      "file": "01-Concepts/Math/Matrices/assets/matrix-transform.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "7b49048543555c52",
+      "fromNode": "674e87dbea8fa15f",
+      "toNode": "c9e447b1ef5a8a1c",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

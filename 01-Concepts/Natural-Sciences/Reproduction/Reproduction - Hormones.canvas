@@ -1,0 +1,65 @@
+{
+  "nodes": [
+    {
+      "id": "169cc65b9e46a278",
+      "type": "file",
+      "file": "01-Concepts/Natural-Sciences/Reproduction/Reproduction - Hormones.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "98e6dc27e439d5fa",
+      "type": "group",
+      "label": "\ud83c\udfaf Practice",
+      "x": 650,
+      "y": 0,
+      "width": 450,
+      "height": 300
+    },
+    {
+      "id": "435ba7e5de155ae7",
+      "type": "file",
+      "file": "02-Practice/Biology/Hormones-Exercises.md",
+      "x": 675,
+      "y": 50,
+      "width": 400,
+      "height": 200
+    },
+    {
+      "id": "5ac0c6fbe694de09",
+      "type": "group",
+      "label": "\ud83d\udcd6 Textbook Context",
+      "x": 0,
+      "y": 850,
+      "width": 600,
+      "height": 300
+    },
+    {
+      "id": "0f092095111223eb",
+      "type": "file",
+      "file": "05-Extracted/Biology/r\u00e9sum\u00e9 sur les hormones (NB ).md",
+      "x": 25,
+      "y": 900,
+      "width": 550,
+      "height": 230
+    }
+  ],
+  "edges": [
+    {
+      "id": "caa285bd36bb78a3",
+      "fromNode": "169cc65b9e46a278",
+      "toNode": "98e6dc27e439d5fa",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "id": "fa596d10c1429227",
+      "fromNode": "169cc65b9e46a278",
+      "toNode": "5ac0c6fbe694de09",
+      "fromSide": "bottom",
+      "toSide": "top"
+    }
+  ]
+}

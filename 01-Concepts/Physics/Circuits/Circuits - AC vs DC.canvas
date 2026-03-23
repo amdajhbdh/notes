@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "6a9add867da603f2",
+      "type": "file",
+      "file": "01-Concepts/Physics/Circuits/Circuits - AC vs DC.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "43340d8faa54681f",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "bd2d9b9d60c3b0fb",
+      "type": "file",
+      "file": "01-Concepts/Physics/Circuits/assets/ohm-law.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "3164e71457de3d6b",
+      "fromNode": "6a9add867da603f2",
+      "toNode": "43340d8faa54681f",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

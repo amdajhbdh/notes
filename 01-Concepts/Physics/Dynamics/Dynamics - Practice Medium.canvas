@@ -1,0 +1,83 @@
+{
+  "nodes": [
+    {
+      "id": "4df031b9f2664fbb",
+      "type": "file",
+      "file": "01-Concepts/Physics/Dynamics/Dynamics - Practice Medium.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "424f21f834e4482e",
+      "type": "group",
+      "label": "\ud83c\udfaf Practice",
+      "x": 650,
+      "y": 0,
+      "width": 450,
+      "height": 800
+    },
+    {
+      "id": "e9fa2d371e3aa333",
+      "type": "file",
+      "file": "02-Practice/Physics/Magnetic-Induction/Induction - Practice Medium.md",
+      "x": 675,
+      "y": 50,
+      "width": 400,
+      "height": 200
+    },
+    {
+      "id": "9ba1c3c6f337129e",
+      "type": "file",
+      "file": "02-Practice/Math/Complex-Numbers/Complex Numbers - Practice Medium.md",
+      "x": 675,
+      "y": 300,
+      "width": 400,
+      "height": 200
+    },
+    {
+      "id": "c594fb96a79de8cc",
+      "type": "file",
+      "file": "02-Practice/Math/Integrals/Integrals - Practice Medium.md",
+      "x": 675,
+      "y": 550,
+      "width": 400,
+      "height": 200
+    },
+    {
+      "id": "785f6188987f305e",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "07d54348399dc0de",
+      "type": "file",
+      "file": "01-Concepts/Physics/Dynamics/assets/circular-motion.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "2ae9dd0b00792eee",
+      "fromNode": "4df031b9f2664fbb",
+      "toNode": "424f21f834e4482e",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "id": "ff0bd2123411c8be",
+      "fromNode": "4df031b9f2664fbb",
+      "toNode": "785f6188987f305e",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

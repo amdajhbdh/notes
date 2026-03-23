@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "5bb0eba00406fda9",
+      "type": "file",
+      "file": "01-Concepts/Physics/Circuits/Circuits - Power.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "672234b43a29ac75",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "013c7584a16e3e7d",
+      "type": "file",
+      "file": "01-Concepts/Physics/Circuits/assets/ohm-law.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "90254cc25a32e539",
+      "fromNode": "5bb0eba00406fda9",
+      "toNode": "672234b43a29ac75",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

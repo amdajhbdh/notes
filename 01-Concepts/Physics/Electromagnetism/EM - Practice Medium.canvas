@@ -1,0 +1,83 @@
+{
+  "nodes": [
+    {
+      "id": "ee34db1bbefa1c3c",
+      "type": "file",
+      "file": "01-Concepts/Physics/Electromagnetism/EM - Practice Medium.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "38d2c8371caaedb1",
+      "type": "group",
+      "label": "\ud83c\udfaf Practice",
+      "x": 650,
+      "y": 0,
+      "width": 450,
+      "height": 800
+    },
+    {
+      "id": "22c4809cb7942e98",
+      "type": "file",
+      "file": "02-Practice/Physics/Magnetic-Induction/Induction - Practice Medium.md",
+      "x": 675,
+      "y": 50,
+      "width": 400,
+      "height": 200
+    },
+    {
+      "id": "a0b67d0d5334d444",
+      "type": "file",
+      "file": "02-Practice/Math/Complex-Numbers/Complex Numbers - Practice Medium.md",
+      "x": 675,
+      "y": 300,
+      "width": 400,
+      "height": 200
+    },
+    {
+      "id": "ae0f6b4261bf8d23",
+      "type": "file",
+      "file": "02-Practice/Math/Integrals/Integrals - Practice Medium.md",
+      "x": 675,
+      "y": 550,
+      "width": 400,
+      "height": 200
+    },
+    {
+      "id": "1e5d3cd9c103cb14",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "cb57d522f69f2c17",
+      "type": "file",
+      "file": "01-Concepts/Physics/Electromagnetism/assets/electric-field.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "ca9a3c2c277088ad",
+      "fromNode": "ee34db1bbefa1c3c",
+      "toNode": "38d2c8371caaedb1",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "id": "0da778392b5d029c",
+      "fromNode": "ee34db1bbefa1c3c",
+      "toNode": "1e5d3cd9c103cb14",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

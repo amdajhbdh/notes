@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "69e456707dde3eb3",
+      "type": "file",
+      "file": "01-Concepts/Chemistry/Kinetics/Kinetics - Rate Laws.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "63ed3e00a3bbe49b",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "8ea3d69150accde3",
+      "type": "file",
+      "file": "01-Concepts/Chemistry/Kinetics/assets/reaction-rate.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "538afd1972a8d7bf",
+      "fromNode": "69e456707dde3eb3",
+      "toNode": "63ed3e00a3bbe49b",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

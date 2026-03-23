@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "64833182e4bca309",
+      "type": "file",
+      "file": "01-Concepts/Math/Complex-Numbers/Complex Numbers - Modulus and Argument.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "6e02de986a93eb26",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "fc1f38795e5d101a",
+      "type": "file",
+      "file": "01-Concepts/Math/Complex-Numbers/assets/argand-plane.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "5e88f1e256f70297",
+      "fromNode": "64833182e4bca309",
+      "toNode": "6e02de986a93eb26",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

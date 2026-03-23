@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "c0f14048dab3b85b",
+      "type": "file",
+      "file": "01-Concepts/Physics/Electromagnetism/EM - Gauss Law.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "d89c28a8b2795e90",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "053c21be999897f7",
+      "type": "file",
+      "file": "01-Concepts/Physics/Electromagnetism/assets/electric-field.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "ac409dc3d905abd3",
+      "fromNode": "c0f14048dab3b85b",
+      "toNode": "d89c28a8b2795e90",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "nodes": [
+    {
+      "id": "node-primes-main",
+      "type": "file",
+      "file": "01-Concepts/Math/Number-Theory/Number Theory - Primes.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 400
+    },
+    {
+      "id": "group-extracted",
+      "type": "group",
+      "label": "📖 Textbook Context",
+      "x": 650,
+      "y": 0,
+      "width": 450,
+      "height": 550
+    },
+    {
+      "id": "node-ext-1",
+      "type": "file",
+      "file": "05-Extracted/Math/série arithmétique 7C lycée d'excellence 3 moctar Cherif 2025-2026..md",
+      "x": 675,
+      "y": 50,
+      "width": 400,
+      "height": 200
+    },
+    {
+      "id": "node-ext-2",
+      "type": "file",
+      "file": "05-Extracted/Math/Série arithmétique 7C lycée D'ATAR 2025-2026.md",
+      "x": 675,
+      "y": 300,
+      "width": 400,
+      "height": 200
+    },
+    {
+      "id": "group-related",
+      "type": "group",
+      "label": "🔗 Related Concepts",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 400
+    },
+    {
+      "id": "node-rel-1",
+      "type": "file",
+      "file": "01-Concepts/Math/Number-Theory/Number Theory - Divisibility.md",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 100
+    },
+    {
+      "id": "node-rel-2",
+      "type": "file",
+      "file": "01-Concepts/Math/Number-Theory/Number Theory - Euclidean Algorithm.md",
+      "x": -475,
+      "y": 200,
+      "width": 400,
+      "height": 100
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-ext",
+      "fromNode": "node-primes-main",
+      "toNode": "group-extracted",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "id": "e-rel",
+      "fromNode": "node-primes-main",
+      "toNode": "group-related",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

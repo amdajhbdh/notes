@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "7d65d88f8fe9f29c",
+      "type": "file",
+      "file": "01-Concepts/Math/Integrals/Integrals - Techniques.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "bd61a829f4f1a182",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "914bee953d1564bc",
+      "type": "file",
+      "file": "01-Concepts/Math/Integrals/assets/area-under-curve.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "ea98be220b3bd997",
+      "fromNode": "7d65d88f8fe9f29c",
+      "toNode": "bd61a829f4f1a182",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

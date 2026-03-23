@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "bde35baaed055db7",
+      "type": "file",
+      "file": "01-Concepts/Natural-Sciences/Genetics/Genetics - DNA Structure.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "479ed2e405313bae",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "dad802671656bac5",
+      "type": "file",
+      "file": "01-Concepts/Natural-Sciences/Genetics/assets/dna-helix.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "5a958bb4b302493f",
+      "fromNode": "bde35baaed055db7",
+      "toNode": "479ed2e405313bae",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

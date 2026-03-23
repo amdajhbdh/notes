@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "3f93b279d843a29b",
+      "type": "file",
+      "file": "01-Concepts/Physics/Dynamics/Dynamics - Friction.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "77994d1f3211b066",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "5588ff3c7e6e6485",
+      "type": "file",
+      "file": "01-Concepts/Physics/Dynamics/assets/circular-motion.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "85b9b245fc43c829",
+      "fromNode": "3f93b279d843a29b",
+      "toNode": "77994d1f3211b066",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

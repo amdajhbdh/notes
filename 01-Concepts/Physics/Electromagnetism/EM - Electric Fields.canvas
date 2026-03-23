@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "40a8ab80fa4c974e",
+      "type": "file",
+      "file": "01-Concepts/Physics/Electromagnetism/EM - Electric Fields.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "8b6396097eae3f7c",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "6cc7c1fbcab1d177",
+      "type": "file",
+      "file": "01-Concepts/Physics/Electromagnetism/assets/electric-field.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "25d0991862d8519a",
+      "fromNode": "40a8ab80fa4c974e",
+      "toNode": "8b6396097eae3f7c",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

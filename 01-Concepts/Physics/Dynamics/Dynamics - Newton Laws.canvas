@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "31a454f5425b192d",
+      "type": "file",
+      "file": "01-Concepts/Physics/Dynamics/Dynamics - Newton Laws.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "2fdbc0a09b07788a",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "2ac8c1e357503910",
+      "type": "file",
+      "file": "01-Concepts/Physics/Dynamics/assets/circular-motion.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "81ab6f0cc1d20692",
+      "fromNode": "31a454f5425b192d",
+      "toNode": "2fdbc0a09b07788a",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

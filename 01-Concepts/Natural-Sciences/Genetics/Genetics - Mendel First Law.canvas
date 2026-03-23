@@ -1,0 +1,65 @@
+{
+  "nodes": [
+    {
+      "id": "58b2f4cfa1045031",
+      "type": "file",
+      "file": "01-Concepts/Natural-Sciences/Genetics/Genetics - Mendel First Law.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "799dec5479d89929",
+      "type": "group",
+      "label": "\ud83c\udfaf Practice",
+      "x": 650,
+      "y": 0,
+      "width": 450,
+      "height": 300
+    },
+    {
+      "id": "19aa0ff45d07b5db",
+      "type": "file",
+      "file": "02-Practice/Natural-Sciences/Genetics/Genetics - Mendel First Law Practice.md",
+      "x": 675,
+      "y": 50,
+      "width": 400,
+      "height": 200
+    },
+    {
+      "id": "1a9e699a2e867ed9",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "33c4ba20c43b0c3f",
+      "type": "file",
+      "file": "01-Concepts/Natural-Sciences/Genetics/assets/dna-helix.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "229fd9525f4e5124",
+      "fromNode": "58b2f4cfa1045031",
+      "toNode": "799dec5479d89929",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "id": "e2e66953d684f021",
+      "fromNode": "58b2f4cfa1045031",
+      "toNode": "1a9e699a2e867ed9",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

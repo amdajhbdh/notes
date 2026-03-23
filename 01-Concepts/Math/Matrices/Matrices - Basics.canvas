@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "node-matrix-main",
+      "type": "file",
+      "file": "01-Concepts/Math/Matrices/Matrices - Basics.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "group-visuals",
+      "type": "group",
+      "label": "🖼️ Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "node-visual-1",
+      "type": "file",
+      "file": "01-Concepts/Math/Matrices/assets/matrix-transform.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    },
+    {
+      "id": "group-extracted",
+      "type": "group",
+      "label": "📖 Textbook Context",
+      "x": 650,
+      "y": 0,
+      "width": 450,
+      "height": 550
+    },
+    {
+      "id": "node-extracted-1",
+      "type": "file",
+      "file": "05-Extracted/Math/Cours matrices 7C E.P ISLAH ERRAID 2025-2026.md",
+      "x": 675,
+      "y": 50,
+      "width": 400,
+      "height": 200
+    },
+    {
+      "id": "node-extracted-2",
+      "type": "file",
+      "file": "05-Extracted/Math/série matrices 7C E.P EL MOURAD 2025-2026.md",
+      "x": 675,
+      "y": 300,
+      "width": 400,
+      "height": 200
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-visual",
+      "fromNode": "node-matrix-main",
+      "toNode": "group-visuals",
+      "fromSide": "left",
+      "toSide": "right"
+    },
+    {
+      "id": "e-extract",
+      "fromNode": "node-matrix-main",
+      "toNode": "group-extracted",
+      "fromSide": "right",
+      "toSide": "left"
+    }
+  ]
+}

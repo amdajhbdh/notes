@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "082035c4242653b3",
+      "type": "file",
+      "file": "01-Concepts/Biology/Genetique-Catalogue-Complet.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "5b976419fa8ddcc8",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "95b980ea64c027e0",
+      "type": "file",
+      "file": "01-Concepts/Biology/assets/action-potential.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "3f4e0ad48fdafa1f",
+      "fromNode": "082035c4242653b3",
+      "toNode": "5b976419fa8ddcc8",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

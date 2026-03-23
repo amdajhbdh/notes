@@ -1,0 +1,49 @@
+{
+  "nodes": [
+    {
+      "id": "a13b48bdcd7247c9",
+      "type": "file",
+      "file": "01-Concepts/Physics/Energy/Energy - Practice Hard.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "9653e1257ce2e03d",
+      "type": "group",
+      "label": "\ud83c\udfaf Practice",
+      "x": 650,
+      "y": 0,
+      "width": 450,
+      "height": 550
+    },
+    {
+      "id": "913241baea9f9dd3",
+      "type": "file",
+      "file": "02-Practice/Physics/Magnetic-Induction/Induction - Practice Hard.md",
+      "x": 675,
+      "y": 50,
+      "width": 400,
+      "height": 200
+    },
+    {
+      "id": "5eec68fb0e870009",
+      "type": "file",
+      "file": "02-Practice/Math/Complex-Numbers/Complex Numbers - Practice Hard.md",
+      "x": 675,
+      "y": 300,
+      "width": 400,
+      "height": 200
+    }
+  ],
+  "edges": [
+    {
+      "id": "aa6b7b3160821b76",
+      "fromNode": "a13b48bdcd7247c9",
+      "toNode": "9653e1257ce2e03d",
+      "fromSide": "right",
+      "toSide": "left"
+    }
+  ]
+}

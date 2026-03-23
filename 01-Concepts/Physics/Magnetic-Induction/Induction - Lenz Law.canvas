@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "cae14ec096a80ead",
+      "type": "file",
+      "file": "01-Concepts/Physics/Magnetic-Induction/Induction - Lenz Law.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "ee8001f66c08c1c1",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "816864b9d55f48a1",
+      "type": "file",
+      "file": "01-Concepts/Physics/Magnetic-Induction/assets/faraday-law.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "076147c9c0c2a917",
+      "fromNode": "cae14ec096a80ead",
+      "toNode": "ee8001f66c08c1c1",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

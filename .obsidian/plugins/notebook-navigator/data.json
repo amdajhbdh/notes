@@ -142,7 +142,7 @@
   "inheritPropertyColors": true,
   "propertySortOrder": "alpha-asc",
   "showAllPropertiesFolder": true,
-  "defaultListMode": "standard",
+  "defaultListMode": "compact",
   "includeDescendantNotes": true,
   "defaultFolderSort": "modified-desc",
   "propertySortKey": "",

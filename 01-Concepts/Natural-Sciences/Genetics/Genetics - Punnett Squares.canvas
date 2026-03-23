@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "0e02d029db29e035",
+      "type": "file",
+      "file": "01-Concepts/Natural-Sciences/Genetics/Genetics - Punnett Squares.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "9ba3b9c6810635c2",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "a5afb8668a184d7d",
+      "type": "file",
+      "file": "01-Concepts/Natural-Sciences/Genetics/assets/dna-helix.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "57aa157b32847068",
+      "fromNode": "0e02d029db29e035",
+      "toNode": "9ba3b9c6810635c2",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

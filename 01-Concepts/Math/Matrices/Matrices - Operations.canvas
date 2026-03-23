@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "ad15a7d6aa8e688b",
+      "type": "file",
+      "file": "01-Concepts/Math/Matrices/Matrices - Operations.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "1f72d5392ae73b92",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "8f44f19601db126c",
+      "type": "file",
+      "file": "01-Concepts/Math/Matrices/assets/matrix-transform.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "edfd010cccc58857",
+      "fromNode": "ad15a7d6aa8e688b",
+      "toNode": "1f72d5392ae73b92",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

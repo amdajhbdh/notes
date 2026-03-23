@@ -1,0 +1,14 @@
+{
+  "nodes": [
+    {
+      "id": "79b6639196c9f53b",
+      "type": "file",
+      "file": "01-Concepts/Biology/Diagrams/Brain.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    }
+  ],
+  "edges": []
+}

@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "e3e0698f34ff970a",
+      "type": "file",
+      "file": "01-Concepts/Math/Complex-Numbers/Complex Numbers - Polar Form.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "d1099033b73f6152",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "fa91e09b27c7bbd2",
+      "type": "file",
+      "file": "01-Concepts/Math/Complex-Numbers/assets/argand-plane.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "bba371141fc3066e",
+      "fromNode": "e3e0698f34ff970a",
+      "toNode": "d1099033b73f6152",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "643cb1cc273a5058",
+      "type": "file",
+      "file": "01-Concepts/Physics/Circuits/Circuits - RC Circuits.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "761d5a803494fe66",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "e0712695af986fb8",
+      "type": "file",
+      "file": "01-Concepts/Physics/Circuits/assets/ohm-law.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "e21d863c23e9f67d",
+      "fromNode": "643cb1cc273a5058",
+      "toNode": "761d5a803494fe66",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "node-gen-main",
+      "type": "file",
+      "file": "01-Concepts/Biology/Genetics-Basics.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 600
+    },
+    {
+      "id": "group-practice",
+      "type": "group",
+      "label": "🎯 Practice",
+      "x": 650,
+      "y": 0,
+      "width": 450,
+      "height": 300
+    },
+    {
+      "id": "node-prac-1",
+      "type": "file",
+      "file": "02-Practice/Biology/Genetics-Exercises.md",
+      "x": 675,
+      "y": 50,
+      "width": 400,
+      "height": 200
+    },
+    {
+      "id": "group-extracted",
+      "type": "group",
+      "label": "📖 Textbook Context",
+      "x": 0,
+      "y": 650,
+      "width": 600,
+      "height": 300
+    },
+    {
+      "id": "node-ext-1",
+      "type": "file",
+      "file": "05-Extracted/Biology/Série Brassage de l'information génétique 7C E.P ERROUWAD KIFFA 2025-2026.md",
+      "x": 25,
+      "y": 700,
+      "width": 550,
+      "height": 230
+    },
+    {
+      "id": "group-visuals",
+      "type": "group",
+      "label": "🖼️ Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "node-vis-1",
+      "type": "file",
+      "file": "01-Concepts/Biology/Genetique-Diagrammes.excalidraw.md",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-prac",
+      "fromNode": "node-gen-main",
+      "toNode": "group-practice",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "id": "e-ext",
+      "fromNode": "node-gen-main",
+      "toNode": "group-extracted",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "e-vis",
+      "fromNode": "node-gen-main",
+      "toNode": "group-visuals",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

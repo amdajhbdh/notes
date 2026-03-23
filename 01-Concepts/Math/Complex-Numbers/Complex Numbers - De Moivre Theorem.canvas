@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "a26b780f2b5189eb",
+      "type": "file",
+      "file": "01-Concepts/Math/Complex-Numbers/Complex Numbers - De Moivre Theorem.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "0c81831fab438d61",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "6bb72e58cb0c0a7c",
+      "type": "file",
+      "file": "01-Concepts/Math/Complex-Numbers/assets/argand-plane.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "1efcfdeb23d5dc36",
+      "fromNode": "a26b780f2b5189eb",
+      "toNode": "0c81831fab438d61",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

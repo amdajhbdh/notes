@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "c2d09c472d44d287",
+      "type": "file",
+      "file": "01-Concepts/Math/Integrals/Integrals - By Parts.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "13ae6f52c69c20ec",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "583ae2e297fcd5fe",
+      "type": "file",
+      "file": "01-Concepts/Math/Integrals/assets/area-under-curve.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "142a96f79d3b173d",
+      "fromNode": "c2d09c472d44d287",
+      "toNode": "13ae6f52c69c20ec",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

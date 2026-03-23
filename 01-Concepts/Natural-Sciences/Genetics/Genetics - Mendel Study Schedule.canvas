@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "ce24b32353b72522",
+      "type": "file",
+      "file": "01-Concepts/Natural-Sciences/Genetics/Genetics - Mendel Study Schedule.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "6603d2fba8d5a85b",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "1f1b6a1aec191acb",
+      "type": "file",
+      "file": "01-Concepts/Natural-Sciences/Genetics/assets/dna-helix.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "87d4b635d13a101e",
+      "fromNode": "ce24b32353b72522",
+      "toNode": "6603d2fba8d5a85b",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "2066b2fc75b759f6",
+      "type": "file",
+      "file": "01-Concepts/Chemistry/Solutions/Titration-Advanced.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "43bfbe9c610bce45",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "716e49edd6a8d9d0",
+      "type": "file",
+      "file": "01-Concepts/Chemistry/Solutions/assets/titration-curve.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "88cb26cbc61fb146",
+      "fromNode": "2066b2fc75b759f6",
+      "toNode": "43bfbe9c610bce45",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

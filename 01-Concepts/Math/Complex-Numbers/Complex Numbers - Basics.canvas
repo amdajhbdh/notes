@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "58462ffc7f29d576",
+      "type": "file",
+      "file": "01-Concepts/Math/Complex-Numbers/Complex Numbers - Basics.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "390ab04e192f41a1",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "d872ef2e7850b0be",
+      "type": "file",
+      "file": "01-Concepts/Math/Complex-Numbers/assets/argand-plane.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "4aeed4e2796a37ff",
+      "fromNode": "58462ffc7f29d576",
+      "toNode": "390ab04e192f41a1",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

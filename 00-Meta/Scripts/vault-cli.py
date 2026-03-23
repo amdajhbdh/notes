@@ -3,7 +3,7 @@ import sqlite3
 import sys
 from pathlib import Path
 
-VAULT = Path(__file__).parent
+VAULT = Path(__file__).parent.parent.parent
 DB = VAULT / ".vault-index.db"
 
 def search(query, limit=10):

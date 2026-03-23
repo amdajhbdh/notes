@@ -1,0 +1,118 @@
+{
+  "nodes": [
+    {
+      "id": "physics-hub",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 300,
+      "height": 100,
+      "text": "# ⚛️ Physics Hub\nConcepts & Practice",
+      "color": "6"
+    },
+    {
+      "id": "group-em",
+      "type": "group",
+      "x": -450,
+      "y": 200,
+      "width": 400,
+      "height": 300,
+      "label": "Electromagnetism"
+    },
+    {
+      "id": "file-em-index",
+      "type": "file",
+      "x": -425,
+      "y": 250,
+      "width": 350,
+      "height": 80,
+      "file": "01-Concepts/Physics/Electromagnetism/INDEX.md"
+    },
+    {
+      "id": "file-mi-index",
+      "type": "file",
+      "x": -425,
+      "y": 350,
+      "width": 350,
+      "height": 80,
+      "file": "01-Concepts/Physics/Magnetic-Induction/INDEX.md"
+    },
+    {
+      "id": "group-circuits",
+      "type": "group",
+      "x": 50,
+      "y": 200,
+      "width": 400,
+      "height": 300,
+      "label": "Circuits"
+    },
+    {
+      "id": "file-circuits-index",
+      "type": "file",
+      "x": 75,
+      "y": 250,
+      "width": 350,
+      "height": 80,
+      "file": "01-Concepts/Physics/Circuits/INDEX.md"
+    },
+    {
+      "id": "group-dynamics",
+      "type": "group",
+      "x": -200,
+      "y": 550,
+      "width": 400,
+      "height": 400,
+      "label": "Dynamics & Energy"
+    },
+    {
+      "id": "file-dynamics-index",
+      "type": "file",
+      "x": -175,
+      "y": 600,
+      "width": 350,
+      "height": 80,
+      "file": "01-Concepts/Physics/Dynamics/INDEX.md"
+    },
+    {
+      "id": "file-energy-index",
+      "type": "file",
+      "x": -175,
+      "y": 700,
+      "width": 350,
+      "height": 80,
+      "file": "01-Concepts/Physics/Energy/INDEX.md"
+    },
+    {
+      "id": "file-satellites-index",
+      "type": "file",
+      "x": -175,
+      "y": 800,
+      "width": 350,
+      "height": 80,
+      "file": "01-Concepts/Physics/Satellites/INDEX.md"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-phys-1",
+      "fromNode": "physics-hub",
+      "fromSide": "left",
+      "toNode": "group-em",
+      "toSide": "top"
+    },
+    {
+      "id": "e-phys-2",
+      "fromNode": "physics-hub",
+      "fromSide": "right",
+      "toNode": "group-circuits",
+      "toSide": "top"
+    },
+    {
+      "id": "e-phys-3",
+      "fromNode": "physics-hub",
+      "fromSide": "bottom",
+      "toNode": "group-dynamics",
+      "toSide": "top"
+    }
+  ]
+}

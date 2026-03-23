@@ -1,0 +1,65 @@
+{
+  "nodes": [
+    {
+      "id": "c8a440f19e4eeb2b",
+      "type": "file",
+      "file": "01-Concepts/Physics/Dynamics/Dynamics - Springs.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "f0362b5be4d9afdf",
+      "type": "group",
+      "label": "\ud83c\udfaf Practice",
+      "x": 650,
+      "y": 0,
+      "width": 450,
+      "height": 300
+    },
+    {
+      "id": "9ab08ff249f928a1",
+      "type": "file",
+      "file": "02-Practice/Physics/Dynamics/Dynamics - Springs Practice Easy.md",
+      "x": 675,
+      "y": 50,
+      "width": 400,
+      "height": 200
+    },
+    {
+      "id": "fd661d1db3ccc84d",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "573ecf42b6ca0183",
+      "type": "file",
+      "file": "01-Concepts/Physics/Dynamics/assets/circular-motion.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "c6957c20eb4abef6",
+      "fromNode": "c8a440f19e4eeb2b",
+      "toNode": "f0362b5be4d9afdf",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "id": "106630db220f8d0a",
+      "fromNode": "c8a440f19e4eeb2b",
+      "toNode": "fd661d1db3ccc84d",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

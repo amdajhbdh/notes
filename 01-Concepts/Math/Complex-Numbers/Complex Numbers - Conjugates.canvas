@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "ea266abefc8bbe60",
+      "type": "file",
+      "file": "01-Concepts/Math/Complex-Numbers/Complex Numbers - Conjugates.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "908f516e9cc56dfb",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "5887a194c36b04e3",
+      "type": "file",
+      "file": "01-Concepts/Math/Complex-Numbers/assets/argand-plane.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "4e50a73289053d1d",
+      "fromNode": "ea266abefc8bbe60",
+      "toNode": "908f516e9cc56dfb",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

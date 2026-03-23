@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "a19aced3866c3b3b",
+      "type": "file",
+      "file": "01-Concepts/Math/Integrals/Integrals - Partial Fractions.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "e1ac03590758ca76",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "50caff98ec5a0261",
+      "type": "file",
+      "file": "01-Concepts/Math/Integrals/assets/area-under-curve.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "935c386ab12e3c99",
+      "fromNode": "a19aced3866c3b3b",
+      "toNode": "e1ac03590758ca76",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "nodes": [
+    {
+      "id": "e66bac373fc85ec2",
+      "type": "file",
+      "file": "01-Concepts/Math/Matrices/Matrices - Transformations.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "6cf631498122a2c0",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "4b7fdd8c44184183",
+      "type": "file",
+      "file": "01-Concepts/Math/Matrices/assets/matrix-transform.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    },
+    {
+      "id": "7bccfdab3b12a65d",
+      "type": "group",
+      "label": "\ud83d\udcd6 Textbook Context",
+      "x": 0,
+      "y": 850,
+      "width": 600,
+      "height": 300
+    },
+    {
+      "id": "e4fb52df9cd07452",
+      "type": "file",
+      "file": "05-Extracted/Resources/Math/\u0643\u062a\u0627\u0628-\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0627\u062a-\u0644\u0644\u0633\u0646\u0629-\u0627\u0644\u0633\u0627\u0628\u0639\u0629-\u0639\u0644\u0645\u064a\u0629-D-C-1-Ch14-Transformations 1                                 .md",
+      "x": 25,
+      "y": 900,
+      "width": 550,
+      "height": 230
+    }
+  ],
+  "edges": [
+    {
+      "id": "1e178de03478a7e9",
+      "fromNode": "e66bac373fc85ec2",
+      "toNode": "6cf631498122a2c0",
+      "fromSide": "left",
+      "toSide": "right"
+    },
+    {
+      "id": "d070d2e0d9416f6a",
+      "fromNode": "e66bac373fc85ec2",
+      "toNode": "7bccfdab3b12a65d",
+      "fromSide": "bottom",
+      "toSide": "top"
+    }
+  ]
+}

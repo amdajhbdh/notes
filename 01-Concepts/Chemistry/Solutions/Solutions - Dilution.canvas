@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "id": "77ae79659c115b88",
+      "type": "file",
+      "file": "01-Concepts/Chemistry/Solutions/Solutions - Dilution.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "d163b30bfc4fe422",
+      "type": "group",
+      "label": "\ud83c\udfaf Practice",
+      "x": 650,
+      "y": 0,
+      "width": 450,
+      "height": 550
+    },
+    {
+      "id": "b6a0c2c5e9931ca6",
+      "type": "file",
+      "file": "02-Practice/Chemistry/Solutions/Moha-Ex05-Acides-Dilution.md",
+      "x": 675,
+      "y": 50,
+      "width": 400,
+      "height": 200
+    },
+    {
+      "id": "de3ff805790f77d6",
+      "type": "file",
+      "file": "02-Practice/Chemistry/Solutions/Moha-Ex09-Bases-Dilution.md",
+      "x": 675,
+      "y": 300,
+      "width": 400,
+      "height": 200
+    },
+    {
+      "id": "e17bd8daa4657d21",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "066d88b88bef4834",
+      "type": "file",
+      "file": "01-Concepts/Chemistry/Solutions/assets/titration-curve.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    },
+    {
+      "id": "b12dc9bf476c00fc",
+      "type": "group",
+      "label": "\ud83d\udcd6 Textbook Context",
+      "x": 0,
+      "y": 850,
+      "width": 600,
+      "height": 300
+    },
+    {
+      "id": "9931348b7e2ea907",
+      "type": "file",
+      "file": "05-Extracted/Resources/Chemistry/CHI-7AS-C-Ch2-Par dilution dune solution de concentration connue.md",
+      "x": 25,
+      "y": 900,
+      "width": 550,
+      "height": 230
+    }
+  ],
+  "edges": [
+    {
+      "id": "f56d5431c4f2411d",
+      "fromNode": "77ae79659c115b88",
+      "toNode": "d163b30bfc4fe422",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "id": "bd9f75dd8f77b66b",
+      "fromNode": "77ae79659c115b88",
+      "toNode": "e17bd8daa4657d21",
+      "fromSide": "left",
+      "toSide": "right"
+    },
+    {
+      "id": "7875cda6f7f8da78",
+      "fromNode": "77ae79659c115b88",
+      "toNode": "b12dc9bf476c00fc",
+      "fromSide": "bottom",
+      "toSide": "top"
+    }
+  ]
+}

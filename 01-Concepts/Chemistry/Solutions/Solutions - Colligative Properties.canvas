@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "cf05acbb92d1092d",
+      "type": "file",
+      "file": "01-Concepts/Chemistry/Solutions/Solutions - Colligative Properties.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "1acf7d952e257633",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "695b0b6a0a4b94e4",
+      "type": "file",
+      "file": "01-Concepts/Chemistry/Solutions/assets/titration-curve.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "b9f20c2cb6f299d0",
+      "fromNode": "cf05acbb92d1092d",
+      "toNode": "1acf7d952e257633",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

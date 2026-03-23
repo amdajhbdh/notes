@@ -31,5 +31,7 @@
   "animated-cursor",
   "obsidian42-brat",
   "agent-client",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "terminal",
+  "obsidian-vimrc-support"
 ]

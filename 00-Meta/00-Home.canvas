@@ -1,0 +1,181 @@
+{
+  "nodes": [
+    {
+      "id": "home-1",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 300,
+      "height": 100,
+      "text": "# 🎓 BAC 2026\nMaster Hub",
+      "color": "6"
+    },
+    {
+      "id": "group-planning",
+      "type": "group",
+      "x": -500,
+      "y": -150,
+      "width": 400,
+      "height": 400,
+      "label": "📅 Study Planning"
+    },
+    {
+      "id": "file-roadmap",
+      "type": "file",
+      "x": -475,
+      "y": -100,
+      "width": 350,
+      "height": 80,
+      "file": "DAILY-STUDY-SCHEDULE.md"
+    },
+    {
+      "id": "file-guide",
+      "type": "file",
+      "x": -475,
+      "y": 0,
+      "width": 350,
+      "height": 80,
+      "file": "COMPREHENSIVE-BAC-STUDY-GUIDE.md"
+    },
+    {
+      "id": "file-breakdown",
+      "type": "file",
+      "x": -475,
+      "y": 100,
+      "width": 350,
+      "height": 80,
+      "file": "DETAILED-TOPIC-BREAKDOWN.md"
+    },
+    {
+      "id": "group-subjects",
+      "type": "group",
+      "x": 400,
+      "y": -150,
+      "width": 400,
+      "height": 550,
+      "label": "📚 Subjects Hubs"
+    },
+    {
+      "id": "canvas-math",
+      "type": "file",
+      "x": 425,
+      "y": -100,
+      "width": 350,
+      "height": 80,
+      "file": "00-Meta/Math.canvas"
+    },
+    {
+      "id": "canvas-physics",
+      "type": "file",
+      "x": 425,
+      "y": 0,
+      "width": 350,
+      "height": 80,
+      "file": "00-Meta/Physics.canvas"
+    },
+    {
+      "id": "canvas-chemistry",
+      "type": "file",
+      "x": 425,
+      "y": 100,
+      "width": 350,
+      "height": 80,
+      "file": "00-Meta/Chemistry.canvas"
+    },
+    {
+      "id": "canvas-biology",
+      "type": "file",
+      "x": 425,
+      "y": 200,
+      "width": 350,
+      "height": 80,
+      "file": "00-Meta/Biology.canvas"
+    },
+    {
+      "id": "canvas-bac",
+      "type": "file",
+      "x": 425,
+      "y": 300,
+      "width": 350,
+      "height": 80,
+      "file": "00-Meta/Mauritanian-Bac.canvas"
+    },
+    {
+      "id": "group-resources",
+      "type": "group",
+      "x": -100,
+      "y": 300,
+      "width": 500,
+      "height": 400,
+      "label": "🛠️ Resources & Tools"
+    },
+    {
+      "id": "file-exams",
+      "type": "file",
+      "x": -75,
+      "y": 350,
+      "width": 200,
+      "height": 80,
+      "file": "04-Exams/INDEX.md"
+    },
+    {
+      "id": "file-vocab",
+      "type": "file",
+      "x": 175,
+      "y": 350,
+      "width": 200,
+      "height": 80,
+      "file": "FRENCH-VOCABULARY-GUIDE.md"
+    },
+    {
+      "id": "file-dashboard",
+      "type": "file",
+      "x": -75,
+      "y": 450,
+      "width": 200,
+      "height": 80,
+      "file": "06-Daily/Progress-Dashboard.md"
+    },
+    {
+      "id": "file-animations",
+      "type": "file",
+      "x": 175,
+      "y": 450,
+      "width": 200,
+      "height": 80,
+      "file": "Animations/README.md"
+    },
+    {
+      "id": "canvas-resources",
+      "type": "file",
+      "x": -75,
+      "y": 550,
+      "width": 450,
+      "height": 80,
+      "file": "00-Meta/Resource-Navigator.canvas"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-plan",
+      "fromNode": "home-1",
+      "fromSide": "left",
+      "toNode": "group-planning",
+      "toSide": "right"
+    },
+    {
+      "id": "e-subj",
+      "fromNode": "home-1",
+      "fromSide": "right",
+      "toNode": "group-subjects",
+      "toSide": "left"
+    },
+    {
+      "id": "e-res",
+      "fromNode": "home-1",
+      "fromSide": "bottom",
+      "toNode": "group-resources",
+      "toSide": "top"
+    }
+  ]
+}

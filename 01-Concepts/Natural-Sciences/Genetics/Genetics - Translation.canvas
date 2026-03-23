@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "0acdb762f9422c96",
+      "type": "file",
+      "file": "01-Concepts/Natural-Sciences/Genetics/Genetics - Translation.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "704c8f1265fa94a0",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "44f15cbb61158366",
+      "type": "file",
+      "file": "01-Concepts/Natural-Sciences/Genetics/assets/dna-helix.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "84fb3b84f1bf128a",
+      "fromNode": "0acdb762f9422c96",
+      "toNode": "704c8f1265fa94a0",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "9ef578506255f81b",
+      "type": "file",
+      "file": "01-Concepts/Physics/Magnetic-Induction/Induction - Faraday Law.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "7c2c0c2eb4698d4c",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "1749d3e9e8f35022",
+      "type": "file",
+      "file": "01-Concepts/Physics/Magnetic-Induction/assets/faraday-law.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "daec41564f008c9d",
+      "fromNode": "9ef578506255f81b",
+      "toNode": "7c2c0c2eb4698d4c",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

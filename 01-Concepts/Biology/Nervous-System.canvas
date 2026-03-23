@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "id": "nervous-main",
+      "type": "file",
+      "file": "01-Concepts/Biology/Nervous-System.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 400
+    },
+    {
+      "id": "group-diagrams",
+      "type": "group",
+      "label": "🧠 Diagrams",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "node-diag-1",
+      "type": "file",
+      "file": "01-Concepts/Biology/Diagrams/Brain.md",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 150
+    },
+    {
+      "id": "node-diag-2",
+      "type": "file",
+      "file": "01-Concepts/Biology/Diagrams/Neuron.md",
+      "x": -475,
+      "y": 250,
+      "width": 400,
+      "height": 150
+    },
+    {
+      "id": "group-practice",
+      "type": "group",
+      "label": "🎯 Practice",
+      "x": 650,
+      "y": 0,
+      "width": 450,
+      "height": 300
+    },
+    {
+      "id": "node-prac-1",
+      "type": "file",
+      "file": "02-Practice/Biology/Nervous-System-Exercises.md",
+      "x": 675,
+      "y": 50,
+      "width": 400,
+      "height": 200
+    },
+    {
+      "id": "group-extracted",
+      "type": "group",
+      "label": "📖 Textbook Context",
+      "x": 0,
+      "y": 500,
+      "width": 600,
+      "height": 300
+    },
+    {
+      "id": "node-ext-1",
+      "type": "file",
+      "file": "05-Extracted/Biology/Système nerveux.md",
+      "x": 25,
+      "y": 550,
+      "width": 550,
+      "height": 230
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-diag",
+      "fromNode": "nervous-main",
+      "toNode": "group-diagrams",
+      "fromSide": "left",
+      "toSide": "right"
+    },
+    {
+      "id": "e-prac",
+      "fromNode": "nervous-main",
+      "toNode": "group-practice",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "id": "e-ext",
+      "fromNode": "nervous-main",
+      "toNode": "group-extracted",
+      "fromSide": "bottom",
+      "toSide": "top"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "nodes": [
+    {
+      "id": "5121d8224faaaa8e",
+      "type": "file",
+      "file": "01-Concepts/Physics/Circuits/Circuits - Practice Medium.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "896ce4047122a50a",
+      "type": "group",
+      "label": "\ud83c\udfaf Practice",
+      "x": 650,
+      "y": 0,
+      "width": 450,
+      "height": 800
+    },
+    {
+      "id": "d3df2968d102b423",
+      "type": "file",
+      "file": "02-Practice/Physics/Magnetic-Induction/Induction - Practice Medium.md",
+      "x": 675,
+      "y": 50,
+      "width": 400,
+      "height": 200
+    },
+    {
+      "id": "e72757985b000155",
+      "type": "file",
+      "file": "02-Practice/Math/Complex-Numbers/Complex Numbers - Practice Medium.md",
+      "x": 675,
+      "y": 300,
+      "width": 400,
+      "height": 200
+    },
+    {
+      "id": "cb6615ce54bc15e5",
+      "type": "file",
+      "file": "02-Practice/Math/Integrals/Integrals - Practice Medium.md",
+      "x": 675,
+      "y": 550,
+      "width": 400,
+      "height": 200
+    },
+    {
+      "id": "d9dc90d30844bf45",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "f77e8b86ee662c72",
+      "type": "file",
+      "file": "01-Concepts/Physics/Circuits/assets/ohm-law.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "2133f3350cf10879",
+      "fromNode": "5121d8224faaaa8e",
+      "toNode": "896ce4047122a50a",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "id": "a44e2bc3beadef28",
+      "fromNode": "5121d8224faaaa8e",
+      "toNode": "d9dc90d30844bf45",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "4a515323539b8072",
+      "type": "file",
+      "file": "01-Concepts/Natural-Sciences/Genetics/Genetics - Transcription.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "ab307bc1d6ce3887",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "2c3613eb1cd15563",
+      "type": "file",
+      "file": "01-Concepts/Natural-Sciences/Genetics/assets/dna-helix.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "c00a82812f8cd195",
+      "fromNode": "4a515323539b8072",
+      "toNode": "ab307bc1d6ce3887",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

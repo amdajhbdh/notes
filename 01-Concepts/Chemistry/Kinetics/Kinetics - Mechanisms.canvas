@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "803c714e0d9ed458",
+      "type": "file",
+      "file": "01-Concepts/Chemistry/Kinetics/Kinetics - Mechanisms.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "221e9691a92bf4be",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "c69e042d9f06fc3e",
+      "type": "file",
+      "file": "01-Concepts/Chemistry/Kinetics/assets/reaction-rate.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "0de069ce6a84668b",
+      "fromNode": "803c714e0d9ed458",
+      "toNode": "221e9691a92bf4be",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

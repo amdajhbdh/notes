@@ -1,0 +1,58 @@
+{
+  "nodes": [
+    {
+      "id": "40e84fecaf55e9c6",
+      "type": "file",
+      "file": "01-Concepts/Physics/Energy/Energy - Practice Easy.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "d059b34e6a0dd537",
+      "type": "group",
+      "label": "\ud83c\udfaf Practice",
+      "x": 650,
+      "y": 0,
+      "width": 450,
+      "height": 800
+    },
+    {
+      "id": "e678ee83560af410",
+      "type": "file",
+      "file": "02-Practice/Physics/Dynamics/Dynamics - Practice Easy.md",
+      "x": 675,
+      "y": 50,
+      "width": 400,
+      "height": 200
+    },
+    {
+      "id": "b3aa561c6a809adb",
+      "type": "file",
+      "file": "02-Practice/Physics/Dynamics/Dynamics - Springs Practice Easy.md",
+      "x": 675,
+      "y": 300,
+      "width": 400,
+      "height": 200
+    },
+    {
+      "id": "0240b77899fb3dd2",
+      "type": "file",
+      "file": "02-Practice/Physics/Magnetic-Induction/Induction - Practice Easy.md",
+      "x": 675,
+      "y": 550,
+      "width": 400,
+      "height": 200
+    }
+  ],
+  "edges": [
+    {
+      "id": "e0d6aa1c9de4cd4e",
+      "fromNode": "40e84fecaf55e9c6",
+      "toNode": "d059b34e6a0dd537",
+      "fromSide": "right",
+      "toSide": "left"
+    }
+  ]
+}

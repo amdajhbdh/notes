@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "id": "bac-hub",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 300,
+      "height": 100,
+      "text": "# 🇲🇷 Mauritanian BAC\nSubject Inventory",
+      "color": "4"
+    },
+    {
+      "id": "group-math",
+      "type": "group",
+      "x": -400,
+      "y": 200,
+      "width": 350,
+      "height": 150,
+      "label": "Mathématiques"
+    },
+    {
+      "id": "dir-math",
+      "type": "text",
+      "x": -375,
+      "y": 250,
+      "width": 300,
+      "height": 50,
+      "text": "[Folder: Mathematiques](mauritanian-bac/mathematiques)"
+    },
+    {
+      "id": "group-pc",
+      "type": "group",
+      "x": 0,
+      "y": 200,
+      "width": 350,
+      "height": 150,
+      "label": "Physique-Chimie"
+    },
+    {
+      "id": "dir-pc",
+      "type": "text",
+      "x": 25,
+      "y": 250,
+      "width": 300,
+      "height": 50,
+      "text": "[Folder: Physique-Chimie](mauritanian-bac/physique-chimie)"
+    },
+    {
+      "id": "group-svt",
+      "type": "group",
+      "x": 400,
+      "y": 200,
+      "width": 350,
+      "height": 150,
+      "label": "SVT"
+    },
+    {
+      "id": "dir-svt",
+      "type": "text",
+      "x": 425,
+      "y": 250,
+      "width": 300,
+      "height": 50,
+      "text": "[Folder: SVT](mauritanian-bac/svt)"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-bac-1",
+      "fromNode": "bac-hub",
+      "fromSide": "bottom",
+      "toNode": "group-math",
+      "toSide": "top"
+    },
+    {
+      "id": "e-bac-2",
+      "fromNode": "bac-hub",
+      "fromSide": "bottom",
+      "toNode": "group-pc",
+      "toSide": "top"
+    },
+    {
+      "id": "e-bac-3",
+      "fromNode": "bac-hub",
+      "fromSide": "bottom",
+      "toNode": "group-svt",
+      "toSide": "top"
+    }
+  ]
+}

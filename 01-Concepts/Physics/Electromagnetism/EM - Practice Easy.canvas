@@ -1,0 +1,83 @@
+{
+  "nodes": [
+    {
+      "id": "394e0b355f26450e",
+      "type": "file",
+      "file": "01-Concepts/Physics/Electromagnetism/EM - Practice Easy.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "013c2f0bb7faef01",
+      "type": "group",
+      "label": "\ud83c\udfaf Practice",
+      "x": 650,
+      "y": 0,
+      "width": 450,
+      "height": 800
+    },
+    {
+      "id": "f56f62d4a7839812",
+      "type": "file",
+      "file": "02-Practice/Physics/Dynamics/Dynamics - Practice Easy.md",
+      "x": 675,
+      "y": 50,
+      "width": 400,
+      "height": 200
+    },
+    {
+      "id": "0122d48248ab097f",
+      "type": "file",
+      "file": "02-Practice/Physics/Dynamics/Dynamics - Springs Practice Easy.md",
+      "x": 675,
+      "y": 300,
+      "width": 400,
+      "height": 200
+    },
+    {
+      "id": "83d330b3057f1124",
+      "type": "file",
+      "file": "02-Practice/Physics/Magnetic-Induction/Induction - Practice Easy.md",
+      "x": 675,
+      "y": 550,
+      "width": 400,
+      "height": 200
+    },
+    {
+      "id": "5e17288d411dc98c",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "789b0ea946f957cd",
+      "type": "file",
+      "file": "01-Concepts/Physics/Electromagnetism/assets/electric-field.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "c09dbc02ac51ffd1",
+      "fromNode": "394e0b355f26450e",
+      "toNode": "013c2f0bb7faef01",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "id": "39f8c2b12c94fbfd",
+      "fromNode": "394e0b355f26450e",
+      "toNode": "5e17288d411dc98c",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

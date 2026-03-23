@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "f67a84c47b1c5137",
+      "type": "file",
+      "file": "01-Concepts/Chemistry/Solutions/Solubility-Equilibria.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "7a05b1ce79a364ef",
+      "type": "group",
+      "label": "\ud83d\uddbc\ufe0f Visuals",
+      "x": -500,
+      "y": 0,
+      "width": 450,
+      "height": 450
+    },
+    {
+      "id": "097e36dbe75d8614",
+      "type": "file",
+      "file": "01-Concepts/Chemistry/Solutions/assets/titration-curve.png",
+      "x": -475,
+      "y": 50,
+      "width": 400,
+      "height": 380
+    }
+  ],
+  "edges": [
+    {
+      "id": "26edfabb2291e2c2",
+      "fromNode": "f67a84c47b1c5137",
+      "toNode": "7a05b1ce79a364ef",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}
