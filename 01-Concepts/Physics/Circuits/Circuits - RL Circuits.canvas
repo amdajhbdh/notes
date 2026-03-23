@@ -1,0 +1,117 @@
+{
+  "nodes": [
+    {
+      "id": "main",
+      "type": "file",
+      "file": "Circuits - RL Circuits.md",
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 1000
+    },
+    {
+      "id": "group-vis",
+      "type": "group",
+      "label": "🖼️ Visuals",
+      "x": -550,
+      "y": 0,
+      "width": 500,
+      "height": 800
+    },
+    {
+      "id": "vis-charge",
+      "type": "file",
+      "file": "images/rl-charge-graph.png",
+      "x": -525,
+      "y": 50,
+      "width": 450,
+      "height": 300
+    },
+    {
+      "id": "vis-discharge",
+      "type": "file",
+      "file": "images/rl-discharge-graph.png",
+      "x": -525,
+      "y": 380,
+      "width": 450,
+      "height": 280
+    },
+    {
+      "id": "group-videos",
+      "type": "group",
+      "label": "▶️ Vidéos",
+      "x": 650,
+      "y": 0,
+      "width": 500,
+      "height": 500
+    },
+    {
+      "id": "vid-fr",
+      "type": "text",
+      "text": "[Circuit RL - FR](https://www.youtube.com/watch?v=4XxQ4x1dJ8k)",
+      "x": 675,
+      "y": 50,
+      "width": 450,
+      "height": 200
+    },
+    {
+      "id": "vid-en",
+      "type": "text",
+      "text": "[RL Transients - EN](https://www.youtube.com/watch?v=5B7kF1c0q7Q)",
+      "x": 675,
+      "y": 280,
+      "width": 450,
+      "height": 200
+    },
+    {
+      "id": "group-related",
+      "type": "group",
+      "label": "🔗 Liés",
+      "x": -550,
+      "y": 850,
+      "width": 500,
+      "height": 350
+    },
+    {
+      "id": "rel-rc",
+      "type": "file",
+      "file": "Circuits - RC Circuits.md",
+      "x": -525,
+      "y": 900,
+      "width": 450,
+      "height": 100
+    },
+    {
+      "id": "rel-self",
+      "type": "file",
+      "file": "Induction - Self-Induction.md",
+      "x": -525,
+      "y": 1020,
+      "width": 450,
+      "height": 100
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-vis",
+      "fromNode": "main",
+      "toNode": "group-vis",
+      "fromSide": "left",
+      "toSide": "right"
+    },
+    {
+      "id": "e-videos",
+      "fromNode": "main",
+      "toNode": "group-videos",
+      "fromSide": "right",
+      "toSide": "left"
+    },
+    {
+      "id": "e-rel",
+      "fromNode": "main",
+      "toNode": "group-related",
+      "fromSide": "left",
+      "toSide": "right"
+    }
+  ]
+}

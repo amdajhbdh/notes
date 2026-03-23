@@ -80,8 +80,8 @@
             "state": {
               "type": "notebook-navigator",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "notebook-navigator"
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
             }
           },
           {
@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "278ce2edc61e95f0",
@@ -226,6 +225,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "01-Concepts/Physics/Circuits/Circuits - RL Circuits.md.tmp.23441.1774308325081",
+    "01-Concepts/Physics/Circuits/Circuits - RL Circuits.canvas",
+    "01-Concepts/Physics/Circuits/Circuits - RL Circuits.canvas.tmp.23441.1774308044627",
+    "01-Concepts/Physics/Circuits/Circuits - RL Circuits.md",
+    "01-Concepts/Physics/Circuits/Circuits - RL Circuits.md.tmp.23441.1774308042639",
+    "01-Concepts/Physics/Circuits/images",
+    "01-Concepts/Physics/Dipole-RL/assets/bilan_energetique.png",
+    "01-Concepts/Physics/Dipole-RL/assets/comparaison_tau.png",
+    "01-Concepts/Physics/Dipole-RL/assets/generate_extra_plots.py",
     "2026-03-23.md",
     "01-Concepts/Physics/Dipole-RL/Leçon-Dipole-RL.md",
     "01-Concepts/Physics/Dipole-RL/Leçon-Dipole-RL.pdf",
@@ -241,18 +249,13 @@
     "01-Concepts/Physics/Dipole-RL/assets",
     "01-Concepts/Physics/Dipole-RL",
     "01-Concepts/Physics/RL-Circuits/images",
-    "01-Concepts/Physics/RL-Circuits",
     "00-Meta/Chemistry.canvas",
-    "07-Assets/PDFs/Livre-Chimie-FEd.pdf",
-    "00-Meta/Scripts/fix-links.py",
     "01-Concepts/Biology/Diagrams/Neuron.canvas",
     "01-Concepts/Biology/Diagrams/Brain.canvas",
     "01-Concepts/Chemistry/Solutions/Titration-Advanced.canvas",
     "01-Concepts/Chemistry/Solutions/Solutions - Solubility.canvas",
     "01-Concepts/Chemistry/Solutions/Solutions - Molarity.canvas",
     "01-Concepts/Chemistry/Solutions/Solutions - Dilution.canvas",
-    "01-Concepts/Chemistry/Solutions/Solutions - Concentration.canvas",
-    "00-Meta/Scripts/canvas-generator.py",
     "01-Concepts/Biology/Genetique-Graphes-Visuels.md",
     "01-Concepts/Biology/Genetique-Catalogue-Complet.md",
     "TRANSFORMATION-PLAN.md",
@@ -275,11 +278,8 @@
     "Untitled 1.md",
     "01-Concepts/Natural-Sciences/Genetics/Genetics - Replication.md",
     "01-Concepts/Natural-Sciences/Genetics/Genetics - Mutations.md",
-    "04-Exams/INDEX.md",
     "media/texts/c851e4ee460789b6_.svg",
     "media/texts/c851e4ee460789b6.svg",
-    "media/texts/e2d486f938485f93_.svg",
-    "media/texts/e2d486f938485f93.svg",
-    "media/texts/b561469a49bc6b2d_.svg"
+    "media/texts/e2d486f938485f93_.svg"
   ]
 }

@@ -1,24 +1,107 @@
 {
-	"nodes":[
-		{"id":"title-node","x":600,"y":-400,"width":1200,"height":200,"type":"text","text":"# ⚛️ MAÎTRISE DU DIPÔLE RL\n### Programme BAC Excellence - Série C & D","color":"6"},
-		{"id":"intro-node","x":0,"y":-100,"width":500,"height":400,"type":"text","text":"## 1. Fondamentaux\nLa bobine **s'oppose** aux variations de courant.\n\n### Loi de Lenz\n$$u_L = L\\frac{di}{dt} + ri$$\n\n- **Inductance L** : Capacité à stocker l'énergie (Henry).\n- **Résistance r** : Dissipation par effet Joule.","color":"1"},
-		{"id":"equadiff-node","x":600,"y":-100,"width":600,"height":500,"type":"text","text":"## 2. Étude Théorique (Charge)\nEn appliquant la loi des mailles :\n\n$$E = u_L + u_R$$\n$$E = L\\frac{di}{dt} + (R+r)i$$\n\n### Forme Canonique\n$$\\tau\\frac{di}{dt} + i = \\frac{E}{R_{tot}}$$\n\nOù **$\\tau = \\frac{L}{R_{tot}}$** est la constante de temps.","color":"2"},
-		{"id":"solution-node","x":600,"y":450,"width":600,"height":300,"type":"text","text":"### Solution de l'Équation\n$$\\boxed{i(t) = \\frac{E}{R_{tot}}(1 - e^{-t/\\tau})}$$\n\n- **Régime Transitoire** : Courant variable ($t < 5\\tau$)\n- **Régime Permanent** : Courant constant $I_0 = E/R_{tot}$","color":"2"},
-		{"id":"curve-charge-node","x":1300,"y":-100,"width":600,"height":450,"type":"file","file":"01-Concepts/Physics/Dipole-RL/assets/charge_intensite.png","color":"4"},
-		{"id":"curve-decharge-node","x":1300,"y":400,"width":600,"height":450,"type":"file","file":"01-Concepts/Physics/Dipole-RL/assets/decharge_intensite.png","color":"4"},
-		{"id":"dim-analysis-node","x":0,"y":350,"width":500,"height":400,"type":"text","text":"## 3. Analyse Dimensionnelle\n$$[\\tau] = \\frac{[L]}{[R]}$$\n\n1. $[R] = [U]/[I]$\n2. $[L] = [U] \\cdot [T] / [I]$\n3. $[\\tau] = \\frac{[U][T]/[I]}{[U]/[I]} = [T]$\n\n**Conclusion** : $\\tau$ est homogène à une durée (s).","color":"3"},
-		{"id":"energy-node","x":600,"y":800,"width":600,"height":350,"type":"text","text":"## 4. Énergie Magnétique\nL'énergie ne peut pas varier instantanément dans une bobine.\n\n$$\\boxed{E_m = \\frac{1}{2}Li^2}$$\n\n- Courbe en $i^2$.\n- Maximum atteint en régime permanent.","color":"1"},
-		{"id":"exp-tips-node","x":0,"y":800,"width":500,"height":350,"type":"text","text":"## 5. Astuces Expérimentales\n- Visualiser $i(t)$ : Utiliser $u_R$ (Voie 2).\n- Visualiser $u_L(t)$ : Difficile sans soustraction de signaux ou montage spécifique.\n- **Diode de roue libre** : Indispensable pour éviter l'étincelle de rupture.","color":"6"},
-		{"id":"practice-node","x":2000,"y":-100,"width":500,"height":1250,"type":"text","text":"## 📝 Exercices Types BAC\n\n### Niveau 1 : Direct\nCalculer $\\tau$ pour $L=0.1H$ et $R=10\\Omega$. En déduire le temps pour 99% de charge.\n\n### Niveau 2 : Graphique\nÀ partir d'une courbe $u_R(t)$, déterminer $E$ et $L$ sachant que $R=100\\Omega$.\n\n### Niveau 3 : Énergie\nUne bobine de $0.5H$ stocke $1J$. Quel est le courant qui la traverse ?\n\n### Niveau 4 : Rupture\nExpliquer le rôle de la diode de roue libre dans un relais électromagnétique.","color":"5"},
-		{"id":"full-lesson-link","x":600,"y":1200,"width":1200,"height":150,"type":"file","file":"01-Concepts/Physics/Dipole-RL/Leçon-Dipole-RL.md"}
+	"nodes": [
+		{
+			"id": "hub-title",
+			"x": 600,
+			"y": -600,
+			"width": 1200,
+			"height": 200,
+			"type": "text",
+			"text": "# 🌐 HUB BILINGUE : MASTER DIPÔLE RL\n### Physics Expert - Bilingual Study Map (FR/EN)",
+			"color": "6"
+		},
+		{
+			"id": "math-derivation",
+			"x": 0,
+			"y": -300,
+			"width": 550,
+			"height": 600,
+			"type": "text",
+			"text": "## 🧮 Démonstrations Mathématiques\n### 1. Séparation des variables\n$$\\int \\frac{di}{E-Ri} = \\int \\frac{dt}{L}$$\n\n### 2. Intégration\n$$-\\frac{1}{R}\\ln(E-Ri) = \\frac{t}{L} + C$$\n\n### 3. Expression de uL\n$$u_L = L\\frac{di}{dt} = E e^{-t/\\tau}$$",
+			"color": "2"
+		},
+		{
+			"id": "energy-visual",
+			"x": 600,
+			"y": -300,
+			"width": 600,
+			"height": 450,
+			"type": "file",
+			"file": "01-Concepts/Physics/Dipole-RL/assets/bilan_energetique.png",
+			"color": "1"
+		},
+		{
+			"id": "tau-comparison",
+			"x": 1250,
+			"y": -300,
+			"width": 600,
+			"height": 450,
+			"type": "file",
+			"file": "01-Concepts/Physics/Dipole-RL/assets/comparaison_tau.png",
+			"color": "4"
+		},
+		{
+			"id": "resource-hub-fr",
+			"x": 0,
+			"y": 350,
+			"width": 550,
+			"height": 400,
+			"type": "text",
+			"text": "## 🇫🇷 Ressources Francophones\n- [Cours e-profs (YouTube)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)\n- [Simulateur Falstad](https://www.falstad.com/circuit/e-induct.html)\n- [Physagreg - Induction](http://www.physagreg.fr)",
+			"color": "5"
+		},
+		{
+			"id": "resource-hub-en",
+			"x": 600,
+			"y": 200,
+			"width": 600,
+			"height": 400,
+			"type": "text",
+			"text": "## 🇬🇧 English Resource Hub\n- [Walter Lewin (MIT)](https://www.youtube.com/watch?v=NgwXkUt3zPY)\n- [Khan Academy RL](https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-rl-natural-response-derivation)\n- [PhET Simulation](https://phet.colorado.edu/en/simulations/circuit-construction-kit-ac)",
+			"color": "5"
+		},
+		{
+			"id": "main-lesson-link",
+			"x": 600,
+			"y": 650,
+			"width": 1250,
+			"height": 150,
+			"type": "file",
+			"file": "01-Concepts/Physics/Dipole-RL/Leçon-Dipole-RL.md"
+		},
+		{
+			"id": "energy-demo",
+			"x": 1250,
+			"y": 200,
+			"width": 600,
+			"height": 400,
+			"type": "text",
+			"text": "## ⚡ Démo Énergétique\n$$P_L = u_L \\cdot i = (L\\frac{di}{dt}) \\cdot i$$\n$$E_m = \\int P_L dt = \\int Li \\, di$$\n$$\\boxed{E_m = \\frac{1}{2}Li^2}$$",
+			"color": "1"
+		}
 	],
-	"edges":[
-		{"id":"e1","fromNode":"intro-node","fromSide":"right","toNode":"equadiff-node","toSide":"left","label":"Loi des mailles"},
-		{"id":"e2","fromNode":"equadiff-node","fromSide":"bottom","toNode":"solution-node","toSide":"top","label":"Intégration"},
-		{"id":"e3","fromNode":"solution-node","fromSide":"right","toNode":"curve-charge-node","toSide":"left","label":"Tracé"},
-		{"id":"e4","fromNode":"intro-node","fromSide":"bottom","toNode":"dim-analysis-node","toSide":"top"},
-		{"id":"e5","fromNode":"solution-node","fromSide":"bottom","toNode":"energy-node","toSide":"top"},
-		{"id":"e6","fromNode":"dim-analysis-node","fromSide":"bottom","toNode":"exp-tips-node","toSide":"top"},
-		{"id":"e7","fromNode":"curve-charge-node","fromSide":"right","toNode":"practice-node","toSide":"left"}
+	"edges": [
+		{
+			"id": "edge-math-1",
+			"fromNode": "math-derivation",
+			"toNode": "main-lesson-link",
+			"fromSide": "bottom",
+			"toSide": "left"
+		},
+		{
+			"id": "edge-energy-1",
+			"fromNode": "energy-demo",
+			"toNode": "energy-visual",
+			"fromSide": "top",
+			"toSide": "bottom"
+		},
+		{
+			"id": "edge-hub-1",
+			"fromNode": "resource-hub-fr",
+			"toNode": "resource-hub-en",
+			"fromSide": "right",
+			"toSide": "left",
+			"label": "Bilingual"
+		}
 	]
 }
