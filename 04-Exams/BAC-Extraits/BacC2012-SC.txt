@@ -1,0 +1,137 @@
+            Ré publique Islamique de Mauritanie                                                            Honneur – Fraternité – Justice
+ Ministère d’Etat à l’Education Nationale, à l’Enseignement
+          Supérieur e t à la Recherche Scientifique
+    Direction des Examens et de l’Eval uation                       Baccalauréat                            Séries : C & TMGM
+                                                                                                          Epreuve: Mathémati ques
+              Service des Examens                                       2012                                  Durée: 4 heures
+                                                                                                             Coefficients: 9 & 6
+                                                                Session Complé mentaire
+                                                                      ‫ هـ‬3311 ‫رمضان‬
+Exe rci ce 1 (4 points)
+        Le plan complexe est muni d’un repère orthonormé (O;u, v) .
+1. Pour tout nombre complexe z , on pose : P(z) z 3 (4 2i)z² (4 6i)z 4 8i                             .
+  a) Calculer P(2i) et déterminer les nombres a et b tels que pour tout z de :
+                                                  P(z)  (z  2i)(z²  az  b)                                                              (0,75 pt)
+  b) Résoudre, dans l’ensemble des nombres complexes, l’équation P(z)  0 .                                                                 (0,75 pt)
+
+2. Soient A , B et C les images des solutions de l’équation P(z)  0 avec z A  z B  z C .
+                                                                                                                                            (0,5 pt)
+  a) Placer les points A , B et C .
+  b) Calculer l’affixe du point G barycentre du système (O;3),(A;-4),(B;1),(C;2) . Vérifier que A
+est le barycentre du système (O;5),(B;-5),(G;2) .                                                                                         (0,5 pt)
+                                                                                        z 1 i
+  c) Déterminer et représenter l’ensemble  des points M d’affixe z telle que le nombre
+                                                                                         z  2i
+soit imaginaire pur.                                                                                                                        (0,5 pt)
+3. Pour tout point M du plan on pose : (M)  3MO²  4MA²  MB²  2MC² et on note k
+l’ensemble des points M tels que (M)  k , où k est un réel.
+   a) Discuter suivant les valeurs de k , la nature de k .                                                                                 (0,5 pt)
+   b) Déterminer et construire 16 .                                                                                                        (0,5 pt)
+
+
+
+Exercice 2 (4 points)
+         Soit f la fonction numérique définie sur 0;1  1;  par: f(x) 
+                                                                                                     1
+                                                                                                         . On désigne par
+                                                                                                   xln x
+(C) sa courbe représentative dans un repère orthonormé (O; i, j) .
+1. a) Calculer et interpréter graphiquement : lim f (x) , lim f (x) , lim f (x) , lim f (x) .                                            (1 pt)
+                                                              x0      x 1           x 1        x 
+   b) Dresser le tableau de variation de f .                                                                                                (1 pt)
+   c) Construire la courbe (C) .                                                                                                            (0,5 pt)
+2. Pour tout entier naturel n  2 , on pose :
+                          n
+                                  1                1       1               1
+                    Un              ln(lnn)                ...           ln(lnn) .
+                         k  2 k lnk             2ln 2 3ln 3            n lnn
+                                                    1            n 1              1
+a) Montrer que tout entier naturel n  2 ,                   
+                                             (n  1)ln(n  1) n               
+                                                                      f (t)dt 
+                                                                                n lnn
+                                                                                                                                            (0,5 pt)
+
+                                                                                 1           n 1
+b) Montrer que pour tout entier naturel n  2 , Un1  Un 
+                                                                         (n  1)ln(n  1) n
+                                                                                                            
+                                                                                                  f (t)dt . En
+                                                                                                                                            (0,5 pt)
+déduire le sens de variation de (Un ) .
+c) Montrer que tout entier naturel n  2 , Un1  Un  f(n  1)  f(n) . En déduire que
+                                                                                                                                            (0,25 pt)
+Un   ln(ln2) .
+d) Déduire de ce qui précède que la suite (Un ) est convergente vers une limite                                        telle que
+                  1
+ ln(ln 2)           ln(ln 2) .                                                                                                          (0,25 pt)
+                2ln 2
+
+ Baccalauréat 2012        Session Complémentaire          Epreuve de Mathématiques           Séries C & TMGM                      1/2
+Exercice 3 (6 points)
+                                                                    2x3  3x2  1
+        Soit f la fonction numérique définie sur             par: f (x)          .
+                                                                         ex
+On désigne par (C) sa courbe représentative dans un repère orthonormé (O; i, j) .
+                                            f(x)
+1. a) Calculer lim f (x) , lim f (x) , lim       . Interpréter graphiquement.                               (1 pt)
+               x        x        x x
+
+b) Montrer que la courbe (C) de f admet trois tangentes horizontales dont l’une est au point
+d’abscisse 1 .                                                                                              (1 pt)
+2.a) Dresser le tableau de variation de f .                                                                 (0,5 pt)
+  b) Construire la courbe (C) .                                                                              (0,5 pt)
+
+3. Pour tout entier naturel n , on pose : In   xne xdx .
+                                                   1
+
+                                                  0
+
+a) Montrer que l’écriture précédente définit bien une suite numérique (In ) .                               (0,5 pt)
+b) Montrer que la suite (In ) est positive et décroissante. Que peut-on en conclure ?
+                                                                                                            (0,5 pt)
+c) Donner un encadrement du nombre In qui permet de calculer lim In .Calculer cette limite.                 (0,5 pt)
+                                                                            n 
+
+4.a) Calculer I 0 .                                                                                         (0,5 pt)
+                                                                                   1
+  b) Montrer, en utilisant une intégration par parties, que pour tout n :               I n 1 
+                                                                                       (n  1)In .         (0,5 pt)
+                                                                                   e
+  c) Calculer l’aire sous la courbe (C) délimitée par l’axe des abscisses et les droites d’équations
+respectives x  0 et x  1 .                                                                                (0,5 pt)
+
+
+
+Exercice 4 (6 points)
+Dans le plan orienté on considère un carré direct ABCD de coté a , (a  0) .
+Soient E et F les symétriques respectifs des points C et B par rapport à (AD) . Soit G le point
+tel que le triangle DBG soit équilatéral direct. Soient I et J les milieux respectifs des segments
+ DB et  DF .
+1.a) Faire une figure illustrant les données précédentes que l’on complétera au fur et à mesure.            (1 pt)
+ b) Montrer qu’il existe une unique rotation r1 qui transforme D en G et F en B . Préciser l’angle
+et le centre de r1 .                                                                                        (1 pt)
+c) Soit la rotation r2 qui transforme G en E et B en A . Préciser l’angle et le centre de r2 .              (0,5 pt)
+d) On pose r  r2 r1 . Déterminer r(D) et r(F) . Caractériser r .
+                                                                                                            (0,75 pt)
+                                                                   1
+2. On considère l’homothétie h de centre B et de rapport k  . On note s  h r .
+                                                                   2
+a) Montrer que s est une similitude directe. Préciser le rapport et un angle de s .
+                                                                                                            (0,75 pt)
+b) Soit  le centre de s . Montrer que  appartient à deux cercles 1 et  2 que l’on déterminera.
+c) Déterminer deux réels  et  tels que  soit le barycentre du système (E, );(I, ) . Placer           (0,75 pt)
+
+  sur la figure.                                                                                           (0,25 pt)
+3. On considère l’ensemble  des points M du plan tels que MA  ME  2a où a est la
+longueur du coté du carré ABCD .
+                                                                                                            (0,5 pt)
+a) Montrer que  est une ellipse passant par D .                                                            (0,25 pt)
+b) Préciser les sommets, les longueurs des axes de  et calculer son excentricité e .
+c) Déterminer  '  s() puis construire  et  ' .                                                         (0,25 pt)
+                                                      Fin.
+
+
+
+ Baccalauréat 2012    Session Complémentaire   Epreuve de Mathématiques             Séries C & TMGM   2/2
+

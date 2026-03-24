@@ -1,0 +1,72 @@
+      République Islamique de Mauritanie                                                        Honneur – Fraternité – Justice
+       Ministère de l’Education Nationale
+                                                                                                       Séries : Littéraires
+    Direction des Examens et de l’Evaluation
+              Service des Examens
+                                                       Baccalauréat                                 Epreuve: Mathématiques
+                                                           2016                                         Durée: 2 heures
+                                                                                                         Coefficient: 2
+                                                             Session Normale
+Exercice 1 ( 5 points)
+1. Résoudre, dans , l’équation suivante :                (E)                     x2  9x  14  0                          (2 pt)
+2. En déduire les solutions des équations suivantes dans   :
+  a) (lnx)2  9lnx  14  0 ;
+                                                                                                                           (1 pt)
+  b) ln(x  5)  ln2  ln(2x  7)  lnx ;
+  c) e2x  9ex  14  0 .                                                                                                  (1 pt)
+                                                                                                                            (1 pt)
+
+Exercice 2 (5 points)
+On considère les suites numé riques (Un ) et (Vn ) telles que pour tout entier naturel n :
+ U0  2
+                ; Vn  Un  1 .  On pose S  V0  V1   V2016
+ Un1  5Un  4
+Pour chaque question, parmi les réponses proposées, une seule réponse est exacte.
+       Question           A              B                    C
+1      Calcul de termes U1  1            U2  26              U3  125                                                    (1 pt)
+
+2        La suite (Vn ) est   géométrique          arithmétique                décroissante                                (1 pt)
+3        Le terme général     Vn  5n  1          Vn  5n                     Vn  5n1                                   (1 pt)
+4        Le terme général     Un  5  1
+                                     n
+                                                   Un  5  4
+                                                         n
+                                                                               Un  5  1
+                                                                                        n
+                                                                                                                            (1 pt)
+5        Valeur de S           S  52017  1          52017  1                   52016  1
+                                                   S                          S                                          (1 pt)
+                                                          4                           4
+
+Recopie sur la feuille de réponse et complète le    Question N°            1        2       3   4      5
+tableau ci-contre. Aucune justification n’est       Réponse exacte
+demandée.
+
+Problème (10 points)
+                                                                                    3x2  2x  5
+         Soit f la fonction numé rique définie par :                       f(x) 
+                                                                                       x2
+et soit (C) sa courbe représentative dans un re père orthonormé (O; i, j) .
+1. Déterminer le domaine de définition D f de la fonction f et l’écrire sous la forme d’une
+                                                                                                                           (1 pt)
+réunion d’intervalles.
+2.a) Calculer les limites suivantes : lim f (x) , lim f (x) , lim f(x) et lim f(x) .                                       (1 pt)
+                                          x       x         x  2           x  2
+
+    b) En déduire que (C) admet une asymptote verticale () dont on précisera une équation.                                (1 pt)
+                                                                                       c
+3.a) Déterminer les réels a,b et c tels que pour tout x de Df on a : f (x)  ax  b      .
+                                                                                      x2                                  (1 pt)
+ b) Vérifier que la droite (D) d’équation y  3x  4 est une asymptote oblique à (C) .
+                                                                                                                           (1 pt)
+4.a) Calcule r f '(x) où f ' est la fonction dérivée de f . Vérifie r que le signe de f '(x) est celui
+du produit (x  1)(x - 3) .
+                                                                                                                           (1 pt)
+b) Dresser le tableau de variation de f .                                                                                  (1 pt)
+5.a) Déterminer les points d’intersections de (C) avec les axes.                                                           (1 pt)
+b) Donner l’équation de la tangente (T) à la courbe (C) au point A d’abscisse x0  1                                        (1 pt)
+
+c) Construire la courbe (C) et ses asymptotes dans le repère (O; i, j) .                                                   (1 pt)
+                                           Fin.
+ Baccalauréat 2016      Session Normale          Epreuve de Mathémati ques              Séries : Littéraires                     1/1
+

@@ -1,0 +1,62 @@
+République Islamique de Mauritanie                                                Honneur – Fraternité – Justice
+Ministère de l’Education Nationale
+                                                    Baccalauréat
+                                                                                    Séries : Lettres Modernes
+Direction des Examens et de l’Evaluation                2018                     Epreuve : MATHEMATIQUES
+       SERVICE DES EXAMENS                                                               Durée : 2 heures
+                                                    Session Normale                       Coefficient : 2
+
+Exercice 1 : (5 points)
+  1. Résoudre dans        l’équation x 2  3x  10  0                                                        (2 pt)
+  2. En déduire les solutions des équations
+  a)  ln x   3ln x  10  0
+             2                                                                                                (1 pt)
+
+  b) ln  x  5  lnx  ln  x  1  ln2                                                                    (1pt)
+  c) e2x  3ex  10  0                                                                                       (1 pt)
+Exercice2 (4 points)
+Dans un centre d’examens du Bac il y avait 150 candidats inscrits dont 40% sont des filles. Les
+statistiques de ce centre ont montré que 70% des garçons sont admis et que 95% des filles sont
+admises.
+ 1° En utilisant les données précédentes compléter le tableau ci-contre après l’avoir recopié
+                                                                                                (1 pt)
+ sur votre feuille de réponses :
+                                                 Admis          Non admis      Total
+                              Garçons
+                              Filles
+                              Total                                             150
+2° On choisit au hasard un candidat de ce centre (garçon ou fille). Pour chacun des événements
+suivants, parmi les probabilités proposées, une seule réponse est exacte.
+Choisir la bonne réponse.
+ N°       La probabilité de l’événement                A        B         C
+ 1        Le candidat choisi est une fille             0.7      0.6       0.4                (0.75pt)
+ 2        Le candidat choisi est admis                 0.8      0.7       0.6                (0.75pt)
+ 3        Le candidat choisi est un garçon admis       0.42     0.7       0.05               (0.75pt)
+ 4        Le candidat choisi est une fille non admise 0.05      0.02      0.2                (0.75pt)
+
+Exercice 3 : (11 points)
+                                                           x 2  5x  7
+ Soit f la fonction numérique définie par : f  x                     et  C sa courbe
+                                                               x2
+ représentative dans un repère orthonormé O; i , j         
+ 1. Déterminer le domaine de définition Df de la fonction f et l’écrire sous forme de réunion
+                                                                                                                (1pt)
+ d’intervalles
+ 2. a) Calculer les limites suivantes lim f  x  , lim f  x  , lim f  x  et lim f  x                   (1pt)
+                                         x           x         x2         x2
+
+ b) En déduire que (C) admet une asymptote verticale    dont on donnera une équation                         (1pt)
+                                                                                         c
+ 3. a) Déterminer trois réels a,b et c tels que pour tout x de Df , on a: f  x   ax  b                     (1pt)
+                                                                                       x2
+ b) Vérifier que la droite  D  d’équation y  x  3 est une asymptote oblique à  C .                        (1pt)
+ 4. a) Calculer f   x  , où f  est la fonction dérivée de f .                                               (1pt)
+ b) Vérifier que le signe de f   x  est celui du produit  x  1 x  3                                    (1pt)
+ c) Dresser le tableau de variation de f                                                                        (1pt)
+ 5. a) Déterminer les points d’intersection de  C avec les axes.                                              (1pt)
+ b) Donner une équation de la tangente T à la courbe  C au point A d’abscisse 0                               (1pt)
+ c) Construire la courbe  C , ses asymptotes et la tangente T dans le repère O; i , j                       (1pt)
+
+                                                          Fin
+ Baccalauréat 2018        Session Normale        Epreuve de Mathématiques       Séries Littéraires      1/1
+

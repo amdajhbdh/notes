@@ -1,40 +1,10 @@
 {
-  "nodes": [
-    {
-      "id": "59444a60602a0185",
-      "type": "file",
-      "file": "01-Concepts/Chemistry/Solutions/Polyprotic-Acids.md",
-      "x": 0,
-      "y": 0,
-      "width": 600,
-      "height": 800
-    },
-    {
-      "id": "6ca068c205e8d08b",
-      "type": "group",
-      "label": "\ud83d\uddbc\ufe0f Visuals",
-      "x": -500,
-      "y": 0,
-      "width": 450,
-      "height": 450
-    },
-    {
-      "id": "8f22906c07f2d3d8",
-      "type": "file",
-      "file": "01-Concepts/Chemistry/Solutions/assets/titration-curve.png",
-      "x": -475,
-      "y": 50,
-      "width": 400,
-      "height": 380
-    }
-  ],
-  "edges": [
-    {
-      "id": "f0fc32794e445d7d",
-      "fromNode": "59444a60602a0185",
-      "toNode": "6ca068c205e8d08b",
-      "fromSide": "left",
-      "toSide": "right"
-    }
-  ]
+	"nodes":[
+		{"id":"6ca068c205e8d08b","type":"group","x":-500,"y":0,"width":450,"height":450,"label":"🖼️ Visuals"},
+		{"id":"59444a60602a0185","type":"file","file":"01-Concepts/Chemistry/Solutions/Polyprotic-Acids.md","x":0,"y":0,"width":600,"height":800},
+		{"id":"8f22906c07f2d3d8","type":"file","file":"01-Concepts/Chemistry/Solutions/assets/titration-curve.png","x":-475,"y":50,"width":400,"height":225}
+	],
+	"edges":[
+		{"id":"f0fc32794e445d7d","fromNode":"59444a60602a0185","fromSide":"left","toNode":"6ca068c205e8d08b","toSide":"right"}
+	]
 }

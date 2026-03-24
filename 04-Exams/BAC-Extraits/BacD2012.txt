@@ -1,0 +1,122 @@
+           République Islamique de Mauritanie                                                      Honneur – Fraternité – Justice
+Ministère d’Etat à l’Education Nationale, à l’Enseignement
+         Supérieur et à la Recherche Scientifique                                             Séries : Science de la Nature
+   Direction des Examens et de l’Evaluation                        Baccalauréat                Epreuve: Mathématiques
+             Service des Examens                                                                    Durée: 4 heures
+                                                                       2012                           Coefficients: 6
+                                                                   Session Normale
+Exercice 1(3 points)
+Pour éclairer une salle, on utilise deux lampes différentes.
+On note F l’événement : « la première lampe est défaillante » et G l’événement: « la deuxième
+lampe est défaillante ». Des études ont montré que : p(F)  0,2 ; p  G   0, 3 ; p(F  G)  0,1 .
+    Pour chacune des questions suivantes, une seule des réponses proposées est correcte.
+1) La probabilité de l’événement : « les deux lampes sont défaillantes » est :
+              A : 0,1                                   B : 0, 5                        C : 0, 6                                    (0,5 pt)
+2) La probabilité de l’événement : « au moins une des deux lampes est défaillante » est :
+              A : 0, 9                                  B : 0, 4                        C : 0, 6                                    (0,5 pt)
+3) La probabilité de l’événement : « les deux lampes fonctionnent » est :
+              A : 0, 8                                  B : 0, 6                        C : 0, 5
+                                                                                                                                    (0,5 pt)
+4) La probabilité de l’événement : « exactement une des deux lampes est défaillante » est :
+              A : 0, 3                                  B : 0, 4                        C : 0, 6                                    (0,5 pt)
+5) Sachant que la deuxième lampe est défaillante, la probabilité que la première lampe fonctionne
+est :
+                    1                                         2                               1
+               A:                                        B:                              C:                                         (0,5 pt)
+                    2                                         3                               3
+6) On définit une variable aléatoire X égale au nombre de lampes défaillantes dans la salle.
+L’espérance mathématique de X est :
+              A : 0, 8                                  B : 0, 6                        C : 0, 5                                    (0,5 pt)
+
+
+Recopie sur la feuille de réponse et complète le tableau suivant en choisissant la bonne réponse.
+  Question n°           1             2             3             4             5            6
+  Réponse
+
+Exercice 2(4 points)
+1.a) Résoudre dans l’ensemble des nombre complexe, l’équation : z 2  4z  5  0 et soient z1 et z 2
+ses solutions telles que Im(z1 )  0 .                                                                                              (1 pt)
+ b) Ecrire le nombre z 3  i  z1 sous forme trigonométrique.                                                                       (0,5 pt)
+2) Dans le plan complexe muni d’un repère (O; u , v) , on considère les points A et B d’affixes
+respectives z A  z1 et z B  1  i  z 2 .
+ a) Placer les points A et B . Déterminer la nature du triangle OAB .                                                               (0,5 pt)
+ b) Déterminer l’affixe du point C tel que le quadrilatère OACB soit un parallélogramme. Placer C .                                 (0,5 pt)
+                                                                                   z2i
+3) Pour tout nombre complexe z tel que z  1  2i on pose :                f (z) 
+                                                                                   z  1  2i
+a) Ecrire sous forme algébrique le nombre   f (3  i) . Interpréter géométriquement.                                              (0,75 pt)
+b) Déterminer puis construire l’ensemble 1 des points M du plan d’affixe z tels que f (z)  1 .                                    (0,25 pt)
+c) Déterminer puis construire l’ensemble  2 des points M du plan d’affixe z tels que le nombre
+ f (z) soit imaginaire pur.                                                                                                         (0,25 pt)
+d)Déterminer puis construire l’ensemble  3 des points M du plan d’affixe z tels que f(z)  1  10 . (0,25 pt)
+
+
+
+
+ Baccalauréat 2012            Session Normale            Epreuve de Mathématiques    Séries Science de la nature              1/2
+Exercice 3 (6 points)
+Soit f la fonction définie sur par : f (x)  e2x1  3x  1 .
+                                                                       
+Soit (C) sa courbe représentative dans un repère orthonormé (O; i , j ) .
+1.a) Calculer lim f (x) , lim  f(x)  (3x  1)  et interpréter graphiquement.                               (0,75 pt)
+               x                   x
+
+                                           f (x)
+b) Montrer que lim f (x)   et lim               interpréter graphiquement.                              (0,75 pt)
+                       x                  x 
+                                             x
+2.a) Calculer la dérivée f '(x) et étudier son signe.                                                          (0,5 pt)
+b) Dresser le tableau de variation de f .                                                                      (0,5 pt)
+3.a) Montrer que l’équation f (x)  0 admet exactement deux solutions  et  . Vérifier que
+                                    1, 3    1, 2 et 0, 2    0, 3 .                                     (0,5 pt)
+b) Représenter la courbe (C) .                                                                                 (0,5 pt)
+4) On définit les suites (U n ) et (Vn ) pour tout entier naturel n par : U n  e 2n 1 , Vn  3n  1 .
+a) Démontrer que la suite (U n ) est géométrique décroissante.                                                 (0,5 pt)
+b) Démontrer que la suite (Vn ) est arithmétique croissante.                                                   (0,5 pt)
+c) Les suites (U n ) et (Vn ) sont elles adjacentes ? Justifier.                                               (0,5 pt)
+5) Pour tout entier naturel n on pose : Sn  f (0)  f (1)  f (2)  ...  f (n) .
+a) Calculer S n en fonction de n .                                                                             (0,5 pt)
+                                 S
+b) Calculer lim Sn et lim n2 .                                                                                 (0,5 pt)
+              n         n  n
+
+
+Exercice 4 (7 points)
+                                                       2x  1
+Soit f la fonction définie sur 1,  par : f (x)           ln(x  1) .
+                                                       x1             
+Soit (C) sa courbe représentative dans un repère orthonormé (O; i , j ) d’unité 1cm .
+                               f (x)                                                                           (0,5 pt)
+1.a) Calculer lim f (x) , lim        et interpréter graphiquement.
+              x        x  x
+
+b) Montrer que lim f (x)   et interpréter graphiquement.                                                   (0,5 pt)
+                       x 1
+2.a) Calculer f '(x) et vérifier que la courbe (C) admet au point d’abscisse 0 une tangente
+horizontale dont on donnera une équation.                                                                      (0,5 pt)
+b) Dresser le tableau de variation de f .                                                                      (0,5 pt)
+3.a) Calculer f ''(x) et vérifier que la courbe (C) admet un point d’inflexion A d’abscisse 1.                 (0,5 pt)
+b) Ecrire une équation de la tangente (T) à la courbe (C) au point A.                                          (0,5 pt)
+4.a) Montrer que la restriction g de f sur I   0,  réalise une bijection de I sur un intervalle J
+que l’on déterminera.                                                                                          (0,5 pt)
+b) Dresser le tableau de variation de g 1 .
+                                                                                                               (0,5 pt)
+                             3  2 ln 2 
+c) Calculer  g   1
+                          '                                                                                (0,25 pt)
+                                 2      
+5.a) Montrer que l’équation f (x)  0 admet exactement deux solutions  et  . Vérifier que
+0, 7    0, 6 et 5, 3    5, 4 .
+                                                                                                             (0,5 pt)
+b) Placer, sur le repère (O; i , j ) , les points d’intersections la courbe (C) avec les axes, son point
+d’inflexion, les tangentes précédentes puis représenter la courbe (C) .                                        (0,5 pt)
+c) Représenter la courbe (C') de g 1 dans le repère précédent.                                               (0,25 pt)
+6.a) Montrer que la fonction f admet des primitives sur 1,  .                                             (0,5 pt)
+b) Déterminer les réels a et b tels que la fonction F(x)  ax  (x  b) ln(x  1) soit une primitive
+de f sur 1,  .                                                                                            (0,5 pt)
+c) Calculer, en fonction de  , l’aire du domaine plan délimité par la courbe (C) , l’axe des
+abscisses, et les droites d’équation respectives x  0 et x   . Donner une valeur approchée de
+cette aire à 102 près.                                                                                        (0,5 pt)
+                                                     Fin.
+ Baccalauréat 2012                Session Normale    Epreuve de Mathématiques   Séries Science de la nature   2/2
+

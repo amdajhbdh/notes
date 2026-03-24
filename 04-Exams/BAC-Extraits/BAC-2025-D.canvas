@@ -1,0 +1,50 @@
+{
+  "nodes": [
+    {
+      "id": "1",
+      "type": "text",
+      "text": "# BAC 2025 D - Visual Review\n\n## Exercice 1: Probabilités (3 pts)\n- Probabilités conditionnelles\n- Tableau de contingence\n- Formule de Bayes\n\n## Exercice 2: Nombres Complexes (5 pts)\n- Racines carrées\n- Équations polynomiales\n- Transformations\n- Lieux géométriques",
+      "x": 0,
+      "y": 0,
+      "width": 300,
+      "height": 200
+    },
+    {
+      "id": "2",
+      "type": "text",
+      "text": "## Exercice 3: Analyse (6 pts)\n- Fonction: f(x) = (e^x - x - 2)e^{-x}\n- Asymptote horizontale y = 1\n- Variations et extremum\n- Bijection et bijection réciproque\n- Intégration",
+      "x": 320,
+      "y": 0,
+      "width": 300,
+      "height": 200
+    },
+    {
+      "id": "3",
+      "type": "text",
+      "text": "## Exercice 4: Analyse (6 pts)\n- Fonction logarithme: f(x) = -x·ln(x)/2x²\n- Asymptote y = x/2\n- Variations\n- Signe de g(x) = x² - 1 + ln(x)",
+      "x": 640,
+      "y": 0,
+      "width": 300,
+      "height": 200
+    },
+    {
+      "id": "4",
+      "type": "file",
+      "file": "BAC-2025-D-Ex3.png",
+      "x": 50,
+      "y": 250,
+      "width": 400,
+      "height": 300
+    },
+    {
+      "id": "5",
+      "type": "file",
+      "file": "BAC-2025-D-Ex2.png",
+      "x": 500,
+      "y": 250,
+      "width": 350,
+      "height": 280
+    }
+  ],
+  "edges": []
+}

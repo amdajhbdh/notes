@@ -1,0 +1,146 @@
+  Ré publique Is lamique de M auritanie                                                                         Ho n n eu r – Frat ern ité – Ju s tice
+   M inis tè re de l’Educatio n Natio nale                  Baccalauréat                                            S éries : C & TMGM
+ Directio n des Ex ame ns e t des Co nco urs
+        Service des Examens
+                                                                2016                                              Epre u ve : Ma thé mati ques
+                                                                                                                       Durée: 4 heures
+                                                        Sess ion Complémentaire                                      Coe fficients : 9 & 6
+Exe rcice 1 (5 po ints )
+Le plan complexe est muni d’un repère orthonormé (O;u, v) .
+ Pour tout nombre complexe z on pose :          P(z)  z3  (1  3i)z2  2iz  6  2i .
+1.a) Calculer P(1  i) .                                                                                                                                 (0,5 pt)
+b) Déterminer deux nombres a et b tels que pour tout z  on a : P(z)  (z  1  i)(z 2  az  b) .                                                       (0,5 pt)
+c) En déduire l’ensemble des solutions de l’équation P(z)  0 .                                                                                          (0,75 pt)
+2) Soit A, B et C les points d’affixes respectives z A  1  i , z B  1  i et zC  1  3i .
+a) Placer les points A, B et C et déterminer la nature du triangle ABC .                                                                                 (0,75 pt)
+b) Déterminer l’affixe du point G barycentre du système  A, 2 ;  B,1 ;  C,1 .                                                                    (0,25 pt)
+c)Déterminer et construire l’ensemble  des points M du plan tels que :
+                                          2MA2  MB2  MC2  16 .                                                                                        (0,25 pt)
+d) Déterminer et construire l’ensemble  des points M du plan tels que :
+                                          2MA2  MB2  MC2  16 .                                                                                       (0,25 pt)
+3) Soit s la similitude directe de centre C qui transforme A en B.
+a) Déterminer l’écriture complexe de s.                                                                                                                  (0,2 5 pt)
+b) Déterminer le rapport et un angle de s.                                                                                                               (0,5 pt)
+4) On considère la parabole P de foyer A et de directrice (BC).
+a) Déterminer l’axe focal et le sommet de P.                                                                                                             (0,5 pt)
+b) Tracer P et P’ dans le repère précédent où P'  s(P) .                                                                                                (0,2 5 pt)
+c) Donner des équations cartésiennes de P et P’ dans le repère précédent.                                                                                (0,2 5 pt)
+
+Exe rcice 2 (5 po ints )
+Soit f la fonction définie sur        par: f (x)  1  x  e x .
+Soit (C) la courbe représentative de f dans un repère orthonormé (O;i, j) .
+                                             f (x)                                                                                                       (0,75 pt)
+1.a) Vérifier que : lim f(x)   , xlim             et lim f(x)  0 .
+                       x                 x           x
+
+b) Interpréter les limites précédentes.                                                                                                                  (0,5 pt)
+2.a) Dresser le tableau de variation de f et représenter sa courbe (C) .                                                                                 (0,75 pt)
+b) Calculer l’aire A du domaine plan délimité par (C) , l’axe des abscisses et les droites d’équations
+respectives x  1 et x  0 .                                                                                                                            (0,2 5 pt)
+                                                            1  x  e x
+                                                                   n
+
+3) Soit la fonction fn définie sur        par fn (x)                          où n est entier naturel non nul.
+                                                     n!
+                                                      e
+Montrer que pour tout x 1;0 on a : 0  fn (x)  .                                                                                                  (0,5 pt)
+                                                      n!
+                                                                                              1  x  e x
+                                                                                                     n
+
+4) Soit la suite  In  définie pour tout n            par : In  1 fn (x)dx  1
+                                                                       0                 0
+                                                   
+                                                                                                              dx .
+                                                                                                  n!
+a) En interprétant graphiquement I1 , donner sa valeur (On pourra utiliser A.2)).                                                                        (0,25 pt)
+                                                                                                                      1
+b) Montrer, à l’aide d’une intégration par parties, que pour tout n                         
+                                                                                                 : I n 1  I n             .
+                                                                                                                   n  1 !                             (0,5 pt)
+                                                                           n
+                                                                            1
+5) Soit la suite  Un  définie pour tout n        
+                                                        par : Un              .
+                                                                       k 0 k !
+                                  
+a) Montrer que pour tout n             : I n  e  Un .                                                                                                 (0,5 pt)
+                                           e
+b) Démontre que pour tout n   : 0  In     . En déduire lim In .                                                                                      (0,5 pt)
+                                           n!              n 
+
+c) En déduire lim Un .                                                                                                                                   (0,5 pt)
+               n 
+
+
+
+
+ Baccalauréat 2016        Session Complémentaire               Epreuve de Mathémati ques                       Séries C & TMGM                   1/2
+                                                                                                                                                         (0,5 pt)
+Exe rcice 3 (5 po ints )
+                                                             e2x  1
+On considère la fonction f définie sur       par : f (x)            .
+                                                              6ex
+Soit (C) la courbe représentative de f dans un repère orthonormé (O;i, j) .
+1.a) Vérifier que f est impaire et que lim f (x)   . En déduire lim f(x) .                                             (0,75 pt)
+                                         x                             x 
+
+                  f(x)                                                                                                    (0,5 pt)
+b) Calculer lim        et interpréter graphiquement.
+              x x
+c) Dresser le tableau de variation de f.                                                                                  (0, 5 pt)
+d) Montrer que l’équation f(x)  x admet dans trois solutions dont l’une  vérifie 2,8    2,9                           (0,5 pt)
+2.a) Montrer que f réalise une bijection de sur un intervalle que l’on déterminera.                                       (0,25 pt)
+                                                        1
+b) Vérifier que pour tout réel x : (f(x))2  (f '(x))2   . En déduire l’expression de (f 1 )'(x) .                     (0,5 pt)
+                                                        9
+                                                                 3
+c) Soit x un réel quelconque. Exprimer l’intégrale I(x)  
+                                                             x
+                                                                      dt en fonction de (f 1 )(x) .                      (0,25 pt)
+                                                            0
+                                                               9t  1
+                                                                 2
+
+                                            
+3) Soit r la rotation de centre O et d’angle . Pour tout point M(x,y) on note r(M)  M' et r(C)  C1
+                                            2
+a) Donner l’expression complexe de la rotation r puis écrire les coordonnées x’,y’ de M’ en fonction de
+x et y.                                                                                                                   (0,5 pt)
+b) Montrer que ( C1 ) est la courbe représentative de la fonction h définie sur par :
+                                      h(x)  ln(3x  9x2  1) .                                                          (0,25 pt)
+c) Montrer que pour tout réel x , h(x)  f 1 (x) . On note (C') la courbe représentative de f 1 dans le
+repère précédent.                                                                                                         (0,25 pt)
+ 4.a) Montrer que les courbes (C) et (C') se coupent en deux points autres que l’origine .                                (0,25 pt)
+b) Construire, dans le même repère les courbes (C) et (C') et calculer en fonction de  l’aire du                         (0,5 pt)
+domaine plan délimité par ces deux courbes (  est le nombre indiqué en 1.d).
+
+Exe rcice 4 (5 po ints )
+Dans le plan orienté, on considère un triangle équilatéral direct ABC de centre G et de coté a ( a  0 ).
+I , J , K et L sont les milieux respectifs des segments BC , AC , AB et AI  et D le symétrique de
+I par rapport à J .
+1) Faire une figure illustrant les données précédentes que l’on complétera au fur et à mesure.                            (0,75 pt)
+2.a) Montrer qu’il existe une unique rotation r1 qui transforme B en C et I en J .                                        (0,5 pt)
+b) Déterminer r1 (K) et déterminer le centre et un angle de r1 .                                                          (0,75 pt)
+                                                 
+3) Soit r2 la rotation de centre K et d’angle      .
+                                                 3
+a) Déterminer r2 (B) et r2 (I) .                                                                                          (0,5 pt)
+                                                                                                                          (0,25 pt)
+b) En déduire r2 (C) .
+4.a) Montrer qu’il existe un unique antidéplacement f du plan qui transforme B en C et I en J .                           (0,5 pt)
+ b) Montrer que f est une symétrie glissante et donner sa forme réduite.                                                  (0,5 pt)
+ c) Caractériser la transformation g  f r11 .                                                                           (0,25 pt)
+5) On considère la transformation   r2 r1 et on pose (M)  M ' .
+a) Caractériser  .                                                                                                       (0,25 pt)
+b) Montrer que si M  M' alors la droite  MM ' passe par un point fixe que l’on déterminera.                            (0,25 pt)
+c) En déduire que le quadrilatère AMIM' est un parallélogramme.                                                           (0,25 pt)
+6) Pour tout point M du plan, on pose r1 (M)  M1 et r2 (M)  M2 .
+Déterminer l’ensemble  des points M du plan pour lesquels les points M , M1 et M2 sont alignés (On                       (0,25 pt)
+                           
+pourra utiliser l’angle MG;MK ).     
+                                                       Fin.
+                                                                                                                          (1 pt)
+ Baccalauréat 2016         Session Complémentaire      Epreuve de Mathémati ques          Séries C & TMGM           2/2
+                                                                                                                          (0,75 pt)
+

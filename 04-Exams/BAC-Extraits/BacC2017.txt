@@ -1,0 +1,150 @@
+   République Islamique de Mauritanie                                                       Honneur – Fraternité – Justice
+    Ministère de l’Education Nationale                                                          Séries : C & TMGM
+ Direction des Examens et de l’Evaluation           Baccalauréat                              Epreuve: Mathématiques
+         Service des Examens                                                                      Durée: 4 heures
+                                                        2017                                     Coefficients: 9 & 6
+                                                      Session Normale
+Exercice 1 (4 points)
+ Le plan complexe est muni d’un repère orthonormé (O;u, v) .
+1) a- Soit a un nombre réel, résoudre dans l’ensemble de nombres complexes l’équation d’inconnue z :
+         1  i  z2  2 a  1 z  (1  i)(a2  1)  0                                                                    (1 pt)
+ b- Soient f et g les transformations données par leurs expressions complexes f : z  z'  1  iz et
+ g : z  z''  z  i . Déterminer la nature et les éléments caractéristiques de chacune des transformations f
+ et g.                                                                                                                       (0,5 pt)
+ Dans le reste de l’exercice on considère les points I, M1 et M2 d’affixes respectives z 0  1  i, z1  1  ia
+et z 2  a  i où a  ei ,  0,2
+2) a- Montrer que le triangle IM1M2 est rectangle en I, isocèle et direct.                                                   (0,5 pt)
+b- Préciser les lieux géométriques de chacun des points M1 et M2 lors que  décrit l’intervalle 0,                      (0,5 pt)
+                                                                                     
+c- Ecrire z1 et z 2 sous forme exponentielle pour  appartenant à l’intervalle  0,  .                                      (0,5 pt)
+                                                                                     2
+3) Soit M 3 le point d’affixe z 3  i sin   ia et soit G l’isobarycentre des points M1 , M2 et M 3
+                       1  cos     ( 1  2sin  )
+a- Vérifier que z G             i                  puis montrer que, pour  0,  , le point G appartient à
+                           3               3
+                                                                                                                             (0,5 pt)
+une ellipse  dont on donnera une équation.
+b- Préciser les sommets et l’excentricité de  puis la construire dans le repère précédent.                                  (0,5 pt)
+
+Exercice 2 (6 points)
+ABC est un triangle équilatéral direct de coté 4 cm, et de cercle circonscrit  , les points I, J et K sont
+les milieux respectifs des segments BC, CA et AB . On pose A  sB (A).
+1) a- Faire une figure illustrant les données que l’on complétera au fur et à mesure. On prendra (AB)
+     horizontale.                                                                                                            (0,75 pt)
+ b- Montrer qu’il existe un unique antidéplacement g vérifiant g(B)  A et g(A')  B . Vérifier que g
+      est une symétrie glissante et donner sa forme réduite.                                                                 (0,75 pt)
+ c- Soit r la rotation qui transforme C en B et J en K. Déterminer un angle et le centre de r.                               (0, 5 pt)
+ 2) Soit s la similitude directe qui transforme A en B et C en I, et on pose h  s r
+ a- Déterminer le rapport et une mesure de l’angle de s.                                                                     (0, 5 pt)
+ b- Soit  le centre de s. Montrer que   et que les points  , A et I sont alignés. Placer alors  .                      (0, 5 pt)
+  c- Déterminer la nature et les éléments caractéristiques de h.                                                             (0, 5 pt)
+ 3) Soit M un point de  distinct de  , on pose M '  s(M) et M1  r(M)
+ a- Montrer que le triangle MM' est rectangle.                                                                              (0, 5 pt)
+ b- Montrer que la droite  MM' passe par un point fixe que l’on déterminera.                                               (0, 5 pt)
+ c- Montrer que les points M1 , M et M sont alignés.                                                                        (0, 25 pt)
+4) On pose M 0  A et n  , M n 1  s(M n )
+a- Déterminer M1 et construire M 2 .                                                                                         (0, 25 pt)
+b- Vérifier que M 2017  (B)                                                                                                (0, 5 pt)
+                                                                     n
+c- Pour tout entier naturel n, on pose Ln  Mn Mn 1 et Sn   Lk exprimer Sn en fonction de n, puis
+                                                                    k 0                                                     (0, 5 pt)
+    déterminer lim S n .
+                 n 
+
+Exercice 3 (5 points)
+                                                                                             e nx
+Pour tout entier naturel n on définit la fonction f n sur                  par : fn (x)             et soit (Cn ) sa
+                                                                                            1  e x
+courbe représentative dans un repère orthonormé (O;i, j) .
+
+ Baccalauréat 2017        Session Normale     Epreuve de Mathématiques            Séries C & TMGM             1/2
+
+                                                                                                                             (0,75 pt)
+1) Montrer que toutes les courbes (Cn ) passent par un point fixe à déterminer.                                                                    (0,5 pt)
+2) a- Dresser le tableau de variation de f 0 .                                                                                                     (0,5 pt)
+   b- On considère les points M et N de la courbe (C0 ) d’abscisses respectives x et  x . Déterminer les
+ coordonnées de A , milieu de MN  , que représente A pour (C0 ) ?                                                                              (0,5 pt)
+ 3) a- Montrer que les courbes (C0 ) et (C1 ) sont symétriques par rapport à l’axe des ordonnées.                                                  (0,25 pt)
+     b- Déduire le tableau de variation de f1                                                                                                      (0,25 pt)
+     c- Construire (C0 ) et (C1 ) dans le même repère.                                                                                             (0,5 pt)
+
+ 4) On suppose que n est strictement supérieur à 1.
+                                                                                                                     fn (x)                        (0,75 pt)
+     a- Montrer que lim fn (x)  0 et lim fn (x)   puis calculer lim                                                     . Interpréter.
+                         x                      x                                                      x       x
+     b- Calculer f n et dresser le tableau de variation de f n .                                                                                  (0, 5 pt)
+ 5) Soit (un ) la suite définie par : un   fn (x)dx, n 
+                                                           1
+
+                                                           0
+
+                                                                1 e 
+   a- Justifier l’existence de (un ) puis vérifier que u0  ln                                                                                   (0,5 pt)
+                                                                2 
+                                                    1  e n
+   b- Vérifier que u0  u1  1 et que un 1  un            puis déduire u1 et u2                                                                 (0,5 pt)
+                                                       n
+   c- Montrer que (un ) est convergente et calculer sa limite.                                                                                     (0,25 pt)
+
+Exercice 4 (5 points)
+                                                                        ln x
+Soit f la fonction définie sur 0; par : f (x) 
+                                                                         x2
+1) a- Dresser le tableau de variation de f.                                                                                                        (0, 75 pt)
+                                                              1
+b- Déduire que pour tout entier n ≥ 6, l’équation f (x)         admet dans l’intervalle 1, e  une seule
+                                                              n
+solution notée an                                                                                                                                  (0, 25 pt)
+c- Prouver que la suite (an ) est décroissante, en déduire qu’elle converge.                                                                       (0,5 pt)
+                                                                                          ln x      ln k       ln  k  1        k 1
+2) a- Montrer que pour tout entier k strictement supérieur à 1, on a :                         dx  2                                            (0,5 pt)
+                                                                            (k  1)        x 2
+                                                                                                     k                   2     k
+
+                                                                                       n ln x
+b- Utiliser une intégration par parties pour exprimer en fonction de n l’intégrale :          dx , n  2 .                                        (0,5 pt)
+                                                                                       2 x2
+
+                                                                   ln 2 ln 3 ln 4        lnn
+3) Pour tout entier n supérieur strictement à 1, on pose : Sn  2  2  2  ....  2
+                                                                    2     3      4        n
+                       ln  2     n ln x       ln  n 
+a- Montrer que Sn          2
+                                  2 dx  Sn 
+                        (2)        2  x          (n)2                                                                                              (0,5 pt)
+                      1  ln 2 n  (n  1)ln(n)          2  3ln 2 1  ln(n)
+b- En déduire que :                        2
+                                                 Sn                                                                                             (0,25 pt)
+                          2               n                  4         n
+                                                                                           ln 2 
+                                                                                                     k 1
+                                                                                    n
+                                                                                                                       1 2 (ln x)n
+4) Pour tout entier naturel n non nul, on pose : un  
+                                                                                                                       n! 1 x2
+                                                                                                            et I n                dx
+                                                                                   k 1       k!
+                                             ln 2 
+                                                       n
+                            
+a- Montrer que : n             0  In                       En déduire la limite de In
+                                                  n!                                                                                               (0,5 pt)
+                                                  1  ln 2 
+                                                                 n 1
+                            
+b- Montrer que : n             I n 1  I n 
+                                                  2 (n  1)!                                                                                       (0,5 pt)
+                                  1 1  ln 2  ln 2            ln 2  
+                                                                               2                      n
+
+c- En déduire que : n          
+                                       
+                                     In                ....
+                                   2 2  1!        2!             n!                                                                              (0,25 pt)
+                                                                        
+d- Exprimer (un ) en fonction de I n . En déduire la limite de (un ) .
+                                                                                                                                                   (0,5 pt)
+                                                                         Fin.
+ Baccalauréat 2017       Session Normale                       Epreuve de Mathématiques                                Séries C & TMGM       2/2
+                                                                                                                                                   (0, 25 pt)
+

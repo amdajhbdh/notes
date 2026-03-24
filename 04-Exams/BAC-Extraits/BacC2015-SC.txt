@@ -1,0 +1,185 @@
+   République Islamique de Mauritanie                                           Honneur – Fraternité – Justice
+ Ministère de l’Education Nationale
+ Direction des Examens et Concours           Baccalauréat                           Série : C &t TMGM
+                                                                                  Epreuve: Mathématiques
+        Service des Examens
+                                                 2015                                 Durée: 4 heures
+                                                                                     Coefficients:9 & 6
+                                             Session Complémentaire
+
+Exercice 1 (3 points)
+Soit x et y des entiers relatifs. On pose f(x, y)  2x  3y
+1.a) Calculer f(5, 3) .                                                                                          (0,5 pt)
+b) En déduire les solutions dans 2 de l’équation 2x  3y  1 .                                                   (1 pt)
+2) Pour tout entier naturel n on pose Xn  f(5n , 3n ) .
+a) Trouver, suivant les valeurs de n, le reste de la division euclidienne de X n par 7.                          (1 pt)
+b) Montrer que X2015  5 est divisible par 7.                                                                    (0,5 pt )
+
+Exercice 2 (4 points)
+Le plan complexe est muni d’un repère orthonormé (O;u, v) .
+1) On pose : P(z)  z3  (6  5i)z²  (1  20i)z  14  5i où z est un nombre complexe.
+a) Calculer P(i) et déterminer les nombres a et b tels que pour tout z de         :
+                                          P(z)  (z  i)(z²  az  b) .                                          (1 pt)
+b) Résoudre, dans l’ensemble des nombres complexes, l’équation P(z)  0 .                                        (1 pt)
+2) On considère les points A,B et C d’affixes respectives z A  i , z B  4  i et zc  2  3i .
+Soit s la similitude directe de centre A qui transforme B en C.
+a) Donner l’expression complexe de s.                                                                            (0,75 pt)
+b) Déterminer le rapport et un angle de s.                                                                       (0,5 pt)
+3.a) Déterminer puis construire les ensembles 1 et  2 des points M du plan définis
+par :                                                                                                            (0,25pt)
+                                             zi
+                                  M  1             est imaginaire pur.
+                                           z4i
+                                                                                                                 (0,25 pt)
+                                              zi
+                                  M  2             est imaginaire pur.
+                                           z  2  3i
+                                                                                                                 (0,25 pt )
+b) Justifier que s(1 )   2 .
+
+Exercice 3 (4 points)
+Dans le plan orienté on considère un triangle équilatéral direct ABC de centre O et de coté a,
+(a  0) . Soient I , J et K les milieux respectifs des segments  BC  ,  CA  et  AB  .
+1.a) Faire une figure illustrant les données précédentes (on prendra (AB) horizontale).                          (0,5 pt)
+b) Montrer qu’il existe une unique rotation r1 qui transforme B en C et J en K. Préciser le
+centre et un angle de r1 .                                                                                       (0,75 pt)
+c) Soit la rotation r2 qui transforme B en C et K en J. Préciser le centre et un angle de r2 .                   (0, 5 pt)
+2.a) Soit f  r1 r2 et g  r2 r1 . Caractériser f et g.                                                          (0,5 pt)
+b) Montrer que g f  t BC où t BC est la translation de vecteur BC .                                             (0,25 pt)
+3.a) Montrer qu’il existe une unique similitude directe s qui transforme B en I et C en J.
+Déterminer l’angle et le rapport de s .                                                                          (0,5 pt)
+b) Déterminer s(A) et s(O) .                                                                                     (0,25 pt)
+
+
+
+
+ Baccalauréat 2015    Session Complémentaire     Epreuve de Mathématiques    Série C & TMGM              1/3
+c) Caractériser la composée h  r1 s .                                                                               (0,25 pt)
+4) Soit  l’ellipse de foyers I et J passant par C.
+a) Montrer que K .                                                                                                 (0,25 pt)
+b) Construire les sommets de  . Justifier la construction.
+                                                                                                                     (0,25 pt )
+Exercice 4 (4 points)
+                                                                    x1
+1) Soit la fonction f définie sur                     par f (x)        .
+                                                                     ex
+a) Dresser le tableau de variation de f.                                                                             (0,75 pt )
+b) Tracer C la courbe représentative de f dans un repère orthonormé.                                                 (0,25 pt)
+                         (1  x)
+                                 n
+
+2) Soit n   et fn (x)  x . Pour tout x  , on pose : Fn (x)   fn (t)dt .
+                                                                  x
+
+                           e                                      1
+
+ Montrer à l’aide d’une intégration par parties, que pour tout n   et pour tout x :
+Fn  1 (x)  (n  1)Fn (x)  fn  1 (x)                                                                              (0,75 pt)
+3) Soit In  Fn (0)   fn (t)dt .
+                            0
+
+                            1
+
+a) Vérifier que pour tout n   , In 1  (n  1)In  1 .                                                            (0,5pt)
+b) Montrer que la suite (I n ) est décroissante et positive.                                                         (0,5 pt)
+                                          1       1
+c) Montrer que pour tout n                  I  . En déduire lim In .
+                                              
+                                                  ,
+                                       n1 n n                    n                                               (0,5 pt )
+                                        I
+4) Pour tout n   , on pose : Un  n
+                                        n!
+                                                                  n
+                                1                                     1
+a) Montrer que Un 1  Un             . En déduire que Un  e          .
+                             n  1 !                           k 0 k !                                            (0,5 pt )
+                                  n
+                                      1
+b) Calculer alors lim                    .                                                                          (0,25 pt)
+                         n         k !
+                                 k 0
+
+
+
+Exercice 5 (5 points)
+Soit f la fonction définie sur    par f(x)  xln(x  1) et (C) sa courbe représentative dans un
+repère orthonormé.
+1.a) Justifier que lim f(x)   et lim f(x)   . Interpréter graphiquement.
+                         x 1                        x                                                           (0,5 pt)
+b) Calculer f '(x) et justifier que :
+                                                             1  x  0  f '(x)  0                                 (0,5 pt)
+                                                             x  0  f '(x)  0
+                                                                        .
+c) Dresser le tableau de variation de f .                                                                            (0,5 pt)
+2.a) Tracer la courbe (C) .                                                                                          (0,25 pt)
+                      x2             1                1 x
+                                                          2
+b) En remarquant que       x  1       , calculer        dx .
+                     1 x           1 x             0 1 x                                                          (0,5 pt)
+c) En utilisant une intégration par parties, calculer l’aire A du domaine plan limité par la courbe
+(C) , l’axe des abscisses et les droites d’équations x  0 et x  1 .
+                                                                                                                     (0,25 pt)
+                                                                             x ln(1  x)dx
+                                                                             1
+3) Pour tout entier naturel non nul n on pose : Un 
+                                                                                 n
+                                                                             0
+
+a) Montrer que l’écriture précédente définit bien une suite numérique (Un ) . Justifier que
+    1
+U1  .                                                                                                               (0,5 pt)
+    4
+
+
+
+
+ Baccalauréat 2015           Session Complémentaire               Epreuve de Mathématiques    Série C & TMGM   2/3
+                                                    ln 2
+b) Montrer que pour tout n  IN : 0  Un               . En déduire lim Un .                       (0,5 pt)
+                                                    n1               n 
+
+4) Pour tout n  2 ; et pour tout réel x de [0,1] on pose :
+                             Sn (x)  1  x  x2  x3  x4  ....  (x)n .
+                                                        n 1
+                                    1           n 1 x
+a) Justifier que :      Sn (x)          (1)               .
+                                  1 x                1 x                                           (0,25 pt )
+                                                             n 1
+                        n
+                            (1)k                        1 x
+b) Montrer que:        
+                       k 0 k  1
+                                    ln 2  ( 1)  n 1
+                                                        0 1  x dx .                                (0,25 pt )
+
+c) En utilisant une intégration par parties, montrer que :
+                                  ln 2 ( 1)n1          n
+                                                              ( 1)k 
+                             Un                ln 2              .                             (0,25 pt)
+                                  n1 n1               k 0 k  1 
+
+
+
+                1 1 1          ( 1)n
+5) Soit Vn  1      ...          .
+                2 3 4          n1
+                               n 1
+                    1       1 x           1
+a) Montrer que :                  dx      .
+                 2(n  2) 0 1  x        n2                                                         (0,25 pt)
+b) En déduire que : lim Vn  ln 2 .
+                     n                                                                            (0,25pt)
+c) Déduire lim (n  1)Un .                                                                           (0,25 pt)
+            n 
+
+
+
+
+                                                      Fin.
+
+
+
+
+ Baccalauréat 2015   Session Complémentaire      Epreuve de Mathématiques     Série C & TMGM   3/3
+

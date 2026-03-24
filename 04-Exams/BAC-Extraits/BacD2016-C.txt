@@ -1,0 +1,126 @@
+        Ré pu bl i qu e Isl ami que de Mauri tanie                                                         H onneur – Fra terni té – Ju sti ce
+       Mi nis tère de l’ Edu ca tio n Na tion ale
+ Directio n des Ex ame ns e t des Co nco urs                          B ac c alauré at                      Série : Sc ien ces d e la Nat u re
+                                                                                                             Ep reu v e: M ath é matiq u es
+             Se rvice de s Exame ns                                        2016                                    Du rée: 4 h eu res
+                                                                   Sessio n Co mplé me ntaire                       Co eff ic ien t: 6
+
+
+Exe rci ce 1 (3 poi nts )
+
+Pour chaque question, trois réponses sont proposées dont une seule est exacte.
+N° Question                                                                 Réponse A             Réponse B           Réponse C
+                                                     n
+                                 e                                                                                                             (0,5)
+1      La suite de terme général   est                                      décroissante         croissante            dive rgente
+                                  4
+                                                  1
+                                                               n
+                                                                                                                        lim un                (0,5)
+2      Si, pour tout n de              , un  3    alors                    lim un  0          lim un  3          n 
+                                                                              n                 n 
+                                                   2
+                                                                                                                                                 (0,5)
+3      Si s  1  2  22             22015 alors :                          s  22015  1        s  1  22016        s  22016  1
+       Si  v n  est une suite arithmétique de                                  r  3            r  2                r  3               (0,5)
+4                                                                                                                        
+       raison r telle que v3  0 et v5  6 alors :                               v0  8            v 0  9              v0  9
+                                                                                                                                                 (0,5)
+5      Toute suite croissante et majorée est :                                non bornée          convergente            dive rgente
+                                                         
+       Soit (wn ) une suite définie sur                      telle que
+6                       2                                                    lim wn  2          lim wn  1            lim wn  0              (0,5)
+        0  wn  ln  1   alors :                                           n                 n                 n 
+
+                     n
+Recopie sur la feuille de réponse et complète le tableau ci-contre                               Question n°       1 2 3 4 5 6
+en choisissant la bonne réponse. Aucune justification n’est
+                                                                                                 Réponse
+demandée :
+
+Exe rci ce 2 (5 poi nts )
+
+1. On pose P(z)  z3  7z2  18z  12 où z est un nombre complexe.
+ a) Calculer P(1) .                                                                                                                     (0,5 pt)
+    b) Déterminer deux réels a et b tels que : P(z)  (z 1)(z 2 az b) .                                                              (0,5 pt)
+    c) Résoudre, dans l’ensemble des nombres complexes, l’équation : P(z)  0 .                                                         (0,5 pt)
+2. Le plan complexe est rapporté à un repère orthonormal direct (O;u, v) .
+Soient les points A , B et C d’affixes respectives : z A  1 , z B  3  i 3 et z C  3  i 3 .
+ a) Calculer le module et un argument de chacun des nombres z A , z B et z C .                                                          (0,5 pt)
+ b) Placer les points A , B et C dans le repère (O;u, v) .                                                                              (0,5 pt)
+                                                 z  zA
+3.a) Calculer le module du complexe suivant : C            .                                                                            (0,5 pt)
+                                                 zB  z A
+b) En déduire la nature du triangle ABC .                                                                                               (0,5 pt)
+4.a) Déterminer z D affixe du point D tel que ABCD soit un parallélogramme. Place r D .                                                 (0,5 pt)
+b) Déterminer et construire l’ensemble  des points M d’affixe z telle que
+                                                         z  1  2i 3
+                                                                       1.                                                              (0,5 pt)
+                                                             z 1
+                                                                                                                                        (0,5 pt)
+c) Détermine r z I affixe du point I milieu de AD . Déterminer la nature du triangle IBC
+ Baccalauréat 2016               Session Complémentaire               Epreuve de Mathématiques         Série S ciences de la Nature          1/2
+Exe rci ce 3 (5 poi nts )
+
+Soit f la fonction définie sur           par : f(x)  xex  ex  x  1 .
+Soit C sa courbe représentative dans un repère orthonormal (O;i,j) d’unité 1cm .
+1.a) Calculer et interpréter lim f (x) et lim  f (x) (x 1)
+                                                            .                                                   (0,5 pt)
+                                  x          x
+
+b) En remarquant que f(x)  (x  1)(ex  1) calcule r lim f (x) .                                                (0,5 pt)
+                                                                x
+
+                                       f(x)                                                                      (0,5 pt)
+c) Détermine r et interpréter lim            .
+                                  x x
+
+2.a) Calcule r f '(x) et f ''(x) où f ' et f '' sont respectivement la dérivée et la dérivée seconde
+de f .                                                                                                           (0,5 pt)
+ b) Calculer f '(-1) et préciser son signe.                                                                      (0,5 pt)
+c) Etudier les variations de f ' et en déduire le signe de f '(x) .                                              (0,5 pt)
+3. Dresser le tableau de variation f .                                                                           (0,5 pt)
+4. Déterminer les points d’intersection de (C) avec les axes de coordonnées puis la construire.                  (0,5 pt)
+5.a)Vérifie r que pour tout x on a : f(x)  f '(x)  ex  x  2 . En déduire une primitive F de
+f sur .                                                                                                          (0,5 pt)
+b) Calculer l’aire S du domaine plan délimité par la courbe (C) et les axes de coordonnées.                      (0,5 pt)
+
+Exe rci ce 4 (7 poi nts )
+
+Soit f la fonction définie sur 0; par : f(x)  x  2  lnx .
+1.a) Calculer lim f (x) et lim f (x).                                                                           (1 pt)
+                x0           x 
+
+
+                                                         et lim  f(x)  x  .
+                                                    f(x)
+b) Calculer et interpréter graphique ment lim                                                                    (0,75 pt)
+                                               x x       x
+
+2. Calcule r f '(x) et dresser le tableau de variation de f .                                                    (0,75 pt)
+3. Donne r une équation de la tangente T à (C) au point A d’abscisse x0  e .                                    (0,5 pt)
+4.a) Montrer que l’équation f(x)  0 admet exactement deux solutions  et  (    ) et que
+                                                      e 
+ 0,1    0,2 ; 3,1    3,2 . Démontrer que :   .                                                           (1 pt)
+                                                      e     
+b) En déduire le signe de f(x) sur 0; .                                                                      (0,5 pt)
+5. Soit g la restriction de f sur I  1;  .
+a) Montrer que g réalise une bijection de I sur un intervalle J que l’on déterminera.                            (0,5 pt)
+b) Calculer     g  '(e  3) , (On pourra utiliser la question 3)
+                  1
+                                                                                                                 (0,5 pt)
+6. Tracer (C) et (C') courbes respectives des fonctions f et g 1 dans un repè re orthonormé
+(O;i,j) .                                                                                                        (0,5 pt)
+
+7.a) En utilisant une intégration par parties, calculer  ln xdx .
+                                                                  e
+
+                                                                  1                                              (0,5 pt)
+b) Calculer l’aire du domine plan délimité par la courbe (C) , l’axe des abscisses et les
+droites d’équations x  1 et x  e .                                                                             (0,5 pt)
+
+
+                                                         Fin.
+
+ Baccalauréat 2016          Session Complémentaire     Epreuve de Mathématiques   Série S ciences de la Nature   2/2
+

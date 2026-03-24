@@ -1,0 +1,179 @@
+ République Islamique de Mauritanie
+ Ministère de l’Education Nationale
+                                                                 BACCALAUREAT 2019                   Série : C & TMGM
+                                                                          Session Normale             Coefficient : 9 & 6
+   et de la Formation Professionnelle
+                                                                     Epreuve : MATHEMATIQUES              Durée : 4h
+ Direction des Examens et des Concours
+Exercice1 (3 points)
+ 1° On considère dans              2
+                                       , l’équation  E  : 7x  5y  1
+ a) Justifier que le couple (3;4) est solution de  E  puis résoudre (E).                                         0.75 pt
+                                                          x  3  5
+ b) Montrer que si (x;y) est une solution de  E  alors 
+                                                          y  4 7
+                                                                                                                   0.75 pt
+
+ 2° Dans cette question on se propose de déterminer l’ensemble S des entiers relatifs A tels que
+  A  4  5
+ A  3 7
+         
+ a) Soit A un élément de S. Démontrer qu’il existe un couple d’entiers (x;y) tel que
+                                                                                                                   0.5 pt
+ A  7x  3  5y  4 où (x;y) est une solution de  E 
+ b) En déduire que A  S si et seulement si A  24  35 .                                                         0.5 pt
+ c) Soit n et a deux entiers naturels ( 0  n  9 ) et B un entier qui s’écrit, en base n, sous la forme
+                                                                                                                   0.5 pt
+ 374a . Déterminer n puis en déduire l’écriture décimale de l’entier B sachant qu’il appartient à S.
+Exercice 2 (4 points)
+ Le plan complexe est muni d’un repère orthonormé O;u, v .                  
+ 1° Pour tout nombre complexe z on pose P(z)  z  (5  4i)z  (7  10i)z  5  10i .
+                                                                 3           2
+
+
+ Calculer P(i) puis déterminer les solutions z 0 ; z1 et z 2 de l’équation P(z)  0 avec
+ Re  z 0   Re  z1   Re  z 2  .
+                                                                                                                  1 pt
+
+ 2° On considère les points A, B et C d’affixes respectives z 0 ; z1 et z 2 .
+ a) Déterminer la nature du triangle ABC .                                                                        0.5 pt
+ b) Soit G le barycentre du système (A,13); (B, 3);(C, 2) . Déterminer l’affixe de G.                          0.25 pt
+ c) Déterminer et construire l’ensemble  des points M du plan tels que
+                                                                                                                  0.5 pt
+ 13 MA2  3 MB2  2 MC2  12
+ 3° On considère l’hyperbole H de centre G qui passe par C et dont A est un sommet.
+ a) Déterminer le 2ème sommet de H.                                                                               0.25 pt
+ b) Vérifier que l’équation de H peut s’écrire sous la forme x2  3  y  2   3 .
+                                                                             2
+                                                                                                                  0.5 pt
+ c) Donner l’ équation réduite de H puis déterminer ses foyers, ses asymptotes et son excentricité
+                                                                                                                  1 pt
+ et la construire.
+Exercice 3 (5 points)
+ On considère la fonction définie sur  0; par f (x)  x3  xl n x si x  0 et f(0)=0.
+ On note (C) sa courbe représentative dans un repère orthonormé  O; i , j  .
+ 1°a) Etudier la continuité et la dérivabilité de f à droite de 0.                                                 0.5 pt
+                                                              f (x)
+ b) Calculer et interpréter graphiquement lim f(x) et xlim  x
+                                                                    .                                              0.5 pt
+                                                x 
+
+ 2° a) Calculer f (x) et f (x) et montrer que (C) admet un point d’inflexion A dont on précisera
+                                                                                                                   0.5 pt
+ les coordonnées.
+ b) Etudier les variations de f  et en déduire le signe de f (x) .                                               0.5 pt
+ c) Dresser le tableau de variation de f.                                                                          0.5 pt
+ 3° a) Montrer que f réalise une bijection de  0; sur un intervalle J que l’on précisera.                      0.25 pt
+ b) Etudier la position relative entre (C) et (C) et justifier qu’elles se coupent en trois points dont
+                                                                                                                   0.5 pt
+ l’un est d’abscisse  avec 0,45    0,46 ( (C) étant la courbe de la réciproque f 1 de f).
+ 4° Tracer dans le repère  O; i , j  les courbes (C) et (C) .                                                   0.5 pt
+ 5° a) A l’aide d’une intégration par parties déterminer la primitive F qui s’annule en 1 de la
+ fonction f sur 0; .                                                                                           0.25 pt
+
+
+
+Baccalauréat 2019                   Session Normale            Epreuve de Mathématiques        Séries C & TMGM           1/2
+                                                                                                       
+ b) Exprimer en fonction de n et  les intégrales K   f (t)dt et I(n)   1 f (t)dt . Calculer lim I(n) .
+                                                                                  1
+
+                                                                                                                                n 
+                                                                                                                                             0.75 pt
+                                                                                                       n
+
+ c) Déduire l’aire S du domaine plan fermé par les courbes (C) et (C) .                                                                     0.25 pt
+
+Exercice 4 (4 points)
+ On considère un triangle équilatéral direct ABC de côté a (a>0). Soient D, E et F les milieux
+ respectifs des côtés [BC], [CA] et [AB]. On construit le carré direct AGHD de centre O.
+ Soient I, J et K les milieux respectifs des segments [EC], [GH] et [AD].
+ 1° Faire une figure illustrant les données qu’on complètera au fur et à mesure.                                                             0.25 pt
+ 2° a) Montrer qu’il existe un unique antidéplacement f qui transforme A en C et E en D.                                                     0.25 pt
+ b) Montrer que f est une symétrie glissante et donner sa forme réduite.                                                                     0.5 pt
+ 3° a) Montrer qu’il existe une unique rotation r transformant H en B et D en E. Préciser son
+                                                                                                                                             0.5 pt
+ angle. Soit  son centre.
+ b) Montrer que  appartient à la droite (CF) et au cercle de diamètre [AB].                                                                 0.5 pt
+                                                               
+ c) En utilisant les angles D , DE et DE, DG montrer que   DG  . Placer  .                                                             0.5 pt
+ 4° a) Montrer qu’il existe une similitude directe S et une seule qui transforme B en D et D en I.                                           0.25 pt
+                                                                                       3           
+ b) Soit S la similitude directe de centre A, de rapport                                et d’angle . Déterminer S (B) et
+                                                                                      2            6                                         0.5 pt
+ S (D) . Caractériser S.
+ 5° On considère la suite  Mn  définie par M 0  B et Mn  1  S  Mn  .
+ a) Démontrer que le triangle AMn Mn1 est rectangle.                                                                                        0.25 pt
+ b) Déterminer la nature du triangle ABM 2019 et calculer son aire en fonction de a.                                                         0.5 pt
+
+Exercice 5 (4 points)
+                                                      1
+ Soit f la fonction définie par f (x)                        .
+                                                    1  ex
+ 1° Etudier les variations de f et tracer sa courbe  dans un repère orthonormé O; i , j .                                                 0.75 pt
+ 2° Montrer que l’équation f (x)  x admet une unique solution  et que 0,7    0,8 .                                                      0.25 pt
+ 3° Soit A l’aire du domaine délimité par  , (Ox) et les droites d’équations x   et x  ln3 .
+                                dx
+ a) Montrer que A  
+                        ln 3
+                                      .                                                                                                      0.25 pt
+                        
+                               1  ex
+                                                 1
+                      1                            2dt
+ b) En posant t             , montrer que A   2 2   .                                                                                     0.25 pt
+                                                 t 1
+                    1 e  x
+
+
+                                                        2    a    b
+ c) Déterminer les réels a et b tels que                           et en déduire la valeur de A.                                           0.5 pt
+                                                      t 1 t 1 t 1
+                                                      2
+
+
+ 4° Soit  In  la suite définie pour tout n 
+                                                                                                                   n
+                                                                      par I n            f (t)  dt et S   I  I  I  ...  I .
+                                                                                        ln 3      2n
+                                                                  *
+                                                                                                            n            k   1    2      n
+                                                                                        
+                                                                                                                  k 1
+
+                                               ln 3  
+ a) Montrer pour tout n          *
+                                      que                I n   ln 3     2n puis en déduire lim I n .                                  0.5 pt
+                                                 22n                                              n 
+
+                             , 2f (x)   f (x)   f (x)
+                                                          3
+ b) Montrer que x                                                             (1) .                                                        0.25 pt
+                                                           f   x 
+ c) En déduire que x  ,  f  x    1  2 
+                                           2
+                                                                      puis en déduire I 1 .                                                0.5 pt
+                                                           f  x 
+                                                                                               1 1         
+ 5° a) Montrer à l’aide de l’égalité (1) que n                        *
+                                                                            , I n 1  I n           2n  .                              0.25 pt
+                                                                                               n 22n
+                                                                                                            
+ b) Montrer que I n 1  ln  3e 2    1  12k   2k  .
+                                              n
+
+                                                                                                                                             0.25 pt
+                               4            k 1   k2                   
+
+                          n 1      1               3      
+ c) En déduire que lim     2k  2k    ln               .
+                                                 4  1  2  
+                                                                                                                                             0.25 pt
+                   n 
+                          k 1 k  2 
+                                                              
+
+                                                                                Fin
+
+Baccalauréat 2019            Session Normale                          Epreuve de Mathématiques                           Séries C & TMGM         2/2
+

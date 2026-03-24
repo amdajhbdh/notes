@@ -1,0 +1,130 @@
+         Rép ublique Islamiqu e de M aurit anie                                                    Hon neur – Frat ern it é – Just ice
+        M in is tère d e l ’ Ed u catio n Nat io n ale
+    Direction des Examens et de l’Evaluation              B ac c alauré at 2016                     Série : Sc ien ces d e la Nat u re
+             Se rvice de s Exame ns                              Sessio n No rmale                   Ep reu v e: M ath é matiq u es
+                                                                                                           Du rée: 4 h eu res
+                                                                                                            Co eff ic ien t: 6
+Exe rcice 1 (3 po ints )
+Des études statistiques sur les examens de fin d’année universitaire ont montré que :
+10% d’une population estudiantine donnée possède un ordinateur.
+La probabilité qu’un étudiant possédant un ordinateur réussisse est de 0,8.
+La probabilité qu’un étudiant ne possédant pas un ordinateur réussisse est de 0,3.
+On choisit au hasard un étudiant dans cette population. On note M l’évènement « l’étudiant choisi possède
+un ordinateur» et R l’évènement «l’étudiant choisi réussit ».
+Parmi les réponses proposées pour chaque question ci-après, une seule est exacte.
+N° Question                                 Réponse A       Réponse B         Réponse C
+1    La  probabilité     p(M)  est :            0.6              0.9               0.1              (0,5pt)
+2    La  probabilité     pM (R) est  :          0.8              0.9               0.7              (0,5pt)
+3    La  probabilité     p(M   R)   est :     0.09             0.08             0.07               (0,5pt)
+4       La probabilité p(M  R) est :                     0.27               0.29                0.31                               (0,5pt)
+5       La probabilité p(R) est :                         0.25               0.35                0.45                               (0,5pt)
+                                                           13                 11                  8
+6       La probabilité pR (M) est :                                                                                                 (0,5pt)
+                                                           35                 35                  35
+
+Recopie sur la feuille de réponse et complète le tableau ci-contre Question n°                   1 2 3 4 5 6
+en choisissant la bonne réponse. Aucune justification n’est        Réponse
+demandée :
+Exe rcice 2 (5 po ints )
+1) Pour tout nombre complexe z on pose : P(z)  z 3  7z 2  19z  13 .
+a) Calculer P(1) .                                                                                                                       (0,5 pt)
+b) Déterminer les réels a et b tels que pour tout z on a: P(z)  (z  1)(z  az  b) .    2
+                                                                                                                                         (0,5 pt)
+c) Résoudre, dans l’ensemble des nombres complexe, l’équation P(z)  0 . On note z 0 ; z1 et z 2 les
+solutions de  E  telles que : Im(z1 )  Im(z0 )  Im(z 2 ) .                                                                           (0,5 pt )
+2) Le plan complexe est rapporté à un repère orthonormé direct O;u, v .             
+Soient les points A, B et C d’affixes respectives : z A  1, z B z 1 i et zC  z 2  1 .
+
+a) Vérifier que zB  3  3i et que z C  4  2i puis placer les points A, B et C dans le repère O;u, v .                               (0,5 pt )
+
+b) Déterminer la nature du triangle ABC .                                                                                                (0,5 pt)
+c) Déterminer l’affixe z D du point D tel que ABDC soit un parallélogramme.                                                              (0,5 pt)
+                                                   z  4  2i
+3) Pour tout nombre z  3  3i ; on pose : f(z)              .
+                                                   z  3  3i
+a) Vérifier que f(zD )  i et interpréter graphiquement.                                                                                (0,25 pt)
+b) Déterminer et construire 1 l’ensemble des points M du plan d’affixe z tel que f(z)  1 .                                             (0,5 pt)
+c) Déterminer et construire 2 l’ensemble des points M d’affixe z tel que f (z) soit imaginaire pur.                                     (0,5 pt)
+d) Déterminer et construire  3 l’ensemble des points M du plan d’affixe z tel que f (z)  1  2 .                                       (0,5 pt)
+e) Vérifier que les trois ensembles 1 , 2 et  3 passe par les points A et D .                                                         (0,25 pt)
+Exe rcice 3 (5 po ints )
+                                                       x
+Soit f la fonction définie sur    par : f(x)  x  1  x  x  1  xe x .
+                                                      e
+Soit (C) sa courbe représentative dans un repère orthonormé (O;i,j) .
+1) On considère la fonction g définie sur      par : g(x)  1  x  ex .
+a) Calculer g(x) où g  est la dérivée de g .                                                                                           (0,5 pt)
+
+ Baccalauréat 2016                  Session Normale      Epreuve de Mathématiques        Série S ciences de la Nature                    1/2
+b) Etudier les variations de g et en déduire le signe de g  x  sur          .
+                                                                                                                        (0,5 pt )
+                                                        f (x)
+2.a) Calculer les limites suivantes : lim f (x) et lim        puis interpréter graphiquement.                           (0,5 pt )
+                                     x          x  x
+
+b) Calculer lim f (x) . Montrer que la droite (  ) d’équation y  x  1 est une asymptote oblique à
+              x 
+(C) et étudier la position relative de (C) et (  ) .                                                                   (0,75 pt )
+                                                             g(x)
+3.a) Calculer la dérivée f '(x) puis vérifier que f '(x)         .                                                     (0,5 pt)
+                                                              ex
+b) Dresser le tableau de variation de f sur .                                                                           (0,25 pt)
+4.a) Déterminer le point A de (C) où la tangente T à la courbe (C) est parallèle à l’asymptote (  ) .
+Donner une équation de T .                                                                                              (0,5pt)
+b) Tracer T , (  ) et (C) .                                                                                            (0,5 pt)
+5) Soit H la fonction définie sur      par : H(x)  (x  1)e x .
+a) Vérifier que H'(x)  f (x)  x  1 . En déduire une primitive F de f sur .                                           (0,5 pt )
+b) Calculer l’aire du domaine plan limité par (C), (  ) et les droites d’équations x  1 et x  3 .                    (0,5 pt )
+Exe rcice 4 (7 po ints )
+                                                 Partie A
+On considère la fonction g définie sur 0,  par : g(x)  x3  2  4lnx .
+1.a) Montrer que g est strictement croissante sur 0,  .                                                           (0,5 pt)
+b) Dresser le tableau de variation de g .                                                                                (0,5 pt)
+
+2.a) Montrer que g réalise une bijection de 0,  sur un intervalle J que l’on déterminera.                         (0,25 pt)
+                                                                                                                        (0,5 pt)
+b) Montrer que l’équation g(x)  0 admet une unique solution  . Vérifier que 1,1    1,2 .
+c) En déduire le signe de g(x) sur 0,  .                                                                          (0,25 pt)
+                                                    Partie B
+                                                        2ln x
+Soit f la fonction définie sur 0,  par : f (x)  x  1 .
+                                                         x2
+Soit (C) sa courbe représentative dans un repère orthonormé (O;i,j) .
+                                                                                                                        (0,5 pt)
+1.a) Montrer que lim f(x)   et interpréter graphiquement.
+                      x0
+
+b) Calculer lim f (x) et lim  f(x)  (x  1)  . En déduire que la courbe (C) admet une asymptote
+              x              x
+oblique  dont on donnera une équation.                                                                                 (0,5 pt)
+                                                                                                                        (0,5 pt)
+ c) Etudier la position relative de (C) et  .
+                                                                                             g(x)                       (0,5 pt)
+2.a) Calculer f '(x) et vérifier que pour tout x de 0,  on a :              f '(x)         .
+                                                                                              x3
+                        33  22  2                                                                                   (0,25 pt)
+b) Montrer que f ()                 .
+                             22
+                                                                                                                        (0,25 pt)
+c) Dresser le tableau de variation de f .
+3.a) Donner l’équation de la tangente T à la courbe (C) au point A d’abscisse 1. Vérifier que T est
+                                                                                                                        (0,5 pt)
+perpendiculaire à  .
+b) Montrer que la courbe (C) coupe (Ox) en un point B autre que A d’abscisse  telle que
+1,3    1,4 .                                                                                                         (0,5 pt)
+                                                                                                                        (0,5 pt)
+c) Représenter la courbe (C) et les droites  et (T) dans le repère (O;i,j) .
+d) Discuter graphiquement, suivant les valeurs du paramètre réel m, le nombre de solutions de                           (0,5 pt)
+l’équation      2x3  (m  1)x2  2lnx  0 .
+4) Soit S l’aire du domaine plan délimité par la courbe (C) , l’axe des abscisses et les droites
+d’équation respectives x  1 et x   .
+                            
+a) Justifier que : S    f(x)dx .                                                                                     (0,25 pt)
+                            1
+                                                                    ln x                                               (0,25 pt)
+b) En utilisant une intégration par parties, calculer I  1              dx . Calculer S en fonction de  .
+                                                                      x2
+                                                         Fin.
+                                                                                                                        (0,25 pt)
+ Baccalauréat 2016          Session Normale      Epreuve de Mathématiques                Série S ciences de la Nature   2/2
+

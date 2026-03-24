@@ -1,0 +1,65 @@
+{
+  "nodes": [
+    {
+      "id": "1",
+      "type": "text",
+      "text": "# BAC Mauritanie - Visual Notes\n\n## Overview\n\nThis collection contains visual notes for Baccalauréat Mauritanien exams (2012-2025).\n\n### Available Years\n\n- **2025** - Complete (4 exercises)\n- **2024** - Complete (4 exercises)\n- **2022** - In progress\n- **2021, 2020** - To be extracted\n\n### Topics Covered\n\n1. **Probabilités** - Conditionnelles, loi exponentielle\n2. **Nombres Complexes** - Polynômes, plans, lieux\n3. **Analyse** - Fonctions exponentielles, logarithmes, asymptotes\n4. **Équations Différentielles** - Modèles de décroissance\n5. **Suites** - Récurrences, limites\n\n### Files\n\n- `.md` - Markdown notes with LaTeX\n- `.canvas` - Obsidian visual canvases\n- `.png` - Graphiques générés\n- `.txt` - Textes originaux extraits",
+      "x": 0,
+      "y": 0,
+      "width": 350,
+      "height": 350
+    },
+    {
+      "id": "2",
+      "type": "file",
+      "file": "BAC-2025-D.canvas",
+      "x": 380,
+      "y": 20,
+      "width": 300,
+      "height": 200
+    },
+    {
+      "id": "3",
+      "type": "text",
+      "text": "### BAC 2025 D\n\n- Ex1: Probabilités (3pts)\n- Ex2: Complexes (5pts)\n- Ex3: Analyse (6pts)\n- Ex4: Logarithme (6pts)\n\n[[BAC-2025-D.canvas|Open Canvas]]",
+      "x": 380,
+      "y": 240,
+      "width": 280,
+      "height": 150
+    },
+    {
+      "id": "4",
+      "type": "file",
+      "file": "BAC-2024-D.canvas",
+      "x": 700,
+      "y": 20,
+      "width": 300,
+      "height": 200
+    },
+    {
+      "id": "5",
+      "type": "text",
+      "text": "### BAC 2024 D\n\n- Ex1: Probabilités (3pts)\n- Ex2: Équations diff (2pts)\n- Ex3: Analyse (5pts)\n- Ex4: Complexes (5pts)\n\n[[BAC-2024-D.canvas|Open Canvas]]",
+      "x": 700,
+      "y": 240,
+      "width": 280,
+      "height": 150
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "1",
+      "fromSide": "right",
+      "toNode": "2",
+      "toSide": "left"
+    },
+    {
+      "id": "e2",
+      "fromNode": "1",
+      "fromSide": "right",
+      "toNode": "4",
+      "toSide": "left"
+    }
+  ]
+}

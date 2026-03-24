@@ -1,0 +1,136 @@
+République Islamique de Mauritanie                                                          Honneur – Fraternité – Justice
+Ministère de l’Education Nationale
+                                                      Baccalauréat
+                                                                                             Série : Sciences de la Nature
+Direction des Examens et de l’Evaluation                  2018                             Epreuve : MATHEMATIQUES
+       SERVICE DES EXAMENS                                                                         Durée : 4 heures
+                                                       Session Normale                               Coefficient : 6
+
+
+Exercice 1 (3 points)
+
+ Un groupe de 100 candidats ont passé un test d’inscription dans un centre de formation professionnelle.
+ Le test est composé de deux épreuves obligatoires : une écrite et une orale.
+ Les résultats ont montré que : 60 candidats ont réussi l’épreuve écrite dont 45 ont réussi aussi l’épreuve orale.
+ Parmi ceux qui ont échoué dans l’épreuve écrite 25 % ont réussi l’épreuve orale.
+ On choisit au hasard un candidat de ce groupe et on considère les évènements suivants :
+  A : « le candidat a réussi l’épreuve écrite» ; B : « le candidat a réussi l’épreuve orale».
+ Pour chacune des questions de cet exercice, une seule des trois réponses proposées est correcte.
+ N°   Question                                              Réponse A           Réponse B            Réponse C
+ 1    La probabilité p  A  est                            0.6                  0.45                0.25           (0.5 pt)
+ 2    La probabilité p  A  B  est                        0.6                  0.45                0.25           (0.5 pt)
+ 3    La probabilité pA  B  est                           0.75                 0.45                0.25           (0.5 pt)
+
+ 4    La probabilité p A  B  est                          0.75                 0.45                0.25           (0.5 pt)
+
+ 5    la probabilité p  B  est                            0.75                 0.55                0.1            (0.5 pt)
+ La durée de l’épreuve écrite varie de 20 à 60 minutes. On suppose que le temps X, exprimé en minutes,
+ mis par un candidat avant de remettre sa copie, lors de cette épreuve, est une variable aléatoire qui suit
+ une loi uniforme.
+                                                                      1                    1                   1
+ 6    La fonction de densité de X est                       f (x)               f (x)              f (x)         (0.25 pt)
+                                                                      20                   40                  60
+      La probabilité que ce candidat remet sa copie         1                    1                   3
+ 7                                                                                                                  (0.25 pt)
+      après 30 minutes est                                  6                    2                   4
+
+ Recopie sur la feuille de réponse et complète le tableau          Question n°       1      2 3 4 5 6 7
+ ci-contre en choisissant la bonne réponse.
+                                                                   Réponse
+ Aucune justification n’est demandée :
+Exercice 2 (5 points)
+ Le plan complexe est muni d’un repère orthonormé (O;u, v) . Pour tout nombre complexe z on
+ pose : P  z   z 3   3  2i  z 2   3  3i  z  4i .
+ 1.a) Déterminer les racines carrées du nombre complexe  8  6i                                                      0,5pt
+ b) Calculer P(i)                                                                                                     0,5pt
+ c) Déterminer les nombres a et b tels que pour tout nombre complexe z on a :
+                                                                                                                      0.5pt
+ P(z)  (z  i)(z 2  az  b) .
+ d) En déduire l’ensemble des solutions de l’équation P(z)  0 .                                                      0,5pt
+ 2) Soit A, B et C les points d’affixes respectives z A  i, z B  1  i et z C  2  2i .
+ a) Placer les points A, B et C .                                                                                     0,5pt
+ b) Déterminer la nature du triangle ABC.                                                                             0,25pt
+ c) Déterminer l’affixe du point D tel que ABDC soit un parallélogramme.                                              0.25pt
+                                                                                           z  2  2i
+ d) Déterminer et construire l’ensemble  des points M du plan d’affixe z tel que                      1.            0,5pt
+                                                                                            z 1 i
+ 3° Pour tout entier naturel n , on pose zn  (zC )n et vn  zn .
+                                   
+                               i
+ a) Vérifier que z C  2 2e 4 puis en déduire l’écriture trigonométrique de z n .                                     0,5pt
+ b) Montrer que (v n ) est une suite géométrique dont on donnera la raison et le premier terme.                       0,5pt
+ c) Calculer la limite de (v n ) et exprimer en fonction de n la somme Sn  v 0  v1  ...  vn                       0.5pt
+
+Baccalauréat 2018         Session Normale        Epreuve de Mathématiques                Série Sciences de la Nature           1/2
+Exercice 3 (5 points)
+ Soit f la fonction numérique définie sur                par f  x   2x  1  2xe x et soit  C sa courbe
+ représentative dans un repère orthonormé (O;i,j) .
+ 1° a) Montrer que lim f (x)   et que lim f (x)                                                            0,5pt
+                       x                      x 
+
+                             f (x)
+ b) Montrer que lim                  . Interpréter graphiquement.                             0,5pt
+                        x  x
+
+ c) Montrer que la droite D d’équation y  2x  1 est une asymptote oblique à  C et étudier la
+                                                                                                 0,5pt
+ position relative entre  C et D .
+ 2° a) Calculer la dérivée f  puis montrer que l’expression de la dérivée seconde de f est
+ f   x    2x  4 e x
+                                                                                                 0,5pt
+
+ b) Montrer que la courbe  C admet un point d’inflexion A dont on donnera les coordonnées.                     0,25pt
+ c) Etudier les variations de f  et en déduire que f  est positive.                                            0,5pt
+ d) Dresser le tableau de variation de f .                                                                       0,5pt
+ 3° a) Montrer que la courbe  C coupe  Ox  en un unique point d’abscisse  avec 0.2    0.3                0,5pt
+ b) Déterminer le point B de  C où la tangente T est parallèle à l’asymptote D . Donner une
+                                                                                               0,5pt
+ équation de T .
+ c) Tracer D , T et  C dans le repère (O;i,j) .                                              0,5pt
+ d) Discuter graphiquement, suivant les valeurs du paramètre réel m, le nombre de solutions de
+                                                                                               0,25pt
+ l’équation : m  1  2xe x  0
+Exercice 4 (7 points)
+                                                     2  x  x ln x
+ Soit f la fonction définie sur  0,   par : f  x           et soit (C) sa courbe
+                                                           x
+ représentative dans un repère orthonormé (O;i,j) .
+ 1° a) Montrer que lim f (x)   et interpréter graphiquement.                                                 (0,75pt)
+                       x 0
+                         2
+ b) Vérifier que f  x    1  ln x                                                                            (0,5pt)
+                         x
+                                 f (x)
+ c) Calculer lim f (x) et lim          . Interpréter graphiquement                                               (0,5pt)
+             x           x  x
+
+ 2° a) Calculer f '(x) et dresser le tableau de variation de f.                                                  (1pt)
+ b) Donner une équation de la tangente T à la courbe (C) au point d’abscisse x0  1                              (0,5pt)
+ 3° Soit g la restriction de f sur l’intervalle I   0;2
+ a) Montrer que g est une bijection de I sur un intervalle J que l’on précisera.                                 (0,5pt)
+ b) Dresser le tableau de variation de g 1 , où g 1 est la fonction réciproque de g .                          (0,5pt)
+ c) Calculer g 1  (3) (on pourra utiliser 2° b) )
+                                                                                                               (0,25pt)
+ d) Construire (C) , (C) et T dans le repère (O;i,j) , où (C) est la courbe de g 1 .                          (0,5pt)
+ 4°) On considère la fonction h définie sur  0,   par h  x   f (x)  x
+ a) Dresser le tableau de variation de h.                                                                        (0,5pt)
+ b) Montrer que l’équation h(x)  0 admet une unique solution  , telle que 2    3 . Vérifier
+                                                                                                                 (0.5pt)
+ que f (  )   et en déduire que x   on a f (x)  x  0
+                                       u0  3
+ 5°) Soit (u n ) la suite définie par 
+                                       un 1  f (un ), n 
+ a) Montrer par récurrence que un  , n  .                                                                    (0,25pt)
+ b) Montrer que (u n ) est décroissante (on pourra utiliser 4° b). En déduire que (u n ) est
+                                                                                                                 (0,25pt)
+ convergente.
+                                                                                   e
+ 6° a) Utiliser une intégration par parties pour calculer l’intégrale K   lnxdx .                              (0,25pt)
+                                                                                  1
+ b) En déduire l’aire du domaine délimité par la courbe (C) , l’axe des abscisses et les droites
+                                                                                                                 (0.25pt)
+ d’équations x  1 et x  e
+
+                                                              Fin
+Baccalauréat 2018             Session Normale     Epreuve de Mathématiques             Série Sciences de la Nature         2/2
+

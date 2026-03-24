@@ -1,0 +1,61 @@
+% BAC 2025 C - Exercice 3
+% Triangle ABC rectangle isocèle direct en A
+% I, J, K, L, M milieux
+
+\documentclass[border=5pt]{standalone}
+\usepackage{tikz}
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\begin{document}
+
+\begin{tikzpicture}[scale=1.5, >=stealth]
+
+% Triangle ABC rectangle isocèle direct en A
+% Place A at origin, AB along x-axis, AC along y-axis
+% Let's set: A = (0,0), B = (2,0), C = (0,2)
+
+\coordinate (A) at (0,0);
+\coordinate (B) at (2,0);
+\coordinate (C) at (0,2);
+
+% Draw triangle
+\draw[thick] (A) -- (B) -- (C) -- cycle;
+
+% Mark right angle at A
+\draw (0.3,0) -- (0.3,0.3) -- (0,0.3);
+
+% Labels
+\node[below] at (A) {$A$};
+\node[right] at (B) {$B$};
+\node[left] at (C) {$C$};
+
+% Midpoints
+\coordinate (I) at (1,1); % Milieu de BC
+\coordinate (J) at (0.5,0); % Milieu de AI
+\coordinate (K) at (1,0); % Milieu de AB
+\coordinate (L) at (1.5,0.5); % Milieu de BI
+\coordinate (M) at (0,1); % Milieu de AC
+
+% Draw midpoints
+\draw[fill=blue] (I) circle (1.5pt) node[above right] {$I$};
+\draw[fill=blue] (J) circle (1.5pt) node[below] {$J$};
+\draw[fill=blue] (K) circle (1.5pt) node[below] {$K$};
+\draw[fill=blue] (L) circle (1.5pt) node[below right] {$L$};
+\draw[fill=blue] (M) circle (1.5pt) node[left] {$M$};
+
+% Draw some segments for clarity
+\draw[dashed] (A) -- (I);
+\draw[dashed] (A) -- (K);
+\draw[dashed] (A) -- (M);
+
+% Rotation indication: A -> I -> B
+% The rotation center is at some point
+\draw[->, red, thick, domain=0:1.5, samples=50] 
+    plot ({(0.5+0.5*cos(\x r))},{(0.5*sin(\x r)}));
+
+\node[red] at (0.8,0.6) {$R$};
+
+\end{tikzpicture}
+
+\end{document}

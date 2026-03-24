@@ -1,0 +1,145 @@
+    République Islamique de Mauritanie                                                    Honneur – Fraternité – Justice
+    Ministère de l’Education Nationale
+    Direction des Examens et Concours          Baccalauréat                               Série : Sciences de la Nature
+                                                                                           Epreuve: Mathématiques
+           Service des Examens
+                                                   2015                                          Durée: 4 heures
+                                                                                                  Coefficient: 6
+                                                        Session Normale
+Exercice 1 (3 points)
+Une usine fabrique une série de montres. Au cours de la fabrication peuvent apparaître deux types de
+défauts, désignés par a et b. On a constaté que 6% des montres fabriquées présentent le défaut a (et
+peut-être aussi le défaut b), 5% le défaut b (et peut-être aussi le défaut a) et 2% présentaient
+simultanément les défauts a et b.
+Une montre est tirée au hasard dans la production. On définit les évènements suivants :
+   A : «la montre tirée présente le défaut a» ;
+   B : «la montre tirée présente le défaut b» ;
+   C : «la montre tirée ne présente aucun des deux défauts» ;
+   D : «la montre tirée présente un et un seul des deux défauts».
+Parmi les réponses proposées pour chaque question ci-après, une seule réponse est exacte.
+N° Question                                Réponse A       Réponse B      Réponse C
+1    La probabilité p(A) est :                  0.6           0.06               6             (0,5pt)
+2    La probabilité p(C) est :                 0.91           0.89             0.87            (0,5pt)
+3    La probabilité p(D) est :                 0.05           0.07             0.98            (0,5pt)
+4    La probabilité pB (A) est :                0.4           0.04              0.3            (0,5pt)
+                                                    3                 91                   3
+5    La probabilité pA (B) est :                                                                                 (0,5pt)
+                                                   96                 94                  94
+                                                    3                  4                   6
+6    La probabilité pD (A) est :                                                                                 (0,5pt)
+                                                    7                 7                   7
+Recopie sur la feuille de réponse et complète le tableau ci-contre en      Question n° 1 2 3 4 5 6
+choisissant la bonne réponse. Aucune justification n’est demandée :        Réponse
+Exercice 2 (5 points)
+1) Pour tout nombre complexe z on pose : P(z)  z3  10z2  33z  34 .
+a) Calculer P(2) .                                                                                   (0,5 pt)
+b) Déterminer les réels a et b tels que pour tout z on a: P(z)  (z  2)(z2  az  b) .               (0,5 pt)
+c) Résoudre, dans l’ensemble des nombres complexe, l’équation P(z)  0 . On note z 0 ; z1 et z 2 les
+solutions de  E  telles que Im(z 2 )  Im(z 0 )  Im(z1 ) .                                         (0,5 pt )
+2) Le plan complexe est rapporté à un repère orthonormé direct  O;u, v  .
+Soient les points A, B et C d’affixes respectives : z A  z1  3i, zB  z 2  i et z C  6  2i .
+a) Vérifier que z A  4  4i et z B  4 .                                                                            (0,5 pt )
+b) Ecrire les nombres z A et z B sous forme trigonométrique.                                                        (0,5 pt)
+c) Placer les points A, B et C dans le repère.                                                                       (0,5 pt)
+                                                     z4
+3) Pour tout nombre z  4  4i on pose : f (z)               .
+                                                   z  4  4i
+a) Vérifier que f (z C )  i et interpréter graphiquement.                                                           (0,5 pt)
+b) Déterminer et construire 1 l’ensemble des points M du plan d’affixe z tel que f(z)  1 .                        (0,5 pt)
+c) Déterminer et construire  2 l’ensemble des points M d’affixe z tel que f (z) soit imaginaire pur.               (0,5 pt)
+
+4) Pour tout entier naturel n, on pose z n   z A  et soit Mn le point d’affixe z n .
+                                                   n
+
+
+
+a) Déterminer l’ensemble des entiers n pour lesquels le point Mn appartient à l’axe des abscisses.                  (0,25 pt)
+b) Déterminer l’ensemble des entiers n pour lesquels on a OMn  2015 .                                              (0,25 pt)
+
+
+ Baccalauréat 2015 Session Normale           Epreuve de Mathématiques         Série Sciences de la Nature          1/2
+Exercice 3 (6 points)
+                                                             f(x)  3x  3  2xln x, x  0
+On considère la fonction f définie sur 0; par :                                      .
+                                                             f(0)  3
+Soit (C) sa courbe représentative dans un repère orthonormé (O;i,j) d’unité 1cm .
+1.a) Calculer lim f(x) . En déduire que f est continue à droite de x0  0 .                                       (0,5 pt)
+                x 0
+
+                   f (x)  f (0)
+b) Montrer que lim      
+                                   et interpréter graphiquement.                                               (0,5 pt)
+               x0       x
+c) Montrer que lim f(x)   .
+                   x
+                                                                                                                  (0,5 pt )
+2.a) Calculer f '(x) pour x  0;  et vérifier que f '( e )  0 .                                            (0,5 pt )
+ b) Dresser le tableau de variation de la fonction f.                                                             (0,5 pt)
+3.a) Déterminer une équation de la tangente (T) à (C) au point A d’abscisse x0  1 .                              (0,5 pt)
+b) Montrer que (C) coupe l’axe des abscisses (Ox) en un point B autre que A dont l’abscisse 
+est telle que : 2.3    2.4 .                                                                                   (0,5pt)
+c) Déduire de ce qui précède le signe de f(x) sur 0; .                                                      (0,5 pt)
+                                                     1 2
+                                             g(x)  x  x ln x ; x  0
+                                                          2
+4) On considère la fonction g définie par :          2
+                                             
+                                             g(0)  0
+a) Montrer que pour tout x  0 , f(x)  3x  3  g'(x) .                                                          (0,5 pt )
+b) En déduire une primitive F de f sur 0; .                                                                 (0,5 pt )
+
+                                                      Un   1 f (x)dx
+                                                             1
+5) Pour tout entier naturel n  1 on pose:
+                                                             n
+
+a) Montrer que la suite (U n ) est décroissante.                                                                   (0,5 pt)
+b) Exprimer U n en fonction de n .                                                                                 (0,25 pt)
+c) Calculer nlim  Un .                                                                                            (0,25 pt)
+              
+
+Exercice 4 (6 points)
+On considère la fonction f définie sur    par f(x)  (x  2)(1  ex ) .
+Soit (C) sa courbe représentative dans un repère orthonormé (O;i,j) .
+                                                      f(x)
+1.a) Justifier que xlim  f(x)   . Calculer xlim
+                                                
+                                                           et interpréter graphiquement.                          (0,5 pt)
+                                                    x
+b) Calculer xlim
+              
+                   f(x)  (x  2) et en donner une interprétation graphique.                                    (0,5 pt)
+
+2.a) Calculer la dérivée f '(x) puis la dérivée seconde f "(x) .                                                  (0,5 pt)
+b) En déduire que la courbe (C) possède un point d’inflexion A dont on précisera les coordonnées.                 (0,25 pt)
+c) Dresser le tableau de variation de la dérivée f ' . En déduire le signe de f '(x) pour tout réel x.            (0,5 pt)
+3.a) A l’aide des questions précédentes, dresser le tableau de variation de f .                                   (0,5 pt)
+b) Montrer que f réalise une bijection de        sur un intervalle J que l’on déterminera. On désigne
+par (C') la courbe représentative de la réciproque f 1 dans le repère (O;i,j) .                                  (0,5 pt)
+                                                                                                                  (0,5 pt)
+4.a) Déterminer les points d’intersection de la courbe (C) avec les axes de coordonnées.
+b) Déterminer le point B de (C) où la tangente T à la courbe (C) est parallèle à l’asymptote (D).
+                                                                                                                  (0,5 pt)
+Donner une équation de T.
+                                                                                                                  (0,5 pt)
+c) Tracer (C) , T , (D) et (C') .
+                                                                                                                  (0,5 pt)
+d) Discuter graphiquement le nombre de solutions de l’équation x  2  (2  m)e x .
+                                                                                                                  (0,25 pt)
+5.a) Calculer l’intégrale I  0 (x  2  2ex )dx .
+                                  2
+
+
+
+                                                                                                                  (0,25 pt)
+b) En utilisant une intégration par parties, calculer J  0 xexdx .
+                                                                   2
+
+
+
+c) Calculer l’aire du domaine plan limité par la courbe (C), l’axe des abscisses, et les droites
+                                                                                                                  (0,25 pt)
+d’équations x  0 et x  2 .
+                                                        Fin.
+ Baccalauréat 2015 Session Normale            Epreuve de Mathématiques             Série Sciences de la Nature   2/2
+

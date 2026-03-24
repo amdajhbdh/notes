@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"title","type":"text","text":"# 🎓 BAC Mauritanie - Collection Complète\n\n## Années disponibles: 2012-2025\n\n### Maths-series D & C\n\nToutes les épreuves avec:\n- 📝 Textes (.txt)\n- 📊 Graphiques (.png)\n- 📋 Notes (.md)\n- 🎨 Canevas (.canvas)","x":40,"y":240,"width":1021,"height":401},
+		{"id":"2025","type":"text","text":"## 2025\n\n**Série D** (Sciences Naturelles)\n- Ex1: Probabilités (3pts)\n- Ex2: Complexes (5pts) [[BAC-2025-D-Ex2.png]]\n- Ex3: Analyse (6pts) [[BAC-2025-D-Ex3.png]]\n- Ex4: Logarithme (6pts)\n\n**Série C** (Mathématiques)\n- Ex1: Arithmétique (3pts)\n- Ex2: Complexes (4pts)\n- [x] Ex3: Géométrie (4pts)\n- Ex4: Analyse (4pts)","x":40,"y":687,"width":715,"height":491},
+		{"id":"2020","type":"text","text":"## 2020\n\n**Série D**\n- Ex1: Suites (3pts)\n- Ex2: Complexes (6pts) [[BAC-2020-D-Ex2.png]]\n- Ex3: Analyse\n- Ex4: Probabilités","x":40,"y":1223,"width":715,"height":357},
+		{"id":"img1","type":"file","file":"Graphiques/BAC-2025-D-Ex3.png","x":168,"y":1624,"width":510,"height":336},
+		{"id":"2024","type":"text","text":"## 2024\n\n**Série D**\n- Ex1: Probabilités (3pts)\n- Ex2: Équations Diff (2pts)\n- Ex3: Analyse (5pts) [[BAC-2024-D-Ex3.png]]\n- Ex4: Complexes (5pts) [[BAC-2024-D-Ex4.png]]","x":805,"y":687,"width":663,"height":401},
+		{"id":"2019","type":"text","text":"## 2019\n\n**Série D**\n- Ex1: Probabilités\n- Ex2: Complexes\n- Ex3: Analyse\n- Ex4: Suites\n\n[[BAC-2019-D.png]]","x":805,"y":1223,"width":663,"height":313},
+		{"id":"img2","type":"file","file":"Graphiques/BAC-2024-D-Ex3.png","x":730,"y":1624,"width":510,"height":336},
+		{"id":"img3","type":"file","file":"Graphiques/BAC-2022-D-Ex4.png","x":1290,"y":1624,"width":510,"height":336},
+		{"id":"2022","type":"text","text":"## 2022\n\n**Série D**\n- Ex1: Probabilités (3pts)\n- Ex2: Complexes (4pts)\n- Ex3: Suites (3pts)\n- Ex4: Équations Diff (4pts) [[BAC-2022-D-Ex4.png]]","x":1520,"y":687,"width":663,"height":357},
+		{"id":"2018","type":"text","text":"## 2018\n\n**Série D**\n- Ex1: Suites\n- Ex2: Complexes (rotations) [[BAC-2018-D.png]]\n- Ex3: Analyse\n- Ex4: Géométrie","x":1520,"y":1223,"width":663,"height":313},
+		{"id":"2021","type":"text","text":"## 2021\n\n**Série D**\n- Ex1: Suites (3pts)\n- Ex2: Complexes (5pts) [[BAC-2021-D-Ex2.png]]\n- Ex3: Analyse (varies)\n- Ex4: (varies)","x":2235,"y":687,"width":663,"height":357},
+		{"id":"structure","type":"text","text":"## 📁 Structure des fichiers\n\n```\nBAC-Extraits/\n├── *.txt          # Textes originaux\n├── *.md           # Notes structurées\n├── *.canvas       # Canevas Obsidian\n├── Graphiques/\n│   └── *.png      # Images générées\n└── TikZ/\n    └── *.tex      # Codes LaTeX\n```\n\n[[BAC-MASTER-INDEX]] pour index complet","x":2235,"y":1133,"width":765,"height":447},
+		{"id":"img4","type":"file","file":"Graphiques/BAC-2021-D-Ex2.png","x":1851,"y":1624,"width":510,"height":336}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"title","fromSide":"bottom","toNode":"2025","toSide":"top"},
+		{"id":"e2","fromNode":"2025","fromSide":"right","toNode":"2024","toSide":"left"},
+		{"id":"e3","fromNode":"2024","fromSide":"right","toNode":"2022","toSide":"left"},
+		{"id":"e4","fromNode":"2022","fromSide":"right","toNode":"2021","toSide":"left"},
+		{"id":"e5","fromNode":"2021","fromSide":"bottom","toNode":"2020","toSide":"top"},
+		{"id":"e6","fromNode":"2020","fromSide":"right","toNode":"2019","toSide":"left"},
+		{"id":"e7","fromNode":"2019","fromSide":"right","toNode":"2018","toSide":"left"}
+	]
+}

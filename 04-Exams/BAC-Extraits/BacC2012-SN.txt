@@ -1,0 +1,193 @@
+       République Islamique de Mauritanie                                           Honneur – Fraternité – Justice
+  Mi nistère d’Etat à l’Education Nationale, à
+ l’Enseignement Supérieur et à la Recherche             Baccalauréat                     Séries : C & TMGM
+                                                                                       Epreuve: Mathémati ques
+                  Scientifique
+Direction des Examens et de l’Evaluation                    2012                           Durée: 4 heures
+                                                                                          Coefficients: 9 & 6
+           Service des Examens                           Session Normale
+
+
+Exercice 1 (3 points)
+Soit la fonction f définie sur            par f(x)  ex ln(ex  1) . Soit (C) la courbe représentative
+de f dans un repère orthonormé (O;i, j) .
+1. Justifier et interpréter graphiquement les limites suivantes :
+                                                               f(x)
+                         lim f (x)  0 , lim f (x)   et lim        .                                           (0,75 pt)
+                        x             x              x x
+
+2.a) Dresser le tableau de variation de f .                                                                          (0,75 pt)
+  b) Montrer que f réalise une bijection de sur un intervalle J que l’on déterminera.                                (0,25 pt)
+  c) Tracer la courbe (C) .                                                                                          (0,25 pt)
+
+                  f(x)dx . On se propose de calculer I par deux méthodes.
+                    1
+3. On pose I 
+                    0
+ Méthode a : Déterminer trois réels a, b et c tels que pour tout réel x :
+                                 ce x
+      f '(x)  f(x)  aex  b           . En déduire I .                                                            (0,5 pt)
+                                1  e x
+ Méthode b : En posant t  ex  1 , utiliser une intégration par parties pour calculer I .                           (0,5 pt)
+
+Exercice 2 (3 points)
+L’espace est rapporté à un repère orthonormal (O;i, j,k) . On considère les points A(2;1;3)
+, B(3;2;1) , C(4;1;4) , D(5;3; 2) et E(6; 2; 4) .
+1.a) Calculer AB , AC , DE . Vérifier que le vecteur DE est normal au plan (ABC)                                     (1 pt)
+ b) Déterminer une équation cartésienne du plan (ABC) .                                                              (0, 25 pt)
+c) Déterminer une représentation paramétrique de la droite (DE) .                                                    (0, 5 pt)
+d) Déterminer les coordonnées du point F projeté orthogonal de D sur le plan (ABC) .
+Déterminer un réel k tel que EF  kDF                                                                                (0,5 pt)
+                                                                            1
+2.a) Calculer le volume V du tétraèdre ABCD . (On rappelle que V  Base  Hauteur ).                                 (0,25 pt)
+                                                                            3
+b) Déterminer les deux ensembles 1 et  2 des points M de l’espace définis par :
+                                   M 1  11MD2  ME2  30                                                         (0,25 pt)
+
+
+                                    M  2  MD2  ME2  36 .                                                       (0,25 pt)
+
+Exercice 3 (4 points)
+Le plan complexe est muni d’un repère orthonormé (O;u, v) .
+Dans     , on considère l’équation E : z2  (6cos )z  4  5cos2   0 ,    0, 2 .
+1.a) Résoudre, dans           , l’équation E . On note z1 , z2 les solutions de E avec
+Im(z1 )  0 si    0,                                                                                            (1 pt)
+
+
+
+Baccalauréat 2012       Session Normale       Epreuve de Mathématiques    Séries C & TMGM         1/3
+ b) Préciser les valeurs de  et les solutions de E dans les cas suivants :
+        - L’équation E admet des solutions doubles. Dans ce cas on note A1 et A2 les
+points d’affixes respectives z1 , z2 avec Re(z1 )  0 .                                              (0,25 pt)
+       - L’équation E admet deux solutions imaginaires pures. Dans ce cas on note B1
+et B2 les points d’affixes respectives z1 , z2 avec Im(z1 )  0 .
+                                                                                                     (0,25 pt)
+2. Dans le cas général on note M1 et M2 les points d’affixes respectives z1 , z2 .
+  a) Déterminer le lieu géométrique  des points M1 et M2 lorsque  décrit    0, 2 .            (1 pt)
+  b) Préciser la nature et les éléments caractéristiques de l’ensemble  et le construire.           (0,5 pt)
+3. On définit l’application f qui à tout point M d’affixe z associe le point M' d’affixe
+                               
+z' , barycentre du système  A1 , 4 ;  B1 , 2  ;  M, 3  .
+ a) Ecrire z' en fonction de z puis reconnaitre f et donner ses éléments caractéristiques.           (0, 5 pt)
+ b) Donner une équation cartésienne de  '  f    . Donner les éléments caractéristiques          (0, 5 pt)
+de  ' dans (O;u, v) .
+
+Exercice 4 (4 points)
+On se propose dans cet exercice de calculer la limite de la suite numérique de terme
+                n
+                  n!
+général Un          , n  2.
+                  n
+On considère la fonction f définie sur 0,  par f(x)  x  lnx .
+1. Dresser le tableau de variation de f .                                                            (1 pt)
+                                         f(x)dx .
+                                         1
+2. Soit     *
+                  ; on pose I( ) 
+                                         
+
+
+                                                               ln xdx .
+                                                                1
+ a) En utilisant une intégration par parties, calculer
+                                                                                                    (0,5 pt)
+ b) En déduire le calcul de I( ) puis lim I( ) .
+                                               0                                                  (0,5 pt)
+                                                                              n
+
+                                                                             
+                                                                           1       k
+3. Soit n , n  2 ; k            tel que 1  k  n on pose : Sn               f( ) .
+                                                                           n k 1 n
+                                        k 1
+                    1 k 1                         1 k
+ a) Montrer que :
+                    n
+                       f(
+                            n       
+                               )  k n f (t)dt  f ( ) ; pour 1  k  n  1 .
+                                     n
+                                                   n n                                               (0,25 pt)
+
+                              1 1           1                    1        1 1 1
+ b) En déduire que : Sn  f( )  I( )  Sn puis que : I( )  S n  I( )  f( ) .
+                              n n          n                     n        n n n                      (0,5 pt)
+                                                  3
+ c) En utilisant 3.b) montrer que lim Sn  .                                                         (0,25 pt)
+                                       n       2
+                      n
+                             k         n! 
+                                                       n
+                                                              n(n  1)
+4.a) Montrer que :   
+                     k 1
+                          ln n
+                              
+                                   ln   nn  et que
+                                         
+                                                         
+                                                      k 1
+                                                           k
+                                                                 2
+                                                                       .                             (0,5 pt)
+
+                              n2  n
+ b) En déduire que : Sn                ln Un .                                                     (0,25 pt)
+                               2n2
+ c) Déduire de ce qui précède lim Un .                                                               (0,25 pt)
+                                  n 
+
+
+
+
+                                                                                                     (0,5 pt)
+Baccalauréat 2012     Session Normale          Epreuve de Mathématiques      Séries C & TMGM   2/3
+
+
+
+                                                                                                     (1,25 pt)
+Exercice 5 (6 points)
+Dans le plan orienté on considère un triangle équilatéral direct ABC de coté a , (a  0) , de
+centre G. Soient I , J et K les milieux respectifs des segments  BC ,  CA  et  AB  . Le
+point E est le symétrique de K par rapport à I.
+1. Faire une figure illustrant les données précédentes que l’on complétera au fur et à
+mesure.                                                                                           (0,5 pt)
+2.a) Montrer qu’il existe une unique rotation r1 qui transforme B en I et J en A .                (0,5 pt)
+b) Déterminer les éléments caractéristiques de r1 .                                               (0,5 pt)
+ 3. Soit t la translation de vecteur AJ . On pose : r2  t r1 et f  sJC sJE sKE .
+ a) Déterminer r2 (J) et caractériser r2 .                                                        (0,5 pt)
+  b) Déterminer deux droites  1 et  2 telles que r1  sKC s 1 et r2  sJC s  2 . En déduire
+que f  t AJ sKC                                                                                  (0,5 pt)
+c) Déterminer l’image du triangle BIK par f . Justifier que f est une symétrie glissante et
+donner sa forme réduite.                                                                          (0,5 pt)
+4.a) Montrer qu’il existe une unique similitude directe s qui transforme E en I et C en G .       (0,5 pt)
+  b) Déterminer un angle et le rapport de s .                                                     (0,5 pt)
+  c) Montrer que le centre de s est situé sur les cercles circonscrits aux triangles BCG et
+ BEI . Préciser ce centre.                                                                        (0, 25 pt)
+5. Dans cette question, M est un point variable du cercle  de diamètre  BC .
+ On note s(M)  M' .
+  a) Déterminer le lieu géométrique  ' du point M' lorsque M décrit  .                          (0, 25 pt)
+   b) Montrer que pour tout point M de  distinct de B , la droite (MM') passe par le
+point K .                                                                                         (0, 25 pt)
+   c) En déduire un programme de construction de M' à partir d’une position de M sur  .
+Placer M et M' en supposant que les points B , M et C se succèdent dans le sens
+trigonométrique sur  .                                                                           (0, 25 pt)
+6) Pour tout entier naturel n  2 , on pose : s2  s s et sn  s sn1 . On définit une suite de
+points (Mn ) par M0  E ; M1  s(M0 ) et Mn  sn (M0 ) .
+    a) Sur une nouvelle figure, placer les points B,M0 ,M1 ,M2 ,M3 (Pour la construction,
+    on pourra prendre la droite (BE) verticalement avec BE  6cm ).                               (0, 25 pt)
+    b) Calculer en fonction de n et a la somme : Sn  M0M1  M1M2   MnMn 1 .                   (0, 25 pt)
+   c) Calculer la limite lim Sn et l’interpréter.                                                 (0, 25 pt)
+                            n 
+
+   d) Justifier que :      M1960  (BM4 ) et     M2012  (BG) .                                   (0, 25 pt)
+
+
+
+                                                  Fin.
+
+
+
+
+Baccalauréat 2012       Session Normale   Epreuve de Mathématiques   Séries C & TMGM    3/3
+

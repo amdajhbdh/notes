@@ -1,0 +1,154 @@
+   Ré publique Is lamique de M auritanie                                                                    Ho n n eu r – Frat ern ité – Ju s tice
+    M inis tè re de l’Educatio n Natio nale                                                                     S éries : C & TMGM
+ Directio n des Ex ame ns e t de l’Ev aluatio n             Baccalauréat                                      Epre u ve : Ma thé mati ques
+         Se rvice des Examens                                                                                      Durée: 4 heures
+                                                                2016                                             Coe fficients : 9 & 6
+                                                              Sess ion Normale
+Exe rci ce 1 (3 poi nts )
+On considère l'équation (E) : 5x  3y  17 , où x et y sont des entiers relatifs.
+1.a) Justifier que l’équation (E) admet des solutions entières et vérifier que le couple (4,1) est une
+solution particulière de (E).                                                                                                                        (0,75 pt)
+b) Déterminer l'ensemble des solutions de (E).                                                                                                       (0,75 pt)
+2) Soit (x,y) une solution de (E).
+a) Montrer que si x est un diviseur de y, alors x est un diviseur de 17.                                                                             (0,75 pt)
+                                                                                                  1  5m
+b) Soit m un entier relatif. Trouver les valeurs de m telles que le quotient                             soit un entier relatif.                     (0,75 pt)
+                                                                                                  4  3m
+Exe rcice 2 (4 po ints )
+Le plan complexe est muni d’un repère orthonormé (O;u, v) . Pour tout nombre complexe z on
+pose : P  z   z 3   4  8i  z 2   14  24i  z  32  4i .
+1.a) Calculer P(2i) et déterminer deux nombres a et b tels que pour tout nombre complexe z
+on a : P(z)  (z  2i)(z 2  az  b) .                                                                                                               (1 pt)
+b) En déduire l’ensemble des solutions de l’équation P(z)  0 . On note z1 , z 2 et z 3 ses solutions
+avec z1  z2  z3 .                                                                                                                                  (1 pt)
+c) Soit A,Bet C les points d’affixes respectives z1 , z 2 et z 3 . Déterminer l’affixe du point G
+barycentre du système  O,5 ;  A, 7  ;  C,4 . Placer A,B ,C et G sur la figure.                                                              (0,75 pt)
+2) Pour tout nombre complexe z on pose :           Q(z)  z 2  (4  6i)z  2  16i .
+On note  l’ensemble des points M d’affixe z tels que Q(z) soit imaginaire pur (ou nul).
+a) En posant z  x  iy , donner une équation cartésienne de  et montrer que  est une conique
+de centre G .                                                                                                                                        (0,75 pt)
+b) Préciser les sommets et l’excentricité de  puis la construire dans le repère précédent.                                                          (0, 5 pt)
+
+Exe rcice 3 (4 po ints )
+                                                                                  1
+
+                                                           par : f(x)  xe           si x 0
+                                                                                   x
+1) On considère la fonction g définie sur
+                                                                  
+                                                                  f(0)  0
+Soit (C) la courbe représentative de f dans un repère orthonormé (O;i, j) .
+a) Montrer que lim f (x)  0 et que lim f(x)   . Interpréter.                                                                                     (1 pt)
+                     x 0                     x 0
+
+                                                                          f (x)
+b) Calculer et interpréter les limites suivantes : xlim
+                                                     0               
+                                                                            x
+                                                                                , xlim
+                                                                                    
+                                                                                         f(x)  (x  1) et xlim
+                                                                                                               
+                                                                                                                    f(x)  (x  1) .               (0,75 pt)
+c) Dresser le tableau de variation de f.                                                                                                             (0,5 pt)
+d) Construire, dans le repère précédent la courbe (C) .                                                                                              (0,25 pt)
+                                                                                  n
+                                                                     fn (x)  xe x            si x  0 .
+2) On définit pour tout entie r n                 la fonction fn par 
+                                                                      fn (0)  0
+Soit (Cn ) la courbe représentative de fn dans le repère précédent (O;i, j) .
+a) Montrer que (Cn ) est l’image de (C) par une homothétie h n de centre O dont on précisera le
+rapport.                                                                                                                                             (0,5 pt)
+b) Montrer que tous les points Mn de (Cn ) en lesquels la tangente est horizontale, sont situés sur
+une mê me droite  dont on donne ra une équation.                                                                                                    (0,5 pt)
+c) Sans étudie r f 2 , déduire de ce qui précède le tableau de variation de f 2 et la construction de sa
+courbe (C2 ) dans le même repère. Justifier.                                                                                                         (0,5 pt)
+
+
+ Baccalauréat 2016           Session Normale           Epreuve de Mathémati ques                  Séries C & TMGM                 1/2
+Exe rcice 4 (4 po ints )
+                                                                                 x
+Soit la fonction f définie sur 1,  par f (x)  ln(x  1)                    . Soit (C) la courbe représentative
+                                                                                x1
+de f dans un repère orthonormé (O;i, j) .
+                                                                                              f (x)
+1. a) Montrer que lim f(x)   et lim f(x)   puis calculer xlim
+                                                                 
+                                                                                                    . Interpréter.                       (0,75 pt)
+                           x 1               x                                            x
+b) Dresser le tableau de variation de f .                                                                                                (0,75 pt)
+c) Montrer que la courbe (C) admet un point d’inflexion dont on donnera les coordonnées .                                                (0,25 pt)
+d) Tracer la courbe (C) .                                                                                                                (0,25 pt)
+2. a) Calculer 0 ln(1  t)dt et déterminer la primitive F de f sur 1,  qui s’annule en 0 (On
+                   x
+
+
+
+                                             1
+pourra écrire f (x)  ln(x  1)  1            ).                                                                                       (0,25 pt)
+                                            x1
+b) Pour tout entie r naturel n  1 , on note A n l’aire du domaine plan délimité par la courbe (C) ,
+                                                                                                 1
+l’axe des abscisses et les droites d’équations respectives x  0 et x                             . Donner l’expression de
+                                                                                                 n
+A n en fonction de n .                                                                                                                   (0,25 pt)
+3) Dans la suite de l’exercice on prendra x réel tel que x  0;1 et n un entier naturel non nul.
+                                                   1    n 1
+                                                                           (1)n 1 xn 1
+a) Montrer que pour tout n:                             (1)k 1 xk 1                 .                                              (0, 5 pt)
+                                                 1  x k 1                   1 x
+                                       n 1                               n 1
+                                                      xk              x t
+b) En déduire que : ln(1  x)   (1)k 1                (1)n 1 
+                                                                     0 1 t
+                                                                               dt .                                                      (0,25 pt)
+                                       k 1           k
+                                                                     n 1
+                                                                                  1  k k (1)n  2 xn  2             x t
+                                                                                                                           n 1
+c) En utilisant a) et b) ; montrer que :                    f(x)   (1)k 1          x                   (1)n1           dt .
+                                                                     k 1           k        x1                      0 1 t
+                                                                                                                                         (0,25 pt)
+                        tn 1      xn 2
+d) Montrer que : 0  0
+                               x
+                              dt        .
+                        1 t       n2                                                                                                   (0,25 pt)
+                                     n 1
+                                                     1 k k
+e) En déduire que : f (x)  nlim
+                              
+                                  (1)k 1
+                                     k 1             k
+                                                         x .
+                                                                                                                                         (0,25 pt)
+Exe rcice 5 (5 po ints )
+Dans le plan orienté, on considère le carré direct ABCD de centre O et de coté a ( a  0 ).
+I , J , K et L les milieux respectifs des cotés AB , BC , CD et DA  . Les points E et F tels
+que LDEF soit un carré direct.
+1.a) Faire une figure illustrant les données précédentes que l’on complétera au fur et à mesure.                                         (0, 5 pt)
+  b) Montrer qu’il existe une unique rotation r qui transforme A en D et L en E .                                                        (0, 5 pt)
+  c) Détermine r un angle et le centre de cette rotation.                                                                                (0,5 pt)
+2) a) Montrer qu’il existe une unique similitude directe s1 qui transforme J en O et C en D .                                            (0,5 pt)
+  b) Déterminer l’angle et le rapport de s1 .                                                                                            (0,5 pt)
+ c) Détermine r s1 (B) que peut-on en déduire à propos du centre de s1 .                                                                 (0,25 pt)
+ d) Déterminer s1 (O) puis construire l’image du carré ABCD par s1 . Justifier la construction.                                          (0,25 pt)
+                                                            1              
+3) Soit s 2 la similitude directe de centre A , de rapport     et d’angle .Déterminer s2 (O) et s 2 (C)                                  (0,25 pt)
+                                                             2             4
+4) On pose f  s2      s1 et pour tout point M du plan, on note M1  s1 (M) , M2  s2 (M) .
+                         1
+
+
+a) Déterminer f(D) et caractériser f .                                                                                                   (0,5 pt)
+b) Montrer que si M1  M2 alors la droite  M1M2  passe par un point fixe que l’on déterminera.                                         (0,5 pt)
+
+c) Déterminer l’ensemble 1 des point M du plan pour les quels les points M , M1 et M2 sont
+alignés. (On pourra utiliser l’angle (MA,MB) ).                                                                                          (0,25 pt)
+5.a) Vérifie r que O est le barycentre du système (A,1);(D, 3);(E, 2) .                                                               (0,25 pt)
+ b) Déterminer les ensembles  2 et  3 des points M du plan tels que :
+M 2  2MA2  6MD2  4ME2  a2 ,
+M  3  (MA  MK  ME)(2ML  2MK  MB)  0 .     Que peut-on remarque r ?                                                               (0, 25 pt)
+                                                                Fin.
+ Baccalauréat 2016           Session Normale           Epreuve de Mathémati ques                   Séries C & TMGM                 2/2
+

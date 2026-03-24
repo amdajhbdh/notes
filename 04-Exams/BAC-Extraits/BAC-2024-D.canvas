@@ -1,0 +1,50 @@
+{
+  "nodes": [
+    {
+      "id": "1",
+      "type": "text",
+      "text": "# BAC 2024 D - Visual Review\n\n## Exercice 1: Probabilités (3 pts)\n- Grippe: 8% atteint, 10% symptomatiques\n- Probabilités conditionnelles\n- Questions à choix multiples\n\n## Exercice 2: Équations Différentielles (2 pts)\n- Modèle: Q'(t) + 0.4Q(t) = 0\n- Solution: Q(t) = 2e^{-0.4t}\n- Temps d'inefficacité",
+      "x": 0,
+      "y": 0,
+      "width": 280,
+      "height": 180
+    },
+    {
+      "id": "2",
+      "type": "text",
+      "text": "## Exercice 3: Analyse (5 pts)\n- Fonction: f(x) = x - 3 + ½e^x\n- Asymptote oblique D: y = x - 3\n- Variations (f'(x) = 1 + ½e^x)\n- Équation f(x) = 0 → α ≈ 1.25",
+      "x": 300,
+      "y": 0,
+      "width": 280,
+      "height": 180
+    },
+    {
+      "id": "3",
+      "type": "text",
+      "text": "## Exercice 4: Nombres Complexes (5 pts)\n- Polynôme P(z) = z³ - (5+4i)z² + (1+16i)z + 3-12i\n- Factorisation: P(z) = (z-1)(z²+az+b)\n- Points: A(3i), B(1), C(4+i)\n- I(milieu AC): z_I = 2√2e^{iπ/4}",
+      "x": 600,
+      "y": 0,
+      "width": 280,
+      "height": 180
+    },
+    {
+      "id": "4",
+      "type": "file",
+      "file": "BAC-2024-D-Ex3.png",
+      "x": 50,
+      "y": 220,
+      "width": 400,
+      "height": 280
+    },
+    {
+      "id": "5",
+      "type": "file",
+      "file": "BAC-2024-D-Ex4.png",
+      "x": 500,
+      "y": 220,
+      "width": 350,
+      "height": 280
+    }
+  ],
+  "edges": []
+}
