@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Solubility-Equilibria",
+      "path": "01-Concepts/Chemistry/Solutions/Solubility-Equilibria.canvas"
+    },
+    {
+      "basename": "Solubility-Equilibria",
+      "path": "01-Concepts/Chemistry/Solutions/Solubility-Equilibria.md"
+    },
+    {
+      "basename": "titration-curve",
+      "path": "01-Concepts/Chemistry/Solutions/assets/titration-curve.png"
+    },
+    {
+      "basename": "2026-03-24",
+      "path": "2026-03-24.md"
+    },
+    {
+      "basename": "Symetrie-Glissee-Profondeur",
+      "path": "01-Concepts/Math/Transformations-Plan/Symetrie-Glissee-Profondeur.md"
+    },
+    {
+      "basename": "Ecritures-Complexes-CheatSheet",
+      "path": "01-Concepts/Math/Transformations-Plan/Ecritures-Complexes-CheatSheet.md"
+    },
+    {
+      "basename": "Transformations-Master",
+      "path": "01-Concepts/Math/Transformations-Plan/Transformations-Master.canvas"
+    },
+    {
       "basename": "Leçon-Dipole-RL",
       "path": "01-Concepts/Physics/Dipole-RL/Leçon-Dipole-RL.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "DampedOscillation_ManimCE_v0.20.1",
       "path": "01-Concepts/Physics/Dynamics/assets/manim/media/images/damped_oscillation/DampedOscillation_ManimCE_v0.20.1.png"
-    },
-    {
-      "basename": "EnergyInterchange_ManimCE_v0.20.1",
-      "path": "01-Concepts/Physics/Dynamics/assets/manim/media/images/energy_interchange/EnergyInterchange_ManimCE_v0.20.1.png"
-    },
-    {
-      "basename": "SHMOscillation_ManimCE_v0.20.1",
-      "path": "01-Concepts/Physics/Dynamics/assets/manim/media/images/shm_oscillation/SHMOscillation_ManimCE_v0.20.1.png"
-    },
-    {
-      "basename": "SpringEnergy_ManimCE_v0.20.1",
-      "path": "01-Concepts/Physics/Dynamics/assets/manim/media/images/spring_energy/SpringEnergy_ManimCE_v0.20.1.png"
-    },
-    {
-      "basename": "BAC-2009-Normal",
-      "path": "04-Exams/BAC-2002-2012/BAC-2009-Normal.md"
-    },
-    {
-      "basename": "BAC-2004-Normal",
-      "path": "04-Exams/BAC-2002-2012/BAC-2004-Normal.md"
-    },
-    {
-      "basename": "BAC-2002-Normal",
-      "path": "04-Exams/BAC-2002-2012/BAC-2002-Normal.md"
-    },
-    {
-      "basename": "Dynamics - Circular Motion",
-      "path": "01-Concepts/Physics/Dynamics/Dynamics - Circular Motion.md"
     }
   ],
   "omittedPaths": [],

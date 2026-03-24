@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"root","x":600,"y":-400,"width":1200,"height":200,"type":"text","text":"# 🗺️ Carte Mentale : Transformations & Similitudes\nCette carte structure les isométries (k=1) et les similitudes (k≠1) pour la Terminale C.","color":"6"},
+		{"id":"isometries","x":0,"y":-100,"width":1100,"height":100,"type":"text","text":"## 🟦 ISOMÉTRIES (k = 1)\nConservation absolue des distances et des formes.","color":"1"},
+		{"id":"deplacements","x":-300,"y":100,"width":500,"height":400,"type":"text","text":"### ↪️ DÉPLACEMENTS\nConserve l'orientation (angles orientés).\n\n1. **Translation** : Vecteur $\\vec{u}$. Aucun point fixe (ou id).\n2. **Rotation** : Centre $\\Omega$, Angle $\\theta$. Un seul point fixe.\n\n**Propriété :** La composée de deux déplacements est un déplacement.","color":"1"},
+		{"id":"antideplacements","x":300,"y":100,"width":500,"height":400,"type":"text","text":"### ↩️ ANTIDÉPLACEMENTS\nInverse l'orientation.\n\n1. **Réflexion** : Axe $\\Delta$. Infinité de points fixes (l'axe).\n2. **Symétrie Glissée** : $t_{\\vec{u}} \\circ S_{\\Delta}$. Aucun point fixe.\n\n**Propriété :** La composée de deux antidéplacements est un déplacement.","color":"1"},
+		{"id":"similitudes","x":1200,"y":-100,"width":1100,"height":100,"type":"text","text":"## 🟨 SIMILITUDES (k ≠ 1)\nMultiplication des distances par k. Conservation des angles et rapports.","color":"3"},
+		{"id":"sim-directe","x":1200,"y":100,"width":500,"height":400,"type":"text","text":"### ↗️ SIMILITUDE DIRECTE PROPRE\nCentre $\\Omega$, Rapport $k$, Angle $\\theta$.\n\n**Décomposition canonique :**\n$f = h(\\Omega, k) \\circ r(\\Omega, \\theta) = r \\circ h$\n\n**Écriture complexe :**\n$z' = az + b$ avec $a \\in \\mathbb{C}^* \\setminus \\{1\\}$","color":"3"},
+		{"id":"sim-indirecte","x":1800,"y":100,"width":500,"height":400,"type":"text","text":"### ↘️ SIMILITUDE INDIRECTE\n*(Souvent hors programme ou traité en approfondissement)*\n\nInverse l'orientation. Toujours composée d'une similitude directe et d'une réflexion.\n\n**Écriture complexe :**\n$z' = a\\bar{z} + b$","color":"3"},
+		{"id":"links-theory","x":600,"y":600,"width":1200,"height":300,"type":"text","text":"## 📚 RÉFÉRENCES THÉORIQUES\n- [[Synthese-Transformations]] : La fiche de synthèse complète.\n- [[Symetrie-Glissee-Profondeur]] : Guide détaillé sur l'antidéplacement complexe.\n- [[Ecritures-Complexes-CheatSheet]] : Toutes les formules $z' = az+b$ en un coup d'œil.","color":"6"},
+		{"id":"ex-section","x":600,"y":1000,"width":1200,"height":400,"type":"text","text":"## ✍️ EXERCICES CLÉS (Transcription Prof. Sidi MAJOR)\n\n- **Exercice 6** : Rotations successives dans un parallélogramme (Composition).\n- **Exercice 9** : Isométrie du triangle isocèle (Détermination du centre).\n- **Exercice 12** : Carré direct et similitude directe (Approche complexe).\n\n> [!action] Défi\n> Résoudre l'exercice 12 Partie B en utilisant uniquement les affixes.","color":"2"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"root","fromSide":"bottom","toNode":"isometries","toSide":"top"},
+		{"id":"e2","fromNode":"root","fromSide":"bottom","toNode":"similitudes","toSide":"top"},
+		{"id":"e3","fromNode":"isometries","fromSide":"bottom","toNode":"deplacements","toSide":"top"},
+		{"id":"e4","fromNode":"isometries","fromSide":"bottom","toNode":"antideplacements","toSide":"top"},
+		{"id":"e5","fromNode":"similitudes","fromSide":"bottom","toNode":"sim-directe","toSide":"top"},
+		{"id":"e6","fromNode":"similitudes","fromSide":"bottom","toNode":"sim-indirecte","toSide":"top"}
+	]
+}
