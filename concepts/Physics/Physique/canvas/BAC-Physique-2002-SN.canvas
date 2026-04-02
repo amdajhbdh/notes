@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "id": "c1a2b3d4e5f6001",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 350,
+      "height": 100,
+      "color": "1",
+      "text": "# Session 2002\n## Exercice 1: Cinétique\n\n### Sujet\n- Décomposition H₂O₂\n- Couples redox:\n  - H₂O₂/H₂O: 1,77V\n  - O₂/H₂O₂: 0,68V\n\n### Questions\n1. Équation bilan: 2H₂O₂ → 2H₂O + O₂\n2. α = 2 (conservation matière)\n3. Vitesse: v = -d[H₂O₂]/dt\n4. t₁/₂ = 15 min"
+    },
+    {
+      "id": "c1a2b3d4e5f6002",
+      "type": "text",
+      "x": 380,
+      "y": 0,
+      "width": 300,
+      "height": 100,
+      "color": "2",
+      "text": "## Exercice 2: Acides/Bases\n\n### Données\n- HCl: Cₐ = 0,1 mol/L\n- RNH₂: Cb = 3,2×10⁻² mol/L\n- pH = 10,8 (tampon)\n\n### Résultats\n- pH(HCl) = 1\n- pKa = 10,8\n- Va = 16 mL, Vb = 100 mL"
+    },
+    {
+      "id": "c1a2b3d4e5f6003",
+      "type": "text",
+      "x": 0,
+      "y": 130,
+      "width": 350,
+      "height": 100,
+      "color": "3",
+      "text": "## Exercice 3: Oscillateur + Induction\n\n### Données\n- K = 12,5 N/m\n- N = 50 spires\n- B = 0,1 T\n- l = 5 cm\n\n### Résultats\n- Équation: x = 5×10⁻³ cos(6,25t + π/2)\n- e = NBlV = 62,5 mV\n- T = 1 s (amortissement)"
+    },
+    {
+      "id": "c1a2b3d4e5f6004",
+      "type": "text",
+      "x": 380,
+      "y": 130,
+      "width": 300,
+      "height": 100,
+      "color": "4",
+      "text": "## Exercice 4: Particules Chargées\n\n### Trajectoires\n- E ↓: Parabole y = 6,65x²\n  S₁(8,7cm, 5cm)\n- B ⟂: Cercle R = 9,4 cm\n  S₃(8,3cm, 5cm)\n- B //: Rectiligne\n  S₄(10cm, 0)"
+    },
+    {
+      "id": "c1a2b3d4e5f6005",
+      "type": "text",
+      "x": 0,
+      "y": 260,
+      "width": 350,
+      "height": 120,
+      "color": "5",
+      "text": "## Exercice 5: Dipôles + Résonance\n\n### Identification\n- D₁: Bobine (r=2,5Ω, L=8,8mH)\n- D₂: Résistance (R=4,8Ω)\n- D₃: Condensateur (C=1,33μF)\n\n### Résonance\n- f₀ = 426 Hz\n- I₀ = 3,3 A\n- Q = 0,38\n- ΔN = 1122 Hz"
+    }
+  ],
+  "edges": [
+    {"fromNode": "c1a2b3d4e5f6001", "fromSide": "right", "toNode": "c1a2b3d4e5f6002", "toSide": "left"},
+    {"fromNode": "c1a2b3d4e5f6001", "fromSide": "bottom", "toNode": "c1a2b3d4e5f6003", "toSide": "top"},
+    {"fromNode": "c1a2b3d4e5f6002", "fromSide": "bottom", "toNode": "c1a2b3d4e5f6004", "toSide": "top"},
+    {"fromNode": "c1a2b3d4e5f6003", "fromSide": "right", "toNode": "c1a2b3d4e5f6004", "toSide": "left"},
+    {"fromNode": "c1a2b3d4e5f6003", "fromSide": "bottom", "toNode": "c1a2b3d4e5f6005", "toSide": "top"}
+  ]
+}

@@ -1,0 +1,144 @@
+   ALIQUE            ISLAMIQUE DE MAURITANIE                                 Honneur Fraternité   Justice
+      DE                           NATIONALE                                       © &
+
+      DE L'ENSEIGNEMENT SECONDAIRE
+           DES EXAMENS        BACCALAUREAT 200                               | Sujet:
+                                                                             Durée: 4 heures
+
+                                         Session Complémentaire                  See
+     Exercicel (4points)          >
+
+Soit © un nombre reél tel que 6  0, 2x].
+
+|   Résoudre, dans      des nombres complexes, I'équation:             z*        Tsin 0 =0            et
+
+    soient  z, et z, ses deux solutions.                                                             (1pt)
+
+2   On considére   le plan complexe muni d'un repére orthonormé              unité lem .
+Dn note M, et M,    les points d"affixes respectives  z, et z, etsoit  I l'ensemble  des points   M, et
+M, lorsque    8 décrit    0, 2x].
+     a)     Déterminer une équation cartésienne de                                                 (0,5pt)
+     b)     Quelle est la nature de I"? Donner ses éléments caractéristiques puis construire cet ensemble
+            dans le repére (O;u,v).                                                               (0,75pt)
+5   Soit le point A(0;1) et soit Mun point de I". On considére le point      G barycentre du systéme de points
+
+
+                  2    Démontrer que lorsque     M décrit I"alors le point     G décrit une ellipse I" dont on précisera le
+                       centre, les sommets.                                                                        (0,75pt)
+                  b)   En déduire une équation cartésienne de     dans  le repére  (O;u,v) puis la construire.      (0,5pt)
+
+                                                                        et G,sur
+                  ©)   Peur     8 = construire les points M,, M, ,G,               la figure précédente.      (0,5pt)
+
+              Exercice2      (Spoints)   >
+
+                      lz plan orienté,  on considére un triangle ABC équilatéral de sens  direct.   Soit   T le  milieu  du
+segment [BCJet O le milieu du segment        [AC]et soit B' le symétrique de B par                  O.
+
+                                             de                      centre A et d'angle         On pose  f
+                           de   vecteur        r la rotation
+1.      Soit t   la translation OB et soit
+
+    a)  Faire une figure illustrant les  données précédentes puis placer les points f(A) =                = C'.    (0,75pt)
+    b) Déterminer la nature du triangle      ICO puis préciser (C)                                                  (0.5p1)
+    ¢) Caractériser                     f , en déduire la nature du triangle                                         0.5pt)
+                           directe telle    que  Act S(C)=1.
+2.      3oit  5  la                  similitude
+              que s(I)=     A' puis déterminer  et le     rapport de                                                  (1pt)
+3.      Soit Qlecentre de s.
+        a)   Démontrer que les points    Q, I, Cet A sont cocycliques et qu'il en est de méme               des points Q,A,
+             Oct B'.                                                                                               (0,75pt)
+             En déduire la position du point Q et sa construction.                                                 (0.25pt)
+4.      a)   Montrer que le quadrilatére     QOIC est un losange.                                                   (0,5pt)
+             Donner un programme        de construction des images du losange   SOC par s* = 50s et par        = 50505 puis
+             les construire.                                                                                        (0,5pt)
+        ©)  Quelle est la particularité  de1'application s*?                                                       (0,25p1)
+
+                   Probléme (11points)
+
+
+        considére Ja fonction numérique fdéfinie pour tout réel       x par: f(x) =
+
+Soit    Cla courbe représentative de f dans un repére orthionormé                  (Unité 1em).
+
+                                              construire courbe C       dans le repére                    (2p)
+    Dresser le tableau de, variation de  fet  'sa
+
+                       Session               Epreuve de                 Sérles Matbématiques              12
+
+
+
+Annales du Baccalauréat National         Mathématiques / Séries         :  C & TMGM IPN /Mr /2012 - 2013  58
+
+  graphiquement suivants les valeurs du paramétre m le nombre et le signe des solutions, dans IR
+
+  i+  mx’ +                                                                                 (py)
+
+
+  Soit g la fonction numérique définie par: DES TANGENTES A UNE COURSE
+
+
+                                                                               '
+                                                               gx) =(x+1)e     *     50
+
+Ft   soit       courbe représentative dans un nouveau repére orthonormé (©3i,)) unité 3cm
+          a)   Démontrer que                 une tangente en chacun de ses     points d'abscisse     x > 0, préciser sa tangente a
+          Torigine.                                                                                                         (1pt)
+          b)   Dresser le tableau de variation de   g.                                                 (1pt)
+ 7        Soit T,latangente & I’      au point d’abscisse a .
+
+          a)   Démontrer        que    les   tangentes      T,    et   T, (a>0    et             coupent    (Ox)     au      point
+                                                                       :
+
+                                  a                                                                                        0,5pt,
+     abscisse       (a) =                                                                                                  (0,5p)
+
+          b)   Démontrer que toutes les tangentes 4 I"     coupent     le segment [OB] oi   B est le point de
+
+          coordonnées     Gio. (On pourra utiliser 1-1.)                                                                    (Spt)
+
+          ¢)      Démontrer que   de   chaque   point     A(m;0), du   segment    [OB]privé    de    O. passent    deux tangentes
+               distinctes @      (On pourra utiliser 1-2.)                                                                (0,5pt)
+          d)   Démontrer que     I”      admet un point d’inflexion puis  donner une équation de     la tangente T     4    en ce
+               point et préciser le point d'intersection de cette tangente T      avec      des abscisses,               (0,75pt)
+ 3       Soit  h ia fonction numérique définie par:                               t20.
+
+          a)   Démontrer que pour      toutréel t20ona:     0<h'(t)<t             en déduire que:  0     < 52             (0,5pt)
+
+          b)   Démontrer que:     ¥x>0, 0S x—g(x)< =ₓ , donner une interprétation graphique de ce résuitat.               (0,5pt)
+
+  4.     Construire, dans le repére    (O31,]), les tangentes T,,      T;, T;, T,et la courbe          (0,75pt)
+                                            ZIZ-Fruse₅
+                Soit f,     la  fonction numérique définie sur IR par :           =      x       ol mest un entier naturel
+
+         strictement positif et soit   (U,),          fa suite numérique définic par: U, =
+
+     1.       Démontrer que (U,        est décroissante et que Vn & IN" on a: 05 U, < Ptₙ          , en déduire   lim U,. (0,75p)
+
+                                      1+2x
+               pose:
+
+     4 En utilisant une intégration par partie démontrer que:
+
+                                VaeIN    .      1     +              1
+                                 ne        u, =——                                                      (0,5p!
+                                                                     ——                                0,5pt)
+
+
+     b)   Démontrer que:        Vx € 051     H 1.                                                      (0,25pt)
+
+
+  *  Démontrer  que: Va 21;            n+3                             ‘n+5       en déduire         lim nU,.  (0,5pt)
+
+
+
+                                       Fin.
+
+  |            2002     Session Complémentalre     Epreuve de Maths    SeriesMathématiques &Techniques
+
+
+
+
+
+
+  Annales du Baccalauréat National         Mathématiques / Séries      :  C & TMGM                 IPN /Mr /2012 - 2013  59

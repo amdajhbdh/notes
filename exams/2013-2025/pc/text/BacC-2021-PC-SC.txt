@@ -1,0 +1,135 @@
+  Ministére de PEducation Nationale et de *                     Justice
+  la Reforme du  Educatif        2097                       Série:
+      fore     session complémentaire 2621                  Durée : 4H1 Coefficient : 8/4
+  Direction des Examens et des Concours - Sciences physiques
+
+
+         Données :                Exercice 1(35pts)
+
+                                                   La masse molaire                                           La masse volumique
+
+         L’alcool B                                88g/mol                                                    0,956 g/mL
+         L’anhydride AN                            88g/mol                                                    0,810 g/mL
+         On mélange dans une fiole un volume Va=11mL d’un acide i                                                 mL.
+         0,12mol @’un
+         On ajoute au alcool B de formule semi-développée                                                   chaine linéaire A de  C;H,COOH et
+        Aprés            mélange quelques gouttes d’acide sulfurique concentré,
+        La                                         chauffage du mélange, il se forme un composé organique E de
+        1.1.courbe donne le graphe x=f(t) de Pavancement x de la réaction     masse molaire M(E)=158g/mol.
+        1.2. Définir le temps de Ia demi-réaction et déterminer sa valeur.                           en fonction du temps.
+        2.    Calculer la vitesse initiale de la réaction et en déduire sa vitesse volumique.                                    (0,5pt)
+                                                                                                                                 (0,5pt)
+        2.1. Ecrire         de la réaction entre A et B qui donne E
+        donner
+    "2.2.              les noms des composés A, B et E.                  et
+       2.3. Calculer   1a  quantité initiale de        A.                       (pt)                        gg HE
+       3.      mélange un volume                                                de  B et un volume(0,5pt)   69
+           On          Ia  constante d’équilibre K.                          (©,5pt)                          HAT
+       Van=14mL d’anhydride butanoique et on obtient                                                        40
+       du  composé E.                                                                   une masse m(E)
+       Ecrire ’équation de la réaction et calculer m(E).                 (0,5pt)                                             a
+                            Exercice
+       On considére deux solutions acides de mame concentration C=10mol/L.
+       Si est une solution d’acide chlorhydrique de pH=2 et S; est
+       1.  En       déterminant les concentrations en ions HzO" de S; et              une solution d’acide méthanoique de pH=2,9.
+     solution d’acide fort et I’autre une solution d’acide faible.                  de S2, montrer que Pune des solutions est une
+     Ecrire les équations-bilans des réactions de ces acides
+     2.0n considére Ia                                              avec
+
+.    2.1. Vérifier que lasolution d’acide faible.                                                                                (1pt)
+     2.2. Calculer son      constante PKa du couple correspondant i cet acide faible est égale 4 3,74.
+     3. Soit Vi le         coefficient de dissociation co.                                                                         (pt)     .
+     et de pH=3,4.volume d’eau a ajouter A un volume      de Si                                                                 (0,5pt)
+                       Déterminer V,.                                                            pour obtenir une solution   de volume Vy
+                            Exercice 3(4,5pts)                                                                                    (1pt)
+    Deux particules chargées      Li"    et   X** sont introduites en un point O, avec la méme vitesse initialeV , dans
+
+    un espace oil régne un champ magnétique uniforme B     perpendiculaire
+    Données :                                                                                                        au
+    - La vitesse initiale : V=3.10° m.s" ;
+
+    -  La charge élémentaire: e=1,           C;                                                                           =
+
+    =  La masse de Li*: m                                    la masse de proton est mp=1,67.107 kg
+
+    -  Lafigure  représente les trajectoires des deuxparticules dans le champ B                                           =
+
+   ~   qx el mx sont respectivement la charge électrique et la masse de la particule X**.
+
+   On considére que                                    X** sont soumises seulement & la force de Lorentz.                 w
+
+   1.   Préciser le sens du vecteurB     .                                                                                “©
+   2. Donner
+                                                                                                              Li*au
+   point O,     les caractéristiques de Ia force de Lorentz exercée sur la particule                              0,58              oF
+   3. Montrer que le mouvement de Pion              Li*    est uniforme et que sa trajectoire est                (1pt)    ES
+   circulaire,
+   4. Calculer la valeur de B.                                                                                (0,75pt)    =     g
+                                                                                                              (0,75pt)    B
+
+
+
+  Série Mathématiques             Baccalauréat de Sciences Physiques     Session Complémentaire 2021
+
+5.  En exploitant les données de la figure 1, déterminer le rapport Blan avec     I. le rayon de la trajectoire
+                                                                      "uit
+de la particule X* et I,  le rayon de la trajectoire de la particule  Li",      (0,75pt)
+
+6.  Sachant que la particule X** se trouve parmi les trois ions proposés dans le tableau ci-dessous, identifier
+X**   en justifiant Ia réponse.                         LT                (0,75pt)
+A
+          Exercice 4(4pts)
+Le montage de la figure 1         comporte un générateur de tension de f.é.m. E, un
+condensateur de capacité C initialement déchargé, un conducteur ohmique de
+résistance R et un interrupteur K.
+On ferme K a un instant de date t=0, puis on         a un instant de date t=t;.        © ast
+Un    oscilloscope permet d’enregistrer I’évolution  au cours      du temps     des
+tensions uay et
+1. Reproduire le schéma de la figurel et faire les connexions de I’oscilloscope afin     B
+de visualiser la tension uay sur la voie X et Ia tension ums sur la voie Y.     (0,5pt)  K
+2.1.  Montrer que la tension uam(t) est régie par I’équation différentielle :           figl B
+
+
+     dt     RC               RC                                                  pon
+2.2. En admettant que la solution de ’équation différentielle est de la forme :
+                        t
+                        7
+Préciser les expressions de  U   et de 7.                                (py)        a
+
+3.  Les courbes   (C1)  et (Cy)  de la figure2    représentent I’évolution au     HE        $a
+cours du temps des tensions uam et                                               \                       I
+3.1.  En justifiant la  réponse, faire       correspondre chacune des courbes                            |
+(C1) et (C2) a la tension          représente.                        (0,5pt)    7ⁱ   gag            1 jm}
+3.2. En déduire la valeur de la f.6.m. E du générateur.               (0,5pt)        =H =                !
+3.3. Justifier qu’a          t, le phénoméne de charge n’a pas encore                I
+atteint le régime permanent.                             (0,5pt)                 i    i
+                           Exercice 1(4,5pts}            d                           1        “
+Un dispositif interférentiel comporte deux sources lumineuses S; et S; ponctuelles émettant en concordance
+de phase une radiation monochromatique de longueur d’onde A.
+La distance entre       et S; est a.
+On place un écran E paralléle au plan formé par     S; et Sz  une distance D=1,5m de ce dernier.
+1.  Pour     mm) Pinterfrange du systéme d’interférences obtenu est i;=0,36mm.
+L’interfrange devient i;=0,3mm pour      (avec a; toujours exprimé en mm et £ =0,6mm).
+1.1. Rappeler la définition de Pinterfrange.                                                       (0,5pt)
+1.2. Déduire des données la valeur de a; et celle de A.                                              (1pt)
+Dans la suite de Pexercice on prendra a=3mm.
+2. Les faisceaux issus de S; et S; ont chacun pour angle d’ouverture a=0,006rad et les bords des faisceaux
+sont paralléles deux a deux.
+2.1. Représenter les faisceaux émis et hachurer le champ d’interférences. Déterminer la largeur / du champ
+d’interférences.                                                                                     (1pt)
+2.2. Déterminer le nombre de franges brillantes et celui de franges sombres sur ’écran.              (1pt)
+3. Les sources S; et Sz sont maintenant éclairées en lumiére blanche.
+Quelles sont les longueurs d’onde des radiations appartenant au spectre visible pour lesquelles une frange
+obscure se forme sur ’écran E a la distance x=2mm de la frange centrale brillante?
+On rappelle que le domaine du       spectre visible est                                              (1pt)
+
+
+
+
+
+
+
+
+
+
+Série Mathématiques          Baccalauréat de Sciences Physiques       Session Complémentaire 2021

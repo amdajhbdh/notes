@@ -1,0 +1,199 @@
+    Oa BN pay
+REPUBLIQUE ISLAMIQUE DE MAURITANIE    Honneur — Fraternité — Justice
+MINISTERE DE        NATIONALE                Séries: C & TMGM
+DIRECTION DE        SECONDAIRE        Sujet: Mathématiques
+SERVICE DES EXAMENS BACCALAUREAT 2001 Coefficients:
+                                             Durée: 4 heures
+    9     &     6
+
+    Session Normale
+
+
+
+
+
+      Le   plan complexe   est  muni d'un    repére  orthanormé      Pour     tout réel                   on
+
+définit    application   f,   du    plan complexe dans lui méme; qui a tout point   M d'aflixez , associe le
+point      M' d'affixe z' telle que :           2'=     1  -icos0)z -     .
+I.   Montrer    que fest une similitude      directe dont  on précisera le  rapport, en  fonction de 0 et le
+centre.                                                                                              (1,5pt)
+2. Soit    Q le point d’affixe  § et soit a  la mesure de "angle de la similitude        que
+
+     a) Démontrer que si M est un point distinct de 2. alors     le triangle      est rectangle
+et de sens indirect.
+
+      b) Prouver que si  M est un point         de Q, alors              > 2   §
+
+
+en déduire que : — = <a<0,                                                                (0,5pt)
+
+3.  Soit   A un point du plan distinct de ©. Déterminer les ensembles de points suivants
+
+quand 0 décrit
+
+     a) I):              des points M tels que  [,(A) =    M "ensemble des images de A).  (0,5pt)
+     b)                  des points M tels   que      =  A (I, "ensemble des antécédents de A).(0,5pt)
+4.  Construire sur la méme figure les ensembles      et  I, dans le cas particulier
+
+
+
+      Exercice2
+
+
+Dans le plan orienté, on                   considére   un    losange       ABCD  direct  de      centre  O   tel que:
+
+(AB; AD) =              et   soient              les   points             et  L les milicux respectifs   des segments
+           [BC], [cD]   et  [DA];                      point   Pe [0A] tel que le triangle PBD soit rectangle en P.
+On considére                 les transformations suivantes:
+
+      r,   :larotation de centre            D et             -2       ry      larotation de centre B et
+
+           la réflexion d'axe             (BD) ;                          d'axe (BC) et         g=ros,.
+1a) Placer les données précédantes sur une figure qui              sera complétée au fur et     mesure.
+(Pour une meilleure construction, prendre (AC) horizontale et                    AB > Sem).
+                              des deux points                  B et Cpar      r, ets,                        (0,75p1)
+                            b) Déterminer les images
+2a) Déterminer g(B)et        g(C).                                                                           (0,5pt)
+     b) Déterminer la nature de  g    puis donner sa forme         réduite                                   (0,5pt)
+
+
+
+           2001 - Session Normale - Séries Mathématiques                  & Techniques - Epreuve de Maths    3
+
+
+Annales du Baccalauréat National  Mathématiques                / Séries : C & TMGM IPN /Mr /2012 - 2013      60
+
+                                                                et soit 2a (a> 0 la longueur
+    3.  Soit  (£)  de foyers B et Cet passant par le point  O,
+    du grand axe de(E).
+
+        a)    Montrer que K€ (E) et que CP                                                          (0,5pt)
+        b)    En déduire une construction géométrique (a justifier) des deux sommets de I'axe focal de (E);
+        puis de ses deux autres sommets, construire     sur la figure précédente.                     (Ipt)
+    4   Onpose        g(E)=E,
+
+        a)    En utilisant les questions précédantes     )  (E, . (E, Jet (E,)     ©
+        quelle remarque peut-on tirer concernant ces quatre courbes?                                (0,5pt)
+        b)           sur la figure précedente; puis les points      tels que
+                  n(K)=K,in(K)=K,;s,(K) = K,;g(K)= K,.
+        Quelle remarque peut-on en tirer? Interpreter.                                              (0,5pt)
+
+
+
+
+
+
+
+On se propose dans ce probléme d'étudier unefamille defonctions,
+          et de quelques propriétés de leurs graphes.
+
+              Partie A : fonction auxiliaire
+
+
+              Soit g,, le trindme défini pour tout x réel par : g_(x) = x*  + 2x  2m ou m est
+
+    un paramétre réel non nul.
+    1.  Discuter suivant les valeurs de m     le nombre de solutions, dans IR, de I'équation g,, (x) = 0.(1pt)
+    2. Dans le cas oi 1"équation  g,(x) = 0, admet deux solutions réelles distinctes   x' et x"
+    telles que x'< x"; montrer                    m<0,alors ~2<x'<x"<0      ; etquesi m>0 ,
+    alors     x'<   0 <x"
+
+
+              NB : Dans la suite duprobléme, on suppose que                 m > 0,
+
+              et on considére le plan rapporté au repére orthonormé         (0; i i unité lem.
+
+
+                  Partie B : Etude d'une famille de fonctions
+
+        Sait la fonction numérique                        définie par:          ou                                      In désigne la
+                                                                                                   x
+
+    fonction logarithme néperien, et soit                                 (C.,) sa courbe representative dans le repére 041,
+
+    1.  a)                      Déterminer I'ensemble de définition de    f,, puis calculer les limites a ses
+                           b)Etudier, suivant les valeurs du paramétre    réel strictement positif m, les variations de f,, .(0,75pt)
+    2. a)  Prouver      que  toutes les courbes     (C,)passent               par        un point fixe  I dont     on déterminera les
+    coordonnées, et que ce point représente un centre de symétrie de toute courbe(C,).                                        (0,5pt)
+       b)  Déterminer     les      a (C,,)                            puis étudier la position relative de (C,,) par rapport      son
+    asymplote oblique (A)                                                                                                    (0,75pt)
+
+       ¢)  Tracer la courbe                    (C,) dans le           05 ih                (les points        et d'intersections avec
+                           les axes de coordonnées ne sont pas demandés)                                                     (0,25pt)
+
+        Baccatauréat 2001 -                Sesion Normale -  Séies              preave                                            203
+
+
+
+
+    Annales du Baccalauréat National  Mathématiques                       / Séries : C & TMGM IPN /Mr /2012 - 2013  61
+
+Partie C : Construction d'une courbe (C,,) a partir de (C,)
+
+
+                              du  plan dans lui méme qui a tout point M(x;y)         d'affixe2 associe le point
+    daffixe               2' tel que
+                                  Ha                      od me IR \ 1 et           2 désigne le conjugué de 2.
+1. a) Ecrire x*  et y'    en fonction de x, y et du paramétre m.                                        (0,5pt)
+                   que            des      points invariants
+          b) Démontrer                                    par, est la droite  (A) d'équation y    =  x .(0.5pt)
+   ¢)   Démontrer   que si    M n'est pas un point de (A) alors la droite (MM')est parall¢le a une droite
+fixe(A') dont-on donnera un vecteur directeur.                                                         (0,25pt)
+                              de M sur (A)    parallélementa (A')   ;
+   d) Soit       le       projeté
+
+                          en  fonction de  MM.                                                          (0,5pt)
+    exprimer M,M'
+        Démontrer   que          ¢,(C,)=(C,)  en déduire une construction géometrique simple de
+point par point ,   a partir de     (C,).                    |                                            (1pt)
+
+   b) construire alors    (C,) dans le méme repére (0; i,                                              (0,25pt)
+
+                                 Partie D:    Etude de la convergence d’une suite
+
+   Soit      un réel    tel   que     0<   <1 et              délimité par                            les
+
+droites                 respectives x= het x =1 dans le       1, J) 3
+1. En utilisant une intégration par partie calculer A( 2. puis déterminer     lim A(R).
+
+                                                                                                  2
+2.     On considére la    fonction h définie pour tout réel stictement positf par: h(x) = In(1 +  x        pour
+
+
+   tout entier naturel n 2          considére la suite (S, de terme général:  S, = :              >on?)
+
+a) Détérminer       le sens   de    variation   de h      puis     prouver  que pour tout entier naturel p
+                                               put
+                            ona:                           s
+                                    noon                    non
+
+b) En déduire       que:                                                                           (0.5p1)
+                                               non    n
+
+et que                                     n1  <8,    1.1    1                                    (0.25p1)
+
+¢) Déduire de D.1) que:           lim S,    =                                                     (0.25p1)
+
+
+
+
+
+                                           Fin.
+
+
+
+
+
+
+
+
+Baccalauréat 2001 - Session Normale -      Séries Mathématiques &Techniques - Epreuve de Maths
+
+
+
+
+
+
+
+Annales du Baccalauréat National    Mathématiques / Séries : C & TMGM         IPN /Mr /2012 - 2013  62

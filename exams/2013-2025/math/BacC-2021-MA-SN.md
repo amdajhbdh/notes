@@ -1,0 +1,109 @@
+---
+title: "BAC C 2021 - Session Normale - Mathématiques"
+year: 2021
+exam: "BAC C"
+session: "Normale"
+subject: "Mathématiques"
+series: "TMGM"
+duration: "4 heures"
+coefficients: "9"
+type: "Examen"
+---
+
+# BAC C 2021 - Session Normale - Mathématiques
+
+**Série:** TMGM | **Durée:** 4 heures | **Coeff:** 9
+
+---
+
+République Islamique de Mauritanie                BACCALAUREAT 2021                  Série : C & TMGM
+Ministère de l’Education Nationale et de la
+Réforme du Système Educatif                       Session Normale                  Coefficient : 9 & 6
+Direction des Examens et des Concours             Epreuve : MATHEMATIQUES               Durée : 4h
+Exercice 1: (3 points)
+ A. 1. Déterminer le reste de la division euclidienne du nombre 2021 par 11.                               0.25pt
+ 2. Déterminer suivant les valeurs de l’entier naturel n, le reste de la division euclidienne de           0.5pt
+ 2021ⁿ par 11.
+ 3. Justifier que le nombre     2021   2020  2021 1960 est divisible par 11.                               0.25pt
+ B. Soit N un entier naturel s’écrivant xyxy      dans le système décimal.
+ 1. Montrer que N est un multiple de 101.                                                                  0.25pt
+ 2. Déterminer y pour que N soit un multiple de 5.                                                         0.25pt
+ 3. Déterminer x et y pour que N soit un multiple de 20 et préciser N dans ces cas.                        0.5pt
+ C. Soit la matrice M  §¨© x     y ·¸ , où x et y sont deux entiers strictement compris entre 0 et 10.
+     5                           11^{1}
+ 1. Montrer que M est inversible et déterminer sa matrice inverse            M^{1} , en fonction de x et y.   0.5pt
+ 2. Déterminer les valeurs possibles de x et y telles que le déterminant de M soit égal à 1.               0.5pt
+Exercice 2: (4 points)
+ ABCD un rectangle de centre O tel que JJJG JJJG                 S
+                                           AB, AC                3>2S@ . Soient E le symétrique de B par
+ rapport à (AC) , F celui de O par rapport à A, I le milieu de >OA@ et J celui de  >OD@ .
+ 1. Faire une figure soignée.                                                                              0.5pt
+ 2. Justifier que le triangle BEF est équilatéral direct.                                                  0.25pt
+ 3. Montrer que les points O, E, F et B appartiennent à un même cercle. Préciser son centre.               0.25pt
+ 4. a) Montrer qu’il existe un unique antidéplacement f transformant F en O et A en D.                     0.5pt
+ b) Justifier que f est une symétrie glissante et donner sa forme réduite.                                 0.5pt
+ 5. a) Montrer qu’il existe une unique similitude directe S transformant E en O et B en C.                 0.25pt
+ b) Déterminer le rapport de S et une mesure de son angle.                                                 0.5pt
+ c) Montrer que le centre de S appartient aux cercles de diamètres respectifs>OE@ et >BC@     .            0.5pt
+ Préciser le centre de S.
+ d) Déterminer l’image de C par S et construire le point K  S(D) .                                         0.5pt
+ e) Soit Mₙ la suite des points du plan tels que  M  B et n ` , M                S M .
+ Vérifier que M_{2}_{0}_{2}_{1} >JC@                               0             n1            n                       0.25pt
+Exercice 3: (5 points)                                               G G
+ Dans le plan complexe, muni d’un repère orthonormal direct O,u, v , on considère les points
+ A et B d’affixes respectives zA   2 i     et zB   1 3i .
+ 1. a) Montrer que z ^ , on a : 4z^2 12 16i z 7 24i  2iz 4 3i^2                                              0.5pt
+ b) En déduire les solutions dans ^ de l’équation                                                          0.5pt
+ (E) : z^2 (2m 2 i)z 2m^2 (5 5i)m 1 7i                   0    , où m est un paramètre complexe.
+ 2. Soit S_{1} la similitude directe qui, à tout point M d’affixe m ,associe le point M_{1}   d’affixe
+ z_{1}  1 i m 1 2i     et soit S_{2}           la similitude directe qui, à tout point M d’affixe m associe le
+ point M_{2} d’affixe z_{2}  1 i m 3 i .
+ a) Donner les éléments caractéristiques de S_{1}    et S 2    .                                              1pt
+ b) Montrer que S_{1} D S_{2}   est une homothétie dont on donnera le rapport et le centre C.                    0.5pt
+ c) Soit R la transformation qui au point M_{1} associe le point M_{2} , pour tout point M du plan.              0.5pt
+ Justifier que R est une rotation dont on donnera une mesure de l’angle et l’affixe du centre D.
+ d) Placer les points A, B, C et D et déterminer la nature du triangle ABD.                                0.75pt
+3. Soit E l’ellipse de foyers A et B et dont D est un sommet.
+a) Déterminer le centre I de E et justifier que la longueur du grand axe de E est                              10 .             0.5pt
+b) Donner l’équation de E.                                                                                                      0.25pt
+c) Construire E après avoir placé ses sommets.                                                                                  0.5pt
+Exercice 4 : (4 points)
+Soit f la fonction définie sur l’intervalle     I   @1; f> par f (x)  1 (x 1)ln(x 1) ln(x 1)^2
+On note (C) la courbe représentative de f                 dans un repère orthonormé O, G G
+                                                                                                   i , j    .
+1. Calculer et interpréter les limites suivantes :             lim f (x) ,   lim f (x)   et           lim f (x) .               0.75pt
+                                                               xo1          xof                  xof  x
+2. Pour tout réel  x ! 1 , on note u(x)  x 1 ln(x 1) et v(x)  x ln(x 1)
+a) Montrer que la fonction v est positive sur chacun des intervalles                                @1,0> et @0,f> .            0.5pt
+b) Etudier les variations de la fonction u puis en déduire qu’elle est positive sur @1;f>                                       0.5pt
+c) Montrer que x ! 1 ; f c x  u(x)x v(x) où f c est la dérivée de f .                                                           0.25pt
+d) Dresser le tableau de variation de f .                                                                                       0.25pt
+3. Montrer que     f réalise une bijection de I sur un intervalle J à déterminer.                                               0.25pt
+4. Soit g(x)  f (x) x .
+a) Etudier les variations de  g     et justifier que l’équation g(x)  0 admet sur I une unique                                  0.5pt
+solution D
+b) Vérifier que 0.7  D  0.6 . En déduire la position relative de (C) et la droite '                              d’équation     0.5pt
+y  x
+5. Construire la droite '   et les courbes (C) et (C c) . ((C c) étant la courbe de la réciproque                         f 1   0.5pt
+de f )
+Exercice 5 : (4 points)
+                                                                                                             1 1
+                                                                                                            e
+Soit f la fonction numérique définie sur >0,f>                 par f (0)  0      et x ! 0; f (x)             x^2ˣ et soit  *
+sa courbe représentative dans un repère orthonormé d’unité graphique 2 cm.
+1. a) Justifier que x ! 0;    exₙ^{1}ˣ  e^{1}^{1}ˣ n ˡⁿ§¨© x^{1} ·¸^{1}   puis en déduire que     xlim §¨¨ e11x ·¸¸   0                        0.5pt
+                                                                                 o0 ©     xⁿ       ^{1}
+b) Etudier la continuité et la dérivabilité de              f  à droite de 0.                                                   0.5pt
+2. a) Montrer que x ! 0 , f c(x)  1 2x e^{1} 1ˣ                   et préciser son signe.                                           0.5pt
+                                  x^{4}
+b) Dresser le tableau de variation de f et tracer sa courbe             * .                                                     0.5pt
+3. Calculer l’aire A du domaine délimité par la courbe * , l’axe des abscisses et les droites                                   0.25pt
+d’équations respectives x  1 et x  2 .
+4. On définit la suite Iₙ  par : n ` , Iₙ  ^3_{1}^2 f (x) dx
+                                                               xⁿ
+a) Justifier que   I_{0}  A                                                                                                        0.25pt
+b) Montrer que la suite Iₙ est strictement décroissante et positive. Que peut-on en déduire ?                                   0.5pt
+c) A l’aide d’une intégration par parties montrer que          n ` ; Iₙ_{1} (n 1)Iₙ  2ₙ_{1}e 1 .                                      0.5pt
+d) Montrer que n `* ; 0 d Iₙ d 1 §¨ 1                     e ·¸  et calculer  lim I .                                            0.5pt
+                                  n ©                    2ⁿ^{1} ^{1}              nof    n
+                                                                Fin.

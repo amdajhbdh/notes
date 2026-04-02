@@ -1,0 +1,63 @@
+{
+  "nodes": [
+    {
+      "id": "c3a1b2c3d4e5001",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 350,
+      "height": 120,
+      "color": "1",
+      "text": "# Session Normale 2003\n## Exercice 1: Composé Organique\n\n### Données\nComposé B: C₄H₈O\n\n### Tests\n- DNPH: Positif → Cétone/Aldéhyde\n- Schiff: Négatif → Cétone\n- B = Butanone\n- A = Butan-2-ol (alcool secondaire)\n\n### Hydratation but-1-ène\n- Produit principal: butan-2-ol\n- Produit secondaire: butan-1-ol"
+    },
+    {
+      "id": "c3a1b2c3d4e5002",
+      "type": "text",
+      "x": 380,
+      "y": 0,
+      "width": 300,
+      "height": 120,
+      "color": "2",
+      "text": "## Exercice 2: Acides Chlorés\n\n### Acides étudiés\n1. Acide propanoïque pKa=4,9\n2. Acide 2-chloropropanoïque pKa=1,5\n3. Acide 3-chloropropanoïque pKa=2,2\n4. Acide 2,2-dichloropropanoïque pKa=2,7\n5. Acide 2,3-dichloropropanoïque pKa=2,2\n\n### Force des acids\nPlus de Cl → Plus fort\nPosition du Cl влияет sur pKa"
+    },
+    {
+      "id": "c3a1b2c3d4e5003",
+      "type": "text",
+      "x": 0,
+      "y": 150,
+      "width": 350,
+      "height": 120,
+      "color": "3",
+      "text": "## Exercice 3: Pendule Simple\n\n### Données\nl = 0,5m, m = 20gα = 60°\n\n### Résultats\n- Vitesse en M₀: V = 2,24 m/s\n- Énergie cinétique: Ec = 50 mJ\n- Énergie mécanique: Em = -50 mJ\n- Vitesse min pour tour: V₀ = 5 m/s\n\n### Chute libre\n- Durée M₀→M: t = 0,2s\n- Vitesse en M: V = 3 m/s"
+    },
+    {
+      "id": "c3a1b2c3d4e5004",
+      "type": "text",
+      "x": 380,
+      "y": 150,
+      "width": 300,
+      "height": 120,
+      "color": "4",
+      "text": "## Exercice 4: Spire Triangulaire\n\n### Données\nTriangle équilatéral a = 10cmPénétration dans champ B\n\n### Résultats\n- Surface immergée: S = x²tanα\n- Flux: Φ = BV²t²tanα\n- f.e.m: e = -2BVtanα·x\n- Courant: i = e/r"
+    },
+    {
+      "id": "c3a1b2c3d4e5005",
+      "type": "text",
+      "x": 0,
+      "y": 300,
+      "width": 350,
+      "height": 100,
+      "color": "5",
+      "text": "## Exercice 5: Circuit RL + RC\n\n### Partie 1: Bobine + Résistance\n- R = 50Ω\n- r₁, L₁ à déterminer\n- U_R = 25V, U_b = 20V, U = 39V\n\n### Partie 2: Résonance RLC\n- L, r = 10Ω, C = 5μF\n- f₀ = 50Hz (donné)\n- I(t) à calculer\n\n### Partie 3: Bande passante\n- I₀ maximal à ω₀\n- ω₁ et ω₂: I = I₀/√2"
+    }
+  ],
+  "edges": [
+    {"fromNode": "c3a1b2c3d4e5001", "fromSide": "right", "toNode": "c3a1b2c3d4e5002", "toSide": "left"},
+    {"fromNode": "c3a1b2c3d4e5001", "fromSide": "bottom", "toNode": "c3a1b2c3d4e5003", "toSide": "top"},
+    {"fromNode": "c3a1b2c3d4e5002", "fromSide": "bottom", "toNode": "c3a1b2c3d4e5004", "toSide": "top"},
+    {"fromNode": "c3a1b2c3d4e5002", "fromSide": "right", "toNode": "c3a1b2c3d4e5004", "toSide": "left"},
+    {"fromNode": "c3a1b2c3d4e5003", "fromSide": "right", "toNode": "c3a1b2c3d4e5004", "toSide": "left"},
+    {"fromNode": "c3a1b2c3d4e5003", "fromSide": "bottom", "toNode": "c3a1b2c3d4e5005", "toSide": "top"},
+    {"fromNode": "c3a1b2c3d4e5004", "fromSide": "bottom", "toNode": "c3a1b2c3d4e5005", "toSide": "top"}
+  ]
+}

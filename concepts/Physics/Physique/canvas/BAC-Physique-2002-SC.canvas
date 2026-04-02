@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "id": "c2a1b2c3d4e5001",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 320,
+      "height": 100,
+      "color": "1",
+      "text": "# Session Complémentaire 2002\n## Exercice 1: Acide Faible\n\n### Données\nAcide R-COOH + sel R-COONa\npH = f(log(VB/VA))\n\n### Résultats\n- pH = x + 3,8\na = 1 (droite)\npKa = 3,8\n\n### Formule\npH = pKa + log([A⁻]/[AH])"
+    },
+    {
+      "id": "c2a1b2c3d4e5002",
+      "type": "text",
+      "x": 350,
+      "y": 0,
+      "width": 300,
+      "height": 100,
+      "color": "2",
+      "text": "## Exercice 2: Ester\n\n### Données\nM = 88 g/mol\nFormule: C₄H₈O₂\n\n### 4 Isomères\n1. Méthanoate de propyle\n2. Méthanoate d'isopropyle\n3. Éthanoate d'éthyle\n4. Propanoate de méthyle\n\n### Identification\nAlcool secondaire: propan-2-olEster: HCOO-CH(CH₃)-CH₃"
+    },
+    {
+      "id": "c2a1b2c3d4e5003",
+      "type": "text",
+      "x": 0,
+      "y": 130,
+      "width": 320,
+      "height": 120,
+      "color": "3",
+      "text": "## Exercice 3: Mécanique\n\n### Piste ABCD\n- AB: quart de cercle R=1,5m\n- BC: segment 2m\n- CD: quart de cercle\n- m = 100g, g=10m/s²\n\n### Résultats\n- Vitesse en B: Vb = 5,5 m/s\n- Réaction en N: R = mg(3cosα-2)\n- Frottement BC: f = 0,75 N\n- Angle sortie: α = 48°"
+    },
+    {
+      "id": "c2a1b2c3d4e5004",
+      "type": "text",
+      "x": 350,
+      "y": 130,
+      "width": 300,
+      "height": 120,
+      "color": "4",
+      "text": "## Exercice 4: Solénoïde\n\n### Données\nl = 0,5m, N = 1000 spiresL = 20mH\n\n### Résultats\n- I pour α=45°: I = 7,96 mA\n- Tension [0,40ms]: U = 1V\n- Tension [40,60ms]: U = -2V\n- Inversion courant: α = -45°"
+    },
+    {
+      "id": "c2a1b2c3d4e5005",
+      "type": "text",
+      "x": 0,
+      "y": 280,
+      "width": 320,
+      "height": 100,
+      "color": "5",
+      "text": "## Exercice 5: Radioactivité\n\n### Carbone 14\n- Période T = 5600 ans\n- λ = 1,24×10⁻⁴ an⁻¹\n\n### Résultats\n- Bois récent: 1350 dp/min\n- Bois préhistorique: 197 dp/min\n- Âge: t = 15522 ans\n\n### Équations\n¹⁴₇N + ⁰₁n → ¹⁴₆C + ¹₁H\n¹⁴₆C → ⁻₀₁e + ¹⁴₇N"
+    }
+  ],
+  "edges": [
+    {"fromNode": "c2a1b2c3d4e5001", "fromSide": "right", "toNode": "c2a1b2c3d4e5002", "toSide": "left"},
+    {"fromNode": "c2a1b2c3d4e5001", "fromSide": "bottom", "toNode": "c2a1b2c3d4e5003", "toSide": "top"},
+    {"fromNode": "c2a1b2c3d4e5002", "fromSide": "bottom", "toNode": "c2a1b2c3d4e5004", "toSide": "top"},
+    {"fromNode": "c2a1b3d4e5003", "fromSide": "right", "toNode": "c2a1b2c3d4e5004", "toSide": "left"},
+    {"fromNode": "c2a1b2c3d4e5003", "fromSide": "bottom", "toNode": "c2a1b2c3d4e5005", "toSide": "top"}
+  ]
+}

@@ -1,0 +1,182 @@
+             Islamique de Mauritanie                                                                 Séries- Fraternité   Justice
+                      de           Nationale                                                             :   C & TMGM
+ Direction des Examens et de                                                                         Epreuve: Mathématiques     |
+             Service des Examens        Baccalauréat⁴                         2004                   Durée: 4 heures
+                                                                                                                    O86
+                                                             Session normale
+
+Exercice 1   5 points)
+ Jans le plan orienté, on considére un carré direct     ABCD de centreO et de coté a
+ joient1,J, Ket L les             milieux respectifs des segments [aB},    {BCl, [cp]         et     pa) et soit   H
+Vintersection des droites         (AJ) et (DI)
+             de cet exercice est "étude de quelques propriétés de la configuration                    précédente.
+ | Faire une figure illustrant                les données précédentes que I’on complétera au fur et 2 mesure. (On         (0,75pt)
+ nourra prendre               AB =a =8cmet la droite
+   Etude d’une rotation           r,.
+   a) Montrer qu'il existe une unique rotation     r,    qui transforme A  en [  et      J   en D                         (0,5pt)
+   b) Soit R le quart de tour vectoriel direct,      que R(AT) = ID,       en déduire I'angle de la rotation        .   | (0,5pt)
+             On se propose, dans  cette question de déterminer Ie centre © de la rotation r,         par trois méthodes :
+    i)          Méthode 1          : Montrer que les points 2, A, Het Id'une part et                       Q,J, Het
+                                 Dd'autre part sont cocycliques en déduire une construction de Q                          (0,5p1)
+    ii)                           2
+                Méthode * Déterminer r,(L)     puis ryor,(L)     et             monter que     Q appartient a(IL)  en
+
+
+                     Méthode 3 : Déterminer une droite         (A)  telle que 1,        »       (ou       est
+      iii)           précisant sa position sur (IL)                                                  S     la         (0,5pt)
+                     réflexion par rapport & "axe associé) puis déterminer deux réels a              et y    tels que
+                     soit  le barycentre du systéme
+3.     Caractérisation de quelques transformations et étude de leurs actions sur le rectangle        ABJL.
+   2 Déterminer          (B) .    Déduire des questions précédentes I'image du rectangle     ABJL                 .   (0,5pt)
+   b) Soit            g I"antidéplacement qui transforme   K en J et laisse C       invariant,  Reconnaitre  g ct
+      I'image du rectangle         ABJL par    g
+   ¢) Soit     r,      la transformation définie par * r;  =
+Déterminer la nature de r,, donner ses éléments caractésistiques et préciser I'image du rectangle                      (0,5pt)
+
+                 r,.
+
+ Exercice 2: 5 points)
+ On considére un triangle direct      ABCrectangle cn           A avec AD = 2ACet     H le milieu du
+ segment [AB],       E le symétrique de El par rapport      4   A    Les points   J    et K sont les projetés
+
+ri    Shi respectifs des points       A et E    sur(BC)et           I   le projeté orthogonal du point     A sur  (EK)
+      objectif
+      Faire unede    cet exercice est      de 1a configuration précédente.
+                 figure illustrant les données précédentes que 'on complétera au fur et a mesure                       (0,75p0)
+
+  2.  On considére la     rotation rde centre  A et                    2                                               (0,5pt)
+
+      2 Déterminer²    r(E), en déduire                de la droite               r                                     (0,25p1)
+      b) Montrer que     r(1)=J                                                                                         (0,5pt)
+      ¢) Déterminer               en déduire           de la droite     (BC) pur    ©  puis la construire               (0,25pt)
+
+      d) On pose         = L, déterminer le point          L puis le construire et montrer que  BL =
+
+   3. Sait                        de centre     Bet qui transforme  A       en                                            0.5p0)
+   Déterminer le rapport de         het montrer que     nJ)=K                                                        ny
+
+   Baccalauréat 2004               Scssion                                                                            IB
+
+
+
+Annales du Baccalauréat National  Mathématiques                 / Séries :  C & TMGM IPN /Mr /2012 - 2013                 46
+
+4 On pose     s  = hor et on se propose de caractériser     s                                              |
+  a)  Montrer que s  est une similitude directe            Donneia son rappon et son angle                     (0,5p1)
+  b) Soit   ©    le centre de s, déterminer s(1)   et  s(A), monirer que Q appartient aux     deux cercles
+de diamétre respectif [AE]et [IK] , construire         Q.
+5 a)Sait     (P) une parabole de directrice (BC) et qui passe par les deux A et 1                          |
+      Démonter qu'ils existent deux paraboles    (P,)      et    (P,) vérifiant la condition précedente, on
+
+note  F, et   F,  leur foyer respectif, oii F, est le  foyer le plus proche de la directrice  (BC)         |
+Construire les foyers   F, et F,  en justifiant cette construction                                         i|
+  b) Construire, en  Je justifiant, I'axe focal et le sommet de chacune des paraboles         (P,)    et
+  (P;) puis représenter (P,)  et  (P,)     sur la figure                                                   |   (0.25p1)
+  c) Déterminer le foyer, le sommet et la directrice de la parabole     (P,') image de (P,) par la
+similitude    s  puis construire (P,').                                                                        (0,25pt)
+
+
+
+Probléme(10 points)
+                                                   Partic A
+
+Soit  f, la fonction numérique définie par .
+
+                                                           x>0
+                                     £,(0)=0
+ ou nest un entier naturel tel que   n 21    et x  est une variable réelle.
+Soit  (C,)la courbe représentative de        dans un repére orthogonal
+1.  Etudier la continuité et la dérivabilité de f, au  point x,   interpréter géométriquement
+(distinguer le cas   particulier ot n=1).                                                        (pt)
+2.  Etudier les variations   de f, et dresser son tableau de variations.                         (1p)
+ 3. Montrer, par le calcul que toutes les courbes (C, ) passent par trois points communs que Ion
+ iéterminera.
+ 4. Etudier la position relative de  (C,) et (Cur)     (faire                                 H i
+
+ in tableau).                                                                                 |
+ 5. Les courbes      (E), (F)et (G) ci-contre représentent les                               i
+ fonctions    f,, f, et f,.                                                                  iq
+ Associer(& chaque courbe sa fonction puis justifier votre
+ igure).      on ne demande pas de reproduire les cette
+
+
+
+
+                                                                                              4
+                                                                                              it
+
+
+                                                       @
+
+
+
+
+                                                       i=
+
+
+
+
+
+
+
+
+
+
+Annales du Baccalauréat National     Mathématiques     / Séries :  C & TMGM IPN /Mr /2012 - 2013               47
+
+Partie B
+
+
+          Le plan est       a un repére orthonormé
+
+          Soit le point M, (x,;y,)de la courbe   (C,) d"abscisse x,   =¢  ou nest un entier
+atrel non nul
+    Calculer y, en fonction de   n et montrer que tous les points M,        &     une
+sranche de courbe d’une fonction numérique     que I'on déterminera                                     (0,75pt)
+
+.   Montrer que la suite     est croissante et majorée                                                  (0,5p1)
+
+3.           lim x, et lim y,, en déduire que quand     n tend vers     +, le point M, tend vers une
+
+           donnée que "on déterminera.                                                                  (0,5pt)
+     Soit U,     du domaine plan délimité par 1a courbe(C,), I'axe des abscisses et les deux
+droites d’équation     x      x=1.
+    a) En utilisant une intégration par parties, écrire U, en fonction de n puis calculer lim U, et
+interpréter graphiquement.                                                                              (0,75pt)
+     b) Montrer que la suite (U, ) est décroissante et positive, donner une interprétation graphique.   0,5pt)
+
+                                                  Partie C
+    In considére fa fonction g définie sur ]0; +oof par.
+                                                                 fh   ci
+                                                         x
+
+
+          ~)=01
+
+     Calculer tim g(x) et    lim g(x) puis étudier la continuité et la dérivabilité de g au point
+
+
+      Utd)= 1 diₒₐₙₑᵣ une interprétation géométrique.& i                                                   (0,75pt)
+
+        Calculer  Jim g(x), Jim.     et tim g(x) puis²      interpréter² géométriquement                   (0,75pt)
+
+    3.  Calculer g'(x) puis étudier son signe                                                              (0,5pt)
+        Dresser le tableau de variations de g et construire sa  courbe I" dans un nouveau repére           ;
+      2 Montrer que pour   tout entier  naturel  n 2 t, les courbes     I” et (C,) ont trois points
+    1   intersection dont deux sont indépendants de         0 que     déterminera et donner les coordonnées
+
+     2ᵘ troisiéme point en fonction de  nn.
+            Reconnaitre le troisiéme point cité en 5 a).    Déterminer ses coordonnés et le placer sur
+     esdeuxcas:      n=2                                                                                   (0,25p1)
+
+                                                            Fan.
+
+
+
+
+
+
+
+          2004 Session Normale          Epreuve de
+
+Annales du Baccalauréat National            Mathématiques   / Séries :  C & TMGM IPN /Mr /2012 - 2013      48

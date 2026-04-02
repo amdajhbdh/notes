@@ -1,0 +1,146 @@
+REPUBLIQUE ISLAMIQUE DE MAURITANIE                      Honneur Fraternité Justice
+Ministère de l'Enseignement Secondaire et Supérieur     Série : Mathématiques/T.M.G.M
+Direction des Examens et de l'Evaluation                Durée : 4H Coefficient : 8/4
+Service des Examens
+
+
+            Sciences- physiques session normale 2002
+Exercice 1
+On donne les potentiels standards des deux couples redox suivants: H₂O₂/H₂O:
+1,77V et O2/H2O2: 0,68V
+1 Ecrire le bilan de la réaction naturelle entre les deux couples. (0,5pt)
+2 On réalise en présence d'ions Fe³⁺        une telle décomposition. L'expérience est
+réalisée à température constante. On considère que le volume V de la solution
+aqueuse de peroxyde d'hydrogène reste constant et que le volume molaire d'un gaz
+est Vₘ = 24L/mol. On utilise V = 10 mL de solution de peroxyde d'hydrogène de
+concentration molaire volumique C = 6 10⁻² molL⁻¹. On ajoute quelques gouttes du
+catalyseur et on note à divers instants le volume VO2 du gaz dioxygène dégagé. Les
+résultats sont indiqués dans le tableau ci-dessous :
+2-1    Montrer    que la    tmin               0        5 10      15       20      30
+concentration               VO2 formé en mL    0     1,5  2,7     3,6      4,4    5,5
+volumique             du                                6 4       5        2     6
+peroxyde d'hydrogène        [H₂O₂] restant en  6.
+restant en solution est     mol/L             10⁻
+de        la      forme:                       2
+[H O₂   2 ] = C − αVO2
+            V .Vₘ
+Préciser la valeur de α.
+2-2 Tracer la courbe [H₂O₂] = f(t) . Echelle sur l'axe des abscisses 1 cm représente 3
+min, sur l'axe des ordonnés 2Cm représente 10⁻² mol/L
+2-3 Donner la définition de la vitesse instantanée de disparition du peroxyde
+d'hydrogène et la calculer en (mol./L/.mn) aux dates t₀         = 0 et t₁₅   = 15 mn.
+Conclure.(1pt)
+2-4 Déterminer le temps de démi-réaction. (0,5 pt)
+Exercice 2
+Les     solutions sont maintenant    à la  température de 25°C     pendant toutes les
+expériences. On dispose de deux solutions :
+−  Une solution aqueuse (A) d'acide chlorhydrique de concentration
+CA = 0,1 mol/L
+−            Une solution aqueuse (B) d'une amine RNH₂ de concentration CB = 3,2 10⁻²
+mol/L et de
+−     pH = 11,4.
+1 Ecrire l'équation bilan de la réaction du chlorure d'hydrogène avec l'eau. Calculer
+la valeur du pH de la solution (A). (0,75pt)
+
+                                           3
+
+  2 Ecrire l'équation bilan de la réaction de l'amine avec l'eau, en précisant est-ce que
+  la réaction est partielle ou totale. (0,75pt)
+  3 Pour préparer une solution tampon (S) de pH=10,8, on mélange deux volumes des
+  deux solutions (A) et (B).
+  3-1 Calculer les volumes VA et VB nécessaires pour obtenir un volume V = 116 mL
+  de la solution tampon (S) de pH = 10,8. (0,75pt)
+  3-2 Ecrie l'équation-bilan de la réaction qui se produit lors du mélange. (0,5 point).
+  3-3 Calculer les concentrations de toutes les espèces présentes dans cette solution.
+  En déduire le pKa du couple associé à l'amine RNH₂ (0,75pt).
+  Exercice 3
+  On considère un ressort à spires non jointives de masse négligeable et de constante
+  de raideur K = 12,5 N/m. l'une des extrémités est reliée à un cadre rectangulaire abcd
+  formé de N spires en cuivre de masse m = 320g. Le cadre peut se déplacer sans
+  frottement sur deux roues de     masses     négligeables
+  (voir fig)
+1 Préciser l'état d'équilibre du ressort.        )
+2 A partir de la position d'équilibre, on communique au
+  cadre une vitesse initiale VO de valeur algébrique
+Vo = -3,15 cm/s à l'instant t = 0. Donner l'équation
+  différentielle du mouvement et en déduire son équation horaire.(0,5pt)
+3- Le côté
+          B perpendiculaire au plan du cadre tandis que le
+uniforme  JGad restera toujours plongé dans une région ou règne un champ magnétique
+côté bc restera toujours en dehors de cette région
+(voir figure-1). On donne B = 0,T l = ad = bc = 5 cm
+N = 50 spires
+On fait une ouverture au niveau de l'un des côtés du cadre.
+3-1 Exprimer la force électromotrice induite dans le cadre
+en fonction de la vitesse V puis en fonction du temps.     (1,5pt)
+3-2 On relie les extrémités du cadre aux bornes d'un oscillographe. On observe sur l'écran
+l'oscillogramme de la figure ci contre. En déduire la période et l'amplitude des oscillations
+;on donne :balayage horizontal 0,2s/Cm,balayage vertical 21mV/Cm. Les comparer avec
+les valeurs calculées.
+3-3 On relie les extrémités du cadre entre elles, on constate des amortissements. Quelle
+est la cause de ces amortissements.
+Exercice 4        JJG
+Des ions 27Al³⁺ pénètrent en O avec une vitesse VO  horizontal de valeur Vo = 400 Km/s
+dans un plan de l'espace ABCD vertical de forme carré, de
+côté 10 cm. On donne AO = OC. On négligera le poids des
+ions devant les forces électriques et magnétiques.
+1 - dansJGla  région  ABCD règne     un     champ   électrique
+uniforme E , vertical orienté du bas vers le haut, d'intensité
+E = 200 KV/m.
+1-1 Montrer que la trajectoire des ions reste dans le plan
+ABCD.
+1-2 Ecrire l'équation de cette trajectoire. (0,75pt)
+1.3 Trouver les coordonnées du point de sortie S₁ des ions du champ électrique.
+              4
+
+1.4 Dans la région ABCD règne un champ électrique uniforme JG
+    JJG                                                                                 E ' de même direction et
+de même sens que VO                                 de valeur E' = 200 KV/m. Déterminer les coordonnées du point
+de sortie S₂ des ions de ce champ et leur vitesse V₁ en ce point.                                 JG
+2.Dans la    régionJJGABCD règne     un   champ   magnétique                            uniforme  B  horizontal,
+perpendiculaire à VO et entrant de valeur B = 0,4 T.
+2-1 Montrer que la trajectoire des ions est dans le plan ABCD. (0,5pt)
+2-2 Calculer le rayon de cette trajectoire. (0,75pt)
+2-3 Déterminer les coordonnées du point de sortie S₃ des ions de la région ABCD. On
+rappelle l'équation du cercle : (x-xc)² + (y-yc) 2
+3- Dans la région                                 = R² tel que C est le centre du JG                   cercle.
+                                                  ABCD règne un champ magnétique uniforme B de même direction et
+de même sens que JJG
+    VO                                          de valeur B = 0,4T. Donner les coordonnées du point de sortie S₄
+des ions dans la région ABCD et la vitesse V                              des ions en ce point. On donne : masse
+                                                 2
+du proton = masse neutron = 1,67. 10⁻²⁷Kg Charge élémentaire : e = 1,6. 10⁻¹⁹C (0,5pt)
+Exercice 5
+On considère trois dipôles D₁, D₂ et D₃ de nature inconnue ; un de ces trois dipôles est une
+résistance morte R, l'autre un condensateur de capacité C et le troisième une bobine
+d'inductance L et de résistance interne r.
+Dans une première expérience, on maintient aux bornes de chacun de ces dipôles une
+tension continue U=18V et on mesure les intensités I du courant qui les traverse.
+Dans une deuxième expérience: on maintient aux bornes de chacun de ces dipôles une
+tension sinusoïdale de valeur efficace Ueff      = 24V et de fréquence N = 50Hz et on
+mesure les intensités efficaces Ieff du courant.
+Les résultats des deux expériences sont regroupés dans le tableau
+ci-dessus :                                                                             Dipôle      I(A)  Ieff
+1 Calculer pour chaque dipôle les rapports UI    et UI eff . Montrer que                D₁          7,2   6,4
+                                                  eff                                   D₂          3,75  5
+l'analyse de ces résultats permet de déterminer la nature de                            D₃          0     10  -2
+chaque dipôle.                                        (0,75pt)
+2 Calculer pour chaque cas les caractéristiques de chaque dipôle. (0,75pt)
+3 On considère le cas où la tension est sinusoïdale, déterminer pour chaque dipôle le
+déphasage entre u(t) et i(t). (0,75pt)
+4 On branche les trois dipôles en série et on applique aux bornes du dipôle obtenu une
+tension sinusoïdale de fréquence variable et de valeur efficace Ueff = 24V.
+4-1 Faire     un schéma du circuit    sur lequel    vous   précisez                        le branchement   d'un
+oscillographe qui permet de visualiser u(t) et qualitativement i(t). (0,5pt)
+4-2 pour une valeur déterminée de la fréquence f₀ on constate que la tension u(t) et i(t)
+sont en phase.
+Qu'appelle-t-on ce phénomène ? Calculer la valeur de la fréquence f₀                                 et celle de
+l'intensité efficace I₀ correspondante. (0,75pt)
+4-3 Calculer le facteur de qualité du circuit et en déduire la largeur de la bande passante.
+Conclure.
+
+
+
+
+
+5

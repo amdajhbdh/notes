@@ -1,0 +1,122 @@
+République Islamique de Mauritanie    =
+Ministére de "Education Nationale     |  C & TMGM
+
+DirectionₙService        Baccalauréat 2004    4 heures
+des Examens    et de I'Evaluation
+
+
+Exercice1 ;           des Examens               Session Complémentaire
+          Dans 4 points)
+                      muni d'un repére orthogonal           (0;01,0J,0K), on donne les points  A(2;-31).
+B(3;-50) . C(2:5-4),          D(3:%:3)
+1.2 Calculer les coordonnées des vecteurs   AD, DB, CD.                                                |    (0,75pt)
+  b) Montrer que la droite (CD) est orthogonale                              3
+au plan (ABD)
+2.   Soit         H le projeté orthogonal du point C sur la                  |
+droite    (AB)    la droite         (AB)estorthogonale      ~~,     bi                                 |
+  a) Montrer que
+au plan (CDH)                                                                                               (0,5p1)
+     b) déterminer une équation cartésienne du plan
+(CDH) et une représentation paramétrique de la
+droite (AB)                                                 ed                                              (0,5pt)
+     ¢) En déduire les coordonnées du point H                                (ie
+3.2 Calculer les longueurs    AB, CD et DH.              En                  {      =                       (0,5pt)
+déduire le volume V           du tétraédre    ABCD (On
+
+rappelle que              V = is xh, ot B,  estla base du tétraédre et h, la hauteur correspondante)   ||   (0,75pt)
+
+     b) Calculer la distance du point       D au plan ABC                                                   (0,5pt)
+
+Exercice2 ;     5 points)
+Dans le plan orienté, on considére un triangle équilatéral     ABC de coté a (ou a est un réel
+
+ strictement positif) et tel que (AB; AC) =
+
+ Soit       D le barycentre du systéme
+ 1.a) Construire  D(Prendre a = 3cm et compléter cette figure au fur et @ mesure)                            (1pt)
+     b) Montrer que les droites  (BC) et (AD) sont paralléles.                                               (0,25pt)
+     ©) Montrer que le triangle  ABD est rectangle en       B
+ 2.   Pour tout point M du plan, on pose f(M)= -MA?                 +2MC*?
+ On désigne par   (F) I'ensemble des points    M du plar. tels quef(M) = 0
+     a) Vérifier que le point A appartient a (F)                                                             (0,25pt)
+      b) Exprimer f(M)en fonction des distances         MD et a                                              (0,5pt)
+      ©) Déterminer et construire "ensemble (F)                                                              (0,5pt)
+ 3.   Pour tout point     du plan, on pose g(M) =       2MA.DB +a’
+      a) Déterminer et construire           (G) des points     M du plan tels que g(M) =a*                   (0,5pt)
+      b) Soit     E le point d'intersection autre que A des ensembles (F) et (G), donner, en le
+ justifiant la nature du triangle  ADE                                                                       (0,25pt)
+     ©) Donner, en le justifiant la nature du triangle ACE                                                   (0,25pt)
+ 4.   Soit s  la similitude de centre A et qui transforme B     enD
+
+
+
+
+
+
+              2004    Session Complémentaire                                                demathématiques TMGM
+                                                                             C&                             12 |
+
+
+
+
+Annales du Baccalauréat National            Mathématiques     / Séries : C & TMGM IPN Mr /2012 - 2013        49
+
+    a) Donner     et le                           rapport de la similitude     s                                                        (0,5pt)
+    b) Déterminer, en le justifiant, I'image du triangle                            ABC par s                                           (0.25p1)
+©) doit     s * 1a          réciproque de la similitude s; déterminer et construire les images
+pars” des ensembles
+
+Le plan est; 11            (F)                    et  (G)                                                                           |   (0,25p1)
+                                    rapporté au repére orthonormal  (Oi, j)unité 2 cm.
+                                                                    Partie |
+1.    Soit  f la fonction numérique définie sur                     IR              f(x) =x
+
+Soit   (C) la courbe représentative def dans le repére                              (O51, j)
+    a) Etablir Je tableau  de variation de                                                                                              (pt)
+    b) Montrer que la droite                                     y = x             est asymptote 4    la courbe  (C)et préciser la
+position de (C) et    (A)                                                                                                               (0,5pt)
+    ©) Tracer la            et                        la courbe (C)dans le                 j).                                          (0,5pt)
+2.a) Déterminer les positions relatives de                                   (C)et de la droite A,                                      (0,5pt)
+    b) Calculer I'aire                         A de la partic  P du plan délimitée par la courbe     (C) et les droites
+4,                                                                                                                                      (0,5pt)
+                                                                           Partie Il
+            Dans cette partie,  on associe a                    tout point M(x,y) son affixe z = x +iy
+Soit s     I'application du plan dans lui-méme qui & tout point                              M(z) associe le point     M'(z') tel
+
+que             a=
+
+1.    Déterminer la nature de s                       et donner ses éléments caractéristiques                                           (0,5p1)
+2.    Calculer les coordonnées                        x    et  y du point  M en fonction de x'     et  y'     celles du point      | (0,5pt)
+3.    Déterminer les équations des transformées par s                                  des droites (A,)ix                     =x—3 | (@,Spty
+
+4.sa  Soit  g fa fonction numérique définie sur                                     par                          - 2x) et soit (I') |
+
+      courbe représentative dans le                                                                                                 i
+    a) Si   M est un point de (C)                       ct     M'=s(M) montrer alors         que I'abscisse      x'de Mest          |
+strictement inférieure a                             2 et que   est un     point de la courbe                                           (0,5pt)
+    b) Si  M" est sur      montrer alors qu'il existe un point                             M de (C)tel que M'=s(M)                      (0,5pt)
+    ©) Déduire de ce qui précéde que                      (T')  est 'image de (C) par s.                                                (0,5p1)
+                                                                           Partie 111
+1.                          Dresser le tableau de variation de la fonction
+                                                                    }-a,2[ par
+2.    Soit  h la fonction numérique définie sur                                   g, en précisant ses limites en  — oo et en   2”       (1pt)
+
+                            h(x) =f(x)~g(x)=2x~1-¢""
+                   HEN SM DEN                                                                                                  vi
+       3.a) Déterminer le sens de variation de h'                          sur     w,2[ puis calculerh'(1)                               |   (0,5pt)
+       b) Dresser le tableau de variation de                     h sur                  calculer  Jim                lim h(x)            |   (0.5pt)
+
+                                 c) En déduire que I'équation           h(x) = 0 admet exactement deux solutions  a et       sur E       [
+
+
+
+                                                      J).                                                                                    0,5pt)
+4.d) Préciser les positions relatives descourbes (C)et (I)                                                                                     |aga
+      Tracer                          dans le repere(Osiy
+ 5.   Soit  P' la partie du plan délimitée par la courbe                                   et les droites d’équations respectives
+
+ y=-x+letx                                            admet que la partic  Pest transformée en P' par            s, calculer aire
+            la
+ Ade partic P'                                                             FIN                                                                  ...
+Baccalauréat 2004           Session Complémentaire
+                                                                               Epreuve de mathématiques           _ Séries : C & TMGM _ 272

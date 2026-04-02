@@ -1,0 +1,128 @@
+---
+title: "BAC C 2007 - Session Complémentaire - Mathématiques"
+year: 2007
+exam: "BAC C"
+session: "Complémentaire"
+subject: "Mathématiques"
+series: "TMGM"
+duration: "4 heures"
+coefficients: "4"
+type: "Examen"
+---
+
+# BAC C 2007 - Session Complémentaire - Mathématiques
+
+**Série:** TMGM | **Durée:** 4 heures | **Coeff:** 4
+
+---
+
+République Islamique de Mauritanie    — Fraternité - Justice
+          de I'Education
+                  et  desᴺᵃᵗⁱᵒⁿᵃˡᵉ 3ACCAlAUT
+Direction des Examen  concurs.     EAL Series:^{4}  C & TMGM
+       Service des Examens            2007  Epreuve: Mathématiqu
+        Durée: 4 heures
+                             Session Complémentaire    Coeflicients: 9& 6
+    Excrcice 1 4 points)
+    Dans le plan orienté     P. on considére le carré direct ABCD de centre
+    Onrote E le symétrique de C par rapport 2 D.        Q et decoté 3
+    1.a) Construire Ic carré puis déterminer I'ensemble des points M du plan P dans chzcun
+    des cas swvants ;
+             Merl,    (MA        5p
+             Mel, & MA" -MB'     =a’
+                   <> (MA        —     2MB + MC)=0
+               h) Quel        Mer, [MA ~                            =  MD ~ Mc)
+                          constat peut on faire       4 propos de ces quatre ensembles.
+           2.         tout réel k , on définit                                    P dans lui-méme qui & tour point                      M          0,25 pr)
+                plan          le point M" tel que       :     MM"             ~MBE     +       (1-k)MC.
+                  Pour quelles valeurs de             "application f,  est    une transiation?                                 alors son vectenr   9.5 pz}
+                  Ca suppose que    k €                 -Montrer que f,       admet un unique point invariant                         . Reconnaitre
+                  1   ot  donner      ces éléments                                                                                                0,75 pri
+                             ater et construing le      géométrique des points                Q,        lorsque     k  décrin        if.           @.5 pr)
+                        k= :    determiner            construire                  le lieu géométrique du point  G centre de               du
+          tnangle     DMM" lorsque             M décsit ie cercle  de diamétre              (cE)
+    Fxercice 2 6 points)
+                            Dars le plan orienté, on considére le      direct     ABCD
+          Vo   Jo         L des milicux  respectifs des cotés (AB),                          (BC).   de  centre        et  de        5  (a >Q)
+                                                                                              (CD) et (DA)
+            b}        nase                 figure (On pouna prendre (AB) horizontalc),                                                    0.25
+                         Moatrer qu'il existe une unique rotation  r qui transforme                  A en O                                             pt;
+            ©)  Déterminer  "angle et  le  centre       de cette rotation.                                      et         K                       0,25 pt)
+    2.2 Vénfier gue           r=                                                                                                                    6,5 pr)
+           1 En déduire la nature ef     les              éléments caractéristiques de    g   telie que:        g =                            9,5 pt)
+    Aa)                   qu'il existe unc unique similitude directc              s,      qui        transforme            en   | et  C en B     0.25
+           1 Determiner     Je         of               de                                                                                0,5           pry
+           3 Vérifier                                                                                                                              pr)
+    4.                                     divecte qui transforme  A en OQ    et          Ben  D                                              0.25 pt)
+          #1              le  rapport                 de s,                                                                                        0.5 pj
+  TT                                                                                                                                              a
+    Annales du Baccalauréat National                  Mathématiques    / Séries   :       C & TMGM              IPN /Mr               - 2013       1
+b) Montrer que le centre  T de s,, appartient au cercle (C,) de centre C et de rayon CD et au cercle
+      de diamétre (AB). Placer T.                                                            0,5 pt)
+             (C,)
+     h=s, os,"    ;       pour tout point M du plan pn pose 5,(M)=M" ct 5,(M)=M".
+ a) En utilisant h, montrer que le      F du segment ™M »] est un point fixe que Ion
+déterminera. En déduire que le quadrilatére AM     est un paralléfogramme.                   0,5 pt)
+                                                                                                 pt)
+ b) Montrer que  s,(0)=L.                                                            0,25
+ c) En déduire que les points A, F, T ct    L sont cocycliques.                             0.25 pt)
+ Déterminer la position des points     et   M" dans chacun des cas suivants
+M=A, M=F,M=TectM=L.                                                                  0,5 pt)
+b) On suppose que M cst distinct des points A,L,Fet T.
+Montrer que               =    1                                             0,25 pt)
+c) En déduire             I”   des points M du plan tels que les    ¢t soient
+alignés. Tracer I.                                                           0,25 py
+               10 points)
+                                                   Partie A 5 points)
+      Pour tout entier naturel         n       on définit la fonction f, sur KR, par: f(x)=x-nlnx     .
+ Soit €, sa courbe représentative dans un repére orthonormé direct     (0; i, j)      2em .
+     (hans estie question on suppose que           n=1, et pour tout x de         ona:            f(x)=x-lox
+               gine  f(x)     Tonner une interprétation graphique.                                           0.75 pt)
+ 2 Caleuler    lim   f(x)        lim              tim (f,      — x)          une
+                                                                  (x) - Donner interprétation graphique      0,75 pr)
+               fe                      x
+©:)  Dresser le tableau de variation de        f,.                                                            0,75 pi
+il)  Tracer C, dans le repere       (0:1, 0                                                                   0.25 ps
+2.  Dans cette question,         suppose que         n2 1
+i)  Dresser le 1ableau de                     de f, .                                                         6,5 pt)
+1              les points              a      toutes les courbes  puis der kes positions relativesde C,
++}  Montrer que les tangentes aux courbes          C, aux points                  x, =e passent par un point
+commun gue                déterminera.                                                                       0,25 pt)
+“.  On considére les points      My. M,        et     M_, de méme abscisse x, et  apparienant respectivement
+ aux courbes C,.          C, et  C,-
+    &) Vérifier que pour tout       x>0 ona: f                       a(f,                                     0,5 pt)
+    b) En déduire que :          MM,               .                                                         0,25 pr)
+      Trace;  C, dans le repére précedent el donner une méthode géoméuique simple pour la
+              de C,       point  par point, &  partir de Cet        lacourbe C,       dans
+construction         ,                                                                ce repére.              0.5 pt)
+     CER                         Gods                                             Shin                       3
+Annales du Baccalauréat National               Mathématiques / Séries :  C & TMGM IPN /Mr /2012 - 2013       32
+B 5 penis)
+Soit g la fonction de variable réclle x   par:
+                                          Gx) x-lax'Xx  x>0
+                                                  8(0)=0
+Soit la courbe de      g dans un nouveau repére                         (0; I)                        5p
+1.0 Déduire de            A.1.c) que Je domaine de définition de g est    D, =                       5p)
+   b) Monuer que la fonction          g est continue sur D,.graphique.                           0,25 py
+2.2 Calculer     lim   g(x) - Donner une interprétation
+   b) Calculer             im £2. Donner une interprétation graphique.
+                       x                                                                             5p)
+   3.8 Calculer  g'(x) pour x>0.
+   b} Dresser le       tableau de variation de    g  puis construire sa courbe    I.      nx _1
+     d'un encadrement
+4,  A partir                       de g(x) sur    Vintervalle[1;e) ; démontrerque:      ona 0
+    Pour tout entier naturel       1, on définit la suite numérique (u,)par:
+                                       =          pow                           ot   [ax
+     4 Calculer    Ug  et   U,.                                               conclure?
+    b) Montrer que        (u,) est positive et                      Que peut an en
+    ©) Montrer que pour tout entier naturel       ons,     0SU            el . En déduire lim U, .  0.25
+62 On pose 1=       $              =             (Io J’ᵉᵗ pour tout entier naturel nS, =     +...+U,. 0,25 pr)
+    Montrer que :      S, =                       .
+    b) Mentrer J       = §, = I                   (  wit dx                   0,25 pt)
+    ¢) En utilisant B.4). monuer que              2 l'un déduire que =   lim 8 =1    1,25
+                                                                         kid
+d)Montrer que S_                      +                                   4.25
+¢) Pour quelles valeurs de         a  ;    S, est une vakur approchée de  1a    pt)
+                                                      Fin.
+                       Sei                        mos                     SORT    EN
+Annales du Baccalauréat National                  Mathématiques     / Séries :  C & TMGM IPN  - 2013  33

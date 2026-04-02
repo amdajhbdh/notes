@@ -1,0 +1,105 @@
+      Bac 2019     )      complémentaire
+      session
+
+      /
+      |      Enonce
+
+Exercice N°]
+Le plan complexe est muni     repére orthonormeé direet  Pour tout nombre complexe
+
+ LL. (12+     +              45 + 42 - 54-9),        z     on pose :
+     Déterminer les nombres m et D tel que YaeC,     = 2 3    p)
+ b. On considére les points A, B ot C images respectives des ~ - 41 a” + ma + pus résoudre dans C Péquation|
+  Placer les points A, Bet C        |     solutions de      P(z) =0, avec      2     Re(zy) 2
+  23. Déterminer Paffive du paint 1, baryeentre dy      {(A; -3); (B;2); (C
+  D. Donner Péeriture complexe de a simiitude directe de centre J, de rapport 5 of d’angle
+
+
+  3. Montrer que image de C par § ste point D        |
+      On      ellipse I     de centre  | dont Det A sont des
+ 8 Donner      rdute de T     dans le repre (0:77),
+ 0. Determiner        es                  ef les autres sommets de Construie
+  4. On considére In suite (M,) des points dy plan définis par My = C et Yel; = SOM)
+   a. Déterminer les affixes           2,    ety des points My     ,  et Ms.
+   b.   Montrer que tous les points M, appartiennent i [une de quatre droites (IA), (IB), (IC) et (ID), Laquelle passe par
+   Exercice N°)                            |
+
+   On pose, Yoel", I, = |⁴ (x-2)" a        |
+
+    La. A Taide    intégration par parties,      I,        |
+
+    b. Montrer que Yael", 0 <1, €
+
+    La. A Paide    intégration par parties, montrer gue     :      = 1, =     ntl xe,
+
+     b. Montrer que In suite 1, est décroissante et en déduire qu'elle est
+
+         u,
+     3. On pose Ynel',
+                                           |
+         )
+     2. Verifier que                       |
+
+  i
+
+b. Mont vn    < n-$ .En déduire lim Un
+
+ Justifi que vn ¢ N'; 0<1, < (e? 1)u, puis en déduire Lim I |  25
+      1     ok        |
+
+4.2.        3
+      Monty        N* | =1-¢2x     PL La 2’     -2     k=0 —     .
+
+
+ b. En déduire
+                 .      que      2                2        2h        |        |
+
+                 io)     12                                 nl
+           ercice                                                           |
+ A
+ On              up triangle ABC rectangle Isoctle direct      en A,    Qn définit les milleux X res resp ectifs 1, J, J, K et O de segments [Ap
+  [CA]
+  1.         et [AJ]. Soit  D Ie symétrique de A par rapport a J.
+          Placer les      précédentes sur une figure qui sera complétée au fure ¢ mesure.        donner
+          On considere                       { qui transforme K en J et I en D. Vérifier que ¢  st une symétrle glissante et                  gy  mM
+  reduite,
+  : a, Montrer qu'il existe une unique similitude directe      qui transforme A en JTetBen J,                                                     3
+           Montrer                                             circonscrits         AOT     En     déduire     que     {2e(BO),
+   ¢..     Déterminer le rapport et une mesure de          de §        et        i      0
+   d.                que le centre    de S appartient aux cercles      aux triangles      .        )
+            Déterminer S(C) et en déduire que les points   C   et I sont alignés.
+
+           Soit h ’homothétie de centre Q qui transforme O en B et soit g = hoS.
+   4, Trouver deux réels a et b tels que       = bar{(C, a); (I,b)).        |
+    A.     Montrer que h(1) =C et en déduire le rapport de h,
+    b. Donner Ia nature et les éléments caractéristiques de g et déterminer g(A)     ef g(1)     :        t     (Al.
+    ¢.      Déterminer Pimage du carré AIJK par g et en déduire que Ia droite (QD) passe par le milieu L du segment     [Al
+    Exercice N°4 ;                                                                                                                                   |
+     Soit la fonction f définie sur - 1;   par: f(x) = et soit (C) sa     courbe représentative dans un repére orthonorm     (0:5;                   |
+     d’unité       graphique 2 cm,                4        X      '                                                                                  |
+      I.     Pour tout réel strictement positif x, on pose u(x)=1+x*(1 - 3Inx),                                                                      |
+     a. Calculer lim u(x) et lim u(x).                         |                                                                                    |
+
+     b.      Dresser le tableau de variation de u.
+     ¢.     Montrer que I'équation u(x) = 0 admet une unique solution a et que 1,5 <a <1,6, En déduire le signe de u(x),                            |
+     2.2. Calculer et interpréter graphiqueinent lim f(x)et lim f(x).
+
+      b. Montrer que Vx>0     f(x) =       et dresser le tableau de variation de f.                                                                 :
+
+      ¢.    Vérifier que          et tracer la courbe (C).
+
+     3.      Pour tout entier n strictement positif, on définit Ia suite (v,) par v, = Int)"                                                       :
+
+       a.    Montrer que la suite, (v,) est décroissante et minorée puis en déduire qu'elle est convergente.                                       |
+       b. Montrer que Yn21     J;              J;              |                                                                                   |
+
+       4, On note, pour tout entier n strictement positif, w,, = J                                                                                |
+
+        a, Justifier que la suite     est décroissante.                                                                                            |
+        b. A     d’une intégration par parties,
+
+        c. Montrer      2 1;     e             que             wy =e                                                                              |
+
+             Wn     — Wy                       — -Endéduire lim     w,.        |                                                                  |
+             ie     no                         déduire lim
+        d. Justifier que        puisen         :               v,        |                                                                        ||

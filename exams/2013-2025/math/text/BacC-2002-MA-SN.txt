@@ -1,0 +1,132 @@
+REPUBLIQUE ISLAMIQUE DE MAURITANIEᵃᵗ     Hoaneur
+MINISTERE DE        NATIONALE              Séries:Fraternité — Justice
+                                                       C & TMGM
+DIRECTION
+SERVICE DESDEEXAMENS  SECONDAIRE           Mathématiques
+    BACCALAUREAT 200                     |               emesis
+    ion Normale
+
+
+
+                                                                              H        G
+        On considére le cube ABCDEFGH               de centre
+Oetdaréte     a,     (a> 0)(ne pas refaire la figure)        ;      i
+1.    Montrer   que    les triangles BED et CHF          sont
+équilatéraux                                            (1pt)  \
+2     Soient Tet     J les     centres de gravités respectifs
+des triangles BED et CHF                                                   x
+     a)Prouver que         LO
+                                                         Spt.   p 7                                c
+
+     b) En déduire que                        que Oest le        25
+milieu de  [13].                                      (0.5p0)  aka
+
+3.   Soit  s, la réflexion de plan (BAG) et soit s,    la  réflexion de plan (DAG); on pose f
+a)    Montrer que f est une rotation puis déterminer     f(G) et f(A), que peut-on en déduire? (Ipt)
+b)    Montrer que la droite (AG) est perpendiculaire aux deux plans (BED)et (CHF).
+
+d)    Montrer que f    laisse globalement invariant les     triangles BED et CHF             0, Spt)
+      En déduire |'angle de f par rapport a un axe orienté dont-on     donnera le sens.     (0,25pt)
+
+
+           On                 un triangle                     ABC direct, rectangle et isocéle en  A et     et I"       deux cercles
+passant    par   A et de centres respectifs   B et C.                     Soit G  le deuxiéme point d’intersection et           I'et
+soit     D le point de    £                      diamétralement opposé a A .
+1.   a)    Faire  une                      figure illustrant les données précedantes a compléter au fur et a mesure (On prend
+      pour la construction          AB = 4cm                                                                                   (1pt)
+     b)    Prouver I'existence d'une                         unique rotation r qui transforme     Aen Det Cen B,   donner ses
+éléments caractéristiques.                                                                                                     (1pt)
+2.   Pour tout     point      M de I",distinct de G on pose r(M)= M’;               la droite (GM) coupe X     en        N'et
+      la droite   (GM"') coupe I" en     N
+     a)    Construire    les  deux  points Ret S                      tels que    les deux quadrilatéres       M'GMR et N'GNS
+           soient  des   carrés, puis déterminer les éléments caractéristiques de la similitude directe s                        qui
+           transforme    M en Ret N     enS                                                                                 (0,75pt)
+     b)    Prouver que la droite (RS) passe par un point fixe lorsqueM              décrit         I privé de G.     (0,25pt)
+3.   Soit  s'    la similitude directe qui transforme     D en Bet Ben C; et soit I son centre.
+      a)   Déterminer I'angle et le rapport de s'                                                      (1pt)
+      b) Démontrer           (ID,
+               que             1B) =                                       (1)et  (ID,IC) = (AD,AC)     [x]  2
+      ¢)   Déduire    de  1 et de  2 la position                           du point   I centre de  s' puis déterminer la nature du
+quadrilatére     ACID.                                                                                                      (0,25pt)
+                                                                                et déterminer son rapport    et son centre. (0,25pt)
+4 On posef = sos’, montrerquef est une homothétie
+
+      Baccalaur€at2002      Session Normale                       EpreuvedeMaths     Sirkes Mathématiques        172|
+
+
+
+
+
+
+
+
+
+Annales du Baccalauréat National  Mathématiques / Séries :                        C & TMGM         IPN Mr /2012 - 2013  56
+
+¢  Probléme (11points) N.B: La partie C de ce probléme peut étre traitée avant la partie B.
+    Partie A
+   On consideére la fonction numérique f définie par:
+
+    —;1                                            xe  fs + +e
+
+
+
+Soit                            C, sa courbe représentative dans un repére orthonormé     (Osi       (Unité lem).
+1.   Etudier la continuité et la dérivabilité de                       f au point d’abscisse     x,  =0                     (1pt)
+2,   Dresser le tableau de variation de f                                                                                    (1,5pt)
+3.   Démontrer que C, admet un point d’inflexion dont on donnera les coordonnées.                                           (0,75pt)
+
+4,   Construire C, dans le repére                                                                                           (0,75pt)
+                                                                         Partie B
+             de
+       Soitf, la     fonction définie                                     } par: f,(x) =                ol nest un entier naturel et
+                                                                                          -          x
+
+soit                            C, sa courbe représentative dans le repére orthonormé             2
+1.    Démontrer   que    C,ₑₛₜ l'image de                       C, par    une homothétie     h,  de centre O dont on donnera      le
+
+2,    rapport                                                                                                                (0,5pt)
+      Dresser le tableau de variation de f, (On pourra le déduire de celui                                                   (0,5pt)
+3.    Démontrer que la    courbe        de                         est        de C, par h,.                                  (0,5pt)
+
+                                                               C,         se coupent en un point
+4.    a) Démontrer que   les deux courbes                                                           M,      x,       =e
+       b)  Démontrer que les points   M, appartiennent & une droite fixe passant par                     O.                 (0,25pt)
+           Construire,   dans un                         méme  repére, une allure de  C, et          en déduire la position relative
+                                   de ces deux courbes ( a résumer dans un tableau)                                         (0,75pt)
+
+5.    Soit   gla fonction     définie sur                      IR, \{e}par     TTT₋             x    Comment    déduire  de C,une
+
+       construction    de  la courbel” représentative de g (sans étudier g)? Construire                  C, et I"           dans un
+       nouveau repére                                                                                                        (0,5pt)
+                                                                         Partie C
+           Soit  F la fonction numérique définie par:
+
+                                                                          f(t)de;      x>1
+                                                               F(1)=0
+ol      fest la  fonction  définie                        a la  partie   A (le calcul  de    I'intégrale     F(x)n’est pas
+1.   Montrer que pour tout       x > 1ona:                         2 x puis    justifier I'existence de F(x) pour toutx  > 1. (1pt)
+                                                                   =
+        Montrer que pour tout                         x > Lon a    x                               *)-                       (0,5pt)
+
+    b) En déduire que    F est continue au point d’abscisse                   x,     =1                                      (0,5pt)
+                           de F sur   [2; +a].
+3.   Soit  G la  restriction
+     a) Calculer  G'(x)et G"(x) puis montrer que Vx >2;                              G'(x)>0.                                (0,5pt)
+
+     b) Calculer  lim G(x) et     lim Gx) (on pourra utiliser I'inégalité                           (*)).                    (0,5pt)
+                 beh                   x
+     ¢)                             Dresser le tableau de variation de G puis construire une allure de sa courbe représentative dans
+un nouveau repére orthonormé                                                                                                 (0,5pt)
+                                                                            Fin.
+
+
+
+
+
+
+
+
+
+
+Annales du Baccalauréat National      Mathématiques                       / Séries   :  C & TMGM     IPN /Mr /2012 - 2013  57

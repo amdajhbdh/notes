@@ -1,0 +1,103 @@
+ République Islamique de Mauritanie       BACCALAUREAT 2024                            Série : M & TMGM
+ Ministère de l’Education Nationale et de      Session Normale                             Coefficient : 9 & 6
+ la Réforme du Système Educatif                                                               Durée : 4h
+ Direction des Examens et des Concours     Epreuve : MATHEMATIQUES
+
+Exercice 1 (3 points)
+ On considère l’équation (E) :        104x − 17y = 278  d’inconnu le couple (x, y) , x et y
+ étant des entiers.
+ 1. a) Justifier que l’équation (E)  admet des solutions                                           0.5pt
+ b) Vérifier que le couple (3, 2)  est solution de (E)  puis résoudre (E) .                        0.75pt
+ 2. Soit p un entier naturel qui s’écrit 1ab1b  en base 6 et 1aabb0  en base 4.
+ a) Montrer que le couple (a, b) est solution de (E) .                                             0.5pt
+ b) Déterminer a et b puis écrire p en base 10.                                                    0.75pt
+ 3. Soit (x, y)  une solution de (E) . Montrer que x  3 17    puis en déduire que
+ x²⁰²⁴ + 1  0 17                                                                                0.5pt
+
+Exercice 2 (3 points)
+
+ Pour tout entier naturel n, on pose Iₙ = ₑ¹−1 x(1 + ln x) ⁿ dx  et uₙ = (−2)ⁿ I
+                                                                             n!    n
+ 1. Montrer que la suite ( Iₙ )  est décroissante et positive.                                     1pt
+
+ 2. Montrer que n  0; 2Iₙ₊₁ + (n + 1)Iₙ = 1 . Déduire que n  0; n 1             I    1       0.75pt
+                                                                         + 3           n   n + 1
+                                     ( 2)
+ 3. a) Montrer que uₙ = uₙ₊₁ + (n−+ 1)!ⁿ   ; n  0                                                0.5pt
+
+ b) Vérifier que n  3,    uuⁿ⁺¹      1  puis en déduire lim u   .                               0. 5pt
+                                n         2        n→+     n
+                     n    ( 2)
+ c) Déterminer  nlim        −  p    .                                                             0.25pt
+     →+ p=0 (p + 1)!
+
+Exercice 3 (5 points)
+ Le plan complexe est muni d’un repère orthonormé ( O; i , j ) .
+ Pour tout nombre complexe z on pose P(z) = z    3     − (2 + 2i)z 2 + 11z + 38 + 8i .
+ 1.a) Calculer P(−2)  puis déterminer les complexes a et b tels que                                1pt
+ P(z) = (z + 2)(z² + az + b)
+ b) Résoudre, dans     , l’équation   P(z) = 0 . On note z ₁ , z ₂  et z₃ les solutions de cette   1pt
+ équation avec Im(z )₁     Im(z ₂)  Im(z ₃)
+ 2. On considère les points A, B et C d’affixes respectives z ₁ , z ₂  et z₃ .
+ a) Placer les points A, B et C.                                                                   0.75pt
+ b) Montrer que le point D d’affixe 6 est le barycentre de (A, 3);(B, −4);(C,5) .                0.5pt
+ 3. On définit l’ellipse E, dont A et B sont deux sommets et dont C est un foyer.
+ a) Reconnaitre l’axe focal de E et en déduire que D est un 3ᵉ sommet de E.                        0.5pt
+ b) Préciser le centre et le 4ᵉ sommet de E.                                                       0.5pt
+ c) Justifier que (x − 2)² + y²       = 1  est une équation de E, puis construire E.               0.75pt
+     16     25
+
+Baccalauréat 2024     Session Normale     Epreuve de Mathématiques       Séries M & TMGM            1/2
+
+Exercice 4 ( 4 points)
+
+ On considère la fonction numérique f définie sur     (     par  f (x)) = e2xx− x  et soit (C) sa
+
+ courbe représentative dans un repère orthonormé           O; i , j       d’unité graphique 2 cm.
+ 1.a) Montrer que xlim f (x) = −1 . Interpréter graphiquement.                                      0,5pt
+     →−
+ b) Montrer que xlim f (x) = 0 . Interpréter graphiquement.                                         0,5pt
+     →+
+ c) Dresser le tableau de variation de f.                                                           0,5pt
+ 2. Soit h la restriction de f sur I =  1 ; +  .
+     2     
+ a) Montrer que h réalise une bijection de I sur un intervalle J à déterminer.                      0,5pt
+ b) Dresser le tableau de variation de h−¹  ( h−¹  étant la réciproque de h).                       0,5pt
+ 3.a) Déterminer une équation de la tangente T à (C)  au point d’abscisse 0.                        0,5pt
+ b) Construire la courbe (C)  et la courbe (C )  de h−1  dans le repère ( O; i , j )               0,5pt
+ 4) Soit A l’aire de la partie du plan délimitée par (C) , l’axe des abscisses et les
+
+ droites d’équations x = 1  et x = 1 . Montrer que         1  A      1     .                      0,5pt
+     2        2e² − 2                                          4e − 2
+
+Exercice 5 (5 points)
+
+ ABC est un triangle isocèle en A tel que (AB, AC) = 23 2  , I est le milieu de  BC
+
+ et D = S (A)I . Soient J, K, L les milieux respectifs de  DC , CA  , DJ  et soit   le
+ cercle circonscrit au triangle ADC.
+ 1° Faire une figure.                                                                                1pt
+ 2°a) Montrer qu’il existe un unique déplacement r tel que r(C) = D  et r(K) = I .                  0,5pt
+ b) Vérifier que r est une rotation puis déterminer son angle et son centre.                         1pt
+ 3° Soit f l’isométrie plane telle que f (C) = A , f (A) = D  et f (D) = B
+ a) Montrer que f est un antidéplacement.                                                           0,5pt
+ b) Justifier que f est une symétrie glissante puis donner sa forme réduite.                        0,5pt
+ 4° Soit s la similitude directe qui transforme A en D et C en J.
+ a) Déterminer le rapport et un angle de s.                                                         0,5pt
+ b) Montrer que le centre   de s appartient à  .                                                  0,25pt
+ c) Déterminer s(K )  puis en déduire que ,C, K  et L  sont cocycliques.                           0,5pt
+ d) Soit M un point de   diffèrent de  , et M = s(M) , montrer que la droite (MM )              0,25pt
+ passe par un point fixe à préciser.
+
+ Fin.
+
+
+
+
+
+
+
+
+
+
+Baccalauréat 2024 Session Normale Epreuve de Mathématiques Séries M & TMGM                          2/2

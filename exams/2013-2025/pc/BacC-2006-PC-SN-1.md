@@ -1,0 +1,137 @@
+---
+title: "BAC C 2006 - Session Normale - Mathématiques"
+year: 2006
+exam: "BAC C"
+session: "Normale"
+subject: "Mathématiques"
+series: "C"
+duration: "4 heures"
+coefficients: "8"
+type: "Examen"
+---
+
+# BAC C 2006 - Session Normale - Mathématiques
+
+**Série:** C | **Durée:** 4 heures | **Coeff:** 8
+
+---
+
+REPUBLIQUE ISLAMIQUE DE MAURITANIE                    Honneur Fraternité Justice
+Ministère de l'Enseignement Secondaire et Supérieur   Série :
+                                                      Mathématiques/T.M.G.M
+Direction des Examens et de l'Evaluation              Durée : 4H Coefficient : 8/4
+Service des Examens
+                              Sciences-physiques session normale 2006
+Exercice 1
+On mélange dans un Becher un volume V₁            = 50mL d'une solution d'iodure de
+potassium (K⁺+l⁻) de concentration molaire C₁ = 5.10⁻³mol/L et un volume
+V₂ = 75mL     de          peroxodisulfate    de  potassium
+(2K⁺+ S2O8²⁻) de concentration molaire
+C₂ =     2.10²⁻mol/L          .  La   solution     dévient
+progressivement jaunâtre à cause de la formation
+du diiode l2. On donne les potentiels standard des
+couples          redox    intervenant dans   la réaction :
+ES ₂₀₈2−/S0₄2− = 2 ,1V ;  Eₗ₂/I− = 0 , 54V
+1  Ecrire         les demi     équations  électroniques et
+l'équation bilan de la réaction.
+2 Calculer les concentrations initiales des ions
+iodure [I⁻]₀ et peroxodisulfate     ⎡⎣S O₂   82− ⎤⎦0 .
+En déduire le réactif limitant.                  (1 pt)
+3 On étudie la vitesse de formation du diiode l₂ en fonction du temps ; pour cela on
+opère des prélèvements du milieu réactionnel à différents instants t qu'on refroidit
+immédiatement. L'ensemble des résultats donne la courbe de variation du diiode en
+fonction du temps.
+3.1 Pourquoi refroidit-on les prélèvements ?     (0,25pt)
+3.2 Calculer la vitesse moyenne de formation du diiode entre les instants t₁ = 10mn
+et t₂ =55mn.              (0,5pt)
+3.3 Définir la vitesse instantanée de formation du diiode et la calculer à l'instant t = 20mn
+en déduire la vitesse de disparition de l'ion iodure à cet instant.(0,75pt)
+3.4 Calculer le temps de la demi réaction.
+Exercice 2
+On considère les composés suivants :
+(A1): CH₃-CH2-CH2-CH2OH; (A2): CH             -C(CH3)OH-CH3; (A3): CH3-CH(OH) -CH₂₋
+CH₃ ;
+(A4): CH3-CH(CH3)-CH₂OH.
+1. Préciser les noms et les classes de ces alcools
+2. Quelles sont les fonctions des produits obtenus par oxydation ménagée des alcools
+   précédents qui peuvent subir cette oxydation.
+    3. Ecrire l'équation de la réaction d'oxydation ménagée du composé (A3) avec le
+       permanganate de potassium. On donne le couple
+    MnO₄− / Mn²⁺ .
+4.  On obtient un composé (E)en faisant réagir l'acide propanoïque avec le composé (A₁).
+       Ecrire l'équation de la réaction et préciser son nom, ses caractéristiques ainsi que le
+       nom du composé (E).(0,5pt)
+    Exercice 3 (4pt) On néglige les frottements
+    On fixe l'une des extrémités d'un ressort à spires non jointives de
+    raideur K et de masse négligeable comme l'indique la figure.
+    Le ressort s'allonge   de  ∆l=2cm  lorsqu'on       suspend  à  son  autre
+    extrémité une masse ponctuelle m=400g.
+    1 Calculer la valeur de la constante de raideur K du ressort.
+    2  Le    point matériel effectue  des    oscillations et à  un  instant t
+    quelconque ce point matériel a pour abscisse x et pour vitesse V.
+    On prend pour origine des énergies potentielles de pesanteur le plan
+    horizontal passant par l'origine O des abscisses et pour origine des
+    énergies  potentielles élastiques  l'énergie   potentielle  du  ressort lorsqu'il n'est ni
+    comprimé ni allongé.
+    2.1 Exprimer l'énergie potentielle de pesanteur Eₚₚ en fonction de m, g et x.
+    2.2 Exprimer l'énergie potentielle élastique du ressort Epₑ en fonction de m, g, x et K.
+    3 Exprimer l'énergie mécanique Eₘ du système (ressort-masse-terre) en fonction de m, g, x,
+    V et K.     (0,75pt)
+    4 Déterminer la nature du mouvement et écrire son équation horaire si à l'instant t=0, x₀=0
+    et V₀= -2m/s.  (1pt)
+    5 Calculer la valeur de Eₘ,
+    Exercice 4
+    1 On considère un solénoïde formé de 800 spires par mètre parcouru par
+    un courant de 5.10-2A.
+    1.1 Faire le schéma du solénoïde en précisant un sens pour le courant, et
+    donner les caractéristiques du champ magnétique crée par ce
+    courant en son centre C. On donne : μ  0    = 4π .10⁻⁷S.I
+    1.2 Déterminer l'angle de déviation d'une petite aiguille
+    aimantée  sur   pivot  placée  en son  centre si  l'axe    ∆ du
+    solénoïde  est    perpendiculaire  au  méridien   magnétique
+    (schéma obligatoire).
+    2 L'aiguille aimantée est retirée et remplacée par une bobine
+    plate carrée de coté 8cm, comportant 100 spires. Le solénoïde est traversé par un
+    courant variable i = 2 .10−1 cos (100πt + π)
+    2.1 Donner les expressions du flux magnétique à travers la bobine et de la force
+électromagnétique induite en fonction du temps et déterminer leurs valeurs maximales
+fig 1.
+2.2 Que détecte un oscilloscope branché aux bornes de la bobine en circuit ouvert.
+Donner l'allure de cette courbe pour t[0;20ms].
+3 On réalise le montage de la fig 2 qui comporte le solénoïde précédent de résistance r
+= 4Ω et d'inductance
+L = 0,1 H monté en série avec un dipôle ohmique de résistance
+R = 10 Ω. Le circuit est alimenté par un générateur de tension délivrant des signaux
+triangulaires.
+On observe sur la voie 1 la courbe de la fig 3. Trouver les expressions de la tension
+UCD aux bornes de la bobine visualisée sur la voie 2.        (1pt)
+Exercice 5
+1 On réalise le circuit de la figure 1. Le générateur G délivre
+une tension alternative sinusoïdale de fréquences N variables
+et de valeur maximale constante. Le circuit renferme une
+bobine   d'inductance L   et de     résistance interne   r, un
+condensateur de capacité C et un dipôle ohmique de résistance
+R. Un oscillographe est branché comme indiqué sur la figure
+1 ; il donne l'oscillogramme (fig 2).
+1.1 Préciser la valeur maximale de chaque tension visualisée,
+et calculer la fréquence N₁ du générateur.
+1.2 Quelle est, des deux tensions, celle qui est en avance sur
+l'autre. Déterminer le déphasage (φ de l'intensité par rapport à
+la tension d'alimentation. Donner l'expression de cos ϕ     en
+fonction de R, r, l et la valeur de la tension efficace U aux
+bornes du générateur.(1pt)
+1.3 L'ampèremètre indique une intensité égale à 59mA calculer R et r.(1pt)
+2 On retire l'oscillographe et on branche dans le circuit, trois voltmètres V1, V₂ et V₃
+comme l'indique la fig3: On trouve respectivement les tensions : U₁ = 4,38V, U2=
+0,57V et U3= 4,95V
+Montrer que, dans ces conditions, le circuit est le siège
+d'une résonance  d'intensité. Quelle est    l'indication  de
+l'ampèremètre A ? Donner l'expression de la fréquence N₂
+du générateur.
+3 On enlève le conducteur ohmique ; le circuit est toujours
+alimenté par  le même         générateur, pour une fréquence
+N=N3=55,7Hz on constate que les tensions efficaces aux
+bornes du condensateur, aux bornes de la bobine et aux
+bornes de l'ensemble du circuit sont égales.
+Faire la construction de Fresnel correspondante et préciser la nature du circuit. En
+déduire les valeurs de L, C et N₂.

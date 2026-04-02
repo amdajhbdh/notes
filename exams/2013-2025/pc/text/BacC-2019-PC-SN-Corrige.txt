@@ -1,0 +1,396 @@
+            REPUBLIQUE ISLAMIOUE DEMAURITANIE                                                    i        Fraternité    Justice
+Ministere₊       de I’Education  Nationale ef de la    7     2018     <1                      5       7 is    sro   2   1
+
+:           Formation Professionnelle                       SAB        00
+            Direction des Examens et des Concours      Sciences physiques session normale 2019   i    Durée : 4H    Coefficient : 8/4
+
+                                     EXERCICE           4
+             On réalise I'oxydation des ions iodures I" par I'ion(3,5pts)
+                                                            peroxodisulfate selon la réaction
+             totale:  21 +           — Iz +2
+             A une date t=0s on mélange une solution S; de
+             peroxodisulfate de potassium     de concentration Ci et de                      IL ]                                    i
+             volume              et une solution S: d’iodure de potassium KI                     =                                   i
+             de concentration C2 = 0,1 mol/L de volume V>=50mL.                             Pla  a                                   |
+             1. Pour suivre la formation du diiode, on opére sur des                                                                 |
+             prélévements de méme volume Vo qu‘on dose aux dates t avec                        Vlg
+             une solution de Na:S20s de concentration molaire
+             C=0,02mol/L. Les résultats expérimentaux  permettent de
+             tracer la courbe        représentée sur la figure.                                                       rm
+             1.1. Calculer la concentration initiale    dans le mélange.                                            (0,5p)           |
+             1.2. En utilisant la courbe, montrer que   est    le  réactif limitant dans le mélange
+             réactionnel. En déduire la concentration initiale      dans le mélange ainsi que ia
+             valeur de Ci.                                                                                          (1pt)            |
+             1.3. Recopier et compléter le tableau descriptif d’évolution du systéme chimique.                       (py)            i
+
+
+                                 | i                    +                                             I, + 2504
+
+
+2.           Montrer que la vitesse volumique de la réactionaa   es wn 1                                                    |
+                                                            une date t donnée s’exprime par la                              |
+relation:       - ee                      sa valeur initiale.                                                 (1p9
+
+                                          EXERCICE 2 (3,5pts)
+1.           Nommer les composés suivants:
+@: CH3—CH2~CH(CH3)~CH20H; @:CHa~CH{CHz)~COOH; ®:CH3~CHO;
+2.           L'hydrolyse d'une masse mi d'un ester E de formule     par une quantité d'eau de
+masse mz conduit 3 la formation de I'acide méthanoique et d'un composé A.
+
+2.1. A quelle famille appartient le composé A?                                                              (025pt)         |
+2.2. Le composé                  A est oxydé par le permanganate de potassium en milieu acide. Il se
+forme un composé B. B            réagit avec la 2,4-dinitrophénylhydrazine (2,4-DNPH) et il est
+sans action sur la liqueur de Fehling.
+2.2.1. A quelle famille appartient le composé        B ?
+2.2.2.       Donner les formules semi-développées et les noms des composés                            B et  A.      (0,5p9   |
+2.3.1. Donner la formule semi-développée et le nom de I'ester     E.                                                         |
+2.3.2. Ecrire I'équation-bilan de la réaction d'hydrolyse de                                          18ᵐᵒᵇ=                 |
+I'ester      E. Donner les caractéristiques de cette réaction.          (sp
+2.4.         La courbe de la figure ci-contre représente les variations                                                      ||
+
+du nombre de mol d'ester ne restant dans le mélange en
+ fonction du temps. Sachant que le mélange initial d'ester et                  0-8                                           |
+ d'eau est équimolaire, déterminer        la  composition molaire du           oA                                      «hy
+ mélange initial puis calculer     m1 et ma.                          (05p9                                         TTT      |
+                                   EXERCICE     3
+ On étudie le mouvement des ions                  (4,5pts)                                                  TT
+                                                dans différents  champs électriques et
+ magnétique.                                                                                                                         |
+ 1.          Dans     une premiére expérience les ions pénétrent au point Os: sans vitesse
+ initiale dans un champ électrique
+ accélérés                                Eo  crée entre deux plaques P et P’ et sont                       Cf
+ vitesse Vo par une tension                          Montrer que la valeur de la                                    Low
+                 des ions au point Oz est Vo=2.10m/s. On donne :
+  mn=                                                                              0599
+  2.         Dans une deuxiéme expérience les ions rentrent avec une vitesse
+
+  horizontale     V, ayant la valeur précédente au point G dans une zone           de largeur /=1cm oil
+  régne un champ magnétique uniformeB            d‘intensité B=2,5.10" T (voir figure).                             12
+
+  Série Mathématigues              Baccalauréat de Sciences Physiques              Session Normale 2019
+
+2.1.    Déterminer le sens du champ  B pour que les    particules sortent de ce champ par le(0,5p1)
+point S.
+2.2.    Montrer que le mouvement d'un ion dans ce champ est uniforme et donner
+I’'expression  du rayon r de sa trajectoire. Calculer  r.
+2.3. Représenter sur le schéma la déviation angulaire a        puis la calculer.
+3. Dans  une troisiéme  expérience I'ion     entre avec une vitesse      de valeur ¥           r
+
+Vo      dans un champ électrique    E crée     entre les  armatures    C et D d'un
+condensateur plan.
+Soit     [’ la longueur de ces armatures et d leur écartement.        |                        is
+                                                       j)  et fait un angle a=15°        Vo
+3.1. La vitesse     est contenue dans le plan (O,i,
+
+ avec Ox. Déterminer le sens de la force électrique        pour que les ions                  D
+ passent par le point S.
+ 3.2. Etablir 'expression de I'équation de la trajectoire des ions entre les armatures C et D.
+ apy
+ 3.3. Calculer alors la valeur de  Vo. On donne : E=2,5.10°V/m et I’=20cm.
+ 3.4.    Déterminer la distance d  entre les armatures C et D si la distance minimale séparant
+ la trajectoire  de I'ion et la plaque inferieure est     0,8cm et si le point O est équidistant des
+ armatures.                           EXERCICE       4    (4pts)
+
+  Un solide S de masse m=200g est accroché a I'extrémité inférieure d'un ressort élastique
+  a spires non jointives de longueur a vide lo=14cm et de masse négligeable. L'axe du
+  ressort est vertical et son autre extrémité est fixée a un support immobile. A 1'équilibre, 1a
+  longueur du ressort est /=24cm (figl).                                     On donne g=10m/s2.
+  1.   Déduire la valeur de la constante de raideur K du ressort.        (0,5p9)              x
+  2. On déplace verticalement vers le bas le solide S d'une distance a et on lui
+   communique une vitesse initiale Vo a I'instant de date t=0.
+   L’étude du mouvement du centre      G du solide S a permis d’établir son
+   équation des vitesses V(t)=0,6.sin(10t-           ;    tens
+   Déterminer                                              horaire du mouvement de S. Déduire les valeurs de a et
+   de Vo en précisant le sens du mouvement a t=0.                                           4
+   3. On raméne le solide S a la position oll le ressort a sa longueur a vide lo puis
+   on le lache du point O’ origine de I'axe X’X; son centre d’inertie G atteint alors le point A
+   (voir fig2).  Par la suite le ressort remonte pour effectuer des oscillations libres.
+   3.1. En appliquant le théoréme de      cinétique au solide, déterminer
+   I"abscisse xa du point A.                                                          ay   4
+    3.2.1. En utilisant ce théoréme, exprimer I'énergie cinétique du solide en              of
+    fonction de I'abscisse x    de G 3 un instant t quelconque. En déduire I'abscisse xs
+    du point B oll cette énergie est maximale.                                        apd   Xo
+    3.2.2. Calculer la vitesse Vs au point B.                                                      {x
+                                   3 EXERCICE 5 (4,5pts)
+      On dispose d’une bobine B dont on veut connaitre les caractéristiques (inductance L et
+     résistance r).
+     1.  Dans une premiére expérience, la bobine est placée dans un circuit et on applique a ses
+     bornes, une tension continue U=15V. L’intensité du courant vaut alors I=2A.
+     Calculer la résistance r de la bobine.                                                    {py
+     2. Dans une seconde expérience, la babine B est placée en série avec un condensateur de
+     capacité C=6,1pF, un conducteur ohmique de résistance R=400Q     et un générateur de
+     tension alternative sinusoidale, de fréquence réglable, qui maintient entre ses bornes une
+     tension efficace Uo=2V.
+      On veut visualiser avec un oscilloscope bicourbe, les variations en fonction du temps de
+      Pintensité dans le circuit et de la tension aux bornes du générateur. Faire un schéma du
+      montage, avec les connexions de I'oscilloscope.
+      Quelle sont les grandeurs observées sur chaque voie de l'oscilloscope ?
+      3. On fait varier la fréquence f de la tension délivrée par le générateur.      Les deux
+      sinusoides de                  sont en phase lorsque la fréquence f=148Hz.
+      3.1. Quel est le phénomane observé ? Calculer            L de la bobine.                     (py
+       3.2. Calculer la valeur de l'intensité efficace dans le circuit.
+       3.3. La tension efficace mesurée aux bornes du condensateur est Uc=15,4V.                      |
+       Comparer cette valeur avec Uo; qu‘appelle-t-on ce phénoméne ?     Calculer le facteur de       i
+       qualité Q et en déduire la largeur de la bande passante.                                    2/2
+
+                                                                                                      '
+       Série Mathémmatigues        Baccalauréat de Sciences Physiques                 Session Normale 2014
+
+    1-1         In        (seer                                   1
+                    concentration initiate  orrigé de f'exercice  1
+
+    [i 2JpSY     ET
+                0.51                                               At{ — (O
+
+        Drs le  graphe                                                :    -a
+
+
+
+    2      [1],  1_est en exces ¢(  est ie réactif  car ta réaction    a
+    Déductionde
+
+    08 Ia₂ concentration [5:07]                                       est totale. (0,5pt)    Q~
+                 =[s;0 -  =2.10     mol/L
+Déductionde C,:      Vv,            tain,                             \:     5
+
+
+
+
+    1.  3. Le        -
+    Etat de     1a rtaction    fig)
+                    Avancemen
+
+            (=0      0      | p=        .    $308 concentrations2503"
+
+                         Eo
+                                                                  a
+    2.  L’expression de la vitesse volumique.
+
+
+
+
+
+    Autre or :    2                 dy                            IR:) [|
+
+
+
+    Caleul deIlsI'tquationⁱ   It      =~ bil; bilan :    V(r) —-2d - =- di  din)
+                                     vitesse initiale                       2d1
+
+    viy= dy     _              115                                   \ %
+           dt                  di                                    Ss
+    Ce qui correspond au coefficient directeur ge     \\
+
+    V(t) = 21072              -       210        fo)                 4 Ia courbe au point
+                                          LY
+
+
+          I. Les noms des               :       lef                    Corrigé de I'exercice 2 3,551
+
+          2-methyl-butan-1-of ;           PAR
+      (butanone)                          ty                             (acide de méthyl-propanoique)     ; ®Péthanal ; ®butan-2-one
+      2.1.   Le corpsA  est            ol.       [zg                                                                     .
+
+      2.2.1.   Le corps B            cétone.
+
+      222.          fy       4        carbones et acide un seul, Patcool                     3
+
+      formes            ¢veloppées      et   les noms de A         ef   de     sont:doit avoir carbones et comme il donne la cétone B ators Jes
+
+      A
+
+     2,                 CHy-CH(OH)-CH,E ct son               B:   Lg propanone;
+            de                      ester nom:                         CH,-CO-CH,                                        .
+
+                           )-CH;    Le méthanvate de méthyl-éthyle,                                          of, ==  “4
+                           de
+     232.    quation de      laIa   réaction                                                                             i
+
+     HCOOCH(CH,)                    réaction5   d*hydrolyselyse    :                                       26
+    Cette réaction    est      lente limiee     HCOOH +
+
+    2.4.     La composition initiale dy       of athermique.             2.2.2                                           7h
+
+    et                                    mélange             :   d’apres le        mol     2.3.7                        Ye
+
+    Calcul des masses m, ef         my:                                                                              _
+
+                                            i
+075
+=0,36g [T2501]                              i
+
+                       rr
+                    “Corrigé de  3
+1 Lexpression de V,    Vo — (4.5pt)    i P i
+
+
+                                         2%                  sz)
+           ©        Vos,=                2qU,    __ [2¢0,                                  |
+                                                             [TE                         li|
+
+2.1.   Le sens du B                                                                        i
+
+Drapes la régle de 1a  main droite B est sortant :                                        (|
+2.2.   Nature du
+La sale force mouvement dans je champ magnétique                      ER
+
+La BD permetquid'¢crire 3"ᵉˢᵗFF Ia       force de Lorentz car le poids est négligeable,    i
+                            = m3 —
+
+       «On     sur la      -                                                             A |
+
+                    tangentielle est done nulle                oa     Ba V's
+
+=          est uniforme                               dat
+
+
+
+
+                                         eB
+2.3. Voir  ia normale, on trouve gp      2 =, _ _ 6mpVy      Ey
+Caled dea. pour la représentation de
+                                                                      >
+
+
+
+
+       de20256                                                              AY
+
+Pour que passe par S il faut       queF                          22       =
+3.2. Ede du mouvement              soit    dirigé vers le  hau   :
+                       entre les plaques
+       Conditions initiales        C et b :                      7      3
+                               Vi                                             —
+          o Vo      a  <           =                           %             Xs)
+                               V,                          43       I   = 3-  @
+
+
+
+
+fi    ayPv Vy=V, cosa             x=(V,cosa)t       AY                  3. g- ©
+       m Vy=     Ziₘ       :      Y= 2m     (ey     2                   |
+           de Ia trajectoire          Rb
+                                  t dang
+           remplagan                           obient:
+
+              x?      =         cE
+         costa          12m,        a
+
+3.3.       pour que               sorte par le point S
+
+
+12m, cos?a gr, a 12m, cos?a                                = 6my sin 20
+
+
+
+
+3.4.   = Ve3vd 4                         /s                             7
+
+       u point S le plus bas   de   la trajectoire
+       elation indépendante du temps:        :
+
+
+Vay²         x= 2a, (rs. yg)           vy,0;₂ TOSI
+                                              sina         sin?
+                                        2a y  2F
+
+             2 sin  2      2      2            m
+
+             2qE                              =—           7.  !   512     2  2m ~
+La distance  d :
+
+                 ha
+Autre méthode: Au point Ie plus bas    : dy   _E⁵ __       N=      025     VO²    2
+
+                                         dx
+                                                cos?                   xg, =      F    10am
+
+Lat dis Lagan As dans I'équation de Jy  un trouve yy dem.
+    unce        Tm.
+
+
+I    de raideur ve
+
+
+
+En prog              la verticale :
+
+                                 M8 yn,    =T
+
+2.         horaire
+
+Vio = a(t dea et  [v=      = 6107     +
+
+                  Vy:
+
+126107 2   on         20 = uy,
+
+
+ Vo     =      =              ~             _
+
+ 3.1.     Détermimtion de    :                                      3, &
+ Application @w T.E.C     x,                                        N
+                          entre   A et O°:
+     =     Wi
+
+     Ero                                                            ~
+ Ea     Wie                                                            J   2-6 J
+
+ Bey                wg          [I                              2        I
+             mga                     amex,  =         hd  x,       lig)    §
+
+32:1.               de    Ec en   point   M quelcangue:             ©    Ay
+
+ Een                      1 =      = mex -  1s
+                                            —kx            :
+                                            2°
+Déduction dexg:                                                        -
+L'énergie           est       maximale                                h
+ dE                           si     sa     dérivée est nulle soit   \)
+Ta                                                              10k) J
+    -                               xy    gn     i     =            \3
+3.2.2.      de la      vitesse Vy:              ’
+
+
+
+
+                    ©         =   ma   2mgxg  - hk
+                              m               A
+
+I  Calcul de Iz résistance R
+                                       A
+2. Voir Ia  figure:(05m)          “
+
+
+           (L.r)          I
+
+
+
+
+
+
+
+Les tensions         :
+                                                                                     @»
+     »>      Voie Y, :    tension aux bornes du conducteur ohmigue                   &
+30                Y, :    tension aux bornes du GBF                 uy
+
+ud            observe est la 1                                  =     0.2501    2      i
+
+
+ SV de lo:          ©     Co                                    6,34₅        A] —    C2
+
+
+3.3. Comparaison   Sma        :             =                       3                @
+                   des tensions
+Uc > Uo Ie    phtuomene de
+Calcul du factear  de qualité Q:
+
+
+
+
+La Up de Ju bande passante                                      o, ou /
+
+        Mo         =          :  of pu       =                  A920,
+   AN=z Le                                   —
+                                            =

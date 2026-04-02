@@ -1,0 +1,133 @@
+---
+title: "BAC C 2013 - Session Complémentaire - Mathématiques"
+year: 2013
+exam: "BAC C"
+session: "Complémentaire"
+subject: "Mathématiques"
+series: "TMGM"
+duration: "4 heures"
+coefficients: "4"
+type: "Examen"
+---
+
+# BAC C 2013 - Session Complémentaire - Mathématiques
+
+**Série:** TMGM | **Durée:** 4 heures | **Coeff:** 4
+
+---
+
+République Islamique de Mauritanie                Honneur – Fraternité – Justice
+              Mi nistère d’Etat à l’Education Nationale, à Baccalauréat
+               l’Enseignement Supérieur et à la Recherche           Séries : C & TMGM
+    Direction                Scientifique                       2013      Epreuve: Mathémati ques
+              des Examens et de l’Evaluation                                               Durée: 4 heures
+                          Service des Examens    Session complémentaire     Coefficients: 9 & 6
+                                       هـ 1434                      رمضان
+Exercice 1 (3 points)
+Soit la fonction fₙ  définie sur    par f ₙ (x)  x^3 2(n 2)x 1 .
+Le paramètre n est un entier naturel.
+Soit Cₙ  la courbe représentative de fₙ  dans le plan rapporté à un  repère orthonormé  direct
+(O;u,v) .
+1.a) Dresser le tableau de variation de la fonction f (x)_{0}    x^3 4x 1 .                                 (0,75 pt)
+b)  Montrer  que  l'équation       f (x)_{0}   0admet  dans            une  solution  unique  U_{0} et  que
+    U_{0}  @1,0> .                                                                                          (0, 5 pt)
+c) Tracer C_{0} .                                                                                           (0,25 pt)
+ 2.a) Montrer que toutes les courbes C      passent par un point fixe A  que l’on déterminera.
+                                                                                                          (0, 5 pt)
+                                       n
+b) Etudier les positions relatives des courbes Cₙ  et Cn        .
+                                                                                                            (0, 5 pt)
+3 .a) Prouver que pour tout entier naturel,  l'équation f ₙ (x)  0  possède une unique solution
+    U et que  U  @1,0>                                                                                     (0,25 pt)
+    n          n
+b) On considère la suite de terme général Uₙ  .
+Montrer  que la suite (U )ₙ     est croissante.  En déduire qu’elle est convergente.                    (0,        25 pt)
+Exercice 2 (4 points)
+Pour tout z de      on pose: P(z)  z^3 (4 6i)z^2  (          5  18i)z 18 12i
+1.a) Calculer P(2)  et P(3i).
+b)  En  déduire  les  nombres  complexes z_{1} ,z_{2} ,z_{3}  solutions  de  l'équation P(z)  0  tels  que       (1          pt)
+2)  z^{1}  d z_{2}  d z_{3} .                                                                                                         (1      pt)
+Dans  le  plan  complexe  rapporté  au  repère  orthonormé  direct (O;u, v) ;  on  considère les
+points  A,B  et  C  d'affixes  respectives z_{1} ,z_{2} ,z_{3}  et  le  point  G  barycentre  du  système
+^(A,1),(B, 3),(C,4)` .
+Pour tout point M du plan on pose:
+ M_{1}(M)  MA^2 3MB^2 4MC^2                  et     M_{2} (M)  4MA^2 2MB^2 2MC^2
+a) Vérifier que l’affixe du point G est zG  5 3 i .                                                                           (0,5 pt)
+b) Donner une forme réduite de M (M)  et de M 2
+                                   1      2 (M) .                                                                            (0,5 pt)
+c) Déterminer et construire  les ensembles  *_{1} et  *_{2}  des points M du plan tels que  :
+ M  *      M (M)   3
+           1  1                                                                                                               (0,     5 pt)
+M  *_{2}  M_{2} (M)  44 .                                                                                                          (0,5 pt)
+Exercice 3 (4 points)
+On considère la fonction f définie sur >0, f>             ­f(x)         2ln x   ;x ! 0
+     par      °
+                                                          ®     x^2 ln x     .
+                                                          °
+                                                          ¯f(0)   2
+1.a) Montrer que f  est continue en 0    .                                                                                   (0, 5 pt)
+b) Etudier la dérivabilité de f en zéro à droite et interpréter graphiquement.                                                (0, 5 pt)
+c) Justifier que lim f (x)  0  et interpréter graphiquement.                                                                 (0, 5 pt)
+2.a) Dresser le  xof
+    tableau de variation de f.                                                                                               (0, 5 pt)
+b) Donner l’équation de la tangente à C au point d’abscisse 1.                                                               (0, 5 pt)
+c) Tracer la courbe de f.                                                                                                    (0, 25 pt)
+3) On considère la fonction g définie par : g(t)  tf(t)  .
+Pour tout    x >1, f> , on pose  F(x)     ^3_{1}ˣ g(t)dt  ^3 x tf(t)dt .
+a) Montrer que F est dérivable sur >1, f> . Calculer F'(x)  et montrer que F est croissante.                                  (0, 5 pt)
+b) Vérifier que  pour tout t de >1, f>  , on a : g(t) t 2lntt   . En déduire   lim F(x).                                      (0, 5 pt)
+c) Dresser le    tableau de variation de F.                                 xof                                              (0,      25 pt)
+Exercice 4 (5 points)
+Dans le plan orienté, on considère un losange direct ABCDde centre O  et de coté a  (a ! 0 ).
+tel que  (BC,BA)  S >2S@  . On considère les deux points E et F tels que OEFD soit un carré
+direct.
+1) Faire une figure illustrant les données précédentes que l’on complétera au fur et à mesure
+(On pourra prendre (AC) horizontale) .                                                                                       (0,5 pt)
+                                                                                                                              (0,5 pt)
+2.a) Montrer qu’il existe  une unique     rotation  r  qui  transforme  A  en  B  et  D  en  A.
+b) Préciser un angle et le centre de cette rotation.                                                                            (0,5 pt)
+3.a) Montrer qu’il existe une unique similitude directe s  qui transforme B en D et D en F.                                  (0, 5 pt)
+b) Déterminer le rapport et un angle de s .                                                                                   (0,5 pt)
+c) Soit H le projeté orthogonal de D sur (BF). Déterminer les images des droites  (BH) et (DH)
+par s. En déduire  que H est le centre de s.                                                                                 (0, 5 pt)
+d) Préciser et placer sur la figure les images des sommets du carré OEFD par la similitude s.                                (0,5 pt)
+4) On muni le plan d’un repère orthonormé direct (O;OE,OD)  .
+a) Déterminer les coordonnées des points E ;D ;B et F dans ce repère.                                                        (0, 75 pt)
+b) Donner l’expression complexe de la similitude s.                                                                          (0, 25 pt)
+c) En utilisant 3.a) retrouver le rapport et l’angle de s, et calculer les coordonnées de H dans
+le repère précédent.                                                                                                          (0,5 pt)
+Exercice 5 (4 points)
+                                                                eˣ 1
+Soit f la fonction de variable réelle x définie par :  f(x)              .
+                                                                eˣ 1
+Soit    C     sa courbe représentative dans un repère orthonormé direct     (O; i, j).
+                                                         2eˣ                 2
+1.a) Vérifier que  pour tout réel x on a :  f(x)               et  f(x)  1
+                                                         eˣ    1            eˣ 1
+b) Calculer lim f(x) et lim f(x) et interpréter graphiquement.                                                                 (0,      5 pt)
+    xof     xof
+   2.a)  Dresser le tableau de variation de f .                                                                              (0, 5 pt)
+                                                                                                                             (0, 25 pt)
+b) Tracer Cdans le repère (O; i, j) .                                                                   (0, 25 pt)
+c) Soit a un réel strictement supérieur à 1. Calculer en fonction de a, l’aire du domaine plan
+limité par la courbe C, l’axe des abscisses, l’axe des ordonnées et la droite d’équation x  lna     .
+                                                                                                         (0, 25 pt)
+3) Pour tout entier naturel non nul, on pose Iₙ  ^3_{0}ˡⁿᵃ (f(t)) ⁿ dt
+ a) Vérifier que I_{1}  2ln§¨© a2 a1 ·¸^{1}  .                                                                  (0,     25 pt)
+ b) Vérifier que pour tout réel x:   f ^2(x)  1 2f '(x). En déduire la §        valeur de I_{2}             (0,      5 pt)
+c) Montrer que pour tout entier naturel  n on a : 0 d Iₙ d ¨© a 1 ·¸ⁿ lna .  En déduire lim I     .     (0,5 pt)
+                                                                         a 1 ^{1}        nof n
+ d) Montrer que pour tout entier naturel  n on a : Iₙ Iₙ            2      2     § a 1 ·n ^{1} .
+                                                                           n 1 ¨© a 1 ¸^{1}                (0,2 5 pt)
+                                                            n    1             k
+ 4) Pour tout entier naturel n t 1     , on pose  S ₙ (a)   ¦    k §¨© a 1 ·¸   .
+                                                            k 1          a 1 ^{1}
+a) Ecrire S ₙ (a)   en fonction de certains termes de la suite (I )ₙ       . En déduire ₙlim S (a).      (0,5 pt)
+                                                                               of     n
+b)  Pour tout entier naturel n t 1 , on pose :
+    9     1 §     9 ·^2     1 §     9 ·^3                      1
+    Tₙ  11 2 ¨© 11 ¸^{1}                     3 ¨© 11 ¸   ...        §¨ 9 ·¸ⁿ  ¦ⁿ     1 §¨ 9 ·¸ᵏ
+                                                  ^{1}          n ©    11   ^{1}   k 1 k © 11 ^{1}
+Déterminer nlim T  .                                                                                    (0,25 pt)
+    of n
+                                                            Fin.

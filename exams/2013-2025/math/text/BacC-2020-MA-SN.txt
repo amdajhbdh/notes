@@ -1,0 +1,120 @@
+République Islamique de Mauritanie                                    BACCALAUREAT 2020        Série : C & TMGM
+Ministère de l’Education Nationale, de la        Session Normale                               Coefficient : 9 & 6
+Formation Technique et de la Reforme                                                                         : 4h
+Direction des Examens et des Concours                              Epreuve : MATHEMATIQUES               Durée
+
+Exercice 1 : (3 points)
+1° On considère l'équation (E) : 13x 15y  5 , où x et y sont des entiers relatifs.
+a) Déterminer l’entier naturel p tel que le couple (p 1 ; p)     soit solution de (E).                               0.5 pt
+b) Résoudre l’équation (E).                                                                                          0.5 pt
+2° Dans cette question on se propose de déterminer l’ensemble S des entiers relatifs N tels que
+­°®°¯N { 5 >13@
+    N { 10 >15@
+a) Soit N un élément de S. Démontrer qu’il existe un couple d’entiers (x;y)          tel que                         0.5 pt
+N  13x 5  15y 10 où (x;y) est une solution de E
+b) En déduire que N S si et seulement si N { 70 >195@ .                                                              0.5 pt
+c) Déterminer le plus petit élément A de S qui est supérieur ou égal à 2000.                                         0.5 pt
+d) Soit n un entier naturel non nul. Supposons que le nombre A, de la question précédente, s’écrit
+COVID dans un système de base n, où les lettres C, O, V, I et D représentent des chiffres distincts de               0.5 pt
+ce système. Justifier que n ne peut être, ni supérieur à 6, ni inférieur à 5 puis déterminer n et préciser
+l’écriture de A dans ce système.
+
+Exercice 2 : (4 points)                                   G G
+Le plan complexe est muni d’un repère orthonormé     O, i; j      . Pour tout nombre complexe            z on pose :
+P z  z³ 1 2i z² 5 3i z 4 8i
+1° Calculer P i et En déduire l’ensemble des solutions de l’équation P z  0 .                                        1 pt
+2° On note A , B et C les images des solutions de l’équation P z  0 tels que zB             zA zC .
+a) Placer les points A , B et C puis déterminer la nature du triangle ABC .                                          0,5 pt
+b) Soit G le barycentre du système ^A;9 , B;2 , C;6` . Vérifier que zG  2i                 puis placer G .           0,5 pt
+c) Déterminer et construire l’ensemble E des points M du plan tels que 9MA 2 2MB² 6MC²  195                          0,5 pt
+d) Déterminer et construire l’ensemble F des points M du plan tels que               3MA² 5MB² 2MC²  65              0,5 pt
+e) Préciser la position relative entre les deux ensembles E et F.                                                    0,25 pt
+3° Soit f la transformation d’écriture complexe     z c  mz (2 2m)i où m est un nombre complexe.
+a) Résoudre l’équation zc  z     (discuter suivant les valeurs de m).                                                0,25 pt
+b) Déterminer la valeur de m pour que f (B)  A , puis caractériser f dans ce cas.                                    0,5 pt
+Exercice 3 : (4 points)
+On considère un triangle isocèle direct ABC tel que BC  2a         et            AB  AC  3a , a étant un réel
+strictement positif donné et soit   JJJG JJJG
+                                    AB, AC   T > 2S@ . On note     Ac le milieu de > BC@ , H l’orthocentre du
+triangle ABC et Bc le projeté orthogonal de B sur la droite   (AC) .
+1°Faire une figure.                     JJJG JJJG                         JJJG JJJG                                  1 pt
+2° a) Montrer les égalités suivantes CA.CB  CA u CBc     et   CA.CB  CB u CAc .                                      0.5 pt
+b) En déduire la distance B cC puis calculer la distance B cA .                                                      0.5 pt
+
+c) Justifier que  B cA   7     puis en déduire que Bc  bar A                  C  .                                   0.5 pt
+                  B cC     2                               2                  7
+
+d) On suppose que G  bar     A2          B7 C7 .
+
+Montrer que G appartient à chacune des hauteurs (AA c)     et      (BB c)            puis reconnaitre le point G .   0.5 pt
+3°a) Montrer que les points A, B, A c et Bc sont cocycliques, de même que les points           H, C, A c et Bc .     0.5 pt
+b) Justifier que   JJJJG JJJG        JJJG JJJᴳ                                    JJJG ᴶᴶᴶᴳ
+                  HA c, HC             CA,CB > S@    puis en déduire que             HC,HB   T > S@ .                0.5 pt
+
+
+
+Baccalauréat 2020  Session Normale  Epreuve de Mathématiques                     Séries C & TMGM         1/2
+
+ Exercice 4: (4 points)
+
+I- 1° On considère la fonction numérique f définie sur > 0,f> par f (0)  0 et x ! 0 f (x)  xln§¨© x x 1 ·¸¹
+
+On note C sa courbe représentative dans un repère orthonormé O; i G G
+                                                                                              , j   .
+a) Etudier la continuité et la dérivabilité de f à droite de 0.(on pourra écrire f (x)  x ln x 1                          -x ln x )   0,5pt
+
+b) Pour tout x @0,f> , calculer f c x et montrer que f cc x  x x11₂ .                                                                 0,5pt
+
+c) Etudier les variations de f c et en déduire que x !        0  ,            f cx ! 0 .                                              0,5pt
+2° a) Montrer que xlim f x  1 . Interpréter graphiquement .                                                                           0,25pt
+                       of
+b) Dresser le tableau de variations de la fonction     f                 et tracer sa courbe  C                                       0,5pt
+                                                                  1
+II- Soit g la fonction définie sur                       @0;f> par : g x  x f (x) 1  1x ln §¨© x x 1 ·¸¹ .
+
+1° a) Montrer que pour tout entier naturel n t 1 , on a :           g(n)  n1 ³ₙⁿ¹ 1x dx .                                             0,25pt
+
+b) Justifier que n t 1 , on a : n 1 1 d ³ⁿⁿ¹ 1x dx d n1   et en déduire que 0 d g(n) d n n1 1 .                                       0,5pt
+
+2° Pour tout entier naturel n t 1 , on définit la suite U n par :
+    1                     1                 1            2n         1
+Uₙ  n n 1 n 1 n 2 " 2n 2n 1  k¦                            n  k   k     1
+
+a) Montrer que n t 1 , 0 d g(n) g(n 1) g(n 2) " g(2n) d Uₙ .                                                                          0,25pt
+
+b) Justifier que   k `* , k k1 1  1         1        et en déduire que n t 1 , U                                 n 1                  0,5pt
+                                        k     k 1                                                      n       n 2n 1
+c) Calculer  lim U et en déduire que    lim ª¬g n g n               1
+             nof   n                    no f                          " g 2n º¼  0 .                                                  0,25pt
+Exercice 5 : (5 points)
+1° Soit f  la fonction définie sur \ par f (x)  (x 2)eˣ et C sa courbe représentative dans un repère
+orthonormé O; i G G
+                   , j   .
+
+a) Calculer et interpréter les limites suivantes :   xlim f x        ;   lim f x et            lim f x .                             1 pt
+                                                          of             xof                   xof      x
+b) Dresser le tableau de variations de  f    et tracer sa courbe représentative C .                                                  1 pt
+2° Soit g la restriction de    f sur l’intervalle I  > 1;f> .
+a) Montrer que g réalise une bijection de l’intervalle         I sur un intervalle J à déterminer.                                   0,5 pt
+b) Tracer dans le repère précédent la courbe Cc de la fonction g¹ où g¹ est la réciproque de g.                                      0,25 pt
+
+                                                               0     ⁿ
+3° Pour tout entier naturel non nul n , on pose :    Iₙ    ³                   x 2 eˣ dx et U          ¦ⁿ 2ᵏ     .
+                                                                 2                n!                n  k  0 k !
+
+a) Vérifier que pour tout x  > 2;0@ on a :     0 d x 2ⁿ eˣ d 2ⁿ e² .                                                                 0,25 pt
+                                                     n!                           n!
+b) Justifier à l’aide d’une intégration par parties que        I  1             e² 3 .                                               0,5 pt
+
+c) Montrer que pour tout n ` : Iₙ₁  Iₙ n2ⁿ1 ¹ !               puis en déduire que n ` , Iₙ  e² Uₙ .                                0,5 pt
+
+4° Soit vₙ  2n!ⁿ . Montrer que n t 2 , vₙ₁ d 23 vₙ puis en déduire que n t 2 , vₙ d 2 u §¨© 23 ·¸¹ⁿ² et                              0,5 pt
+
+préciser la limite de    vₙ .
+                                                                    2
+5° En utilisant la question 3° a), justifier que   0 d I    d 2e                                                 n   nof  n
+                                                         n           u vₙ                puis en déduire nlim I et   lim U .         0,5 pt
+                                                                                                        of
+                                                              Fin
+
+Baccalauréat 2020            Session Normale                         Epreuve de Mathématiques           Séries C & TMGM              2/2

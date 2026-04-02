@@ -1,0 +1,116 @@
+   |  APPLICATIONS DE LA R.F.D    7C If
+
+
+
+
+   Un solide (5), de masse m descend le long d'une pente                                                   /
+    inclinée d'un angle a par rapport au plan horizontal.     A
+   At =0, le solide  part de A avec une vitesse initiale                                                   :
+    nulle pour atteindre le point B, puis aborde le trongor                                                /
+    BC avec la vitesse v B. On donne : AB = {=2m;        3                                                 :
+
+   a =25°; m=200g    et g =                                                                                /
+   © On suppose les frottements négligeables sur AB.        A     rig                                      ;
+         -
+   1 .1 Nomme les différentes forces qui agissent sur le solide et indique-les sur
+         du     solide puis détermine la nature de son                                                     /
+   © 2 Calcule I'accélération‘a,
+   0.3 Etablis les équations horaires de son mouvement.        Q
+   © .4 Calcule la durée At,   de la descente.
+|
+   © En réalité, sur AB existent des forces de frottements équivalentes        unique f, colinéaire
+     a V et de valeur f constante.                                                                        /
+
+     Afin de déterminer la valeur de f, on reléve a intervall        réguliers, les positions Gi de (5).  ’
+     On obtient le tableau                                                                                ’
+     suivant :        \     \
+
+
+                       | we | 0     Toi [of 303 | 04 |] 06 | 08 | 07                                      :
+                       IEC      EC        [CE
+
+    (2X) Calcule vi au passage en G; a tg  puis compléte le tableau.                                      :
+    ©-2) Construis la courbe v =4(t).
+    0-3) Détermine         du solide en utilisant la courbe précédente.
+    ©.4) Calculer:    4
+         La valeur def.
+|   0.4.2 La vite          en B.                                        :
+    © 5 aborde             BC avec la méme    qu’en2:3°).               :
+    ©-1) Lalcule la      d parcourue sachant que Vc = 10m Js.
+    6.2  min@la durée At, du parcours.
+
+                           exercice 2
+
+
+    Un skieur parcourt une céte inclinée d’un angle a = 40° sur I'horizontale.
+   Au sommet O de cette cote, sa vitesse a pour valeur v, = 12m/s.
+   Aprés le point O se présente une descente inclinée angle        x     nN      -   /
+   PB = 45° sur I'horizontale. Le skieur accomplit un saut et reprend        ¢   Xo  :
+    contact avec la piste au point C.        4
+   © Etablir 'équation de la trajectoire du skieur.
+   © Déterminer les coordonnées du point C. (g = 10m/s2).
+   ©     la durée du saut et la longueur OC.
+
+Partie 6
+Au point P  situé a une hauteur h =2,7  m au dessus                   >₁                       =1m    4
+du          balle de tennis, assimilée a un point        PP                           py.
+  matériel, est frappée avec une raquette, elle part de                               AH           iy
+  ce point a instant pris comme origine des dates (t=0)        I                                     /
+
+  avec une vitesse   de valeur 25 m.s™ (figure 3).                                                 :
+  Le filet a une hauteur ho = Im est placé a une distance
+  €=12mdeO.                                                           =12m
+
+ 1 Déterminer I'équation de la trajectoire de la balle dans lerepére      reto            ON       E i
+ © La balle franchira t-elle le filet ? $i oui, & quelle distance derriére le filet   mbeévga  |     :
+    balle sur le sol.
+
+  ;             exercice 33                                                                        )
+
+Un caqcadeur ,quittant un pointA sur un plan horizontal     veut sayterg    bso) oiture  sur une
+terrasse horizontale EF d'un immeuble . Il utilise un trempin BOC   forgnant tin       angle a avec le
+sol horizontal ABCD. Et placé a la distance CD de I'immeuble   (OC et     sont    les parois
+verticales  . La masse du systéme (automobile — pilote )     e             une tonne.
+On etudiera le mouvement du centre d’inertie     G de I'ens                                          /
+Pour simplifier le probleme on considerera les frottements      existants dans la phase              ¢
+aérienne et on admettra qu’a la date initiale                               quitte le point O avec une
+vitesse Vs et qu'il est confondu avec le poitE a     Py       . On donne g = 10 m.s™?
+
+
+
+
+
+
+
+
+
+
+            (    000
+
+
+
+
+
+                )                                                                              ‘
+                A
+
+   1 Déterminer la ndfure du mouvement du systeme entre B et O.
+   © Etakliydans le repere  I'équation cartésienne de la trajectoire      du centre
+                du systéme entre O et E.
+   3        ler la valeur de I'angle a et la vitesse Vo en  et en km.h-1     pour que le
+     sy§teme arrive au point E avec un vecteur     vitesse  V; horizontale.                    :
+
+‘    Ondonne CD=15m     DE=10met     OC=8m.
+    €©.2) Calculer la valeur de la vitesse Ve de 'arrivée de I'automobileen E.
+    © En considérant     fois I'automobile sur la terrasse les frottements sont équivalents a
+     une force constante f paralléle au déplacement  et de valeur f = 500 N.
+     Calculer la valeur de la force de freinage qui permettra au véhicule de s’arréter aprés un
+     trajet EF =L
+
+
+            £2025.                                                    SERIE:          03
+
+
+
+
+                                                                                               i

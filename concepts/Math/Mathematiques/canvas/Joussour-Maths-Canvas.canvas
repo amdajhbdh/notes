@@ -1,0 +1,65 @@
+{
+  "nodes": [
+    {
+      "id": "m1a2b3c4d5e6f7801",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 250,
+      "height": 120,
+      "text": "# Mathématiques 7C\n\n## Joussour Programme"
+    },
+    {
+      "id": "m1a2b3c4d5e6f7802",
+      "type": "text",
+      "x": 300,
+      "y": 0,
+      "width": 200,
+      "height": 100,
+      "text": "## Algèbre\n- Équations\n- Inéquations\n- Systèmes"
+    },
+    {
+      "id": "m1a2b3c4d5e6f7803",
+      "type": "text",
+      "x": 300,
+      "y": 130,
+      "width": 200,
+      "height": 100,
+      "text": "## Analyse\n- Fonctions\n- Limites\n- Dérivées"
+    },
+    {
+      "id": "m1a2b3c4d5e6f7804",
+      "type": "text",
+      "x": 0,
+      "y": 150,
+      "width": 250,
+      "height": 120,
+      "text": "## Géométrie\n- Vecteurs\n- Droites dans le plan\n- Transformations"
+    },
+    {
+      "id": "m1a2b3c4d5e6f7805",
+      "type": "text",
+      "x": 0,
+      "y": 300,
+      "width": 250,
+      "height": 100,
+      "text": "## Statistiques\n- Tableaux\n- Graphiques\n- Paramètres"
+    },
+    {
+      "id": "m1a2b3c4d5e6f7806",
+      "type": "text",
+      "x": 300,
+      "y": 300,
+      "width": 250,
+      "height": 100,
+      "text": "## Probabilités\n- Événements\n- Calculs\n- Applications"
+    }
+  ],
+  "edges": [
+    {"fromNode": "m1a2b3c4d5e6f7801", "fromSide": "right", "toNode": "m1a2b3c4d5e6f7802", "toSide": "left"},
+    {"fromNode": "m1a2b3c4d5e6f7801", "fromSide": "right", "toNode": "m1a2b3c4d5e6f7803", "toSide": "left"},
+    {"fromNode": "m1a2b3c4d5e6f7801", "fromSide": "bottom", "toNode": "m1a2b3c4d5e6f7804", "toSide": "top"},
+    {"fromNode": "m1a2b3c4d5e6f7804", "fromSide": "bottom", "toNode": "m1a2b3c4d5e6f7805", "toSide": "top"},
+    {"fromNode": "m1a2b3c4d5e6f7803", "fromSide": "bottom", "toNode": "m1a2b3c4d5e6f7806", "toSide": "top"}
+  ]
+}

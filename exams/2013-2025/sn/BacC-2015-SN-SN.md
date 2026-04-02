@@ -1,0 +1,74 @@
+---
+title: "BAC C 2015 - Session Normale - Mathématiques"
+year: 2015
+exam: "BAC C"
+session: "Normale"
+subject: "Mathématiques"
+series: "C"
+duration: "4 heures"
+coefficients: "4"
+type: "Examen"
+---
+
+# BAC C 2015 - Session Normale - Mathématiques
+
+**Série:** C | **Durée:** 4 heures | **Coeff:** 4
+
+---
+
+i
+               quedesVE              de               Maciorale                  ©                                                        Hemme.       ich       justiceᴶᵘˢᵗⁱ
+                      Examens ec des Concours
+Reproduction                 (8pts)
+[A- Le documentlcorrespond & une coupé                                                                            d'un organe sexuel de mammifére.             i
+                      les cellules a, bet c et préciser le                                    de                 (1.5pt)
+                         les    stades    de   division                       cellulaire  correspondants             aux  cellules    d,  e    et f.               a
+                         les stades dete.                          (1.5pc)                                                                                         NY
+                les phases de la                                                 gamécogendse illdstrées par ce document
+- Lobservation                  des ovaires                        dune femelle        A                       de mammifere montre a présence de 7   |
+corps jaunes.                                                                                                                    .                             0
+               chiffre peut-il            une indication précise sur le nombre de petits susceptibles                                                          5
+                    dans la portée correspondante 1                                   Discutez      (1pt)    .                            °
+                     d'une autre femelle                           B contient deux            embryons de                 sexe.       Combion de        5%
+corps jaunes peut-on trouver dans ses ovaires 1 Justifiez votre réponse. (1pt)                                                                            4                                      ©
+3./ablacion de Ihypophyse pratiquée sur une femelle C provoque la disparition de quelques caractéres soxaels.
+               relacion existe entre                                                  et ces caractéres      1    (1pt)
+                                                               peut-on remédier expérimentalement aux                     observés chez cette femelle?
+Physiologie nerveuse                      (6pes)
+            On applique des excitations espacées d'intensités                                                             une fibre                            5 WY
+               Or.       enregistre les variaticns du potentiel d/a:tion au niveau
+     y placée 4 la surface, Vautre éeant                                              On obtien: les enregistrements du                              |
+ dowrment₁               le  cracé   1; (pt)                                                                                                                    .
+                         ez ce tract si                                       Ry est placke                      de   fa  fibre  7    1 pt)
+                         4 partir de Vanalyse des traces du document                                      tne propriécé dela                                                                          x
+fiz                                                                                                                                                              |
+“Un                          la    fibre  par                                 et onby,applique de,                         dinténsics |,           “iA            A eit
+                                                                                       ly ly             ec      Ty on    obtient       les                   Te
+                                                                          enregistrements
+               al A-Incerprécez cesᵈᵘ                                                                                                                                       -
+                                                                                      résultats (1.5pes)
+ 25                                           B- On réalise, sur un animal, la section                                 5  sur la racine            et on  procide aux                             Ey,
+            95      &                     |   En vousdu                                   4.                                                     .
+                                                                   appuyant sur vos connaissances :
+               docament 4                     1-Citez le role des racines. (0.5pt)
+                     précisez pour chaque                                                        quelfs) oscilloscopels), eriregistre{ront) un potenciel action.  (1pt)
+Génétique                                                                                                                             LL
+Le document                                    Varbre                                               famille                                sind atteints       maladie hérédicaire.
+                                  2                                                       a-             de cette     maladie est-il:                  -
+                                                                                                dominant ou récessif 7 (0.5pt)
+                     8,            QQ                                            Be       b- autosomique ou sonosomiquel Discutez.                   aro
+ al                                                                                       2-On fait, par la technique                                  analyse des fragments                     |ADIN
+                                                                                       | comespondanc aux                             A ec B du gine impliqué dans cette
+                                docoments                          .             2 3      famille.                                         6 montre les résultats obtenus chez cercains membres A
+ a.            ldentifiez,                    parmi les alleles A ec B,                                   normal ec Valléle responsable de fa maladie.
+ b. Vérifiez la validité des                                                     recenues.      (1pt)                                                                                             ;
+ cEcrivez les génocypes des individus:                                                                   1pe)                                                  8
+ 3-Poursz-vous préciser la nature des jumelles 1ils ec IIT; 7
+ 4-Quel est le risque pour-que:                                                                                  ;                                                     Jas Mr                     We
+                             soit  une                  fille  malade
+                     considére que la fréquence des hybrides dans la population                                                laquelle      cecte               est 1/40.
+ NB: On                      soic malade. (0.5pc)                                                                          3                  apparcienc
+                .                                              i                                          i               p
+            Baccalaurézc 2015                                  se                     Sciences Nacurelles                  TE    SEY _                 TE SS A     M                             ey
+                                                                                                                                                               Série
+                                                                                                          x

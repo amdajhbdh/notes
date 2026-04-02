@@ -1,0 +1,79 @@
+---
+title: "BAC C 2016 - Session Normale - Mathématiques"
+year: 2016
+exam: "BAC C"
+session: "Normale"
+subject: "Mathématiques"
+series: "C"
+duration: "4 heures"
+coefficients: "4"
+type: "Examen"
+---
+
+# BAC C 2016 - Session Normale - Mathématiques
+
+**Série:** C | **Durée:** 4 heures | **Coeff:** 4
+
+---
+
+F Islamique de Mauritanie  PRR  Honneur-           Justice
+  Nationale     -                   Série: M      |
+  des Examenset des Concours    4   Coefficient : 4   :
+                                        Durée:3H
+   Reproduction     (8pts)
+    Madame X       est        compte tenu de son Age, son médecin décide de faire pratiquer une                                afin d*établir le
+    caryotype de           & naitre.                                                                      HY                it     3
+    Le liquide amniotique renferme des celtules foetales qui seront placées, dans un milieu                                           1
+.   favorisant la division cellulaire aprés 70heures, on ajoute de la colchicine. Deux heures                         x               3
+    plus tard, ces         sont transférées dans un milieu trés hypotonique les                           il          32   Bn
+    chromosomes observés sont classés et photographiés (document 1).
+    1-Pourquoi le milieu de culture doit il favoriser la division cellulaire 2 (0.5pt)                    8           18        5     i
+   2- Justifier            de la colchicine et du milieu hypotonique. (0.5pt)                   EA                EE
+   3- Ques                      pour classer les chromosomes 7    (1pt)                             :     Bs
+   4-Comment appelle-t-on deux chromosomes appartenant            la méme paire ? Précissr                woo
+   “leur origine. (1pt)                                                                                  XX           2K   1k     =
+   5-Le généticien a découvert une anomalie dans ce caryotype. En quoi consiste-t-elle?
+   ao
+   6- Le gynécologue indique que le phénotype de I’enfant sera normal. Malgré son                         22.         xx       )       x
+   caryotype. Pourquoi ? (1pt)
+   7- Madame X s’interroge sur les risques encourus par ses futurs petits-enfants.                                  \     a
+      7-1- En utilisant les numéros des                 chromosomes concernés par cette anomalie, donnez les différents types degamétes
+   que produira            de madame X. (1pt)                                                                     =,
+                7-2 - Si le futur conjoint de I’enfant de madame X a un caryotype normal, montrez quels peuvent &tre les différents cas
+   que Pon pourra rencoritrer dans sa descendance. 1 pt)                                                                              5
+           -Certains descendants seront avortés lesquels et dans quelles proportions ? (1pt)
+   Immunité (6pts)
+   La figure du document 2 représente des opérations de greffe réalisées                                                  Graph   +
+“entre donneurs et receveurs.
+"Le graphe du méme document montre le taux de survie du greffon                   &                                 ae
+   1-Nommez 4 I’aide des lettres chaque type de greffe ainsi réalisée                           SENT                               J
+   (L5pt)                                                                              a                            EE
+   2- faites
+   LI         IILᵘⁿᵉ correspondance entre les lettres (A, B, C) et les courbes:   |g               a5                       =      8      2
+   3- Analysez le graphe et interprétez ces différents %     de survie. (1pt)                                       B= =
+   4-Décrivez deux     expériences réalisées chez ’animal (souris par                                                                 Mois     5
+   exemple) pour montrer que le rejet observé     en Ill est :                         Souris    Souris        LIE
+   a- Une réaction 2 médiation cellulaire. (1pt)                                                         25
+   b-Une réponse qui révée I’existence d’une mémoire immunitaire.                                                   ol
+   ap)                                                                                                                    SNE         -
+   Génétique [6pts)                                                                             =                                 |
+   On croise deux souches de drosophiles qui différent entre elles par deux caractéres :
+      -Taille dejla soie : normale ¢* ou courte ¢                                                                          =F
+                                                                                                                                Toe
+   Desᴸᵃ couldur du corps : gris n* ou
+           femelles de Fy sont croisées avec des males de race pure & soies courtes et a        corps    noir. La génération          (Fy)
+   comporte :                   _
+               29           4     courtes etcorps noir.                                     =
+           e   31           a soies normales et corps gris.       & nt
+      ‘e223 drosophiles 4 soies normales et corps
+      ‘e218    drosophilesa
+   I Déterminiez Tes génotypes et     courtes et corps gris.        T                       3                                     :
+                                les phénotypes des souches parentales. (1pt)
+.2- Ecrivez le génotype des individus de Fy.
+   3-Interpreteg les résultats obtenus en F;(1.5pt)
+   4, Précisez la position relative des deux génes. (1pt)                                                                         i
+   5. Donnez les différents phénotypes et les proportions que Pon s’attend 4           trouver si         croise les individus deⁱᵉF, entre
+                   '
+   eux,                                                                                                        pei              Lon
+   Baccalauréat 2016 *      Sciences Natarelles                                   Session Complémentaire                        Série M
+                                                                                            Scanned with CamScanner

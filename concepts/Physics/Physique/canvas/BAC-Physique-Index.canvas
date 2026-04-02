@@ -1,0 +1,82 @@
+{
+  "nodes": [
+    {
+      "id": "bac001",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 280,
+      "height": 80,
+      "text": "# BAC Physique 7C\n## 2002-2012\n\nInstitut Pédagogique National\nMauritanie"
+    },
+    {
+      "id": "bac002",
+      "type": "text",
+      "x": 320,
+      "y": 0,
+      "width": 200,
+      "height": 70,
+      "color": "1",
+      "text": "## 2002 SN\n### Session Normale\n\n5 Exercices:\n- Cinétique\n- Acides/Bases\n- Oscillateur+Induction\n- Particules\n- Résonance"
+    },
+    {
+      "id": "bac003",
+      "type": "text",
+      "x": 320,
+      "y": 100,
+      "width": 200,
+      "height": 70,
+      "color": "2",
+      "text": "## 2002 SC\n### Session Complémentaire\n\n5 Exercices:\n- Acide faible\n- Ester\n- Mécanique\n- Solénoïde\n- Radioactivité"
+    },
+    {
+      "id": "bac004",
+      "type": "text",
+      "x": 550,
+      "y": 0,
+      "width": 200,
+      "height": 70,
+      "color": "3",
+      "text": "## 2003 SN\n### Session Normale\n\n5 Exercices:\n- Organique\n- Acides chlorés\n- Pendule\n- Spire\n- Circuits"
+    },
+    {
+      "id": "bac005",
+      "type": "text",
+      "x": 550,
+      "y": 100,
+      "width": 200,
+      "height": 70,
+      "color": "4",
+      "text": "## 2004-2012\n### À suivre...\n\nSessions:\n- Normale\n- Complémentaire\n\nAnnées manquantes\nà compléter"
+    },
+    {
+      "id": "bac006",
+      "type": "text",
+      "x": 0,
+      "y": 120,
+      "width": 280,
+      "height": 120,
+      "color": "5",
+      "text": "## Thèmes Récurrents\n\n### Physique\n- Cinétique chimique\n- Solutions tampon\n- Oscillateur mécanique\n- Induction\n- Particules chargées\n- Circuits RLC\n- Radioactivité\n\n### Chimie\n- Acides/Bases\n- Estérification\n- Organique\n- pH"
+    },
+    {
+      "id": "bac007",
+      "type": "text",
+      "x": 0,
+      "y": 270,
+      "width": 280,
+      "height": 100,
+      "color": "6",
+      "text": "## Fichiers Created\n\n### Notes\n- Corrigés BAC 7C\n- Graphiques Visualisations\n\n### Canvases\n- 2002 SN\n- 2002 SC\n- 2003 SN\n\n### Notes Related\n- Cours Physique\n- Exercices Corrigés"
+    }
+  ],
+  "edges": [
+    {"fromNode": "bac001", "fromSide": "right", "toNode": "bac002", "toSide": "left"},
+    {"fromNode": "bac001", "fromSide": "right", "toNode": "bac004", "toSide": "left"},
+    {"fromNode": "bac001", "fromSide": "bottom", "toNode": "bac006", "toSide": "top"},
+    {"fromNode": "bac002", "fromSide": "bottom", "toNode": "bac003", "toSide": "top"},
+    {"fromNode": "bac003", "fromSide": "right", "toNode": "bac005", "toSide": "left"},
+    {"fromNode": "bac004", "fromSide": "bottom", "toNode": "bac005", "toSide": "top"},
+    {"fromNode": "bac006", "fromSide": "right", "toNode": "bac007", "toSide": "left"}
+  ]
+}

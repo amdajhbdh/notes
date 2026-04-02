@@ -1,0 +1,261 @@
+                                                      ns
+
+   tire de                SLAMIQUE DE MAURITANIE —                     Honneur Fraternité Justice
+                                Nationale             :                Série     :                             Mathématiques/T.M.G.M
+
+   Direction des Examens et des Concours              Sciences phys ques session normale 2015 Durée: dH        : 8/4
+
+                    .                                 Exercice  1  (4pt)
+     1 on mélange         0,5mol de pentan-1-ol           et    0  Smol d'acide méthanoique H,C0, dans un
+     pallon. Lemélange estmaintenu a température constante.
+     4.1 En utilisant les                                       ecrire I'équation de         la réaction qui se  z  os
+     produit dans        le balloh. Donner le nom de               ormé.        :
+     1.2 On préléve         un volume                              du mélange toutes les 5 minutes, et aprés
+     refroidissement, on dose I'acide restant avec un solution
+|    Cs =           en présence de                                     de soude de concentration
+
+    1.2.1 Quel est Ie but du     refroidissement ?              i
+    4.2.2  Ecrire I'équation bilan de la réaction         au cours du dosage.
+    1.2.3 Donner              littérale de                           la quantité de matiére d’acide restant  le
+   volume Vp de prélévement a I'instant t en fonction du volume Vp de base versé a
+                         €t de la congentration Cg de la soude.        Po
+   1.3 Calculer la        quantité de matiére d'acide n, contenue dans le volume                                     du mélange
+   3   instant t=0,       départ de la réaction d’estérification.  En déduire I'expression littéralede la     |
+   quantité de matiére d’ester formé ne dans le volume                 de mélange, a l'instant t, en
+
+
+           volumique du pentan-1-ol
+   Masso   de no, Cp et Vg.                p = 0,8g/cm’.  3            eT
+           volumique;        de I'acide méthanoique p’ =           0.5,    10.1
+
+   4.4 On                 un volume V=5mL de I'acide                   iE
+   de                                           qu'on dilue en ajoutant        .
+           Décrire le mode                            lors de la dilution  sf
+
+
+             I   sages successifs ont permis fe tracé dela,
+         courbe ci-contre représentant en moles la                 de                                          1
+               d'ester formé ne     en fonction du temps t.
+         Définirla vitesse instantanée de formation de fester-et                            Epa
+         déterminer sa valeur a l'instant t =30min.          Yop)
+
+                                                                2 (3pt)
+         1   Le principal   constituant    de I'arome de la  pomme est un ester A     contenant 66,7%       de
+         carbone. Déterminer'sa formule brute.               |         .  :
+
+ .       2’hydrolyse de A donne naissance a deux ccrps B et C.
+         Le dosage de 9,8cm’ d’une solution aqueuse tle B contenant 6,23g/L     nécessite 7cm®           d'une
+               de soude a 0,1mol/L: Quelle est la fonction de
+ "solution                                                             B ? Sa masse molaire ?              (0,5pt)
+
+    i    3.1 Le chauffage de C en présence d’alufiné Conduit'au                      et a de l'eau. Quelle est
+                                  ?                                    :                          (©0,5pt)
+         le   nom de cette réaction
+       3.2 L'oxydation de             C par un excés de dichromate de potassium (2K* +          fournit B.
+       3.2.1              les formules semi-développées de B et C puis celle              de A et donner leurs
+       noms.                                                :
+             Eerire les   demi-équations et I'équation     hilan.de     I'oxydation  de C par le dichromate de
+       potassium.                                            3(4,5pt)
+
+       On néglige la résistance de I'air.                                                         ‘     i
+       Un pendule élastique      vertical est constitué d  un      solide S de masse m  et  d'un        oa
+       ressortR de raideur K. Les courbes donnent          es variations des énergies       mécanique
+       Eet  potenticlle   Ep du systéme (solide,             terre) en fonction de                x du     Rw)
+       centredinertie G du solide dans le repére(0,).           ~~                                         BES
+       La position d’équilibre du   solide coincide ave ¢ I'originé O du repére et le plan           :     ye
+       herizontal
+       de               passant par O est pris comme plar   de référence de I'énergie potentielle              ©
+             pesanteur du systeme.    |                                k                                      x
+       1 Trouver I'équation différentielle    du                       wd
+0
+
+          2 Etablii                                   de Pénergie potentielle du systéme en fonction de K, x etx, od xo est
+          Pallongement a Péquilibre.                                                                                   EHR
+          3                  Montrer que Pénergie mécanique est conservée                           au cours des
+          oscillations?₄                              :
+                             Trouver Pexpression de       mécanique du systéme en
+          fonction de K, Xp et                            x, est        des oscillations.
+          5 En se basant sur le graphe déterminer                                                   Xm,  1a raideur K
+          du ressort et son allongement a                               xo.
+          6                        Montrer que            cinétique₅  Ec du solide peut étre exprimée en fonction de K, Xm po )
+
+                                                          Exercice 4(4pt)
+           1                  On considére un solénoide S de longueur     = 0,5m, de diamétre 10cm et comportant
+           N =5000 spires. Etablir 'expression de inductance L du solénoide S.                                                             OND)⁻
+                            Faire P'application numérique. On prendra                             et  =
+           2                  Le solénoide S est parcouru maintenant par un courant dont                      i                                i
+           varie comme l'indique la courbe.
+           2.1                  Que! phénoméne apparait dans le solénoide? -lustifier la                                                    i ha
+
+           2.2                       Donner <n         de L eti                 Pexpression de ia force électromotrice
+
+       _                              qui apparait dans le solénoide et calculer ses valeurs dans les
+       “-intervalles                     suivants: (0;4s] ; [4s;6s] et [6s;10s].                                                              THES
+           3laSoiert.                1   et C les bornes du solénoide. Détermir.or expression de;                                          TH
+                                         daris chacun des intervalles
+           résista; >=                   r    du          est 10
+           4 Ref                  és  n.er graphiquement Uae = f(t) dans
+                                                                        Exercice
+       Les.                           “tions  1.et  2 sont        SE FON                                  hed
+                                                AB    circuit comprenant en                                     résistor de-résistance     er
+                            R et un condensa‘eur de capacité C, on maintient une tension                      de     %
+                            fréquence f.
+                            1.1 Soit i        /2cosot                                     I'intensité traversant
+3                                        =                de                                                 le circuit en
+                            fonction du temps. Donner expression de la tension instantanée usaux bornes du résistor
+                                                                                                              .
+                            et'celle de la tension u; aux bornes du circuiten fonctionde R, C, wet            057
+                            1.2 Afin de déterminer        f                      et la valeur C de la capacité du condensateur,
+
+    :                       utilise un oscillographe bi-courbe branché comme                                                 on
+                                      la figure 1. On observe                                     de la   [HEN Cre
+
+                            1.2.1 Dire sans calcul, quelle est de la courbe | ou de                                                         ne
+                            la courbe         de la figure2,  ?     qui correspond a
+                            celle qui correspond a u, Justifier la réponse.
+                                  Quelle est la période de la tension appliquée
+
+k                           entre Aet B?                                                                  BE
+                             1.2.3 Quelle est la valeur du déphasage entre     et u,?                         ©
+                                                          o. Sachant qué R=1000); calculer C.
+                             En déduire une relation entrée     C et        et                                           «  sus
+           .1.2.4 Quelles sont les valeurs des tensions.maximale efficace da u; ? Quelle                      bets
+                             de Pintensité efficace dans le circuit?           i
+                             2 Un circuit électrique comporte en série, un générateur fournissant.une tension:
+                              u=220+/2cosot, une bobine de résistance     et                                  at
+                             condensateur de capacité
+                             2.1  Pour quelle fréquence N, observe-t-on                                       HN
+                             2.2  Calculer I'impédance du:     circuit R, L, C lorsque [a fréquence d’aliméntation vaut
+
+                             2.3 Donner Pexpression de Pintensité        i     du courant lorSque la fréquence
+                             50Hz.                                                                                      yi 9 &
+
+
+
+
+                             Série Mathématiques      Baccalouréat de Sciences     Physiques              Session Normale 2015
+
+
+
+                                                      Scanned with CamScanner
+
+    A
+   Correction du Bac <  sry Eprouve do
+
+
+
+     |   | Exercice Mm:   @                           5 =Sac          Mac, = Mg     =                                     |
+ WN      | 1.1)HCOOH +        14,03             = on     Verrerie:=        Mo                                             |
+
+              méthanoate de pentyle                   Pipette jaugée de - fiole jaugée de 50mL” od                        |
+              Le but du refroidissement c'est         Produits :  solution mére - eau distillée
+          lo   réaction (la trempe).          0,25e"     la       :    - On remplit la pipette avec la solution mare et   |
+              Equation di                             on     verse dans la fiole jaugée.
+          HCOOH + OH™ — HCOO™ +                08     - On ajoute de     distillée dans la fiole jusqu'au A et on         ||
+
+ i        ed hot Tne = nit] =      0;                     complete avec de l'eau distillée     trait de jauge.            |
+          1.Ve ig at =     Vr = 74.2cm’               c's = =                                                             |
+
+
+                                                      égale  4 la dérivée de la qté d'ester formé par rapport au
+          [J Tyg 0,522                                2 La vitesse instantanée de formation de l'ester E est              |
+          %   mo            vr3mol742    05           tenips. V, =           @
+          = ng     =                                   1
+          [Exercice     2 : © 122                     23              -  -
+                            =                                                i
+                                                                         mort ren
+
+         2 B: acide carboxylique
+ tng =                          = nz =        = ny                           05
+
+                            6,29%9,8x10°
+                                                       ,
+ .      |ms  Fan                 |       105
+
+    |   Ms =  88/mol            =                                        Ge      20
+
+ |  | 3. Cette réaction est une déshydratation   ©5)         -
+       321                                                                   + 30H,ee
+       B:                    acide butanoique                            be,  2Cr
+       Ci                       butan-1-ol   ~~                              =
+                          CHy-CH-CH,-COO-CHa-
+              butanoate de butyle
+                                                                             -    +
+
+
+|       | Exercice      3 :          (a5)                3 Conservation de Ep,                      =      05
+              Da                                         Les seules forces                      o
+
+                               mg-kxo= OQ                appliquéessont:lepoids     Pet                                   |
+
+              Enmvt RFD): $F.                            la tension T qui sont des                 5Pourx=dem =Ep= 510°7ₛ
+                                                 Ma      conservatives ; donc               5.103 ==3 (xf +x%)⁺ˣ²  2
+                                           app= =ma      forces intérieures et
+
+                                                                                                 2.2
+
+        |    mg - k(xo+x) = ma =                            Wit Wi                          5=  Zo    =      os)
+                        kxzma =                             Systeme (SIRIT)est
+
+        |                            x       =0    en                              0,5    05
+
+             degré  caractéri0                            Enz lov? . x +?)                   Ec=   En-E =K=5N/m
+                        ctérisant            le i         (V=0²                             6
+                                                              =                             Ec =     +13 -     +x?)
+
+   otras dc                                                 = of 7                                  us
+   le,              elle   : E,   =  Ee
+                           ih
+        ao⁻                    mg +E             5)Calcul de                   ket xo.              |
+                                             =
+   |                                                          .
+
+   Exercice 4 :        5                                0.25
+   1 Expression de inductance :
+   ¢=Li= NBS =     i        0s) .  o Uy = -10t +195     .©.25)
+
+
+            py         _             me%                                 >      = 10(-2) =        =-20
+
+          21         apparait dans le solénoide un phénomene      4           Us =10t-795
+          dauto-induction car le courant varie ce qui                    Représentation graphique de Unt                   3
+          proveque une variation du flux propre.
+          22)e=- LS                      05                                                  .
+
+              *                                                                   hig           bl tion
+          { by=0-(-2)=2                  03
+
+                                    - 2A =,                                                                     :
+                   - 05x(0) =
+
+                     [65:10s]: is= at + by
+                       2D _ 4
+                        0-6
+    |                                              05             7s
+
+    .
+    _—|   Exercice 5 :     (a5)                            fer    124 Un 3V S                      ZV³          om            _
+    [Di=TV2coswt
+    11 Expression des                                             Dans le resistor               = RI => 1 =      =     oF
+          tensions instantanées :                                 2
+    {uy      =     RIVZcoswt                                      2.1ᵘᶻ      220VZ cos wt                        .
+                                                                          résonance No ?
+                       ==₊           +      fue                      No   =   on =>          =     wg   =       =
+
+         u; =      RIVZ cos wt      sinwt                         2.2=        1     AN: N, = 98,7H
+
+ J        z= RIVZcos wt + v2 cos(wt      5     029                        L'impédance du circuit R, L, C:
+
+         1.2.1 La courbe (I)                  —                   Z=      [re + (Lo
+                       représente u, : tension aux
+
+||       bornes du circuit ;    la  courbe (II) représente    :   avec       Lw = 62,830 et       = 244,850
+         tension aux bornes du résistor, u, est en avance         AN:
+    par rapport & u, car le circuit est capacitif.     05                 L'expressionʲᵒⁿ de e   l'intensité   wish
+                                    029                           23                                           instantanée i :
+              12.3 |g] =    = |g] =        029                    tan = =                                                  c
+    AvecN=250Hz                          =                                        :
+    Relation: R,Cetw:                025
+         tang            —  gz       hwe           PD      = soit - 0             Up                           :
+    Prey             Rw 2nNR           .      025          Ue     i          cos(wt + @ = In =                    9        Fem
+                       6,374                                      i=12v2 cos(100n                      =1242A              03  [

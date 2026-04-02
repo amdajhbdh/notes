@@ -1,0 +1,108 @@
+---
+title: "BAC C 2011 - Session Complémentaire - Mathématiques"
+year: 2011
+exam: "BAC C"
+session: "Complémentaire"
+subject: "Mathématiques"
+series: "C"
+duration: "4 heures"
+coefficients: "4"
+type: "Examen"
+---
+
+# BAC C 2011 - Session Complémentaire - Mathématiques
+
+**Série:** C | **Durée:** 4 heures | **Coeff:** 4
+
+---
+
+République Istamique de
+Ministére d*Etat a I' Education Nationale,    i    Honneur — Fraternité — Justice
+    I"Enscigncment
+    Recherche Supéricur et i      Bacea la uv cat
+    Direction des Scientifique        E
+                  Examens of de Evaluation        2001 “gmp
+    Service des        =        A Coefficients: 9&6
+     Exercice |        4 pointy)
+       Dans                          des nombres complexes T, on poser
+       . Calculer P(2).                                                                                                              0.5
+        b) Résoudre I'équation       P(z)= 1.
+     2 Duns te plan muni d'un                                              (O;u, 73, ei consicére les  points A,  B
+     solutions   de I’équation       P(2)          <li. Piecer                     les pointsA,                       et C images des
+     triangle  ABC  est rectangle isocdle et que le quadrilatére                  est un                B ot      C.          que le
+     3 Soit   s  la transformation^3  Qui associeʸ       d tout point    M             Jo  parallélogramme.            = =            m
+                                                                                  7       roint        M'd'affixe z' T+i
+    a) Justifier que   s est         une similitude directe du plan.
+     b) Déterminer les               caractéristiques dz     s
+         Vérifier que        = B.                                                                                                    oa
+    Exercice 2 4 points)                                                                                                             0.5
+    1 On considére la fonction           définic sur         IR par:                        4
+    a) Dresser le tableau de variations de        Eg.                                     2x 2.
+    b) Montrer que g réalise une bijection de      IR             sur IR                                                             0,75
+    ¢)  Montrer que I"équation £(x)= 0 admet dans IR                    unc unigue solution a   telle   que 6,6 Sa <0,7.             0.5
+    2 On considére la fonction       f     définic sur   IR par:                      2x
+    2 Caleuler     f'(x), puis    vérifier que     f(x) =                                                                            0.5
+    2 Dresser le             de variation de   f.
+    fi   TracerJil la   courbe                     (C)            de        dans   un            repére orthogonal                   0,73
+         =Jem
+    +) On considére la suite numérique            )définic pour tut               nitere!              n2 1 par: U,    = (rose       0,25
+    Inne            pas a caleuler Pinéerale           U,                                                             N        .
+    )   Montrer cue pour tous emicr                                           1       gy                Jim                       0,5
+    )  Déterminer       entier naturel                                                                  Rot
+    Xercice3 5.5ᵘⁿpoints)                      gue pour tout            n 2,  Gg U, sims,                                         0,25
+         le plan orienté on considére un                       ABCD de sens direct, de
+    espoints        F, G    ct    H  sont     les milicux                 des segments                     O.
+    +a)Faire une figure que          complétera au fur                  ct A mesure (on prendre (AB)   [Bc), (cD) et     (pa).
+         Montrer qu'il  existe        une unique rotation     rtelle que                               horizontale)              0,5
+     Déterminer le centre      1  ct un angle de Ja      r.                         et                                           0.5
+     Montrer   que       r(A) =F         puis construire les points B*        images respectives de              Betde C parr.   (0s,
+    acealauréag 2011    Session ee                                                                                0.5
+                          complémentaire                                             de   Les          _  C& TMGM 12
+    Annales du Baccalauréat National           Mathématiques            // SériesSéries  C & TMGM         IPN /Mr 2012-
+                                                                                  :                                   2013           13
+3 Soit h1’homothétie
+1 Justifier que s       est   de centre        D et de rapport     k                   s=roh.                                                 0.7%
+                                             du carré ABCD par la similitudes.
+b) Déterminer "imageᵘⁿᵉ similitude directe. Déterminer le rapport et Pangle de s.                                                             0,75
+4 Soit Q le centre de la similitudes                                                       {
+a)  Montrer ue le point appartient aux cercles de diamétres respectifs                                                ct     (DH).             ©.5
+b)   On considére les cercles         I'et         passant par     Q et de centres respectifs                       Aet O. Soit T intersection
+de   Tet                que   €2.   Démontrer que            s(T)=T".     En déduire       que les points ©,       A, O et     Tsont
+                                                                                           i
+     Soit M       up point de I"   distinct de Q       etde T'     .    On   pose s(M)=M".      que les points     M.M                         0,5
+et   T sont alignés.                                                                       sur les cercles   Tet
+d) Soit   A' et O'       les points diamétralement opposésa Q          respectivement
+                         Jet K les milieux respectifs des segments. (MM ') et              Mdéent
+ Diéterminer la nature du          triangle                   QJK En déduire le lieu géométrique du point Jlorsque                              0.5
+ privédeQ     etde T                         .
+ Exercice4
+             fonction définic sur                                  par                  f(x) =xIn(x+1).
+ Soit f  la   6.5 points)
+ Soit   (C)  sa courbe représentative dans un repére orthonormal (0; u,v).
+  1.  8         lim f(x), lim         f(x), lim 16             .   Interpréter graphiquement.                                                   0.75
+                Peery                                        x
+      Montrer que la fonction f       est striclement décroissante sur I'intervalle        et     strictement croissante                            75
+                                                                                                                                                 0,75
+                              oof  -
+  ur             [05+
+      Ine ox le                     tableau de variations de f et construire la courbe (C).
+          Déterminer a, b ct tels que, pour tout x                                     x        3                                                  0.5
+  2.  a)                 trois réels               ¢
+  15  A I'aide d'une intégration par parties, calculer, en unités d'aires,                     I'aire 4  de la partie du plan limitée
+  par la courbe (C), 'axe des abscisses et ies droites                                x = 0 et x =1                                              ©.35)
+    3 Pour tout entier n21, on pose :     U,                   In(x+1)dx.
+#1) Montrer que                     précédente définit                bien une suite numérique(U,).                                                 ©5
+    b) Calenler U,      ct en donner une interprétation graphique.                                                                                 0.5
+2 Montrer que la suite (U, )est décroissante. La suite (U,)converge-t-elle 2 Justifier.                                                             05
+                 que pour tout entier n 21, 0<U,                    »                              En déduire la limite de la suite (U,).        0.5L
+    4 Démontrer
+                                                              nel
+    4 Pour tout entier      n          2 1, on pose:  V,
+    a) Vérifierque:                         U =  n+l    3                                                                                          0.5
+                 gs: pve                                     En déduire Ia limite de la suite (V,).                                              0s
+      ©)     Démontrer que pour tout enticr n 21,            V,        sr =_{3} + 3 + n+                                                            0.5
+      Tin                           1.11                     (-1)"
+      in     déduire que Jimⁱ    (  543     +                      In2
+                                                             Fin.
+ I                       2011                                 ds                           CA 22
+Annales du Baccalauréat National      Mathématiques                / Séries :  C & TMGM IPN /Mr /2012 - 2013                                     14

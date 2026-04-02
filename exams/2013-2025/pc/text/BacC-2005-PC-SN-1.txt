@@ -1,0 +1,170 @@
+REPUBLIQUE ISLAMIQUE DE MAURITANIE                    Honneur Fraternité Justice
+Ministère de l'Enseignement Secondaire et Supérieur   Série :
+                                                      Mathématiques/T.M.G.M
+Direction des Examens et de l'Evaluation              Durée : 4H Coefficient : 8/4
+Service des Examens
+
+
+
+Exercice 1         Sciences-physiques session normale 2005
+1 On considère une solution aqueuse S
+               concentration
+    =  et de        volumique ᵃ d'acide benzoïque C
+                   molaire C = 10⁻²mol/L.
+pH     3,1                                               6H5 -COOH de
+1.1 Montrer que cet acide est un acide faible et écrire l'équation de sa réaction avec
+l'eau.(0.5pt)
+1.2 Donner l'expression de la constante d’acidité Kₐ du couple acide benzoïque-ion benzoate et
+calculer sa valeur.(0,5pt)
+1.3 Définir le coefficient d'ionisation હ de l'acide et calculer sa valeur.(0,5pt)
+1.4 Montrer    que l'expression  du pKₐ    de cet acide peut s'écrire  sous     la forme
+pKa = pH − log 1 α
+               − α
+Calculer la valeur du pKₐ.(0,5pt)
+2 On prépare une solution S'ₐ en diluant un volume Vₐ=10mL de cet acide ; en lui
+ajoutant un volume Vₑ=30mL d'eau. Préciser le matériel et les produits utilisés, décrire
+le mode opératoire lors de la dilution et calculer la nouvelle concentration de la
+solution diluée.(0,5pt)
+3 On dose la solution d'acide diluée S'ₐ obtenue par une solution aqueuse Sb préparée
+par dissolution d'une masse m = 10mg d'hydroxyde de sodium dans un volume
+de50mL d'eau.
+3.1 Ecrire l'équation de la réaction entre les solutions S'ₐ ct S
+                                                          b.(0,5pt)
+3.2 Déterminer     le     volume d'hydroxyde   de sodium  à
+l'équivalence.(0,5pt)                                         verser   pour    atteindre
+C = 12g/mol; H = 1 g/mol; O = 16g/mol; Na = 23g/mol
+Exercice 2
+1 On cherche à déterminer la masse molaire moléculaire d'un acide carboxylique
+saturé A. Pour cela on dissout une masse de 44mg de cet acide dans l'eau et on dose
+l'acide ainsi obtenu avec une solution d'hydroxyde de sodium de concentration molaire
+volumique 2,5.10⁻² mol/L. On obtient l'équivalence acido-basique quand on verse un
+volume de 20mL de la solution d'hydroxyde de sodium.
+1.1 Déterminer la masse molaire moléculaire de cet acide.(0,5pt)
+1.2 Trouver la formule brute de cet acide et en déduire ces formules semi développées possibles ainsi
+que leurs noms. (0,5pt)
+2 On traite l'acide A à chaîne linéaire avec le chlorure de thionyle et on obtient un
+composé B avec les gaz chlorure d'hydrogène et dioxyde de soufre.
+2.1 Ecrire l'équation de la réaction à l'aide des formules semi développées.(0,5pt)
+2.2 Déterminer la fonction du composé B et son nom.(0,5pt)
+3 On traite B avec un composé C pour obtenir un ester D de formule C₆H₁₂O   2
+3.1 Déterminer la formule et le nom du composé C.(0,5pt)
+3.2 On fait l'oxydation ménagée du composé C à l'aide d'un excès de permanganate de
+potassium(K + + MnO− ) . Ecrire l'équation de la réaction et donner les noms. et les fonctions
+des produits organiques.(0,5pt)⁴
+3.3 Donner deux autres méthodes pour obtenir le composé D.(0,5pt)
+                                           53
+
+On donne : C =12g/mol; H = 1 g/mol; O = 16g/mol
+Exercice 3
+Un solide ponctuel de masse m=200g glisse sur un plan OA
+incliné d'un angle α=60° par rapport à la verticale. Il part du
+point O origine
+de valeur JG                                    de l'axe orienté X'X avec une vitesse initiale
+             V . Au G                                cours de son mouvement, S subit une force
+                 0
+de frottement                                    f . Un dispositif approprié permet de mesurer
+la vitesse V instantanée du solide pour différentes positions
+x. La courbe représentative de
+V² = f(x) est donné par la fig 2                                     2
+1 Déterminer graphiquement l'équation V
+2     En     utilisant     le     théorème       de l'énergie= f (x).                         (0,5pt)
+établir l'expression de V en fonction de x.                           cinétique,G                             (0.5p
+3 En déduire les valeurs de la force de frottement                     f              et de
+la vitesse V
+    point
+4 Au         0d’abscisse x =0,5m, l'énergie .                          (0,5pt)
+système {solide -terre} est égale au                                         mécanique E du
+cinétique. En                                                           double de l'énergie
+référence                                       déduire la position adoptée pour le plan de
+5 5.1        de l'énergie potentielle de pesanteur.                   (0.5pt)
+                                           Donner l'expression de l'énergie cinétique Ec et
+de l'énergie potentielle Eₚ du système {solide-terre} en
+fonction de x en prenant pour référence de l'énergie potentielle le plan horizontal situé
+à 0,5 m en dessous du point O.
+5.2 Sur un même graphique, représenter les courbes Ec= f(x) et
+Ep= g(x) pour les valeurs de x telles que
+0 ≤ x ≤ 1m. (0,5pt)
+5.3 En déduire l'Expression de E en fonction de x puis tracer la
+courbe E=h(x). On donne g=10m/s⁻². (0,5pt)
+5.4 Le solide quitte le plan incliné en A tel que OA=3m.
+5.4.1 Donner les caractéristiques du vecteur vitesse du solide en
+A.(0.5pt)
+5.4.2 Déterminer les équations paramétriques du mouvement du
+solide S dans le repère (O; x; y) après avoir quitté le plan
+incliné.
+
+Exercice 4
+Un spectrographe de masse est constitué de 3 chambres
+: la chambre 1 d'ionisation, la chambre 2 d'accélération
+et la chambre 3 de séparation.
+1 Des atomes de zinc Zn sont ionisés dans la chambre 1. Les
+ions 68Zn²⁺ ainsi formés sont accélérés à leur sortie du trou O
+sans vitesse initiale par un champ électrique uniforme                                     JG¹
+                                                                                           E
+existant entre deux plaques P₁ et P₂ verticales JG                   et parallèles distantes de d.
+1.1 Déterminer le sens de ce champ E .                                                            (0.75pt)
+1.2 Calculer la vitesse V                            2+
+  À          sortie du champ
+2                                                1 de l'ion 68ZnJG   au point O
+                                                 électrique           68Zn
+    leur         JG                                  E , les ions                    2.           (0.75pt)
+magnétique uniforme B                                                                2+entrent au point O dans un champ
+2.1 Déterminer la                                perpendiculaire au plan de la figure.                    JG
+                 nature du mouvement des ions 68Zn²⁺ dans le champ magnétique                             B
+après avoir précisé son sens. Donner l'expression du rayon R
+             de m                                (1pt)
+fonction         1 ; e ; B ; E et d.                                                          1, de la trajectoire en
+
+                                                                     54
+
+2.2 Définir la déviation angulaire α et calculer sa valeur sachant que O'A₁=23.04cm et que
+OO'≠O'A
+     une
+3 Dans 1.              (0.75pt)
+ionique                         deuxième expérience on place dans la chambre d'ionisation 2 un mélange
+m₁ et mde zinc qui ₂.                                     s'ionisent en 68Zn²⁺et AZn²⁺ de masses respectives
+3.1 Trouver l'expression du rapport                 R₁    en fonction de m, et m
+                                                    R2        2 où R1 et                   R₂ sont les
+rayons des trajectoires respectives des              ions 68Zn²⁺et AZn²⁺.
+
+3.2 En déduire la valeur de la masse atomique A de l'isotope Zn
+     (0,5pt)
+Applications numériques : mₚ =mₙ = 1,67.10⁻²⁷kg;d = 10cm;E = 10⁴V/m;
+R₁ = 26.6cm; R₂ = 27cm.
+Exercice 5
+1                    On réalise un circuit formé d'une bobine de résistance r et
+d'inductance L, un condensateur de capacité C, un ampèremètre
+de  résistance             négligeable et  un  GBF        délivrant une  tension
+sinusoïdale u(t) de pulsation              ω et de valeur efficace          60V.
+L'ampèremètre indique alors une intensité efficace I = 0,1A.
+La tension efficace aux bornes de la bobine est 60               3V et celle aux
+bornes du condensateur est 60V. Le circuit est inductif.
+1.1 Trouver l'expression de l'impédance Z du circuit en fonction de r,
+C, L et ω .            (0,5pt)
+1.2  Calculer             Z ainsi que  l'impédance         Z₁ de la bobine et   l'impédance     Z₂  du
+condensateur.
+1.3 Déterminer, en vous aidant de la construction de Fresnel, le déphasage entre la
+tension u(t) et l'intensité i ( t ) = I   2cosωt . Calculer la résistance r de la bobine.
+2.                      2.1 Sachant que C=5 μ F et N0=100Hz calculer la valeur de l'inductance L de la
+bobine pour laquelle il y'aurait résonance. (0,5pt)
+2.2 Calculer l'intensité efficace I
+                                                                       0à la résonance.(0,5pt)
+2.3 Indiquer comment varie l'intensité
+supposera                                                 efficace I en fonction de la fréquence N. On
+                       que la fréquence du courant a une valeur maximale de 200Hz .(0.5pt)
+2.4 Donner l'expression du rapport             II₀   , en fonction de r, C, L et ω puis en fonction de
+
+ω , ω 0 et du facteur de qualité              Lω          1
+                                          Q =  r 0   = rCω₀
+
+                                                          Corrigé
+Exercice 1
+1.1  pH =3,1 ; C = 10⁻² mol/L
+-logC =2               ≠ pH → C6H5-COOH (acide faible)
+L’équation de la réaction de cet acide avec l’eau :
+C6H5-COOH + H2O U C6H5-COO⁻ + H3O⁺
+1.2 Calcul de la constante d’acidité:
+Ka = [H³[0⁺ ] .[C H⁶        5 − COO− ]
+         C H₆          5  − COOH]
+
+                                                             55

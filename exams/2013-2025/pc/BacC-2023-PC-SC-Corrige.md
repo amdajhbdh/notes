@@ -1,0 +1,123 @@
+---
+title: "BAC C 2023 - Session Complémentaire - Physique - Chimie"
+year: 2023
+exam: "BAC C"
+session: "Complémentaire"
+subject: "Physique - Chimie"
+series: "C"
+duration: "4 heures"
+coefficients: "4"
+type: "Examen"
+---
+
+# BAC C 2023 - Session Complémentaire - Physique - Chimie
+
+**Série:** C | **Durée:** 4 heures | **Coeff:** 4
+
+---
+
+LEY
+        ?        ENN A  y) ,    J
+        C023 Coxy ©     C
+            cn
+  QCMʷ      lh, JR = SE    ed   des  dans
+  Rute        iad THC             TA     LI             1,0", 01, 1,0,               ot
+     oreige dode Fever            Lol    Lal Loc   Caloul des             |            (
+            laun                                   10           CETTE)
+                       dle    formule le
+  Ma
+  TR        TAYH                                                             +       |
+                                                   HO"                              ) |
+                                                   Comme (01°         négligeable devant ||1,0°
+          1a formule brate                             1,07
+  2.0. Etude de A                                  apres Kan
+  CHILOA CON                      (was).           No     J      CLT)            \
+  C ne peut Hre que le                                                       N ,
+  et A    est le                                                 1                  |
+  22 Etude                                                                          ut!
+  220,
+  Préchons ley fonctions de   Fet BlB                  omy|           £107⁻ mot.        J
+  D                dont ta    axydation donne
+  un  F de formule            CH, CHO 2            a!                 =
+   La2™  axydatjon jon        (a,               0.2361                1             10,25p1)
+  nclde                    donne up acide nlors Bestun                 0,08
+       carboxylique de formule                      Nature de la solution &
+  CH-COOH':                       ON.                        bass  lors du dosage   aclie
+   La fonction de F peut &tre identlfié par0,251 0                    cred          2      |
+   1a liqueur de Febling (ou lex réactif
+  Tollens). 0,230                 de,      de          cu,                 ave SV RWS Ly,  |
+  222                                                   Vi   Vide        5      Gu?        |
+      G         —» G+SO;     Q     32,                           ®            1.      |
+             un Chlorare                                     de ple                   |
+         ootSynthdse                                             log
+      2.3.   ua     de AN          plic= 3 (pKa +                     Ke)
+H!              Bod                pile                                      [EE ER   |
+                                   3. Le blen de bromathymol
+                                                                             ¥
+      Les                          appropri car pH, #[6-7,6].
+ {    8         QPCH-COC!          Corrigé do                           3              |   {
+                              02350     1.         voir achému   (0,25p1)             ad    Lay
+                                        Calcul de                                       5
+      E ost                   0.2551    F=P/B~10" N              02500                RTA   !
+      Corrigd de      2.                2. Bilan             des forees :ᴶᵃ tige          BR]
+      1 Nature de                                            A   In force de Laplace  Ala ee es
+      Culeul de Gy                      rails sur la'thge 3 1a tenslon du Alt nu          ids Ue
+                                                   Re            1                        i
+      ou ties    eat eat                                              i                 |   :
+                              +fable (0,25p1)     FiNZ;                                 i
+                                  4                                   .      isS      JE)
+                                  =               AREF Jah)
+                                                                               CamScanner   d>guaall
+  7 AAA
+  / 2
+Je la  +  <
+wr  masse M  3  *  (S/
+APETEᵖ  <  3  |
+Coreigé do  5
+hard  Voir la figure subvante  0.200
+es
+:
+mouvement  0.2200  A
+.  2.1. La courbe |  représente la tension
+que la coarbe Il représente   car
+=  de la courbe | est plus grande que
+Projection suivant ‘axe:  couthe 11.
+pn  Determination des
+\  Feast  ois?  N  uy 0 = Uy, cos(
+11,92,720.200,54V
+m  x  2x
+4.1  de la Len
+seg orDa nl ane Sed, +  x  en  A  oD ot ¢ 0 alors
+de  et son sens  J=  54007  5 pap
+Deena  =
+|  positive, le courant circule dans le mime  Cs  = Up  +  Qui)
+ii   tige.ˢᵉⁿˢ cholsi  de M vera N dans 1a  \  +5 vee
+(0,5p1)
+H   Corrlgé₁  de  A  et § Z  Q,  car les deux fonctions sont en
+Les valeun de de
+fle  —
+QQ  35  cr:UpaR
+Parupplication de la loi de conservatiy  Ups
+i   charge ef du nombre de masse, oo  he)  Une  “Rr  0,501
+REE
+2.  ge  RS  uas  sa
+Caleul  ;
+'   AE  » (my  Qy
+AE:  RAN  ju  la  reat
+AE  ager  ENR
+RR
+Commie  xt £0 avance sur u(t) done 49 < 0
+x  (1p)  bi  2x
+i  RE  Ape
+32,
+TF
+:  =
+|  Lobe  Yu  JR
+     |              ito  A;                           :
+                    Vie     lM                         :                                                        0,801
+                                                          TCʸʸ                         (LEE³
+BER  TR  I  UO  <<)  1
+YA
+Da  AE SIR A OR  _  AS  1
+Zh {  =  )
+CamScanner  d>guaall

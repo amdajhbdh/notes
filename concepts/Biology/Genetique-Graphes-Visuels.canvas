@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"474d167f02561565","type":"group","x":-2840,"y":-1600,"width":2230,"height":2230,"label":"🖼️ Visuals"},
+		{"id":"6f8ab1cd85ee35ae","type":"file","file":"01-Concepts/Biology/Genetique-Graphes-Visuels.md","x":360,"y":-870,"width":3440,"height":1840},
+		{"id":"fb2579e48d273c12","type":"file","file":"01-Concepts/Biology/assets/action-potential.png","x":-2716,"y":-1352,"width":1982,"height":1115}
+	],
+	"edges":[
+		{"id":"17561cc2067f0c13","fromNode":"6f8ab1cd85ee35ae","fromSide":"left","toNode":"474d167f02561565","toSide":"right"}
+	]
+}

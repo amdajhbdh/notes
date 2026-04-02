@@ -1,0 +1,235 @@
+|ye                             I’Athématique
+         sur                               r      s      dans Z 7°c mep saALem
+
+|    E     cel                                                                                                  |
+|       En Erg     er les chiffres x et y pour que le nombre n = 43x57y soit divisible par 15 et 2.             |
+         base9gfrouver tous les couples (x,y) pour lesquels le nombre 7x6y4 est divisible par 7 et par 8. (on   |
+||   porra uti     - systéme décimal comme systéme intermédiaire).                                              |
+     Exercice2                                                                                                  |
+|    Résoudre d    es     deux  équations suivantes :                                                           |
+|    a) 3x =                           35x =7[4];  d)22x=33[5];         f)x*-3x+4=0]7];                         |
+|    Exercice 3                                                             Va!
+|    1 Trouver, suivantFa              de     naturel n, le reste de la division euclidienne de 5" p   QV       ||
+|    2 Trouver la reste     75%,ᵒⁿ     euclidienne de    par 7.             N                                   |
+        SoitX =                                                                                                 |
+|    a) Montrer que tout entier    natu
+|                                  wifi   , X est divisible par 7.          D                                   |
+     b) Montrer que tout entier            est divisible par 25.        D                                       |
+     ©) X est-il divisible par  175 ? Jusfifier                         S                                       |
+||   Exercice4                             Q                                                                    |
+     1 Montrer que pour tout n € Z (5n3 —     n+2)=(m+2)A38.                                                    |
+
+
+|    2 Déterminer toutes les valeurs possibles      de        US                                                   |
+     3 Déterminer les entiers n € Z                     n), (n +                                                   |
+||   1 On considére I’équation (E) : 8x + 5y =          tys     ese tiers relatifs.                                |
+     a) Donner une solution particuliére de (E).                                                                   |
+||   b) Résoudre I’équation de (E).                     hy                  x                                      |
+                                                        (a,    mbres entiers naturels vérifiant : _
+                                           li
+     2 Soit N un entier naturel tels qu’il un couple                                                               |
+|    a) Montrer que le couple (a, —b) est une                                                                      |
+         Quelle est le reste de la division de N                                                                   |
+||   3)a) Résoudre I’équation (E) :    8x A             sou  xetys     es   entiers relatifs.                      |
+     b) Au VIIIéme siécle, un groupe composé d’hommes et de        sé 100 pi¢ces de monnaies dans une              |
+|    auberge. Les hommes ont dépensé   8'piéces     et les femmes ont dépen pieces chacune. Combien pourrait —il   |
+|    y’avoir d’hommes et de                groupe.                                                                 |
+|    ExerciceS                                                                                                     |
+|    On     la suite                   iers naturels définies Vn € N par xy = et      DX, — 6.                     |
+|    1. Calculer x4, =1 et                                                                                         |
+         Montrer qu             N,     =
+|    b) En déduire              N, Xz, = 2[4] et        = 0[4].                                                    |
+|    3.a) Par     coi e, montrer que Vn € N, 2x, = 5"*2 + 3 et déduire que     2x,ey?                              |
+                                                                            1
+|    b)        deux derniers chiffres de I’écriture décimal de x, suivant les                                      |
+||   Exercice6                                                                                                     |
+     Soit x et y des entiers relatifs. On pose      f(x,y) = 2x — 3y.        O°                                    |
+         Calculer 5, 3).                                                                                           |
+|    b) En déduire les solutions dans Z* de ’équation 2x — 3y = 1.                                                 |
+|    2 Pour tout entier naturel n on pose X,, = f(5",3").                                                          |
+|    a) Trouver, suivant les valeurs de n, le reste de la division euclidienne de X,, par 7.                       |
+||   b) Montrer que : X,915 — 5 est divisible par 7.                        (     )                                |
+     Exercice8                                                                                                     |
+
+|    Lycée d’Atar Chapitre3°       série d’Arithmétique     classe 7°C 2025-2026 Prof: Med Salem   Page 1          |
+
+|    On considére I’équation (E): 5x — 3y = 17, ou x et y        sont des entiers relatifs .                                   |
+|                      que I’équation (E) admet des solutions entiéres et vérifier que le couple 4, 1 est une solution         |
+|         iére de (E).                                                                                                         |
+|    b)                I’ensemble des solutions de (E).                                                                        |
+|    2     Soit  (x,y) une solution de (E).                                                                                    |
+|    aM                       x est un diviseur de y, alors x est un divisuer de 17.                                           |
+|    b) Soitm    u     ier  relatif. Trouver les valeurs de m telles que le quotient — soit     un entier relatif.             |
+     Exercice9                                                                                                                 |
+||   1 On considére        I’équation (E)   ;  ou x et y sont des entiers relatifs. 25x — 49y = 5.    {a                       |
+
+|    a) Déterminer     le      et 25 a                           de ’algorithme d’Euclide et en déduire que I’équation JA  des |
+     solutions entiéres.
+||   b) Vérifier que le cui                   est solution particuliére de I’équation (E). Résoudre (E).     Q                ||
+     C) Montrer qu’il existé,un
+|    2.a) Justifier que si (x,y)ol            entier p compris entre 1960 est 2018 tel que : 25p =                            ||
+|    b) Montrer     que 5x =   es               solution de (E) alors    5x = 1[7] ety = 0[5].      D
+|    3.a) Soit x un entier relatif.                  ent si x = 3[7].        ad                                                |
+                                              restes de x dans la division                                                     |
+||    b) Existe-il un couple (x,y) d’entiers relatifs tels que (x2; y?) soit solution KN                                       |
+
+|    Exercicel(                                                  NGA                                                           |
+      On consideére les équations dont les      ont des entiers (E): 35      1 et (F)     :                  x3° = 2[97].      |
+|     1.a) En appliquant le teste de prima                       97 est un                                                     |
+                                                                                   ©
+                                                                 n
+|     b) Montrer que le couple (11; 4 est                          AD                                                          |
+                                                             I’équation
+||    ¢) Résoudre dans Z? I’équation (E).                        Q                                                             |
+      2 Soit x une solution de I’équation (F).                                                                                 |
+|     a) Prouver que les nombres x et 97 sont premier            e                                                             |
+      b) Montrer que x°¢ = 1[97] puis que x =                    2                                                             |
+|     3 Soit n un entier. Montrer que si n = 211
+|     4 Montrer que les solutions de (F) sont                      ss est     tion de (F).                                     |
+                                              |                  7k; k € Z.                                                    |
+                                              C
+|     On               Bac2024              Sova Vi                                                                            |
+          considére I’équation (E):                        78 d’inconnudé     couple (X,y), X et y étant des entiers.          |
+||    1. a) Justifier que I’équation (E)      admetides solutions.     coc)                                                    |
+      b) Vérifier que le couple 3,2
+                                              1ab1b en base 6 et 1aabb0                                                        |
+          p un entier nature     on           de (E) puis        fe                                                            |
+|     a) Montrer que le co                                                                                                     |
+|     b) Déterminer a et sn               ire pt solution de (E).                                                              |
+|     3. Soit (x,y) une      e (E).           en base 10.        grey
+                                              Montrer que x = 3[17] puis en déduire      +1 = 0[17].                           |
+      Exercicel2 Ba        <m 1                                                                                                |
+
+                           de la division euclidienne du nombre 2021 parll.                                                    |
+|     2. pn
+          Déterminér.suivant les valeurs de I’entier naturel n, le reste de la division eu     enne de 2021" par 11            |
+|     3.                   nombre             — 20211960 est divisible par 11.                                                 |
+||    B. Soit N un entier naturel s’écrivant XyXy dans le systéme décimal.        3%                                           |
+
+|     1. Montrer que N est un multiple de 101.                   O°                                                            |
+      2. Déterminer y pour que N soit un multiple de 5.                                                                        |
+|     3. Déterminer x et y pour que N soit un multiple de 20 et préciser N dans ce cas.                                        |
+|     C. Soit la matrice M                ,   ou X et y sont deux entiers strictement compris entre 0 et 10.                   |
+|     1. Montrer que M     est inversible et déterminer sa matrice inverse     en fonction de x et de y.                       |
+||    2. Déterminer les valeurs possibles de x et y telles que le déterminant de M soit égal a 1.     (                      ) |
+      Exercicel3                                                                                                               |
+
+|    Lycée d’Atar Chapitre3°     série d’Arithmétique        classe 7°C    2025-2026    Prof: Med Salem      Page 2            |
+
+|     1°. Soit dans Z x Z I’équation (E)    :      8x + 5y = 1. Résoudre I’équation (E)                                  |
+||  AY N un entier vérifiant le systéeme             (S)                      _                                          |
+      a)      que N est une solution du systéme (S) si et seulement si     N     = 17[40] .                              |
+|                      e que 9417 est une solution du systeme (8S).                                                      |
+©) Endé     que Pentier (9417)2012 — 1 est divisible par 40.                                                             |
+32S       x 7                                      : 8x + 25y = 1.                                                       |
+|     a) Vérifier q      ouple (—3, 1 est une solution particuliére de     et résoudre I’équation                        |
+|     b) En déddire                                      de solution de I’équation (F): 8x + 25y = 5.                    |
+|     ¢) Soitd =     y ou     ) est une solution de I’équation (F). Donner les valeurs possible de d.                    |
+||    d) Déterminer ’ensemble     de solutions de I’equation           (F) sachant que d = 5.        Q                   |
+      Exercicel4                                                                                                         |
+|     1° On considére I’équation    (E)  ;  ou x et y sont des entiers relatifs.   13x — 15y = 5.                        |
+||    a) Déterminer I’entier     arel       tel que le couple (p + 1; p) soit solution de (E).                           |
+
+|     b) Résoudre I’équation (E                                            D N = 5[13]                                   ||
+||    2° Dans cette question on (                se  déterminer         S des entiers relatifs "Gg     N=10[15]
+        a) Soit N un élément de S.               ontrer  qu’il existe un couple d’entiers (x;      N=13x+5=              |
+||    15y + 10. ou           (x;y) est une soluti      (E).                                    NN                        |
+
+|     b) En déduire que N            € S si et se      n     = 70[195].     2000,                                        |
+      ¢) Déterminer le plus petit A de S qui                 upérieur ou égal'a                                          |
+|     d) Soit n entier naturel non nul. Suppeson             le            la question précédente, s’écrit               |
+|     COVID dans un systeme de base n, ou le'le                            représentant des chiffres distincts de        |
+|     ce systéme. Justifier que n ne peut étre,            ni           ni inférieur a 5S puis déterminer n et           |
+|     préciser I’écriture de A dans ce systeme.                                                                          |
+|    Exercice 15                                             \\                                                          |
+|    On considére le       (S):                    eo!     QL          4                                                 |
+||   1. Vérifier que 2023 est solution de (S         SG                                                                  |
+     2.     Montrer que t est solution de (S)              at=23x-1=19y     u le couple (x,y) est solution de            |
+     Péquation (E): 23x — 19y = 10.                                                                                      |
+|    3. Vérifier que le couple      Veg
+          ine
+|    4. Montrer que le     50,                       lution de (E) puis en déduireles     tions de (E).                  |
+                                                         at=275[437]                                                     |
+          Montrer que si t      de (S) alors t'8             = 1[437] et t” = 137[437].                                  |
+|    b) En déduire le rest                         euclidienne, de 2023%%23 par 437.     QO                              |
+
+|    Exercice 16 Orme Nationales 2018                                      XZ                                            |
+     1° Résoudre
+|    2°.a)M     $5         I’équation (E)            : 3x — 2y = 1.                                                      |
+                                  tout entier                                            solution    E)                  |
+          fr    ap.    , pour                      n, le couple (14n + 3,21n + 4 est     re)?
+|    b) En             vn € N les deux nombres 14n + 3 et 21n + 4 sont premier                                           |
+|    3°.a) Soitd = pgcd(21n + 4,2n + 1 . Justifierqued = 1 oud = 13.                                                     |
+||   b) Montrer qued = 13              © n = 6[13]                         "(32                                          |
+     4°) Pour tout entier naturel n > 2, on note         A             = 21n? —17n — 4 et B = 28n3 — 8n% — 1             |
+|    a) Montrer que les deux nombres A et B sont divisible par         n — 1.                                            |
+|    b) Déterminer, suivant les valeurs de n, le pgcd(A; B).                                                             |
+     Exercice 17 SC 2020                                                                                                 |
+|    Dans Cet exercice n est un entier naturel supérieur ou égal a 2.                                                    |
+|    1° Montrer que n et 2n — 1 sont premier entre eux.                    (     )                                       |
+
+|     Lycée d’Atar Chapitre3°   série d’Arithmétique         classe 7°C              2025-2026 Prof: Med Salem  Page 3   |
+
+                                                                                                                                   |
+|    a               uler b — 2a et en déduire les valeurs possibles de d.                                                         |
+|        )                                 trer que a et b sont multiples de 3 si et seulement si n + 1 et multiple de 3.          |
+|    C)    Sei      n3 + n% — 6n et    q = 2n? + 5n — 3.Jjustifier que p et q sont divisibles par n + 3.                           |
+|    3°      S=     PGCD(n(n — 2),2n — 1).                                                                                         |
+
+|    Défnox     er due d divise  S.                                                                                                |
+     b)        et n sont premiers entre eux.                                                                                       |
+|    ¢)    Déduire des'questions 3°a) et 3°b) que S est égal a d.                                                                  |
+|    d) Déterminer   le
+          rot
+          PGCD(p, q) en fonction de n.                                                                                             |
+|    4° Déterminer                                           q) pour n = 2020.                                                     |
+     Exercice 18Bac    ini
+
+|     a.     considére   2019              (E): 7x—5y=1.                 Q                                                        ||
+      Justifier que le co                  une solution de (E) puis résoudre (E).                                                  |
+|                                              ly
+||    b. Montrer que si: (X,y) est     A de(E) , alors            x = 3[5]        D A = 4[5]                                      ||
+          .     on se                          ,     .   I’ensemble S des entiers relatifs
+|    2. Dans cette question
+|    a) Soit A un élément de S. Démontrer qu’il     existe un couple d’entiers (x,y) Gon     A = 3[7]                             ||
+||   est une solution de (E).                                                                                  2 =7x+3=5y+4o0u(xy) |
+     b) En déduire que   A € S si et seulement si A =24/[35].                                                                      |
+||   ¢) Soit n et a deux entiers naturels 0    <      un entier qui      base de n, sous la forme     374a.                        |
+                                               2S
+     Déterminer n puis en déduire I’écriture déeimale
+||   Exercice 19                               de     Vécriture (>       qu’il     a partaient     a S.                           ||
+     1 On considére I’équation (E) ; ou x et y sont des  entiérs          ifs. 2017x + 41y = 1.                                    |
+|    a) Vérifier que 2017 est un nombre premier puis      qué            I’équation (E) admet des solutions entiers.               |
+          Vérifier que le couple (—5; 246 est une solution           iere de (E). Résoudre I’équation (E).
+|    ¢) Déduire qu’il existe un unique entier y infé    Fou
+|    Pour la suite de I’exercice on rappelle qu’     pS) aestli           tel que : 41y =                            1[2017].      |
+                                                                     ‘A
+                                                                           se                   de b modulo 2017 si ab = 1[2017].  |
+|    2 Soient a et b deux entiers relatifs.                                                                                        |
+|    a) Montrer que : siab = 0[2017] iy        =              0[{2017] oub <7                                                      |
+                                                                         [2017]).
+          Fee
+       Déduire que : sia?     = 1[2017]        alors (a= 1[2017] oua =                                                             |
+|    ¢) Quels sont donc les entiers            1,4033 qui sont égaux     a |                              inverses modulos 2017 ?  |
+|    Exercice 20                                                                                                                   |
+          Montrer que si 6°                alors 61° = 1[55]                                                                       |
+|    b) En déduire le reste d     ivision euclidienne de           633 par 55.                                                     |
+|    2 On considére
+|    a) Montrer qu     d 1     leigre (E) 17x —40y =1                                                                              |
+|    b) En utilis        de solution de (E)     est non vide.            Av                                                        |
+                                           d’Euclide, donner une solution de (E) puis en        le de solution     de (E).         |
+|    ¢) Déterminer      petit entier naturel x, tels que : 17 xo         = 1[40]                                                   |
+||   3 On considére dans ZZ, ’ le systéeme          (S) en = 1[55]’ oua EN                                                        ||
+
+|    a) Montrer que si x € Z est solution de (S), alors x = a33[55]                                                                |
+
+|    b) Montrer que I’ensemble des solutions du systéme                  _      etS’                                     55k}      |
+
+
+
+
+
+
+
+
+|     Lycée d’Atar Chapitre3° série d’Arithmétique classe 7°C        2025-2026 Prof: Med Salem  Page 4 |

@@ -1,0 +1,80 @@
+---
+title: "BAC C 2021 - Session Normale - Mathématiques"
+year: 2021
+exam: "BAC C"
+session: "Normale"
+subject: "Mathématiques"
+series: "C"
+duration: "4 heures"
+coefficients: "4"
+type: "Examen"
+---
+
+# BAC C 2021 - Session Normale - Mathématiques
+
+**Série:** C | **Durée:** 4 heures | **Coeff:** 4
+
+---
+
+Mauritanlt                                                    Rbhnegr —Fraternité                    —
+    Ministre
+              dr               National.                            Baccalauréat 2021        Séric  M
+      la Réforme du Systeme                                          Session Normale
+                     el 'les Coac$utr        Epeuve  : Sc.
+Reproduction
+A- Le document I représente schématiquement des moments de la     (M, et Ml) Ct  différentes        et     ,
+l•ovogenèse chez la femme.
+ I -Identifiez  les moments         Ma. (O.5pt)
+*Nommer
+      a.      les
+      b- cellules . E'   E' (O.7Spt)
+                 numérotées de I    6. (l  .5pt)
+    Donner le nom des phénomènes    qui se produisent au
+      du moment M' Ct préciser le lieu de leur
+ (Ipt)
+ B. Une femme de 25 ans a un cycle sexuel régulier de 28jours. Le document 2 rwésente  les variations ès  taux sanguin
+ de ses              au cours du mois de Mars 2021. La date du     Mars
+ correspond au       jour de   menstruation.
+ I -Identifier les hormones A et B ettdéduire du graphique  la date
+ appmximative de l'ovulation.   (O. 75pt)
+ 2-Rcprésenter chez cette femme I 'évolution  de ces hormones pendant le mois
+ & Février
+             2021.
+                     (Ipo
+ y•lntervéter    la variation de ces horrnOnes au Cours de ces     mois. (O.75pt)
+ 4- Pendant la grossesse, un organe fonctionnel assure la liaison enge  le fœtus
+ et la mère.
+ a.          le      de cet        (O.2Spt)
+b-Citer deux rôles biologiques de       organe
+e- Pr&is«        Etion  sur : (l pt)
+      - L'hypphyse
+5-    - L'utérus.
+    Au          de la            Cette     mis  monde
+                                        deux
+                                        jumeaux
+                                        ayant
+chromosomique respective de chaque enfant en précisant leurs chromosomes sexuels. ( I pt)
+Physiologie (4pts)
+      exerce sur le                 neuromusculaire  des étirements d'intensités  croissantes E.. E., El et E.. Puis,  détermine
+. l'amplitude  es              de r&epteur au niveau du fuseau neuromusculaire
+                                        d'une     znsitive ;
+-                es  p«entiels      au niveau
+- la fr«ua'ce    des           d'action au niveaude la mémefibre.
+Les              obtenussont présentéspar les tracésa. b etc du document3. Analyserces tracés  vue de "gager
+    une            du potentiel de récepteur. (l
+2- unepropriétédu ptentiel d'action. ( m
+    unepropriétédu messagenerveux.(l
+4- le rôle           neuromusculaire.  (l pt)
+Afin &  détaminer  le mode de transmission d•unemaladie héréditaire remarquée chez  famille,     réalise chez des
+                    famille une  analyse de l'ADN correspondant au gène resèonsable de      Le tableau suivant
+représente les      "enus_
+I-ExploitEz les donnéesfoumiespar     t±leau envue de :                           A' normal +    Fœtus
+      a- rnontrer que le gène en question n'est ps  autosomal. (l pt)
+                    la Icxalisation de ce gène, (O.5pt)        muté
+                        Ms) sédigrée(s)
+2-La mère de p,                       de cate amilE. (l
+                    étant phénotypiquetnent  saine :
+                    information?(l pt)
+                retenez-vous ? ( I pt)
+      chance le
+4-Représentezle résukat                 chez ce Fœtus.(l pt)

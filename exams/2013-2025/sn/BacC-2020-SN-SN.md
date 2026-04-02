@@ -1,0 +1,74 @@
+---
+title: "BAC C 2020 - Session Normale - Mathématiques"
+year: 2020
+exam: "BAC C"
+session: "Normale"
+subject: "Mathématiques"
+series: "C"
+duration: "4 heures"
+coefficients: "4"
+type: "Examen"
+---
+
+# BAC C 2020 - Session Normale - Mathématiques
+
+**Série:** C | **Durée:** 4 heures | **Coeff:** 4
+
+---
+
+a.    a
+      stars del    Session    nl
+|        der     den Comair    Se Nafutelles    el
+       Oncroise deux lignées de drosophiles, I"unea corps                                                               &     corps noir etdiles vestigiales: Lies hybrides
+                  ont tous
+                       lesun-phénotype. corps gris;                                                          i
+                               mots                                     eL        +
+       2                              résultatide ce croisement
+                  croisement                                           liybrides                           des; males’  doubles ‘récessifs donne 17%       de”
+       nouveaux.                                                                                                                                 :
+                                            les phénotypes nouveaux obtenus ? (0.5pt)
+       ‘Ab-Queélle est                                 d'un gamete parental ? (1pt)
+              c-Nommez et représentez le:phénomernie'd                       de I’apparition des phénotypes
+                  Donniez les résultats de la Fs .          Justifiez                                         de croisement. (pt)               re
+       Exercice    2 (6pts)                     7:                                                  fra
+        Le pédigrée ci-contre est                                                    famille dont certains‘membres'sont atteints par ufie                                he
+                       oculaire.                                                                                                                    |
+                                            allele de cette maladie-est-il dominant ou récessif? (1pt)
+                                                    ‘ophtalmologique est réalisé chez certains membrés            famille.                      heor    2      3
+                               montre                                   de    sujets.                                                             >            20
+       Le-document1                                                                                                                    i
+              [a)                   chez    Jes sujets & vision normale:                                                @®
+                                    chez sujeta                                                                                           (©)
+              [¢]                   chez tous     vision trés diminuée                                                                              ER
+       2:                           ces informations 2 (1pt)        porté         par                        aiitosorme ?     (1pt)
+       3:                                       maladie                      X,                            un
+       4-Des études médicales ont précisé que le fond [b]
+       .           a-Que déduisez-vous                                       a                                              A
+                                         wes      gériotypes dos individus suivants              I, If,              (pt).
+       Sachant que     le  fréquence des hybrides dans cette population est de 1/50.
+                5- Quelle est la    probabilité                                                                                        ’        f
+                  a-  IT]  soit ungargon atteint.           (0.5pt)"
+                           soit         atteint. (0.5pt)                                                                                            é
+     -  Exercice 3 (10pts)
+        De la puberté &             la  ménopause, la femme présente une activité sexuelle marquée par plusieurs changements (événements
+        structures   ...).                                    Le tableau suivant indique les structures constatées dans I’ovaire et       de               chez certaines ’
+        femmes au cours dedeux mois.                                                                                                                     Lo        SP
+        .                                                                                                  |            TT                SERS
+                                                                                                                                deo       es
+                                     ovariennes             les  structures        structure                 ollicules sauf     follicule:          primordiaux
+                                                                                                      2                         mir               seulement
+                                                            “Développé et                                                 Développement
+                                                                 dentelé                                      anarchique.
+                                                                        |  80  |   pes
+             1-Dédilire              de chaque femme. (4pts)
+             2-Expliquer                 de la feriime C. 1 pt)                                                                 -
+             3-Repiésenter          arbitrairemént                  de la courbe de LH chez les femmes A, B et C au cours de ces deux mois, 1.5
+             4-La structure du                  ¢i-contie marque
+              a-Titreret 1égender cette structure. (2pts)               la fin'd’une phase du cycle ovarien.                                            pra    56ʸ -
+                     est I’effer.de cette structure sur:                                                                                              2-5        a.
+                     “les                2  (0.5pt)              2. (Lpt)                                                   .                       3   a
+              i                                                         id                                                                              Ee
+                                                                                                                                                        ANE
+                                                                                                                                                        |  38
+             Bac 2020                       Série M                                Sciences Naturelles                                                  Session 14g,
+     |

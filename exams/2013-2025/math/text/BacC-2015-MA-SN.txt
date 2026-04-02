@@ -1,0 +1,323 @@
+                                                                                                        nn
+                                                                                                         neeu
+      Ré                                                                                                   urr  ––  F Fraratt erernniitt é é ––  J Jusus t ticicee
+       p u ub bliliq
+               q u ue e IsIs lala mi
+                               q u ue e d de e M u riritt ana
+                                                             n ieie                                    H
+      Rép                   miq       Maua                                              Hono
+Mi
+       n isisttè
+             èrre
+                e  d           uc
+                                   ca
+                                    attiio
+                                     on
+                                     n  Na                   on
+                                                             na
+     Min            de e ll’’Ed                       a lele     Ba
+                          Edu                         Nattiio        cc
+                                                                     ca
+                                                                              al
+                                                                                  la
+                                                                                    au
+                                                                                    ur
+                                                                                        ré
+                                                                                        éa
+                                                                 Bac                          at               C &
+                                                                                                               &t t  TM
+                                                                                                               TM GM
+Di     ec                                                                                      t                                      GM
+          cttiio
+             on
+               n  de        am
+                               me
+                                    en
+                                    nss  etet  Co
+                                                           nc
+                                                 co
+                                                                 ou
+                                                 urrs
+Dirre              dess  Ex                      s                                                       SéSérriiee   : :  C
+                            Exa              Con                                                           u v ve:e:  M
+                                                                                                    Ep rereu    Matat h hé éma
+              Se    viic                                                                                                         matt iqi
+                      ce
+                          e  de      am
+                                         me
+                                       en
+              Serrv         dess  Ex         nss                                                    Ep
+                                    Exa                                       20                                                      q u ueses
+                                                                                    15
+                                                                              201
+                                                                                    5                      Du   e::   4 4  h heue
+                                                                                                           Du rérée              u reress
+                                                                                                          Co     n t ts s:9:
+                                                                                                          Co efefff icic ieien   9  &
+                                                                            Se                                                    &  66
+                                                                             ss
+                                                                             s ioi
+                                                                               on
+                                                                               n  No
+                                                                                    rm
+                                                                                    ma
+                                                                     Ses          Nor allee
+
+Ex
+       e rcr
+           ciic
+             ce
+Exe            e  1   5  po    nttss ))
+                   1  (5(   poiin
+Le plan complexe est muni d’un repère orthonormé                                  (O;u, v)  .
+1) On pose :  P(z)  z³ (11 6i)z² (28 38i)z 12 60i  où z est un nombre complexe.
+a) Calculer P(3)  et déterminer les nombres a et b tels que pour tout z de                                 :
+                                                              P(z)  (z 3)(z² az b) .                                              (0,5 pt)
+b) Résoudre, dans l’ensemble des nombres complexes, l’équation P(z)  0 .                                                           (1 pt)
+c)  Soient  les  points  A , B  et C images des solutions de l’équation                                          P(z)  0  avec
+
+
+
+^Im(zᴬ ) Im(z ᴮ ) Im(z C ) .                     Calculer l’affixe           du point               G  barycentre  du  système
+      (A;2),(B;-2),(C;2)`  et placer les points A ,B ,C et G.                                                                     (0,5 pt )
+
+2) Pour tout réel k  différent                                 de 2, on définit l’application f           du plan P  dans lui-
+
+
+                                                                                        k
+même qui à tout point M  du plan associe le point M'  tel que :
+                                                                 MM'  2MA 2MB (3 k)MC .
+a) Pour quelles valeurs de k , l’application                                 fₖ  est une translation? Déterminer alors
+son vecteur.                                                                                                                      (0,5 pt )
+
+b) On suppose que k                              \ ^2;3` . Montrer que f                       admet un unique point invariant
+:ₖ . Reconnaître alors fₖ  et donner ses é léments ᵏcaractéristiques en fonction de k.                                             (0,5 pt)
+c)  Déterminer  et  construire  le  lieu géométrique  des  points :ₖ  lorsque  k  décrit
+       \ ^2;3` . Reconnaître :₁ .                                                                                                 (0,5 pt)
+d) Pour k  1  ; déterminer et construire le lieu géométrique du point R  centre de
+
+
+
+
+
+gravité du triangle AMM'  lorsque M  décrit le cercle *  de centre G passant par C.
+
+3) Pour tout point M  du plan on pose M(M)  2MA² 2MB² 2MC²  et *ₘ  l’ensemble                                                      (0,5    pt)
+des points M  tels que M(M)  m , où m est un réel.
+ a) Discuter suivant les valeurs de m, la nature de *ₘ .                                                                          (0,5 pt)
+ b) Déterminer et construire *ₘ  pour m  10 .                                                                                      (0,5 pt )
+
+Ex
+       e rcr
+            ciic
+                  ce
+Exe            e  2   5  po    nttss ) )
+                   2 (5(    poiin
+Dans le plan orienté on considère un rectangle direct ABCD  de longueur AD  tel
+que  AB=a  et  AD=2a,(a ! 0).  Soient I , J , K  et L  les  milieux  respectifs  des
+segments > AB @ , > BC @ , > CD@  et > DA @ . Soit O le centre du rectangle ABCD .
+
+1.a) Faire une figure illustrant les données précédentes.
+b) Montrer qu’il existe une unique rotation                                    r  qui  transforme B en  C  et J en  D.              (0,    5 pt)
+Préciser le centre et un angle de r.                                                                                               (0,5 pt)
+
+
+2.a) Montrer qu’il existe un unique antidéplacement g qui transforme I en C et A en
+
+K.                                                                                                                                  (0,25 pt)
+b) Montrer que g est une symétrie glissante et vérifier que g  tIC                      sAB .                                      (0,5 pt)
+c)Déterminer une droite ' telle  que tBC  s'                                   sAB . En déduire la forme réduite de g,
+
+(on pourra remarquer que  t                                   t     t ).
+
+
+
+                                                             IC  IB   BC
+3.a) Montrer qu’il existe une unique similitude directe                                 s  qui transforme A  en C et               (0,2    5 pt)
+B en L. Déterminer l’angle et le rapport de s . Montrer que s(J)  B .                                                              (0,5 pt)
+
+  Baccalauréat   2015              Session Normale        Epreuve de Mathématiques          Série   C & TMGM              1/3
+
+b)  Soient *₁  le  cercle  de centre A  passant  par  B,  et *₂    le cercle  de  centre C
+passant par L. Justifier que s(*₁ )   *₂                                                                         (0,25 pt)
+4) On désigne par  P le centre de s.
+
+a) Montrer  que P est  situé sur les cercles *       et *  . Préciser P.
+
+                                                                                                                 (0,25 pt)
+                                      1                   2
+b) Vérifier que P est le symétrique de L par rapport à (AC).                                                     (0,25 pt )
+c) Soit E le symétrique de L par rapport à D. Vérifier que P est  situé sur la droite
+
+
+(BE).                                                                                                            (0,25 pt )
+5.a) Soit R le symétrique de L par rapport à J. Montrer que s(L)  R .                                            (0,25 pt)
+b) Soit  M un point de *₁  distinct  de P. On note s(M')  M'' .  Montrer que :
+i) La droite (MM’) passe par un point fixe que l’on précisera.                                                   (0,25 pt)
+ii) Le triangle MM’M’’ est rectangle isocèle.                                                                   (0,25pt)
+6) Soit *  la parabole de foyer L et de directrice (BC).
+a) Montrer que *  passe par A, O et D.                                                                          (0,25 pt)
+b) Préciser la tangente à *  en A et tracer * .                                                                 (0,25 pt )
+c) Déterminer et construire le foyer et la directrice de * '  s(                                                 (0,25 pt )
+                                                                          *) .
+
+
+Ex
+ e rcr
+    ciic
+    ce
+Exe     e  3  5  po nttss ) )
+    3 (5(     poiin
+Soit f  la  fonction définie sur                           par f (x)  1 1eₓ  et (C)  sa courbe représentative
+
+dans un repère dans un repère orthonormé.
+
+
+
+
+
+1.a) Justifier que lim f(x)  1  et lim f(x)  0 . Interpréter graphiquement.                                       (0,75 pt)
+    xof                               xof
+b) Dresser le tableau de variation de f .                                                                         (0,5 pt)
+c)  Montrer  que  f  réalise  une  bijection  de              sur un intervalle                J    que l’on
+déterminera. Donner l’expression de sa réciproque                              f¹(x) . On note (C') la courbe
+de f ¹ dans le même repère.                                                                                     (0,5 pt)
+2.a) Vérifier que le point :(0, 12 )  est un centre de symétrie de la courbe (C) .                               (0,    25 pt)
+
+b) Montrer que les courbes (C)  et (C')  se coupent en un seul point d’abscisse                            D
+
+
+telle que 0,4  D 0,5 .                                                                                          (0,5 pt)
+c) Tracer les courbes (C)  et (C') .                                                                             (0,5 pt)
+d) Calculer, en fonction de D  , l’aire A du domaine plan limité par les courbes                         (C)
+
+et (C') , et les axes des coordonnées (On pourra remarquer que eₓ1 1  eeₓˣ 1 ).                                  (0,2     5pt)
+
+3) Pour tout entier n                      , on pose In  ³0Df n (t)dt où D est le réel trouvé en 2.b)
+ a) Justifier que  I₁   D ln(2D) .                                                                              (0,25 pt)
+                                                                                                                (0,25 pt)
+ b) Vérifier que pour tout réel x :    f '(x)  f ²(x) f(x) .
+
+
+ c) Montrer que pour tout                        1 §          1
+                                  n     :  In1 In  n ¨© Dn 2n ·¸¹ .                                                (0,5 pt)
+
+
+ d) Montrer que la suite    (I )                    est décroissante et positive. Que peut on en déduire ?
+                                  n                                                                              (0,25 pt)
+4.a) Montrer que pour tout n            :    Dⁿ¹ d Iₙ d  D . En déduire  lim I                .
+                                                          2
+b) Montrer que Iₙ   D ln(2D ) ¦ⁿ¹ k1 §¨ Dᵏ 21ₖ ·¸ .En déduireⁿ            lim ¦ⁿ¹ k1ˣᵒᶠ§¨ k  n 1 ·              (0,2     5 pt)
+                                      k  1   ©   ¹                        nof k  1 © D        2ₖ ¸¹ .           (0,     25pt)
+
+
+
+
+
+  Baccalauréat   2015              Session Normale        Epreuve de Mathématiques          Série   C & TMGM              2/3
+
+Ex
+ e rcr
+    ciic
+    ce
+Exe   e  4           nttss ))
+             4  ((5
+    5  po
+                     poiin
+1) On considère la fonction numérique g définie sur       par :
+
+                                g(x)  3x³ x₃12x² 19x 10
+                                                          4x² 5x
+
+                                                                          (x 1)(ax² bx c)
+a) Déterminer a, b et c tels que pour tout x de       : g(x)             x(x² 4x 5)     .               (0,5 pt)
+                                                                                                        (0,5 pt)
+b) Etudier le signe de g(x)  sur              .
+
+
+2) On considère la fonction numérique définie sur       par :
+
+
+
+
+
+
+                                                        § x 2  4x 5 ·
+
+
+                                           f(x)  3x 3 ln¨             ¸
+
+
+                                                               2
+                                                        ©    x        ¹
+
+
+
+
+
+et  soit (C)  sa courbe représentative dans un repère orthonormé.
+
+
+
+
+
+a) Calculerlimf(x)ₓ             , interpréter graphiquement.                                           (0,5 pt )
+    o0
+b) Calculer xlim f(x) et lim f(x) .                                                                     (0,5 pt )
+    of                   xof
+c) Montrer que (C)  admet deux asymptotes dont l’une, notée D , est oblique. Etudier
+la position relative de (C) et de D .                                                                  (0,5 pt)
+3.a) Vérifier que f '(x)  g(x) où g est la fonction définie en 1), et dresser le tableau de
+variation de f .                                                                                       (0,5 pt)
+
+b) Démontrer que l’équation f(x)  0  admet une unique solution D  dont on donnera
+
+
+
+un encadrement d’amplitude 5u10¹ .                                                                      (0,5pt)
+                                                                                                        (0,5 pt)
+c) Construire (C) .
+
+4) On se propose dans cette question de calculer l’aire                S  du domaine délimité par la
+
+
+
+
+
+
+courbe (C)  et les droites d’équations respectives : y  3x 3 , x  3  et x  2                  3 .
+
+
+
+
+
+
+
+
+
+a) Vérifier que pour tout réel  x   on a :  2x² 4x                 §      2x 4  1             ·
+                                                                  2
+                                                     x² 4x  5     ¨1               ¸ .                  (0,25 pt )
+                                                                   ©    x² 4x 5 1 (x 2)² ¹
+b) Calculer A  ³₃² 3 x₂2x 4     dx .                                                                   (0,25 pt )
+                          4x 5
+c) En posant         x  2 tant  pour tout t ª«¬0; S2 ª«¬ ; calculer B  ³₃² 3 1 (x1 2)2 dx .              (0,25      pt)
+
+d)  En  utilisant  une  intégration  par  parties,  calculer             J  ³₂² 3 ln(x2 4x 5)dx  et      (0,25 pt)
+
+         K  2³₂² 3 ln xdx . En  Déduire le calcul de l’aire   S  exprimée en unité d’aire.
+
+                                                                Fin.
+
+
+
+
+
+
+
+
+
+
+
+
+  Baccalauréat   2015              Session Normale        Epreuve de Mathématiques          Série   C & TMGM              3/3

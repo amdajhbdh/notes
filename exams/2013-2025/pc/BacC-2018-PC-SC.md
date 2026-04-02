@@ -1,0 +1,122 @@
+---
+title: "BAC C 2018 - Session Complémentaire - Physique - Chimie"
+year: 2018
+exam: "BAC C"
+session: "Complémentaire"
+subject: "Physique - Chimie"
+series: "C"
+duration: "4 heures"
+coefficients: "8"
+type: "Examen"
+---
+
+# BAC C 2018 - Session Complémentaire - Physique - Chimie
+
+**Série:** C | **Durée:** 4 heures | **Coeff:** 8
+
+---
+
+| ISLAMIQUE DE MAURITANIE
+; Direction de      Nationale        Bacealauréat‘     i Honney  hoe
+          des Examens et des CONCOUrs  «cos
+    Sciences physiques session complémentaire 2018     | Durée:4H Coefficient : 8/4
+    it                .                 EXERCICE 1(4pts)
+        qe
+        température     constante, On réalise la réduction  d'un volume      d'une solution (S,) de peroxodisulfate de
+Potassium         de concentration molaire C,     par un volume V,     solution (S2) d'iodure de potassium Ki
+pad              molaire C;, avec C;=2 Cy.     Er                     =21v
+ 1. Ecrire les       équations des deux demi-réactions et déduire I'équation bilan.                              0.7800
++2. AY instant t=0, on mélange              d’ions
+_peroxodisulfate et              mmol d'ions iodure pour                      -        | rm           1 -
+ obtenir, un volume total V=1 L.                                  on              =                                 ;
+        le tableau d’évolution de la réaction.
+ 2.2. Déterminer les concentrations molaires initiales         I“ri                                   ae
+        et     respectives des ions peroxodisulfate et                    Ht                      a
+ les ions iodures dans le mélange. Déduire C, et C,.                                          Fa     il 4
+_3.A'la date t=0, on divise le mélange précédent en 10         4      IF                                  A
+ prélévements identiques. Pour déterminer la
+ matiére de diiode formé a une date t>0, on     quantité de                                           AA NE EE Figl
+ chaque fois I'un des prélévements en y        refroidit       RVR. dd EEE                                          1
+ glacée puis on dose le diiode formé par versant de I'eau          Tr !                       ro:                 i
+ thiosulfate de sodium              de une solution de         0                  a           i                 fring
+                                       concentration
+ molaire          mol.L™,
+ La réaction de dosage, rapide et totale, est             +1;         +2I
+Ce dosage a permis de tracer la courbe de variation de la quantité de matiére du diiode en fonction du temps
+(voir fig1)
+8.1. Pourquoi refroidit-on chaque prélévement ? Quel (s) facteur (s) cinétique (s) met-on en évidence ?           0.500
+3.2. Calculer le volume V; de la solution de thiosulfate de sodium nécessaire pour doser la quantité de diiode I,
+formé dans un prélévement a la date t=40 min.                                                                    0550
+4.     Définir la vitesse de la réaction, la calculer 2 la date t=40 min. déduire sa vitesse
+                                                        EXERCICE 2(3pts)
+On dose un volume Vg = 20 mL d'une solution de base B de concentration Cs par une solution d’acide
+chlorhydrique de concentration Ca = 0,1 mol/L.                                                                       og
+On'obtient la courbe pH    = f (V,) ci-contre.                                                                     REA
+1.  S’agit-il d’une base forte ou faible ?                        11.1        i                            |   1
+2.Ecrire I'équation de la réaction de  ce dosage.                                                     i
+3.  Définir I'équivalence acido-basique. Quelle est la nature                    oF      il          ir
+de la solution obtenue a I'équivalence ? Justifier.                           i                       We
+        1a
+5. Déterminerconcentration Cy.                                                           i
+                      10 mL de base B, on ajoute un volume                                             2               13
+6.     Aun volumeleVpKa= du couple  BH* /B.                           WA: =                          Te            le
+Ve d'eau pour obtenir une nouvelle solution diluée          10 fois.                     i                 |   i  |  i
+Calculer Ve. Quel est I'effet       dilution sur I'ionisation          2 AEN           EE |I         iy
+dune base faible  ou forte.             0,50                                                                           |
+7. Si la base B est une amine de masse molaire moléculaire            4                           )
+M=59g/mol ; donner les différentes formules semi-                                                     919
+développées des isoméres et leurs classes.      058
+série Mathématiques                 Baccalauréat de Sciences Physiques                     Session Complémentaire 2018
+                                                                                       Scanned with CamScanner
+EXERCICE 3(4pts)
+Sur un tremplin de surface parfaitement lisse incliné d'un angle a =30°par rapport 3 V'horizontale, un jouetS
+d’enfant constitué d'une petite voiture en partie cassable initialement au repos au point A, est tiré par une
+force constante , inclinée d’un angle 0 par rapport au plan du tremplin.        y
+Ce jouet S a une masse m=100g. (Voir fig2)                                                        ;ⁱ
+On donne cos = 0,8 ; AB = 2m ; AC=2,7m.                                      EF                    x
+1. La vitesse atteinte par S au point B apres le parcours rectiligne AB  est       B
+égaled    de F                                                           0.590   A     fig2
+1.1. Calculer la valeur
+1.2. Déterminer la nature du mouvement de §     sur le trajet AB.                                            5
+ 1.3. Au point B, I'action de la forceF cesse, le solide poursuit son
+ mouvement rectiligne jusqu’au sommet C du tremplin. Déterminer la nature du mouvement de sur le trajet
+ BC. Calculer la vitesse de S au point C.                                    19
+ 2. Le solide quitte le tremplin au point C, origine du repere(C, i,
+ 2.1. Déterminer 'équation cartésienne de la trajectoire de S dans le        7, 7 - Vinstant de passage de S150
+ en C est considéré comme origine des dates.                                                                 (1p8)
+ 2.2. atteint le sol au point d'impact D. Calculer les coordonnées de ce point D.
+     EXERCICE 4(4pts)
+Une barre MIM’ homogéne, de masse m, peut glisser sans frottement sur deux rails métalliques ACetA'C’
+espacés d’une distance / et contenus dans un plan incliné d'un angle a   par apport au plan vertical.
+Pendant tout le temps que dure le mouvement, la barre reste pérpendiculaire aux      A
+rails et maintient entre eux le contact électrique en M et en M'. Les points A et A  CR)     a
+sont réunis par un conducteur ohmique de résistance R etun interrupteur K.      k                    \.
+L’ensemble du dispositif est plongé  dans un champ magnétique uniforme vertical
+ascendantB .                                                                                         (+d
+On néglige dans tout I'exercice, I'intensité du champ magnétique terrestre et les
+résistances de la barre et des rails.
+On ferme le circuit et on abandonne la barre sans vitesse initiale en AA” a      t=0s.
+ 1.  Etablir en fonction de la vitesse V de la barre, de / et B I'expression de la force électromotrice e induite dans
+ le circuit.
+ 2.  Préciser, sur un schéma, le sens de  Vintensité i du courant qui le parcourt.                      10
+ 3.  Déterminer la direction, le sens et  de la force électromagnétique      qui agit sur la barre.
+ 4. Montrer que la vitesse V  de la barre tend vers une valeur limite    que     calculera.
+ Données :      ; m=20g ; a=60° ; R=0,1Q ; B=1T.                                                        10
+         EXERCICE 5(5pts)
+Une portion de circuit MN,  alimenté par une tension alternativement sinusoidale d’expression
+ u(t)=8,4v2      + ¢) comprend un conducteur ohmique de résistance Ry
+et une bobine de résistance R; et d’inductance L(voir schéma).
+1. Répondre par vrai+ ou faux aux affirmations suivantes :                   R
+      >        ult)                                                          M     TRIN
+      »    U=U;+U,
+      »    Up=Uim + Un
+      »        olZZ,   respectivement, les impédances                    de la portion MN, du conducteur
+           ohmique et de la bobine.                                                                          (tpt
+2.    Ecrire expressions de Z;,      Z en fonction de Ry, Ry, Let @      pulsation de u(t)).
+3.             indique une intensité 1=0,7A. A V'aide d'un voltmétre, on mesure U,=5,6V et U,=4,75V.
+3.1. Calculer les impédances Z, Z, et Z,.                                                                     158
+3.2. En déduire les valeurs de R;, Rp et L.                                                                 07558
+3.3. Calculer la phase @ de u(t) par rapport a l'intensité du courant i(t). Ecrire        horaire det).      (1p!
+                                                                                                               2h
+Série Mathématiques  Baccalauréat de Sciences Physiques                               Session Complémentaire 201¢
+           Scanned with CamScanner

@@ -1,0 +1,191 @@
+   République Islamique de Mauritanie                                                                                 Honneur Fraternité - Justice
+    Ministére de        Nationale                                                         Baccalauréat
+                                                                                                        2
+     Direction de Enseignement Secondaire                                                                                          C & TMGM
+         Service des Examens                                                                  2008                                  Epreuve: Mathématiques
+                                                                                                                                       Durée: 4 heures
+                                                                                                                                     Coefficients: 9 & 6
+                                                                                     Session complémentaire
+
+   Exercice 1 4 points)
+                 Dans I’ensemble des nombres complexes  C, on pose:
+         P(z)=2"                                     +      +20i)z+ 24 +8i .
+   1.a) Calculer P(2i).                                                                                                                   (0,5pt)
+     b) Déterminer les complexes    a et §   tels que                                  pour tout complexe z on a:
+   P(z) =(z-2i)(z* +             puis résoudre I’équation   P(z) =0.                                                                      (Ipt)
+
+   2 Dans le plan complexe muni d’un repére            orthonormé                                         on             les points  A et
+   B d’affixes respectives z, =2+2i et z, =2i       et  le cercle                                I'de diametre [OA].
+
+   Soit M un point variable appartenant au cercle     I"et distinct des points     O etA . On                                         les
+   deux triangles   AEM et OMF directs,                 et rectangles respectivement                                  en Aet en O     .On
+   désigne   parG le centre  de gravité    du triangle  OAM                                    et on appelle e, f ,   g et m les  affixes
+               des points  E, F  ,    G et M.
+    a) Construire une figure                                     et démontrer que, quelque soit le point Mchoisi sur le cercle   I', on a
+
+
+      b) Ecrire en fonction de   m chacun des nombres complexes e,  f  et  g.                                                   (0,75pt)
+|         Démontrer que le milieu   H du segment [EF] est un point de  I"  indépendant de la position du
+|     point M sur   IT".                                                                                                        (0,25pt)
+|     d) Déterminer et représenter les lieux géométriques des points E,    F et G    lorsque Mdécrit                  I".       (9,25pt)
+          Préciser  la position de M pour laquelle la droite (EF) est tangente   au cercle I".                        Déterminer
+      alors I'affixe du point                                                                                                   (0,25pt)
+
+      Exercice 2 4 points)
+      1.  Soit (U,) la suite définie par :
+
+                                     11
+                                     =
+
+
+                                 U,=| l 1+x*
+
+
+         a) En posant x =tant, ol te         52  , montrer que U,   = .                                                          (0,75pt)
+
+         b) Montrer que (U,) est positive et décroissante en déduire qu’elle est convergente.
+
+         ¢) Montrer que pour tout entier naturel   n ona:              =    en déduire                                U et U,.   (0,5pt)
+
+         d) Donner un encadrement de U, qui permet de calculer la limite de puis             nore
+                                                                                             lim iJ, .                           (©,5p0);
+
+      2.  Soit (V,) la suite définie par :
+
+                                          =   2      2
+
+                                  (Va³    ={ FY    +x“ⱽᵒ 2X§        243
+                                          =                             neⁿᵉ Nᴺ
+
+
+
+
+
+
+                    2006 Session          Kpreuve deMathématignss                                                     1 C &               A
+
+   a)   En utilisant une intégration par parties démontrer que pour tout entier naturel ona:
+            V,=In2-2U,,,.
+
+   b)   En déduire la valeur exacte de I + 1)dx.        (0,5pt)
+
+   ¢)   Déduire de ce qui précede les variations de (V,) et la valeur de lim Var:
+
+
+     Exercice 3 4 points)
+
+     1. Soit f    la fonction numérique définie sur R,  par  (x)= 2X     . Dresser le tableau de variation
+
+     de f   et tracer sa courbe représentative dans un repére orthonormé             1                         (0,75pt)
+
+     2.   Soit f, la fonction  numérique définie   sur       par                     ol k est un paramétre
+                                                                  x
+
+     réel,  ke 031 etsoit      (C,)   sa courbe représentative dans le     (Osi,
+
+      a) Calculer  lim f, (x)  et    lim f(x). En déduire les équations des asymptotes éventuelles a (C,).     (0,75pt)
+
+      b) Montrer que I'équation :         —2Inx =0 admet, dans     R’,,     une unique solution  a, et que
+                                                                                                               (0,5pt)
+
+       ¢) Calculer f, (x) et dresser le tableau de variation de     f, .                                       (0,5pt)
+     3.a)  Etudier la    position relative des courbes        et    (C,.)     k et  k'    sont deux réels  avec
+      0<k<k's<l.                                                                                               (0,5pt)
+|        b)   Sur      la figure      ci-dessous on     a     représenté       les   courbes   (C,)        pour
+|     ke {0;  0,2;    0,4; 0,6; 0,8;  1}. Reconnaitre celle qui représente                                     (0,5pt)
+
+
+
+
+
+
+
+
+                               3
+
+
+
+
+        0                             7                       4                      x
+
+                                           1                                       The
+                                           1
+                                           i 7
+
+
+                                           /
+                                                              ~
+
+                                           |                  0
+
+
+
+                                                              )
+
+
+
+   4. Soit M, le point de      (C,) en lequel la tangente est horizontale. Les points M, sont situés sur       (0,5pt)
+
+   la courbe (voir figure ci-dessus), donner une équation cartésienne de             (T°).
+
+
+
+
+      Baccalauréat 2008   Session complémentaire     Epreuve de Mathématiques        Séries : C & TMGM         23|
+
+     Exercice 4 4 points)
+
+     Dans le plan orienté on            un carré        ABCD de sens direct de coté                             a,
+
+     Les      points  E, F, G   et H sont définis respectivement par:                           AE= 3 AB, BF                  | CG            a
+
+         |
+     et  DH=—DA.
+                   8
+     1.  Faire une figure que I’on complétera au fur et     2 mesure (on prendra(AB) horizontale)                                                  0,5pt)
+     2.2 Montrer qu’il existe une unique rotation       rtelle que                          r(A)=B et r(E)=F.                                      (0,5pt)
+        b) Déterminer un angle et le centre de la rotation r.                                                                                      (0,5pt)
+           Montrer que     EFGH est un carré et calculer son aire en fonction de a.                                                                (©0,5pt)
+     3.  Soit  s     la similitude directe de centre O qui transforme                           A en E.
+        a) Montrer que s(B) =F       puis déterminer                              s(C) et s(D).                                                    (0,75pt)
+        b) Calculer le rapport de s.                                                                                                               (0,25pt)
+        c) Soit     a une mesure de             de s                           déterminer la valeur exacte de       .                              (0,25pt)
+     4.Soient I,      J, K et L     les points définis par:
+               I                   des segments     [AG] et [BH]
+
+               J     Tintersection des segments         [BH] et [CE] ;
+
+               K                    des segments [CE] et [DF]                               3
+
+               L Pintersection des segments             [DF] et [AG].
+
+         a) Montrer que       IJKL est un carré.                                                                                                   (0,25pt)
+         b) Montrer que       K = bar{(D,4);(F,9)} = bar {(C,7);(E, 5 3
+           En déduire             du carré LIJKL        en fonction de                      a.                                                      (0,25pt)
+
+      Exercice 5 4 points)
+
+               Dans le plan orienté, on                 un triangle équilatéral                 ABC direct de coté               a,
+      Soient Det E     les    images respectives         deA et B par                       la    symétrie de  centre     C. Soit I le milieu  du
+
+|     segment   [BC].
+      1. Faire une figure (qui     sera complétée au fur et a mesure) illustrant les données précédentes.                                           (0,75pt)
+      2.a) Démontrer qu’il existe une unique similitude directe                                  s, de centre  B et qui transforme      D en A.     (0,5pt)
+        b) Déterminer 1’angle et le rapport de s, .                                                                                                 (0,5pt)
+        c) Soit     M un point de la droite (DE) distinct     de                            D et de E.         Déterminer le  lieu géométrique du
+      point M'        image  de M par s,. Construire                               M' a partir     position     donnée        deM sur (DE)   puis
+      démontrer que les                 Bet E sont cocycliques quelque soit la position de                                        M sur (DE).       (0,75pt)
+      3.     Soit s,  la similitude directe qui transforme I                            en  B et E en    D.
+
+        a) Déterminer I'angle et le rapport de                                                                                                      (0,5pt)
+        b) Déterminer le centre de s,.                                                                                                              (0,5pt)
+      4.Onposef =s, os,.
+        a) Montrer que                                  f est une similitude directe puis donner son angle et son rapport.                           (0,25pt)
+        b) Montrer     que    le  centre de f    est le point                          d’intersection    du      cercle de diamétre [BE] avec    un
+      deuxi®me cercle        I"                           que I’on déterminera. Construire ce centre.                                                0,25pt)
+
+
+
+                                                        Fin.
+
+      Baccalauréat 2008       Session                                                       de Mathématiques    Séries : C & TMGM                    35 |

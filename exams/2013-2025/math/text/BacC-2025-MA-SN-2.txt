@@ -1,0 +1,96 @@
+   République Islamique de Mauritanie     BACCALAUREAT     2025     Série : M & TMGM
+   Ministère de l'Education et de la        Session Normale                  Coefficient : 9 & 6
+  Réforme du Système d'Enseignement                        de MATHEMATIQUFS     Durée : 4h
+       des Examens
+  Direction      et des      Epreuve
+ Exercice I  (3 points)
+   l. On considère l'équation (E): 62x—5y   2025 où x et y sont des entiers.
+  a) Justifier que le couple      solution de l'équation (E) puis en déduire                I pt
+  l'ensemble de solutions de cette équation.
+  b)  Montrer que si (x;y)  est une solution de (E) alors  x est un multiple de 5.              pt
+                                  —5"10
+  2. Soit (F) l'équation  :  62x10     = 2025,  où x et y sont des entiers.                 0,5 pt
+
+  b) Montrer que si (x;y)  est une solution de (F) alors     Il     ou y                    0,5 pt
+  c) Supposons que (x;y)  est une solution de (F). Déterminer le reste de la division           pt
+       —5yt• par  I I. En déduire que (F) n'a  pas de solution.
+  euclidienne du nombre 62x10
+ Exercice 2 (4 points)
+  On considère dans C  le polynôme P défini pour tout
+   —,     par      —(6+4isina)z2
+  I. Résoudre dans C  l'équation  P(z) = O, sachant qu'elle admet une solution réelle z..    I pt
+  2. Dans le plan complexe muni du repère  orthonormé  direct  (O; û,     on considère les
+  points A, Ml et M2 d'affixes respectives de z.,  z, = 2+2e a  et zz =2-2e -a
+  Onnote
+  a) Justifier que   =                  —2) puis caractériser la rotation R qui transforme  MI
+
+  en M2 pour tout a e                                                                        0,75 pt
+
+  b) Déterminer     pour que le triangle  AMIM2  soit équilatéral.                           0,25 pt
+  c) Montrer que, si a  varie, les points Ml  et  Mz restent sur un même cercle à préciser       pt
+  d) Montrer que, si a  varie, la droite (MIM2)conserve une direction fixe.
+  e) Vérifier que l'affixe du point G est ZG = 2+3cosŒ+ 4isina.  Justifier  que G reste       I pt
+  sur une ellipse dont on donnera l'équation  réduite et l'excentricité.
+Exercice 3  (4 points)
+  ABC est un triangle  rectangle  isocèle direct en A et soient I,J, K, L et M les milieux
+  respectifs des segments  IBCI,  1,411, [AB],  [BII  et [AC]
+  I. Faire une figure soignée.                                                              0,5 pt
+  2.Montrer qu'il  existe une rotation R transformant  A en I et I en B. Caractériser  R.   0,75 pt
+  3. a) Soit g l'antidéplacement  qui transforme  A en I et I en B.
+  Montrer que g est une symétrie glissante et donner sa forme réduite.                      I pt
+  b) Déterminer la droite A telle que g     OR.                                             0,25 pt
+  4. Soit S la similitude  directe qui transforme  A en B et I en A.
+  a) Déterminer  le rapport  et une mesure de l'angle  de S.                                0,5 pt
+  b) Prouver que le centre n  de S appartient aux cercles de diamètres  (ACI et IIBI.           pt
+
+Baccalauréat  2025      Session Normale   Epreuve  de Mathématiques     Séries  M & TMGM       1/2
+
+c) Justifier  que ne[CKl   et que les points C,  M,  L et n  sont cocycliques.                    0,5 pt
+Exercice 4  (4 points)
+
+On considère la fonction f définie sur             par           1+ ln(x+ l)      et soit C sa
+       dans un repère orthonormé.
+courbe représentative
+ I.a) Montrer que  lim         et calculer lim f(x) , interpréter  graphiquement.                 0,75 pt
+
+ b) Montrer que pour tout x de                 ,    —In(x+ l)                                           pt
+
+ c) Dresser le tableau  de variation  de f.                                                       0,75 pt
+ 2. Soit g la restriction de fsur  [0,44.                 Montrer que  Vn e N•, l'équation   1    0,5 pt
+
+ admet une unique solution an sur                 puis vérifier que Vn e N•,  > an.
+ 3.a) Construire  la courbe C et ses asymptotes.                                                  0,25 pt
+ b) Déterminer l'aire  de la partie du plan délimitée par la courbe C, l'axe des                  0,25 pt
+ abscisses et les droites d'équations  respectives  x —Oet  x = 1.
+ 4. Pour tout entier naturel n, non nul, on pose I.                                                     pt
+ a) Montrer que     est décroissante et déduire qu'elle est convergente.
+                                                   1
+  b) Montrer que Vn e N• 1+1n2     x 1         S I. S —
+                               2                         puis déduire la limite de                      pt
+
+Exercice 5  (5 points)
+
+  On considère la fonction f définie sur  R par  f(x) =                  1 et soit C sa courbe
+
+  représentative dans un repère orthonormé.
+  l.a) Calculer  lim f(x)  et  lim f(x) puis interpréter graphiquement.                           I pt
+  b) Calculer f '(x), Vx e R  (f'  est la dérivée de f). Dresser le tableau de variation  de f.   I  pt
+  c) Montrer que f réalise une bijection de R sur un intervalle J  à préciser.
+  2. Soit g la fonction réciproque de f.
+   a) Dresser le tableau de variation de g.                                                            pt
+   b) Déterminer l'expression de g(x) sur J puis montrer que Vx e J        -2                          pt
+
+   3. Pour tout entier naturel non nul n,  on pose Sn(t)          avec t e 10, II.
+
+                           —
+   a) Montrer que S.(t) = -1
+                           2                                                                           pt
+   b) Déduire  que  —i 1   2x2201                         1      1     3
+                                                          2  2x3 2" In —.                         0,5 pt
+
+   c) Calculer             et en déduire que  lim            1                                         pt
+
+                                                  Fin.
+
+
+  Baccalauréat 2025 Session Normale            Epreuve de Mathématiques Séries M & TMGM           2/2

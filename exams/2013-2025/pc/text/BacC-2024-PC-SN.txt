@@ -1,0 +1,210 @@
+REPUBLIQUE ISLAMIQUE DEMAURITANIE                                                                           Honneur- Fraternité-
+   Ministére                      ct                                                                         :
+   Réforme      deSystéme Nationale dela     |                                                              Série Mathématiques TM.G.M |
+   Directiondu        Educatif                                                                                                         |
+.               des Examens et des Concours                           Sciences physiques session normale |  Durée:  Coefficient: 8/4   |
+                                             Q.C.M (2,5pts)
+Indiquer                                                 pour chaque numéro de question la ou les réponse 5exacte(s,
+                                  Réponse A                           Réponse          |Réponse C
+  1      |L’expression de la            _1   dx                           dn(P)                                   va
+                                                                                                             d[P
+                  de
+         formation v(P)
+         d’un produit P est:
+
+         d’un circuit RC                     Clo?                         Co                                     Co
+        est:
+3    |          pH d’un acide                               _1   |                                               |     (0,5pt)
+         faiblement fonisé de|
+     |   concentration C
+                  en fonction
+         de pKa:
+4    | Un électron ne             la longueur                         la fréquence v  | ’éncrgie W du
+         peut étre arraché        | d’onde A du                       du               rayonnement
+         d’un métal par           rayonnement                         |rayonnement    | incident est
+         effet                    incident est                        incident est     inférieure au
+         photoélectrique          inférieure 2 ia                | supérieure A la     | travail Wo
+         quesi:                   longueur                            fréquence seuil  | d’extraction du
+                                  d’onde seuil                        vo
+  5  | Lorsqu’on réalise           | une frange                       alternativement | une scule                            (0,5pt)
+         des interférences         | blanche au                       des franges      {range brillante
+         lumineuses en            centre et des                       bleues, rouges  | et une seule
+          lumiére blanche on | franges irisées.                  | ou vertes.          frange sombre
+          observe :
+                                      Exercice                        1             (3,5pts)
+1.                                L’acide butyrique, de formule semi-développée (F.S.D)                               est
+connu pour son odeur désagréable. Sa réaction avec le méthanol (CH;OH) permet
+d’obtenir un composé E, dont Podeur et le goiit sont trés agréables, d’olt son
+utilisation dans Pindustrie alimentaire ou la parfumerie.
+1.1.    Donner le nom systématique de I’acide butyrique.                                                            (0,25pt)
+1.2.    Ecrire a      des F.S.D I’équation bilan de la réaction entre ’acide butyrique et
+Ie méthanol.       Donner le nom de la fonction chimique caractéristique du composé E.
+Nommer E.                                                                                                           (0,75pt)
+1.3. Pour réaliser Ia synthése du composé E ; on dispose d’une masse myc =330 g
+d’acide butyrique. Quelle masse de méthanol faut-il ajouter pour réaliser la réaction
+dans les conditions steechiométriques.                                                                              (0,5pt)
+2. Le volume total du mélange de ’acide butyrique et du                   méthanol est V=400 mL.
+Le mélange est porté a Pébullition. On suit ’évolution de la réaction par le dosage de
+           butyrique restant.
+                                                                                                                 1/4
+
+Pour ce faire on dose, a I’aide d’une solution de soude 3      0,2 mol/L; périodiquement
+des prélévements de 1mL du mélange réactionnel.
+Chaque préldvement est alors dilué avec de Peau glacée.
+2.1. Ecrire ’équation de la réaction du dosage de I’acide butyrique par la soude.
+2.2. Quel volume de soude faut-il verser pour doser I’acide du premier prélévement a
+t=07?                                                         (0,25pt)
+2.3. Au bout de 120 heures, le systéme n’évolue plus alors que I’avancement de la
+réaction est xr= 2,5 mol. Calculer le rendement en produit E par rapport a la
+quantité de réactif de départ.                                                   (0,25pt)
+3. On dissout n mol de cet acide dans 500mL d’eau pure ; on obtient ainsi une
+solution S faiblement ionisée de pH=2,95 a 25°C.
+3.1. Donner les expressions des concentrations des espéces chimiques en solution.
+Déduire la valeur de n.
+3.2. On veut préparer une solution tampon de pH=4,9 en dissolvant une masse m
+d’hydroxyde de sodium solide dans la solution S d’acide. On néglige la variation du
+volume. Calculer m.
+Données :      g.mol" ; M(C)=12                   ; M(0)=16
+pKa (acide butyrique/butyrate) = 4,9.
+                                  Exercice     2  (2,5pts)
+On étudie I’action d’une solution aqueuse de peroxodisulfate de potassium
+
+sur une solution aqueuse d’iodure de potassium KI.
+Quand on mélange ces deux solutions, il apparait progressivement une coloration
+jaune due 2 la formation de diiode.
+1. Ecrire ’équation-bilan de la réaction étudiée.
+
+Les couples sont :                et                                             (0.5pt)
+2. Pour étudier la cinétique de la réaction, on mélange, 4 la date t = 0, un volume
+V =400 mL de la solution de                       de potassium, de concentration molaire
+    mol.     avec un volume V’ = 500 mL de la solution d’iodure de
+potassium, de concentration molaire     Déterminer la valeur de C’pour que la
+réaction ait lieu dans les proportions stexchiométriques de son équation-bilan.  (0,5pt)
+3. A diverses dates, on effectue rapidement des prélévements que I’on refroidit dans
+de la glace fondante. On dose ensuite le diiode formé.
+On obtient les résultats rassemblés dans le tableau suivant :
+    t    (en min     [0]2         Ts                30        60 |
+
+    refroidit-on le prélévement avant de le doser ?                             (0,25pt)
+3.1. Pourquoimmol.)                                       [55[59]
+3.2. Ce tableau a permis de tracer la courbe ci-contre.
+3.2.1.   Définir la vitesse instantanée de la réaction a une date
+                                                          025pt)
+3.2.2. Déterminer une valeur numérique de cette vitesse dla
+date t= 15 min.                                       (0,5pt)    Mex
+4. Exprimer littéralement, en fonction de [I], les
+concentrations molaires des ions sulfate et peroxodisulfate, et
+calculer leurs valeurs a la date t = 40 min.          (0,5pt)
+
+
+
+
+                                                          2/4
+
+         Exercice 3 (4,5pts)
+     Dans Pexercice lesfrottements sont négligeables et les questions 1, 2 et 3 sont
+    indépendantes                                                                              8{
+    1.  Deux rails                  AB et CD infiniment longs, horizontaux, de
+    résistance négligeable sont reliés aux bornes d’un générateur comme                        pe
+    Pindique la figurel.                                                                  a
+    Le circuit est fermé par Pintermédiaire d’une tige MN en cuivre homogéne de masse
+     m=25g et de longucur   /=10cm      pouvant glisser    sur  les rails tout en   leur  restant
+     perpendiculaire.
+     L’ensemble est plongé dans     un  champ magnétique uniforme de vecteur        B vertical
+     ascendant et de valeur B=0,8T comme I’indiquent les figures.                       fez    AB
+     1.1.     Déterminer la nature du mouvement de la tige sur les rails.
+    Déduire Pintensité du courant qui circule dans le circuit si la vitesse de
+    la tige devient V=1,6m/s, aprés un déplacement de 4cm.
+    L’interrupteur estfermé a t=0 alors que la tige est immobile.                             (1pt)
+     1.2. On relie   une des extrémités  d’un   ressort de masse     négligeable      de  raideur
+     K=40N/m au milieu de la tige et on fixe son autre extrémité comme le montre la fig 2.
+     Calculer I’allongement du ressort lorsque la tige est en équilibre.                  (0,5pt)
+     2.    Le ressort précédent et la tige sont disposés comme      la figure 3
+                                                                                             —
+    On écarte la tige verticalement vers le bas de sa position d’équilibre d’une              ag
+    distance xm=5cm, puis on I’abandonne sans vitesse initiale i la date t=0.
+    2.1. Montrer que le mouvement du centre d’inertie   G     de la tige est
+    rectiligne sinusoidal et trouver son équation horaire.        (0,75pt)                 fig3
+    2.2. On prendra le plan horizontal passant par la position d’équilibre de la tige
+    comme plan de référence de I’énergie potentielle de pesanteur du systéme (ressort,
+    tige, Terre).
+    Montrer que ce systéme est conservatif et calculer son énergie mécanique.                 (0,5pt)
+    3. A        d’un dispositif convenable non représenté                      er              +
+    Ia tige impose maintenant Pextrémité d’une
+    élastique tendue une onde transversale sinusoidale     TH                                i
+    qui se propage sans amortissement ni réflexion a la
+    célérité C=10m/s le long de la corde.
+    L’aspect de la corde est représenté 2 un instant t; par la sinusoide ci-contre.
+    3.1. Définir [a longueur d’onde A et déterminer sa valeur a partir du graphe.
+    Déduire la fréquence N du mouvement.                                                     (0,75pt)
+    3.2. Comparer les mouvements de 2 points P et Q de la corde distants de 10cm.
+
+    3.3. Calculer la valeur de instant t; ou ’aspect de la corde a été représenté.            (0,5pt)
+                                        Exercice 4 (3pts)
+    Un solide S ponctuel de masse m=200g glisse sur un plan AB incliné d’un angle
+9   par rapport 2 la verticale suivant
+      Le solide a été photographié par une caméra Webcam 3                         xX,             4
+    différents instants.
+     Par une analyse convenable de la vidéo on a obtenu les                         Ml
+     résultats du tableau suivant :         iit                                         1
+    [©       0                              a§
+
+        1. Représenter le graphe de Ia fonction V=f(t). 0,501                                  3/4
+
+     Série Viathématiques   Baccalauréat de Scicnces Physiques                 normale 2024
+
+    2. A partir du graphe déterminer la nature du mouvement du solide et en déduire les
+    valeurs de        expérimentale a du mouvement et de la vitesse initiale Vo.
+                                                                                        (0,75pt)
+    3. En négligeant les frottements, Calculer la valeur ag de ’accélération théorique.
+    Comparer a et ag et trouver Uintensité de la force de frottement si elle existe.   (0,5pt)
+    4. Le solide arrive en B     t=1s. Apres B situé sur la verticale d’un point C a une
+     hauteur h=2m, le mobile effectue un mouvement aérien pour tomber en un point D
+     du sol (voir la figure).
+    4.1. Trouver dans le repére (B, i, j) I’équation de la trajectoire en fonction de
+
+     og etVg,                                                                          (0,75pt)
+    On choisira de nouveau pour instant initial I’instant ott commence le mouvement a
+    partir de B et on négligera la résistance de Pair.
+                                                                              j).       0,508
+    4.2. Déterminer les coordonnées du point de chute    D   dans le repére(®,i,
+                Exercice     5                     (4pts)
+    1. La réponse d’un dipole RL a une tension électrique constante
+    On réalise le circuit de la figurel constitué d’une bobine B
+    (d’inductance L et de résistance interne r), d’un résistor ohmique de                  <
+    résistance R variable, d’un générateur idéale G de f.e.m E=2,4V et
+    d’un interrupteur K.                                                      To
+    On régle la résistance R a la valeur      et on ferme Pinterrupteur
+    a un instant t=0. L’enregistrement de la variation de la tension      aux bornes de la
+    résistance R a donné la courbe de variation de i(t) en fonction du temps.
+     La droite T représente la tangente a I’instant t=0 (voir figure 2).
+    1.1. Trouver        différentielle réalisée par I’intensité i(t).                   (0,5pt)
+    1.2. Sachant que la solution de cette équation est de la forme        Ec
+
+    it)=A(1-¢     déterminer                   A et de la                 17
+
+    constante de temps T en fonction des paramétres du circuit.           Va            py
+                                                                          fr
+    1.3. Déterminer a partir du graphe de la figure 2 les
+    der etdeL.
+    2. La réponse du dipéle RL et du dipole RLC a une tension électrique sinusoidale.
+    On réalise deux circuits électriques en réalisant deux dipdles D; et      :
+       » Di est constitué d’un résistor de résistance Ro placé en série avec la bobine B.
+       >    D; est constitué d’un résistor de résistance Ro placé en série avec la bobine et
+
+            un condensateur de capacité C réglée sur Ia valeur Co.
+    On applique entre les bornes de chaque dipdle une tension sinusoidale
+    u(t) =  Uv2cos(2nNt + ¢) de valeur efficace U et de fréquence N réglable fournie par le
+    méme générateur.                                                     acl
+    On étudie la variation de        Z de chaque circuit
+    en fonction de la fréquence N et obtient les courbes de la
+    figure 3.                                                            PRL
+    La résistance de la bobine est négligeable devant Ro.
+    2.1. Préciser en le justifiant la courbe correspondante au      2
+
+.   dipéle Dz.
+
+    2.2. Déduire les valeurs de Ro et de Co.        (1pt)                     w           4/4
+
+
+Série  Mathématiques     Bacealawréat de Sciences Physiques Session normale 2024

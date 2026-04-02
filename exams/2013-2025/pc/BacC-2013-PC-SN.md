@@ -1,0 +1,142 @@
+---
+title: "BAC C 2013 - Session Normale - Mathématiques"
+year: 2013
+exam: "BAC C"
+session: "Normale"
+subject: "Mathématiques"
+series: "C"
+duration: "4 heures"
+coefficients: "4"
+type: "Examen"
+---
+
+# BAC C 2013 - Session Normale - Mathématiques
+
+**Série:** C | **Durée:** 4 heures | **Coeff:** 4
+
+---
+
+REPUBLIQUE ISLAMIQUE DE MAURITANIE                                          Honneur Fraternité
+                 Supérieur et a la a I Education Nationale a PEnscignement                   Série : Mathématiques/T.M.G.M
+                 Direction des    Recherche Scientifique                                     Seem          Coefficient
+                                Examens et de                                                Durée : 4H        :      8/4
+                 Service des Examens                                                                       C
+                                                                 PEE
+                                                 Sciences physiques session normale  2013                                     .
+                                                                  Exercice 1(3,5pt)
+      On oxyde la date t=0 un volume                             solution S; d’iodure de potassium (K' +I') de
+      concentration                C;=4,64.10 mol/L par               un volume V,=100mL d’une solution S; d’eau oxygénée
+      de concentration C;=4.10"mol/L. On
+      ajoute        ce  mélange un volume                        mon PAH                                                      EE
+      négligeable d’acide sulfurique
+                 Donner lesₛ couples      i                               07                                                  i
+      1          tré              couples redox mis en     1    5                                re               HE      |   HHH
+     jeux et écrire I’équation de la
+     réaction.'  5                                           SF  Tre
+                                de
+     tifˢ        le mé            Lequel des deux
+                 18S            exces,             0750      5 10    15   20    25   30 35   40    45 50   55  60 65  70 75 80 t(min)
+     3 On détermine a différents instants
+     la concentration du diiode formé, on obtient la courbe ci-dessus.
+     3.1 Définir la vitesse instantanée de formation de I, et Ia calculer a la date t=12,5min. En déduire la
+     vitesse de disparition de I" a cette date.     Comment évoluent ces vitesses en fonction du temps ?                    Quel-
+     est le facteur cinétique             responsable ?          -                                                       (0,75pt)
+     3.2 Calculer la concentration des ions I” et de             présents     dans le mélange réactionnel a t=30min.
+                                                                                                                         (0,75pt)
+     4 Déterminer le temps de la demi-réaction.                                                                (0,5pt)
+.                                                            Exercice 2 (3,5pt)
+     Dans un bécher A             on verse un volume         d’une solution S; d’un acide A;H de concentration
+     molaire                          et de pH;=3,1.
+     Dans un Becher B on verse un volume V;=5mL d’une solution §; d’un acide A,H de concentration
+     molaire     C;=3,16.10       mol/L. etde                                                .             des nouvelles
+     On ajoute dans chaque Becher un volume de 45mL d’eau pure et on mesure le pH
+     solutions     et S’; obtenues. On trouve                et pH';=2,5.
+     1       des deux acides est fort préciser lequel.                                                               (0,25pt)
+     2 Faire le bilan qualitatif et quantitatif des espéces chimiques présentes dans la solution               d’acide
+     faible avant la dilution. En déduire le pKa du couple acide-base                            présent dans cette solution.
+                                                                                                                     (1,25pt)
+     3.1         Définir le coefficient d’ionisation a. d’un acide.                                                  (0,25pt)
+      3.2 Calculer              pour chacune des solutions Sy et     En déduire influence de la dilution sur
+      Iionisation de cet₂         acide. )
+                 Ia relation go 1-a     pour un acide.       faible.                                                  (0,5pt)
+      4 Etablir
+                                                                                             ~
+                                                 Exercice 3
+Le poids de la particule est négligeable.
+1 Une    particule de masse m et de charge q traverse une région DQRS oil régne un champ
+magnétique uniforme        B voir fig  1. La particule décrit deux arcs de cercle de rayon  R;
+respectivement dans les parties Oct       @   de la région telle que R;=3R;. Elle ralentit en franchissant la
+surface AC séparant les deux parties.                                          -                -       A "
+1.1  Etablir Pexpression de R; et de R; en fonction de g, m, B et                               @
+     des vitesses respectives Vy et V; de la particule.
+Dans quel  sens se déplace la particule (de @ vers @ ou bien de             4
+Q@ vers    ?                                                                   a aa                     1
+1.2  Quel est le signe de la charge de la particule ? Justifier la
+     réponse.                              0,501 | figl
+1.3  Calculer la charge                   et identifier la particule.
+On donne: B=0,5T Vitesse d’entrée            m                 e=1,6.10°C, m.= 9,1.10>'kg ,  m;=1,67.107kg.
+                                                                                                     (0,5p1
+2    Aprés la sortie du champB     la particule pénétre en O avec une vitesse     2         Ie          |"
+     un instant pris comme origine des instants t=0 dans une région R comprise                  —
+     entre deux plans              P et P’ distant de d, il existe un champ
+     électrique E crée par des électrodes constituée de fins grillages métalliques          if
+     disposées suivant P et            est nul A Pextérieur de R voir fig 2 et ¥, faito
+     avec Ox.
+2.1  Représenter la force électrique qui s’exerce sur la particule en O.        (0,25pt) | fj
+2.2  Etablir                 de ’équation    de la trajectoire de la particule dans le
+         1,                est oa nature ?                                                   (pt)
+2.3  En utilisant     le théoréme de             cinétique, exprimer la     composante Vy de la vitesse  e.
+fonction de x.                                                                                      (0,75pt
+2.4  Calculer     la  valeur Vg de     la vitesse de    la particule ainsi  que      B     qu’elle fait ave
+P’horizontale au moment ou elle arrive dans le plan P' au point F.                                   (0,5p1
+2.5 Exprimer le                     en fonction de q, E, d, m, et Vj.
+                            sin
+Données : Vo=2.10°m/s,                     d=10"m,                                                   (0,5p1
+                                                    Exercice 4 (Spt)
+On dispose d’un générateur GBF délivrant une tension sinusoidale de fréquence f et de valeur
+efficace U constante, d’un ampéremétre,         d’un        et des 3             suivants :
+                  Dj est un conducteur ohmique de résistance R=56 Q.
+         est un condensateur de capacité C=10 pF.
+     oD; est une bobine d’inductance L et de résistance r=12 Q.
+1  On branche chacun des dipdles aux bornes           du générateur. Pour une fréquence     et une
+tension efficace     U=4V; on          pour chaque dipéle les indications de Pampéremétre et du
+wattmatre
+Les indications sont consignées dans le tableau suivant :
+                         |             Lindication de
+                         |                                                       P=029W     |
+        Donner             de la puissance moyenne consommée dans un dipdle soumis 4 une tension
+    1.1 [Ds |                              |                                                |
+.   alternative sinusoidale de valeur efficace U et traversé par un courant d’intensité efficace I.  (0,5p1
+    1.2 Qu’appelie-t-on facteur de puissance ?
+    1.3 Calculer la valcur numérique du facteur de puissance pour chacun des 3 dipdles.              (0,75p
+                                                                               Session Normale 2013
+Série Mathématiques                    de Sciences Physiques ADC
+   1.4 Vérifier que pour les dipdles Dy et D;  les indications de        et du wattmétre sont en
+   accord avec les caractéristiques de ces dipdles.
+   1.5  Déterminer I'impédance Z; de la bobine. En déduire la valeur de I'inductance L.        (0,5pt)
+   2 On hganche cn série les trois dipdles précédents aux bornes du générateur. Les indications de
+                   ct du wattmétre deviennent alors I=34mA ct P=0,079W.     wl
+   2.1  Calculer Pimpédance Z du dipdle RLC ainsi constitué.        (0,5pt)
+   2.2 Déterminer la valeur du facteur de puissance.
+   3 On augmentc progressivement la fréquence f     de  la tension délivrée par le GBF alimentant le
+   circuit RLC de la question 2, la valeur cfficace U de la tension restant constante et égale a 4V.
+ On constate que les indications de                     et du wattmétre augmentent simultanément,
+   passent par un  maximum pour une fréquence           puis décroissent.
+ 3.1    Comment peut-on caractériser le circuit pour la fréquence fo ?                              (0,5pt)
+ 3.2 Calculer la valeur de Pinductance L de la bobine et la comparer i la valeur trouvée             (0,5pt)
+ précédemment.
+ 3.3 Quelles sont les valeurs maximales indiquées par I’ampéremétre et par le wattmétre ?            (0,5pt)
+                                               Exercice 5 (3pt)
+ Une lame vibrante est animée d’un mouvement sinusoidal de fréquence N=100Hz. Elle est munie
+ d’une pointe qui détermine en un point S de la surface d’une nappe d’eau des vibrations
+transversales d’amplitude a=Imm. La célérité des ondes C=20m/s. On suppose     n’ya ni               :
+réflexion ni amortissement de I’onde.                       2
+On considére                des temps          du passage de S par la position        mm,
+dans le sens positif.
+1   Calculer Ia longueur d’onde A.                                                                  (0,25pt)
+23  Trouver I’équation du mouvement de                  surface                                      (0,5pt)
+    Trouver I’équation du mouvement d’un point M d¢ la      de Peau situé a la distance x de S.     (0,75pt)
+4 On considére deux points Mj et M, situés respectivement     10cm et 20cm de S.
+Quel est     vibratoire de et M; par rapportaS.                                                      (0,5pt)
+5 On éclaire 1a surface de I’eau par un stroboscope dont la fréquence Ne varie de 20Hz a 50Hz.
+        quelles valeurs de Ne la surface de ’eau parait-elle immobile?                               (1pt)

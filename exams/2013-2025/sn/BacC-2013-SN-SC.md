@@ -1,0 +1,95 @@
+---
+title: "BAC C 2013 - Session Normale - Mathématiques"
+year: 2013
+exam: "BAC C"
+session: "Normale"
+subject: "Mathématiques"
+series: "C"
+duration: "4 heures"
+coefficients: "4"
+type: "Examen"
+---
+
+# BAC C 2013 - Session Normale - Mathématiques
+
+**Série:** C | **Durée:** 4 heures | **Coeff:** 4
+
+---
+
+Islamique de *'Aauritanie        Supérieur                                                        Honneur- Fraternité• Justice
+                                                                                     et  la Recherche
+                   d'Etat  l'Education, l'Enseignement                                             Scientifique                    S&ie: M
+          ion    Examens Ctd'Evaluation                                                                                     Coefficient   :4
+          des                                                                              Baccalauréat  2013                  Dur&: 3 H
+                                                                                      Session cmnpl&nentaite
+                                                                                      Eprewc:Sc.N aurellu
+Rcnmd.ucti2A ('pts)
+              uirc et com létez le tableau    I    suivant :                      .5 ts
+          hormones        Cellules     sécrétrices                                    Cellules cibles      Effets biolo ues
+          Œstro ènes
+          HCG
+          Testostérone
+          FSH
+          Prolactine
+                                                       Tableau I
+B- Le graphe du document 1 représente la variation du taux sanguin
+d'œstrogènedosés chei une femme X à partir du 04  janvier jusqu'au 5
+ I-précisei en justifiant  chaque fois votre réponse, la ou les date (s) qui
+ correspondentà : (l .5pt)
+  b- Un début de menstruation
+                  de développement
+  c-  Un maximum          du corps jaune.
+*Complétez le graphe du document I en représentant
+           de progestérone chez cette femme. (Ipt)                                   la variation
+sanguin                                                                                       du taux
+3- Re         uisez et com létez le tableau        suivant:
+           Dates        • Type de rétrocontrôle                                         Justification   Conséquences sur l'activité de l'h   cphyse
+   06 janVier
+   Él.o;janvier
+                                                                                        Tableau
+                        • ('pis)                                                                       sont placées au point E (sur une endrite)  et
+                                                                                               excitatrices
+   document 2 réprésente une chaine de neurones. Deux électrodes                                  01,02, O' et O. on place 4 oscillographes.
+                                                                                                  On applique successivement,par les électrodes
+                                                                                                       des courants
+                                                                                                                        électriques
+                                                                                                  excitatrices                  dont les intensités
+                                                                                                                        3. On détermine
+                                                                                                  sont données dans le tableau
+                                              2                                                   chaque intensité                  pour
+                                                                                                       le temps minimum
+                                                                                                                                nécessaire
+                                                                                                                                             pour
+obtenir une réponse observée sur l'écran de 01.                                            1      I-Construisez
+Intensité en mA  O I      1  015  02                   0                          04   07  01          la courbe               (Ipt)
+Tem Sen ms            2 1     09         06        05                       0 4   o    O          2-lnterprétez cette  courbe et  donnez  les  valeu
+                                                                                                  caractéristiques
+                                                                                                       de l'excitabilité
+                                                                                                                            de cette
+                                                                                                                                    fibre.
+                                   Tableau                                                                                                   (Ipt)
+                                          3                                                       3-0n  excite de  nouveau la  fibre avec un  coura
+d'intensité           mA  pendant un temps             ms. Qu'observe-t-on
+(l pt)                                                                                             sur•l'écran de 01 et celui be 02 ? Justifier votre répons
+4 —Même  AioÏ              avec un courant d'intensité                                    un temps t2  O.6ms.
+                                                                                                       Justifier
+                                                                                                       votre réponse.
+                                                                                                                                (Ipt)
+5- On.port&             excitation                                                         02 ; O' et 04) ? (Ipt)
+                      sur•Vécranefficace :
+                          de chacun dei oscillographW(Ot;;
+b.lnterprétez I       gistrementobtenuen Ch. (l pt)
+                          que la vitesse de l'influx dans cette fibre est de SOm  ;  la distance                            E et OJ est de 12mm
+c- Des m                     ont montré
+temps mis par  'influx entre E et O' est de 0,34ms. Interprétez ces résultats. (Ipt)                                                             et
+Génétique        (4pts)
+Le document 3 représenG l'arbre généalogique
+atteints de Rtiqite pigmentaire.                       .d'uno famille dont certains membres sont
+  précisei si l'allèle de la maladie est dQmineat
+                                                       pu récessiC.et
+chromosomique. Justificr à chaque fois la réponse. (3ptS)                                 indiquer sa                                    4
+2• Déterminer les génotypes des individus                                 ct 114.
+3- La femme 1112                                       (2pts)
+                                                       le risque d'avoir des enfants atteints. (Ipt)                           documorit    3
+Déterminer        se marie avec son cousin
+                 pour ce couple,

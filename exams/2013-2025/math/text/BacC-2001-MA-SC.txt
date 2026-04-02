@@ -1,0 +1,188 @@
+                                    Mp
+REPUBLIQUE ISLAMIQUE DE MAURITANIE    Honnear— Fraternité Justice
+MINISTERE DE L’EDUCATION NATIONALE      Séries: C & TMGM
+oy L’ENSEIGNEMENT SECONDAIRE
+VICE EXAMENS BACCALAUREA T 2001     Sujet: Mathématiques
+                                        Durée: 4 heures
+                                      Coefficients: 9 & 6
+                Session Complémeataire
+
+    NB: Le 1 exercice( Exercice 1 n'est pas commun aux deux séries C et TMGM.
+
+
+pour les candidats de    Ia serie C)
+    Exercicel (4points)  (Uniguement
+
+
+
+    Pour tout nombre complexe z on pose:
+                        P(z)=2'      +                 + (13+
+1.a) Calculer P(i)  et  P(2i).
+  b) Déterminer les nombres complexes a et b tels que pour tout nombre complexe z    on a:
+                                 P(z) = (z'                                                 (1pt)
+  ¢) Déterminer les nombres complexes     z,,z,,   et z,  solutions de I'équation : P(z) = 0
+                        <|z,|                                                               0,5p1)
+ tels que :   <[z,|
+2.  On éerit  chacun    des  nombres z,,z,,2,  et  z,sur            des quatre faces d'un dé tétraédrique
+truqué.  On lance   ce  dé   ct onadmet que Ja probabilité pour que I'une    de ces faces soit cachée est
+proportionnelle au carré du module du nombre complexe     z, inscrit sur cette face,
+              que:  p,
+ c'est-d-dire
+
+a)  Démontrer que   :  p,  = 5 .                                                            (0,25pt)
+
+b)  Calculer p, ,p, et p,.                                                                  (0,75pt)
+¢)  Soit X la    variable  aléatoire réelle,   qui a chaque jet du tétraédre associe la somme des parties
+    imaginaires des nombres inscrits sur les faces latérales de ce dé.
+Vérifier que X prend exactement deux valeurs puis déterminer sa loi de probabilité.         0, Spt)
+
+
+
+
+
+    Exercicel (4points)      (Uniquement pour les candidats de la serie
+
+
+1.  Résoudre            différentielle suivante       (E)     y"-dy'+5y=0.                      (1pt)
+2.   On considére             différentielle :        (E')
+a)   Déterminer les réels a et b tels que la fonction g définie par :  g(x) = (ax +
+soit une solution de (E').                                                                       (pt)
+b)   h désignant une solution quelconque de I'équation différenticlle  (E), montrer que la fonction f
+telle que :  f(x) = g(x)+  h(x) est une solution de I'équation (E').
+3.   Déterminer, parmi  les   fonctions f définies au 2.b), celle dont la courbe représentative
+     repére   orthonormé   passe    par le point A(0;1) et admet en ce point une tangente     dans un
+                                                                                       paralléle 4 la
+     droite             :y +x=0.
+
+
+
+ Baccalauréat 2001      Session comphémentaire-Séries Mathématiques &Techniques Epreuve de Maths 173
+
+
+
+
+
+
+
+Annales du Baccalauréat National  Mathématiques / Séries : C & TMGM     IPN Mr /2012 - 2013  63
+
+         Soit la fonction f, définie par  :     vxelR;       f(x)=x"e"";
+    ol n est un entier naturel non nul et e                  est la base du logarithme népérien In.
+1.  Dresser le tableau de variations de la fonction   f,        n=1).
+
+2.  Pour tout entier naturel non nul non pose   :   U, = [if
+
+    a)   En utilisant une intégration par partie prouver que :                 U,                (0.5pt)
+
+    b)   Démontrerque :   ~~   VaeIN';         ——sU,                                             (0.5pt)
+                                               n+l           n+l
+         Démontrer, en utilisant une intégration par partie, la relation de récurrence suivante :
+                               VaeIN:                           -1.                              (0,5pt)
+3.  Pour tout entier naturel non nul n on pose  :              V,=nle-U,.
+     a)  Démontrer que   ©                          DV, +1.                                      (0.5pt)
+     b) Démontrer par récurrence que :              V, eIN.                                      (0,5pt)
+     ©) Montrer que pour tout entier mn 2 2;   le nombre  nle=V, + U_  n'est pas un
+     entier naturel.
+4 Soient p et q deux entiers naturels strictement positifs.
+
+    a)   Prouver que pour tout entier natureln 2 q  ; le nombre     est un entier naturel,
+                                                                q
+     b)  Prouver. en utilisant une démonstration par           que le nombre e n'est pas rationnel (Pour
+
+    cela on peut supposer que  e = qPon                                                          (0,5pt)
+
+
+
+
+
+     Probléme (11points)
+
+
+                                                          Partie A
+      Dans le    plan  orient¢  on  considére le triangle direct         ABB'dont tous les angles sont aigus et on
+
+pose       (AB;        =0    [2x].  On      construit  a  I'éxterieur   de ce triangle deux carrés ABCD         et
+ AB'C'D' de centres respectifs        O et O' et soit  P et Q les milicux respectifs de |[BB'| et [DD'].
+ 1.   a)  Faire unc figure illustrant les données précédantes.                                             (0.5pt)
+      b)  Prouver que    B'D =BD' et que (B'D)L(BD') :en déduire la nature du
+      quadrilatére  OPO'Q.                                                                                   (1pt)
+2. Soit I  le point de concours des segments                 et
+      a) Prouver que les points A et I sont symétriques par rapport a la droite (00').                     (0,5pt)
+
+      b)En déduire que   :              et
+
+3.    Les droites (AQ) et (BB')     se coupent en H et les droites (AP) ct    (DD') se coupent en K.
+
+      a)  Calculer  les  produits   scalaires suivants    :  AQ. BB'         et AP .DD' en déduire que les droites
+           (AQ) et  (AP) sont respectivement des hauteurs dans les triangles     et     ADD'.              (1,5pt)
+      b)  Prouver que les six points      P,Q, H             et     K sont cocycliques.                    (0,5pt)
+
+——
+Baccalaurdat 2001        Session                 Siries Mathématiues        2/3|
+
+
+
+
+
+
+
+Annales du Baccalauréat National    Mathématiques         / Séries : C & TMGM IPN Mr /2012 - 2013  64
+
+                                                    Partie B
+
+On suppose, dans la suite du probléme, que         8 €    13 1 \ x        ou (AB;AB') =0
+
+Soient "et          les deux cercles circonscrits  respectivement aux carrés ABCD et      AB'C'D'.
+On considére la similitude directe s de centre I et qui transforme O en        O'.
+1.   a) Faire une nouvelle figure (Pour une meilleure construction, prendre     :
+6 =50"; AB'= 7cm; AB = Sem) puis déterminer                              des deux cercles Tet I".   (0,5pt)
+     b) Construire le point A, tel que s(A) = A, , donner unc justification de cette construction. (0,5pt)
+                                        de A et de I, on pose    s(M)=M,.
+2. Soit    M un point de     I” distinct
+
+     a)  Comparer les deux angles       (O1;0M) et (0'1:0'M, );puis démontrer que les
+     points  A,    Met M, sont alignés.                                                            (0,75pt)
+     b)  Déduire de ce qui précéde une construction simple de     M, pour un point M donné
+de I'    distinct de Aetde I.                                                              (0,5pt)
+3.   Soient les    points    A,,B,, C,  et D, les images respectives des points A, B, C et D par s on pose:
+                     {E},                         =F},        | = {G}et        = {3}.
+     a)  Construire les points   B,, C, et D,, en déduire une deuxiéme méthode de construction
+du point A,     ;  (le point A,  a été construit au B.1.b).                               (0,75pt)
+     b)  Montrer que le quadrilatére    A, B, C, D,est un carré de centre O'.        (0,5pt)
+
+4.   Soit r la rotation de centre O'et d’angle     3 Demonrer que r(E)=F et r(F)=G
+
+en déduire que le quadrilatére EFGJ est un carré de centre     O'.                                  (0,5pt)
+
+                                                    Partie C
+Dans cette partic on conserve la figure précédente (celle de la partic B) .
+On désigne par a              de la similitude s définie dans la partie B ,
+
+On pose                          27 .
+1.a) Prouver que    :
+                             a=-0-7                                                                   ©5pt)
+                                               21   (2).                                            0.25pt)
+
+     b) En déduire que :     f       =     [2x]   (3).
+
+2.   a) Démontrer que     :              (0'B,;0'A) =p      [2x].                                  (0,25pt)
+     b) Pour quelles valeurs de      I'octogone formé par les sommets des deux carrés
+AB'C'D' et     A,B,C,D, est régulier?                                                              (0,25p1)
+
+     ¢)  En déduire les valeurs de I'angle 6 = (AB;AB") pour lesquelles       1'octogone précédent
+est régulier.                                                                                      (0,25pt)
+3. Calculer, dans la situation précédente C.2.¢), "aire du carré EFGJ en fonction de         AB'=a
+longueur du         du triangle                                                           (0,25pt)
+
+                                                          Fin
+
+Baccalauréat 2001         Session complémentaire-Séries Mathématiques        deMaths     3/3
+
+
+
+
+
+
+
+
+Annales du Baccalauréat National  Mathématiques           / Séries : C & TMGM IPN Mr /2012 - 2013  65

@@ -1,0 +1,149 @@
+ REPUBLIQUE ISLAMIQUE DE MAURITANIE  Loan da) pny    Justior.
+MINISTERE DE L'EDUCATION NATIONALE,                         |
+    DIRECTION DE    SECONDAIRE        Sujet :Mathématiques
+        SERVICE DES ENAMENS        Durée :4heures
+        Coefficients :9&6
+
+
+    Session Complémentaire
+
+
+
+
+                      points)
+
+               Dans             des nombres complexes €, on considére I'équation (E)        d'inconnue z telle que :
+
+                                         +4 + 5sin’t=0  out € [0;      est un paramétre
+                                                                       de     (E) avec    Im(z)) >0     (1,5pt)
+    1.   Résoudre. dans € |'équation    (E). on notera  les solutions
+
+    2.   Le plan complexe étant muni d'un repére orthonormé  (Osu Lv): Soient     M et M, les deux points
+
+                  respectives z et z,.
+
+           a) Démontrer que lorsque le      tdécrit [0; les points     Met M, décrivent une       ellipse
+
+    on donnera une équation canésienne.                                                                       (0,75pt)
+                                                     I” puis  la construire dans le repére        ,v).        (0,75pt)
+            Donner les élément caractéristiques de la courbe
+
+        ©)  Placer sur le graphique les poinis   M, pour ¢ =  2  .                                             (0,5pt)
+
+    3.   Soit  f  I'application du plan dans lui méme qui a tout point M(x; y) d'affixe   z  associe le point
+
+    M'(x';y') d'affixe    2'    tel que z'=     rz
+
+        a)  Ecrire x' et y'en fonctionde x     ety.                                                            (0,5pt)
+            On pose f{I") =     donner une équation cariésienne de la courbe  I.             que      cercle
+    dont on donnera le centre et le rayon pais le construire dans le repére précédent.                         (0.5pt)
+         En déduire une méthode géométriyue qui permet de construire "ellipseI” point par point a partir de T™ (0,5pt)
+
+
+
+               Exercice2(5 points)
+
+         Dans    le     plan orienté, on     considére trois cercles I. Tet I de méme rayon       et de  centres
+
+    respectifs M. N et       P. ces trois cercles sont concourants en un point K et se coupent deux a deux en A.
+    B a         que:
+                            sc coupenten Act K ©
+         -                       [etl
+
+         =I, et        secoupenten    B ct   K :
+
+         -        [et    se coupenten C ci
+
+    1.     Faire une construction illustrant  les données précédentes.                                     (1pt)
+
+                  m8        08
+
+     a) Déterminer la nature de chacune des transformations       r et r,                                (0,5pt)
+
+     b)  Déterminer r(M)et      r(M) : que peut on en déduire ?                                         (0,75pt)
+
+     ¢)     En déduire que  f est une réflexion dont on donnera                                          (0,5pt)
+    3.2 Montrer que   (KA , KB) = (KC, KP)        1 écrire(sans le démontrer) deux relations semblables.(0,75pt)
+
+         b) Vérifier   (KA
+                 que         , BC) =   3                                                                 (0,5pt)
+
+
+                  3                                               de          Sines               17|
+
+
+
+
+
+
+    Annales du Baccalauréat National  Mathématiques / Séries : C & TMGM                      IPN Mr /2012 - 2013  54
+
+   «) En déduirc que K est I'orthocentre du triangle ABC.
+4. Soient Tet r, les deux cercles circonserits respectivement aux tringles ABCet MNP
+
+Montrer ue les cing cercles T, .  Tet T,sont de méme rayon.
+
+
+
+¢  Probléeme(10 points)
+
+
+        On considére la fonction numérique f         définie surR  par :  f(x)    = (2+      oi     ne IN el
+
+soit    sa courbe représentative dans un repére orthonormé 03 Wi).
+
+                                                                                  de lafonction
+                       Partie A : Etude ef représentation graphique
+
+On considére la fonction numérique           I définie surR  par: f(x)  = f(x        + sin
+
+                      que: Vx € IR;             + sin x = 2 cos(x —                                            (0,5pt)
+1.4 Démontrer
+
+    b)  En déduire €                            = (2+ V2 cos(x — Det etque f est strictement croissante.      (0,75pt)
+
+2.a)    Démontrer I'incgalité suivante:      Vx € IR,     < f(x) <
+
+    b)A l'aide de 1 calculer          lim fix). lim  f(x)et            et interpréter géométriquement,           (1pt)
+
+3.   Dresser le tableau des variations Je       fet montrer que    f réalise une  bijection de R sur un intervalle que
+        déterminera.                                                                                          (0.75pt)
+4.   Montrer que:     Vx € IR;                  2(1 + cos                                                      (0.5pt)
+        Montrer que la courbe (C Jest située entre deux courbes r et T, représentatives de deux fonctions
+
+que     déterminera (T, au dessus de                                                                           (0,5pt)
+    b) Determiner les points de contact de               etl. Montrer que(C)          est tangente ar etl en leurs
+
+points de contact (On dit que deux courbes sont tangentes en un point si elles ont la méme tangente en ce point).(1pt)
+6.   Construire. dans le méme repére      (0; i,     les courbes   (©). Tet           xX                       (0,5pt)
+
+7.          I"aire     du domaine limite par la courbe     (©). I"axe des abscisses et les droites
+
+respectives     x  =    x =     1,                                                                             (0,5pt)
+
+                                          Partie B : Calcul d'une intégrale
+
+Onpose:     A = [
+
+1.   Démonirer que:     A = Ze - 3. +                    ax.                                                     (1pt)
+
+2           :          I= I:                         Ie "dx  et         i= I          tom,"dx.
+
+    2 En utilisant I'imégration par parties montrer que:
+
+                                                                A                     (0,75pt)
+                                          n           .         .       n            n
+
+    h) En déduire     1_et Jen fonction de n                                                                  (0,75pt)
+3.2 Donner I'expression de            A en fonction de n.
+    b) Calculer    A,   et comparer ce résuitat avec celui de la question A.7).                                (0,5pt)
+
+                                                         FIN.
+                                                     Epreuvede
+
+
+
+
+
+
+Annales du Baccalauréat National                Mathématiques   / Séries : C & TMGM IPN Mr /2012 - 2013  33

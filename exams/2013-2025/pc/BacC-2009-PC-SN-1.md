@@ -1,0 +1,150 @@
+---
+title: "BAC C 2009 - Session Normale - Mathématiques"
+year: 2009
+exam: "BAC C"
+session: "Normale"
+subject: "Mathématiques"
+series: "C"
+duration: "4 heures"
+coefficients: "8"
+type: "Examen"
+---
+
+# BAC C 2009 - Session Normale - Mathématiques
+
+**Série:** C | **Durée:** 4 heures | **Coeff:** 8
+
+---
+
+REPUBLIQUE ISLAMIQUE DE MAURITANIE                    Honneur Fraternité Justice
+Ministère de l'Enseignement Secondaire et Supérieur   Série :
+                                                      Mathématiques/T.M.G.M
+Direction des Examens et de l'Evaluation              Durée : 4H Coefficient : 8/4
+Service des Examens
+                         Sciences-physiques session normale 2009
+Exercice 1 (4pt)
+L'acide acétylsalicylique couramment appelé l'aspirine est un antiseptique très utilisé.
+Pour simplifier, l'acide acétylsalicylique de formule brute C₉H7O4H sera cosigné par
+AH.
+1 Cet acide est obtenu par l'action du chlorure d'acétyle sur l'acide salicylique. On suit
+l'évolution de cette réaction totale permettant d'obtenir l'aspirine en fonction du temps et
+on obtient la courbe ci-contre :
+1.3 Donner  la définition   de   la
+vitesse instantanée de formation
+de l'aspirine et calculer sa valeur
+lorsque t=150min.                           (1pt)
+1.3     Définir le temps de la demi
+réaction et déterminer sa valeur.           (1pt)
+2   On écrase   un   comprimé    d'
+«Aspirine 500» puis on dissout la
+poudre obtenue     dans  de   l'eau
+distillée pour obtenir une solution
+S de volume Vₛ=100mL. On prélève un volume VA=10mL de la solution S que l'on
+dose avec une solution aqueuse d'hydroxyde de sodium de concentration molaire
+CB=2.10⁻²mol/L en présence d'indicateur coloré convenablement choisi. L'équivalence
+acido-basique est obtenue pour un volume VBE=13,9mL d'hydroxyde de sodium.
+2.1 Comment peut-on reconnaître l'équivalence en utilisant l'indicateur coloré ?
+2.2 Ecrire l'équation de la réaction du dosage.
+2.3 Calculer la concentration molaire CA de la solution S d'acide. En déduire la masse
+d'acide acétylsalicylique dans chaque comprimé.(1pt)
+Exercice 2 )
+La formule moléculaire d'un alcool A est C3H   7OH.    correspondantes à cette formule
+1 Quelle sont les formules semi développées possibles
+? Préciser leurs noms et leurs classes.(1pt)
+2 On oxyde l'alcool A par action d'une solution acide contenant des ions dichromates.
+On observe que la solution devient verte.
+On  prélève la   moitié  de     la solution verte et on ajoute  de la DNPH       (2,4-
+dinitrophénylhydrazine). On observe la formation d'un précipité jaune.
+Indiquer la fonction et la formule semi développée du corps B obtenu par la réaction
+d'oxydation de A, en envisageant chacune des possibilités.(1pt)
+3 Quelle expérience peut-on réaliser avec l'autre moitié de la solution verte pour
+    déterminer, parmi les deux possibilités, celle qui correspond au corps A?(1pt)
+Exercice 3
+On considère un solide supposé ponctuel de masse m fixé à l'une des extrémités d'un
+ressort à spires non jointives, de masse négligeable et de raideur K=40N/m, qui est
+enfilé sur une tige ; l'autre extrémité du ressort étant soudée en un point A. (fig1)
+1 On écarte le solide S de sa position d'équilibre d'une distance de 4cm et on
+l'abandonne sans vitesse initiale à un instant que l'on prendra pour origine des temps.
+Le mouvement de S sera étudié dans le repère
+d'axe Ox dont l'origine O coïncide avec la position
+du centre d'inertie G du solide à l'équilibre.
+1.1 Etudier le mouvement du solide S et en déduire son
+   équation différentielle.(1pt
+1.2 L'expression de l'accélération a du solide est donnée
+en fonction de l'abscisse x à un instant t par la relation a
++  400x=0.Déduire     la          valeur   de la     pulsation du
+mouvement.                                                     (0,5
+1.3 Déterminer l'équation horaire du mouvement du solide S. (1pt)
+2 On attache le solide S à une longue corde élastique qui pend librement. Lorsque le
+solide S est animé du même mouvement rectiligne sinusoïdal précédent, une onde
+transversale supposée sans amortissement ni réflexion se propage le long de la corde
+avec une célérité C = π2 m / s . (fig2)
+On considère les points P et Q de la corde situés respectivement à 12,5 cm et 37,5 cm
+du centre d'inertie G (source des ondes).
+2.1 Calculer la longueur d'onde            λ     du mouvement vibratoire de la corde. (Prendre
+π 2=10)
+2.2 Comparer les mouvements de P et de Q entre eux puis avec celui de G.        p
+Exercice 4
+Des ions d'hélium     3 He2+ et     A He2+ sont produit en un point A avec une vitesse nulle.
+Ils sont d'abord accélérés
+                               leurs permet de traverser le trou B avec
+tension U=VP1-VP2² qui              2entre les plaques P1 et P2 par une
+une vitesse non nulle JGpuis pénètrent en O dans un champ
+magnétique JG      uniforme       B orthogonal au plan de la figure. Le
+champ B n'existe que dans une zone de largeur
+     l= l,5cm.
+1.1 Quel doit être le signe de U pour que les ions traversent te trou B ? Pourquoi ?
+1.2 Etablir l'expression de la vitesse V       1
+                      charge q et de la tension U.
+masse mₗ, de sa                                de l'ion    3 He2+ au trou B en fonction de sa
+Ump=l,67.10²⁷kg, B=3.10⁻²T. (1pt)                          2Calculer V1. A.N: e=1,6.10JG -19C,
+2  Les ions          3 He2+ pénètrent en O dans le champ magnétique uniforme         B avec la
+   vitesse V         2
+2.1Quelle          1.
+                  est la nature du mouvement de   3
+2.2 Trouver l'expression du rayon r               2 He²⁺  dans le champ B ?
+Calculer r₁                        1 de la trajectoire de 23 He2+ en fonction de B, e, m et U.
+2.3 Soit     α     l'angle que fait la trajectoire de l'ion    3 He2+ après sa sortie du champ
+magnétique B avec l'axe                                        2
+Ox; calculer l'angle de déviation α.
+3 En fait les trajectoires des deux ions        3He2      2
+                                                  rayon
+Soient m          la masse de l'ion  He²  et le ²   + et  A He2+ sont différentes.
+             2            A2      +          r₂      de sa trajectoire.
+3.1 α₂ étant la déviation angulaire de l'ion A He²⁺ , montrer que le rapport  α   dépend
+                                          2                                   α₁² ne
+       que des masses m₁ et m2. On supposera que les deux angles sont petits
+3.2 (sinα = tanα = α(rad)).
+3.2Calculer la masse atomique A de l'ion  A He2+ sachant que α2 =    0,216rad.
+Exercice 5                                2
+Pour déterminer les caractéristiques d'une bobine de résistance r et
+d'inductance L, on réalise l'expérience suivante :
+On relie les bornes de la bobine à un GBF délivrant une tension
+sinusoïdale de pulsation ૑ variable et de valeur efficace constante
+U=150V (fig1). La courbe de la figure  2 représente      les variations du
+carré de l'impédance (Z²) en fonction de ૑2
+1 Trouver l'expression théorique de Z         .
+qu'elle est conforme à la relation              en fonction de ૑². Montrer
+                                          obtenue à partir du graphe,  (1pt)
+2 Déduire de ce qui précède la valeur de la résistance r de la bobine ainsi que celle de
+   On donne à la pulsation la valeur ω=
+3 son inductance L             50         3                            (1pt)
+                                              rad / s .
+3.1Calculer l'intensité efficace du courant qui circule dans le
+circuit.                                                             (0,5pt)
+3.2 On réalise un nouveau circuit en plaçant en série avec la
+bobine un condensateur de capacité C. Quelle est la valeur de
+cette capacité C pour      que         l'intensité efficace du courant
+circulant soit maximale. Quelle est alors la valeur l₀ de cette
+intensité ?                                                            (1pt)
+3.3Calculer    alors  la   puissance moyenne   électrique P
+      consommée dans le nouveau circuit.                             0            (0,5p
+4    Montrer   que lorsque la  puissance            moyenne électrique
+consommée dans le nouveau circuit est la moitié de P0, l'intensité efficace est alors
+I  = I 0
+                                       Corrigé
+Exercice 1
+1.1 Définition de la vitesse de formation de AH
+C’est la dérivée de la concentration C par rapport au temps V(AH) = dC ce qui
+                                              dt
+correspond au coefficient directeur de la tangente à la courbe au point d’abscisse t;

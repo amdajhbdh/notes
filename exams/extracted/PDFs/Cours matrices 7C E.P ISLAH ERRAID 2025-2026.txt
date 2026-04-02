@@ -1,0 +1,389 @@
+        Matrices
+
+1)Définition et vocabulaire :
+
+Une matricen X p   est un tableau rectangulaire de nombres a n lignes et p colonnes.
+
+Les nombres qui composent la matrice sont appelés les éléments de la matrice ( ou aussi les
+coefficients) .
+
+Une matrice a n lignes et p colonnes est dite matrice d’ordre (n, p) ou de dimensionn X.p.
+
+Un général on note     le coefficient qui se trouve a la i“™ ligne et a la j™ colonne,
+
+oul<i<netl<j<p;
+
+                                              a1           ...   a4 p |
+
+on représente la matrice. sous la forme A =   a, 21.   a         2p           = (@;j) 1<izn
+                                                                 d
+                                              ant      an?       anp                  1<j<p
+
+Cas particuliers :
+
+ »  Une matrice ne contenant qu’une seule ligne s’appelle matrice ligne ou vecteur ligne.
+ »  Une matrice ne contenant qu’une seule colonne s’appelle matrice ligne ou vecteur
+    colonne.
+ »  Une matrice ayant autant de lignes que de colonnes est appelée matrice carrée.
+
+Remarques : Pour une matrice carrée a on a
+
+ »  La diagonale principale de A est formée par les coefficients     (a;;)  azz     ...
+ »  Sitous les coefficients n’appartenant pas a La diagonale principale sont nuls on dit que A
+    est une matrice diagonale ;
+    A est une matrice        < Vi+j;a;; =0
+ »      les coefficients situes au-dessus de La diagonale principale sont nuls on dit que A est
+
+    une matrice diagonale supérieure
+    A est une matrice diagonale supérieure                       Vi>j;a;; =0
+ »  Si tous les coefficients situes au-dessous de La diagonale principale sont nuls on dit que A
+    est une matrice diagonale.inférieure
+    A est une matrice diagonale infpérieure                © Vi<j;a;;=0
+ »  Matrice identité : on appelle Matrice identité d’ordre n, toute matrice carrée d’ordren,
+    dont les coefficients de La diagonale principale sont égaux a 1 et tous les autres sont égaux
+
+
+ »  Matrice nulle.: on appelle matrice nulle de dimension n X p, la matrice dont tous les
+    coefficients'sont nuls, on la note 0,,,   ou simplement O.
+ »  Transposée matrice A : la Transposée               matrice A est la matrice notée
+    T    ou    en échangeant les lignes et les colonnes de A,    si A est de dimension
+
+    n X p Alors T 4 est de dimension p X n.
+
+Exemple :
+
+Propriéteés :
+
+         ®
+
+         ®   Tka=K([T,); VEER
+
+         *      =
+
+2)opérations sur les matrices :
+
+a-addition :soient A et b deux matrices de méme dimension.la matrice A+B est la matrice de
+méme dimension obtenue en additionnant les coefficients de A avec leurs correspondants dans B.
+
+si  A    =       1<i<n         B= (bij) 1<i<n alors  A+B =     + bij) 1<i<n
+                 1<j<p                    1<j<p                                       1<j<p
+
+    »       Propriétés :
+
+             eo     Commutativité:A+B=B +A
+
+             e      Elémentneutre:A+0=A4
+
+             eo    Associativité:      (A+B)+C=A+(B+C)=A+B+C
+
+b) Produit par un réel :
+
+si  A    =         1<isn    Alors         = (X a;;) 1<i<n, On multiplie chaque coefficient de A par
+                   1<j<p
+
+    »       Propriétés :
+
+    e                                              (—1) x A se note —A et s’appelle la matrice opposée de A
+
+    e       LamatriceA—B = A+ (—B)
+
+    eo      x(A+B)=xA+xB;                                 BB                         = (ap)A
+
+c)  Produit de deux matrices :
+
+Soit A une matrice de dimension n X p et B une matrice de dimension p Xx                 m , on appelle produit
+
+A X B la matrice de dimension n X m obtenue en multipliant chaque ligne de A par chaque
+colonne de B. Le coefficient de la i™ ligne et la         de 4 X B est obtenue en multipliant
+la       ligne de A par la          colonne de B
+
+si  A    =         1<i<n €t B = (bij)     1<i<p           B =C = (cij) 1<i<n€t Cij = rl     by;
+                   1<j<p                  1<jsm                                      1sjsm
+
+NB : pour que le produit A X B existe, il faut, obligatoirement, que le nombre de colonnes
+de A soit égal au nombre de liges de B
+
+      »     Propriétés :
+
+             o      I,                     Ay, XI,    =A,
+
+             e      |e produit des matrices n’est pas commutatif en général .
+
+             e      AXB     =0_     n'impliquepas     A=0     ouB =0
+
+             eo     AXC=B8BXC nimpliquepas A=B
+
+             e      Associativité      AX (BxC)=(AxXxB)xC(C
+
+             eo     Le produitest distributif par rapport a la somme
+
+             AX(B+C€)=AXxB+ AXC            et        (A+B)xC
+
+                            La matrice nulle est un élément absorbant: AX             0 =0xA=0
+                            On définit les puissances successives de A par:
+                            A=1, et                  xA=AXAP
+
+                   A =      (%   BY et        B = 3   2). Calculer 4 xB               et Bx A
+
+                            1    1        i
+                        5                  3                                  +  5   5
+Exemple:.        A  _               et    B                 C=                       2
+                                                            __
+                    =                      =
+
+3 Déterminant     matrice carrée :
+
+ a)   Matrice d’ordre 2 :
+
+      SoitA =     7 une matrice d’ordre 2 . on appelle déterminant de A noté det(A) le
+
+      réel définie par : det(A4) =   4         = ad — bc
+
+                                                                              413
+                                     aij;                            az;   Azz
+ b)   Matrice d’ordre3 :soit       A= | G21  Qz2  Az23   |  , A'= |
+                                             azz  ass                aij;  iz
+                                                                           azz
+  »    Méthode de Sarrus:
+
+        e     On recopie les deux premieres lignes comme dans A’
+
+        e     On calcul lasomme S; des produits des diagonales descendantes.
+
+        e     On calcul lasomme      des produits des diagonales ascendantes.
+              det(A) =           S1
+  »    En développant suivant une ligne : La               par exemple
+
+       det(A) =     | azz         |-a  | az;   azz |           | az;    |
+              =a      az;  azz       12: lag;            a           as;
+
+  »    En développant suivant une ligne : La               par exemple
+
+       det(A)       | azz         |-a    |     a3 |+            az A413 |
+        4 =
+              =a a11-|g,,  ag,                 azz       a 31   lag, az,
+
+c)Cas général : soit A = (a;;) 1=i=n Une matrice carrée , on ‘appelle mineur du couple (i,j) le
+                                 1<j=n
+déterminant de la matrice ou on a barré la       ligne et   la jm colonne . si ce manieur est noté
+M;,le cofacteur du couple (i,j)  est ¢;; =            ,Danscecasona:
+
+  oe   det(A) =     a;;. c;j     (Développement par rapport a la 1* ligne)
+
+  o    det(A) =                  (Développement par rapport a la 1° colonne)
+
+  @
+
+
+              2 1                4
+Exemple:Soit    —3               2
+              5                4-1
+
+4 Matrice adjointe ou comatrice :
+
+La Matrice adjointe de A ou comatrice de A est une matrice des cofacteurs. Elle se note  ou
+com(A) ona com(A)ow.Cy =         (ci)
+
+
+       4    2   3 )                2         1        4
+            4   1                    eeB=|0 —-3       2
+                                          5  4       -1
+
+5              matrice :
+
+Soit  A'une matrice carrée d’ordre    s’il existe une matrice carrée b d’ordre n telle que :
+
+AB-= BA = I,,, on dit que A est inversible ; on appelle B               de A et on la note
+
+Plus généralement, si A est inversible, pour tout p € N;             A? =
+
+NB                                 :              2                          -1      1
+      une matrice A est inversible si et seulement si det(4) + 0,etona       A™"   _ Fre  Tc, = dec
+                                                                                   =
+     :
+
+                         2    1  4
+Exemples: 4 =  ( )   3 )      -3 2
+                 4   1      5 4 -1
+
+Cas particuliers :
+
+>» Sid =     9 avec ad — bc # 0, alors A est inversible est = —— (“4
+
+
+   3           ,                          -(3  A
+>» SiA = (a    0    avec ab # 0 alors 4 1_| a
+
+                         b
+                                             2  0 0
+        a    0     0                         a
+>  SiA=(0                                    0  = 0
+        0                o     o     A
+
+
+5 Ecriture matricielle d'un systéme d’équation linéaires
+
+On considére le systeme linéaire de n équations a p inconnues,
+
++ X3 ..              ay pXp =
+
++ Xz...              azp Xp = b,
+
+=                    :
+               ,
+
+
+           X1 +      Anz ++
+
+ ou a;; et b; sontdes réelsdonnées (1<i<netl<j<p)
+
+le systeme peut s’écrire sous la forme AX = B, ou
+
+                                   X1
+a aq2 -. ap                                   b,
+           azz   --                :  et B=1| .
+
+    a,1    Ay2   --    an p        .
+                                   Xn         b,
+
+A est appelée la matrice de (
+
+Si A est inversible alors, AX =  B< X =
+
+ Exemples :
+
+ Résoudre les systemes suivants :
+
+
+ —2x +     Sd    ’ b) Tec  g —
+                      —2x+8y=-0,4 —-2x+8y=-5
+
+
+        2
+d) |    —1
+
+                               Exercices
+
+Exercice01 :
+
+    5
+    x                         1
+On considere la matrice A =   3 ou x est un réel , Déterminer x pour que
+
+    1
+    2     6 14
+
+
+                               8     4
+        A =                    a     telque ad — bc #0
+Exercice02 : On suppose que       b
+
+                                                                    (€
+ 1  Trouver en fonctionsde.        dlesréels x,y,z et t tels que A X x  N = (a 0
+
+                                  A     d     —-b
+ 2  Vérifier que A admet pour matrice. inverse A™" = — 2
+
+Exercice03 :
+
+
+
+1)On considére le systeme | xXt+yt+z=a
+    .
+        X—y+2z=c
+
+
+Exprimer les réels x, y et z en fonctions de a, b etc
+
+                                1  1   1
+2)On considére la matriceA = |  2  1   3
+                      1            -1   2
+
+      Montrer que A est inversible et déterminer 471
+
+Exercice04 :
+
+Déterminer I'ensemble des points donner par les équations suivantes :
+
+                                    +12y + 17z     =     53
+      | 2x+12y + 17z = 53          2x +12y + 17z     = 53     2x
+   1     X+5y+7z=22                Ny SY + 72 = 22     X+5y+7z=22
+                                                                                =40
+         3x + 22y + 19z = 35       Wt 7y + 10z     = 21                    x+9y+13z
+
+Exercice05 :
+
+Montrer que les matrices suivantes sont inversibles et donner leurs inverses :
+
+         -1  1    1                 1  -1     2
+                                       2           -3
+             -1   2                             B=|-1
+         -2                         -1 1           -1
+
+Exercice06 :
+
+Soient A et B deux matrices de méme rang n et I la matrice identité de méme rang n
+
+tel que: AB    =I + A + A?
+
+   1  “Montrer que A est inversible et déterminer A! en fonction de 4 et B.
+             que A et     B  commutent.
+
+Exercice07 :)’ai deux fois I’age que vous aviez quand j’'avais I’age que vous avez et, quand vous
+aurez I’age que j'ai la somme de nos deux ages égalera 90 ans .
+
+Quels sont les ages des deux personnes (celui qui parle ainsi et son interlocuteur)
+
+ Exercice08 :
+
+ Trois robinets A; B et C versent dans un réservoir.
+
+ Les robinets A et B peuvent remplir le réservoir en 12min ; Les robinets A et C peuvent remplir.le
+ réservoir en 15min et Les robinets C et B peuvent remplir le réservoir en 20min
+
+ Quelle est le temps nécessaire a chaque robinet pour remplir seul le réservoir.
+
+ Exercice09 :
+
+ Par 100000, on veut acheter exactement 20 objets scolaires pris parmi les catégories suivantes :
+ calculatrices ; livres et cahiers
+
+ Un livre coute 1000 ; une calculatrice coute 5000 et un cahier coute 50.
+
+ On doit acheter au moins un objet de chacune de ces catégories.
+
+ Exercicel0 :
+
+                            010
+ On donne la matrice:     A= 0     1
+                            000
+
+A tout réel x on associe la matrice M(x) =   I; + xA +
+
+1  Calculer A% et A3et en déduire, pour tout ,n > 3 la valeur de A™ .
+2  Montrer que      =     M(x + y)
+3  Soit n un entier naturel. Ecrire M(x) et     sous-forme de tableau.
+
+Exercicell :
+
+ On considere la suites (u,,) definie par
+
+         uy =3 etu, = 8etpourtoutnru,,,          —6U,
+
+ 1)On note C,, la matrice colonne            note A la matrice carrée d’ordre 2 telle que
+
+       = AC,
+
+ a) Vérifierque A  = 53   79
+
+ b) Montrer que C,, =
+
+ 2 soient   P=({     D=                          hb
+
+  Vérifier que P et Q sont inverse     d         A     = PDQ
+
+ 3)a) Démontrer parrécurrence que   A™ =     PD™Q pour tout n # 0.
+
+  b) En déduire que A™ = (Tm     rr a )
+
+ c) en déduire I'’expression de u,, en fonctionde n.den

@@ -1,0 +1,101 @@
+---
+title: "BAC C 2023 - Session Complémentaire - Mathématiques"
+year: 2023
+exam: "BAC C"
+session: "Complémentaire"
+subject: "Mathématiques"
+series: "TMGM"
+duration: "4 heures"
+coefficients: "4"
+type: "Examen"
+---
+
+# BAC C 2023 - Session Complémentaire - Mathématiques
+
+**Série:** TMGM | **Durée:** 4 heures | **Coeff:** 4
+
+---
+
+République                de Mauritanie ot       ~~                     2023
+Ministére
+de la      de                Nationale      ~~ SessionComplémentaire     Séries :                              TMGM
+       Réforme du Systéme                                               :        Durée: 4h
+Direction des Examens cf des Concours                                            MATHEMATIQUES
+ Exercice 1 3 points)
+ On considdre le systéme
+                                        t=  9019
+ 1.        que 2023 est solution de                                                                             0.5pt
+ 2. Montrer que 1 est solution de (S) équivaut a                1   = 23x~1=19y +9, oil le couple    (x,y)         ’
+ est solution  de I'équation     (KE):    23x-19y =10.
+ 3. Vérifier gue le couple (50;60) est solution de (E) puis en déduire les solutions de (E).                    0.75pt
+ 4.    Montrer que le systtme (S)        est équivalent         1   =                                           0.5pt
+ 5. u) Montrer que si             est solution de 5 alors :                          ct que 1”    = 137(437).   0.5pt
+                     b) En déduire le reste, duns Ia division euclidienne, de      par 437.                     0.25pt
+ Excrcice 2 4 points)
+ Soit ABC un triangle rectangle isocéle direct cnA , on construit les carrés directs ACDE
+ ct AFGB. On note O ¢1        O' leurs centres respectifs of soit 1 Ie milieu de [BC)
+                   A par rapporta      1.
+ symétrique de                                                 1a   translation T de vecteur CB.               0.5p1
+ 1.    Déterminer les images des poiots D ef E par
+ 2. Soit       R la rotation de centreA ct                            3 et f=RoT.
+               que    {   est             unc rotation ct préciser son angle.                                  0.5pt
+ a) Monirer
+ b) A I'nide d'une            convenable de R et de T déterminer le centre do
+ 3. Soit h           I'homothétic de centre J et de rapport     3   et     S=hof.
+ a) Démontrer que S est unc similitude directe.                                                                0.25pt
+ b) Préciser son rapport 1 une mesure de son angle puis construire son centre K.                               0.75pt
+ 4.    Soit    simifitude directe de centre E transformunt F en O.
+ u)                   8'  et vérifier que     So8'(B)=1                                                        0.5p1
+ b) Montrer que       SoS est une           dont on                     le            rapport.                 0.5pe
+ ¢)        le centre Q de                                 comme burycenive do B et 1 Placer Q.                 0.5pr
+ Exercice 3 4 points)
+ Soit  (Ia   fonction définic sur           par f(x)=1- xs                      x  vt soit     I sa courbe
+ représcaintive dans un repére orthonormé (0: ii)
+                 bes            suivantes lim, f(x)    et      lim      f(x).                                  0.5pt
+ 1.  0 Calculer
+b) Montrer
+relative     que   la     courbe      unc asymptole oblique D et préciser leur position                        0.5pt
+2, Soit u la fonction définic sur           par u(x)=x"+2x+In(x+1).
+Etudier bes varintions de a puis calculer u(0)                      et en déduire  le signe de o.              pt
+                 que Vie)     ,
+3.9  Montrer
+       2023               Senios            Eprewve do              C& T™MGM                                   2
+b) En déduire le signe de puis dresser le tableau de variations de f.    0.5pt
+4. Soit g Is restriction de f sor I'intcrvalie    Montrer que g est une bijection de
+ 5.I   sur un intervalleJ 3 préciser.
+        Construire la droite D et les courbes      Cet I” (I [a courbe représentative de In      0.75pt
+ réciprogque        deg).
+            4 4 points)
+ 1.     Soil        —4iz° — 62   + di vit 2 est un  nombre complexe.
+ 8 Calculer P(2i)     puis           dons C
+ On nofera z,, z,     of 2, les solutions de cette équation avec Re(z,)> Re(z,)> Re(z,).
+ b) Ecrire sous forme exponenticlle chacun des trois complexes z,,     z, et
+ ©) En dédaire les solutions de I'équation     (=)»     a                     :                  0.75pt
+                                                    z+i            z+i  z+i
+ 2. Dans le plan complexe muni       repére orthonarmé direct (0;5,7), on noic A, B,C
+ ct 1 les points                 respectives 2, =2,, 7,         2.      et 2,      Z, et 2;  soni
+ ceux définis au-dessus).
+ a) Préciser les affixes des points A, B et C puis        [a nature du triangle     ABC.         0.5pt
+ b) Déterminer                  compleae de la         directe S de centre A telle que
+ S(B)=C.                                                                                         0.5pt
+ 3. Soit     (M,) Ia suite des points définie par M, =Bet ¥aeN;     M,, =S(M,).
+                   que Va & N,       le triangle AM_M__, ost rectangle      direct en M,
+ a) Montrer
+ b) Monirer gue ¥n €             points A, M_ et            sont alignés et que      € (AD)      0.5pt
+ Excrvice 5 5 points)
+ Pour tout entier               on considére Ia fonction définie sur [0;     par:
+                    et soit C,  la courhe de f, dans un repére ortbonormé     j).
+            n!
+ 1.    a) Montrer que     Vane N°, lim                                                           0.5pt
+            les variations de f,         ef dresser son tshicau de                                 pt
+ b) Etudicr
+                                   entre  les courbes    C, et                                   0.501
+¢) Etudicr [a position relative
+2. On note    1,                ,pourtout ne
+a)     Montrer que I, =e-2.                                                                      0.5pt
+b) Montrer que la suite 1,           est            ef minorée. Que pevt-on conclure ?
+                    vérifcr                             puis      que 1,      n!                  0.75
+     Sit                que                             ,
+d) En déduire que YoeN',         I,  —.
+                                     =k!
+ Montrer que Ya e                    sobs . En déduire les valeors de lim 1, et lim (EL).      0.75m

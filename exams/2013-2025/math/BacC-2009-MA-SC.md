@@ -1,0 +1,105 @@
+---
+title: "BAC C 2009 - Session Complémentaire - Mathématiques"
+year: 2009
+exam: "BAC C"
+session: "Complémentaire"
+subject: "Mathématiques"
+series: "TMGM"
+duration: "4 heures"
+coefficients: "4"
+type: "Examen"
+---
+
+# BAC C 2009 - Session Complémentaire - Mathématiques
+
+**Série:** TMGM | **Durée:** 4 heures | **Coeff:** 4
+
+---
+
+RepubIique    Islamique              de Mauritanie                                                                                               Honneur - Fraternite - Justice
+     Ministere    de I'Educati{)u             Nationale                                                                Bacealaureat        Series:             C & TMGM
+ Direction    des Examens                  et. de PEvaluation'                                                                                          Epreuve: Mathematlques
+              Service             des Rumens                                           20:·:0:9..:" "../ '.. / .....e-':                                    Duree: 4 heures
+                                                                                                                                                    Coefficients: 9 & 6
+                                                            Session comptementatre
+Exercice     1 f4 points)
+Le plan complexe            est muni          d'un    repere     orthonorme          (O;u;\i).          Soit     la transformation                       ponctuelle   f(I) qui
+assode    a tout point       M du plan d' affixe                 z le point    M'      d' affixe        z' tel que:
+z'  = (~-+ wi)z + 1-lroi,                     ro E C .
+1. Reconnaitre    et caracteriser             la transformation       fro pour les valeurs suivantes                                   du nombre complexe                  m :
+            J3                                   1                                         1
+  a) (l)=- 2                    b) m=--i 2                  c)        m=l+-i               2                                           d) ro=2i.                                (I,Spt)
+2. Dans    la suite             de l'exercice    on considere               coE JR et                            on pose    e::::: arg(~... + ori)      avec e E] -1t;7t].  On
+considere     les  points       A(2; 0) et            M, (3; 0).  Pour           tout       n E N on                    pose:     Mn+l            = f(I) (Mil) et  on  designe
+ Zn l'affixe  de M,  .
+  a) Verifier que   Zl       = ~ +rni puis calculer                      Z2 en fonction             de               m .                                                        (lpt)
+  b) Prouver que pour tout n E N on a : zn                           = 2 +(     1           )n          in6
+  c) Pour tout n E N on pose:                   Vn ::::;IZn .;    21.             2cos8                 e              .                                                        (O,5pt)
+                                                            Montrer                 que la suite                               (Vo)    est geometrique         puis determiner
+les valeurs de    e pour lesquelles                  la suite.    (Vn ) est convergente.                                                                                        (O,5pt)
+  d) Pour tout    n EN        on pose:        do ::::;IIMnMn+lll.     Montrer que dn = Vn+l puis calculer,                                 en fonction de     n
+la somme      S,      = Lⁿ  dₖ  ,   en donner une interpretation                geometrique,                                                                                    (O,5pt)
+                  k~O
+Exercice          2 (5 points)
+  On considere Ia fonction                numerique         fn definie par:          fn(x) :::::e(l-n)"
+                                                                                                        --1+eₓ            OU     n     est un entier naturel.     Soit      en
+sa courbe representative                 dans un repere orthonorme              (0;1,}).
+ I.a) Dresser letableau             de .  variation     de 1'0    Ott     fo(x) = _e_.x                                                                                         (Ipt)
+                                                                                       l+e"
+  b) Montrer que      Co      admet deux asymptotes                            horizontales                       que l'on determinera,                                        I(O,Spt)
+  c) Montrer que le point                 n(o,~)   est un centrede             symetrie de la courbe     Co                                       puis construire Co'          ,(O,Spt)
+ 2.a) Verifier que pour tout reel                  x    : f1(x)::;::fo{-x).                                          En deduire une transformation      geometrique     simple
+ qui permet de construire                 C_{1}  a partir de          Co.                                                                                                          (O,5pt)
+  b) Verifier que pour tout reel                 x    : fl (x)    = I-fo(x).   En deduire               une transformation                              geometrique  simple
+ qui permet de construire                 ci  a partir de          co·                                                                                                          (O,5pt)
+  c) Construction     c_{1}a partir de              Co           dans le repere   precedent.
+ 3. On pose pour tout entier naturel                    n  :     un:::::  !\(X)dX                                                                                               (O,25pl
+  a) Calculer        u, et  UI .                                                                                                                                                (O,5pt)
+  b) Prouver que pour tout entier nature 1 n > 1 on a:                                0    < Un < _1_                      . En deduire                 lim Un.                 (O,5pt)
+                                                                                                        n -1                                           n-H<O
+  Baccalaureat 2009             Session Complementaire                         Epreuve de Mathematiques                                Series C & TMGM 1/2
+                                                                             (_l)D
+4. On pose . pour tout entier naturel non nul .n                 : vn.   = -,          1)
+                     .                                                         n _' ( ,1- -~  et Vo ""1.
+Soit S; "'"Vo + VI + ... + Vn .                                                            I     I·
+                 a) Verifier que pour tout entier naturel n non nul on a:       Uₙ₊ₗ + u, =     vn                                 (O,2Spt)
+ b) . Prouver que pour tout entier naturel                   n non nul on a:    1Sn -  u, 1"" I Un₊_{1}  I· En deduire lim So .
+                                                                                                          n~_                      (O,Spt)
+ExeJ:dce 3 (5}!oints)
+Dans le plan oriente on considere     un triangle equilateral                  ABC de sens direct et de cote a . Soit G le     I
+centre de gravite de ce triangle     et soit D le symetrique                   de A par rapport       a C .     a
+1. Faire une figure illustrant  les donnees precedentes.                     Elle sera cornpletee     au fur et  mesure,           (lpt)
+2,a) Prouver qu'il                existe une unique rotation      rqui   transforme    A en C et B    en D.                        (O,5pt)
+ b) Preciser un angle de r     et determiner                   son centre    E puis le lacer sur la figure.                   Iᴵ   (O,5pt)
+3. Prouver   que les points  A,     B,               D et E  sont eocycliques,     preciser   le centre et le rayon de ce cercle
+puis Ie construire.                                                                                                                (O,Spt)
+4. Soit s la similitude                 directe de centre B  et transforme     Den     C.
+ a) Determiner   un angle et le rapport               de s .                                                                       (O,5pt)
+ b)   Determiner                 l'image du triangle    BDE  par    so s.                                                          (O,5pt)
+5. On pose   r = r 0 s              et g =: S 0 r .
+ a) Preciser et construire   f(B)             , f(E) , geE)  et   g(A) .                                                           (O,5pt)
+ b) Determiner   la nature et les elements caracteristiques                    de  f et g.                                         (O,75pt)
+ c) Demontrer    que   les eerc1es de diametres                  respectifs     (AG) ,     (Be), (cs)   et     (DB) ont un point
+commun. Quelle est la particularite     de ce point?                                                                               (O,2Spt)
+                                                                                                                                       (O,5pt)
+                                                                                                                                       (O,5pt)
+                                                                                                          t                            (O,Spt)
+ d) Montrer    que   (C)   admet       deux     asymptotes           dont l'une        notee     D est oblique.   Etudier  la position
+relative de (C) et de     D.                                                                                                           (O,75pt)
+2.a) Calculer  f'(x)     puis verifier         que  f'(x) == 2(x-l)            cp(x)    ou   cp est une fonction  strictement positive
+pour tout   x#:o  a determiner,                                        x                                                               (O,5pt)
+ b) Dresser le tableau de variation             de  f .                                                                                (O,5pt)
+ c) Demontrer     que I'equation       f(x) ==    0                  admet trois solutions   distinctes a, ~ et   y dont on donnera un
+encadrement     d'amplitude     5xl0-^{1}      (O,75pt)
+ d) Construire    (C) .                                                                                                                (O,25pt)
+3. On se propose               dans cette question           de caleuler       l'aire S du domaine     delimite   par Ia courbe et les
+droites d' equations      respectives   :  y = 2x - 3,            x = 2     et x == 1+ J3 .
+ a) Verifier que pour tout reel        x on a :      x^2 2x-4₋                      2x--2 '   ,    2                                    (O,5pt)
+                                                                  ix + 2       Xl  -  2x + 2 1 + (x _1)2
+ b) Calculer A = J,_{2}l+.J3 x. 2 2x"- 2   dx .                                                                                           (O,5pt)
+                                -2x+2
+ c) En posant    x == 1+ tant   pour tout       t  E [ 0; ~ [        ; caleuler        B =  fl+.J3 2_--:-dx.                           (O,Spt)
+ ,                                                           2                              h     l+(x-li
+ d) Deduire de ce qui precede          le calcul de l'aire                  S  exprimee      en unite d' aire,                         (O,2Spt)
+                                                                               Fin
+ Baccalaureat    2009 Session Complementaire                                Epreuve de Mathematiques  Series C & TMGM 2/2

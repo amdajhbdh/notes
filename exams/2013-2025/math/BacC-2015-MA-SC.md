@@ -1,0 +1,256 @@
+---
+title: "BAC C 2015 - Session Complémentaire - Mathématiques"
+year: 2015
+exam: "BAC C"
+session: "Complémentaire"
+subject: "Mathématiques"
+series: "C"
+duration: "4 heures"
+coefficients: "4"
+type: "Examen"
+---
+
+# BAC C 2015 - Session Complémentaire - Mathématiques
+
+**Série:** C | **Durée:** 4 heures | **Coeff:** 4
+
+---
+
+Ré puub
+blliiq
+quue
+e  IsIslla
+am
+miiq
+qu
+ue
+e  dede  Ma
+urriitta
+an
+Rép  Mau  niiee  Ho   urr  ––  FrFraatteerrnniittéé  ––  JuJussttiiccee
+Honnnneeu
+Mi
+niissttè
+èrre
+e  d  uc
+ca
+attiio
+on
+n  Na  on
+na
+alle
+Min  de e ll’’Ed  e  Ba
+Edu  Nattiio  cc
+ca
+al
+la
+au
+ur
+ré
+éa
+Bac  at  GM
+Sérriiee  : : C  M
+C &
+&t t TM
+Di  ec  t  TMG
+cttiio
+on
+n  de
+s  Ex
+am
+me
+en
+nss  etet  Co
+nc
+co
+ou
+Dirre  des  Exa  Con  urrss  Sé
+Ep  uv
+ve
+e::  Ma  hé
+ém
+maattiiq
+Eprreeu  Matth  quue
+Se  viic  ess
+ce
+e  de
+s  Ex
+am
+me
+en
+Serrv  des  Exa  nss  20
+5  Du  eu
+Durrééee::  4 4 heh  urreess
+Co  ciie
+en
+nttss::9
+Coeeffffiic  9  &
+Se siio  & 66
+on
+n  Co
+mp
+pllé
+ém
+me
+en
+ntta
+aiir
+Sesss  Com  ree
+Ex
+er
+rc
+ciic
+ce
+Exe  e  1  nttss))
+1  ((3
+3  po
+poiin
+Soit x et y des entiers relatifs. On pose  f(x,y)  2x 3y
+1.a) Calculer f(5,3) .
+(0,5 pt)
+b) En déduire les solutions dans  2 de l’équation  2x 3y  1 .  (1 pt)
+2) Pour tout entier naturel n on pose  Xₙ  f(5 ⁿ,3 ⁿ) .
+a) Trouver, suivant les valeurs de n, le reste de la division euclidienne de Xₙ  par 7.  (1 pt)
+b) Montrer que X_{2}_{0}_{1}_{5} 5  est divisible par 7.  (0,5 pt )
+Ex
+er
+rc
+ciic
+ce
+Exe  e  2  nttss))
+2 ((4
+4  po
+poiin
+Le plan complexe est muni d’un repère orthonormé (O;u, v)  .
+1) On pose :  P(z)  z^3 (6 5i)z^2 (1 20i)z 14 5i  où z est un nombre complexe.
+a) Calculer P(i)  et déterminer les nombres a et b tels que pour tout z de  :
+P(z)  (z i)(z^2 az b) .
+(1 pt)
+b) Résoudre, dans l’ensemble des nombres complexes, l’équation P(z)  0 .  (1 pt)
+2) On considère les points A,B et C d’affixes respectives  z A  i , zB  4 i  et zc  2 3i .
+Soit s la similitude directe de centre A qui transforme B en C.
+a) Donner l’expression complexe de s.  (0,75 pt)
+b) Déterminer le rapport et un angle de s.  (0,5 pt)
+3.a)  Déterminer  puis  construire  les  ensembles * et *  des  points M  du  plan  définis
+1  2
+par :
+M  *_{1} z z 4 i i  est imaginaire pur.  (0,25  pt)
+M  *_{2} z z2i 3i  est imaginaire pur.  (0,25  pt)
+b) Justifier que  s(*_{1} )   *_{2} .  (0,25 pt )
+Ex
+er
+rc
+ciic
+ce
+Exe  e  3
+3  ((4
+4  po
+poiin
+Dans le  nttss))
+(a ! 0) plan orienté on considère un triangle équilatéral  direct ABC de centre O et de coté a,
+1.a)  . Soient I , J et K  les milieux respectifs des segments > BC @ , > CA @  et > AB @ .
+Faire une figure illustrant les données précédentes (on prendra (AB) horizontale).  (0,5 pt)
+b) Montrer qu’il existe une unique rotation  r_{1}  qui  transforme  B  en  C  et  J  en  K.  Préciser  le
+centre et un angle de r_{1} .  (0,75 pt)
+c) Soit la  rotation r  qui transforme B en C  et K en J. Préciser le centre et un angle de r  .
+2  2  (0, 5 pt)
+2.a) Soit  f  r  r  et g  r  r . Caractériser  f et g.
+1  2  2   1  (0,5 pt)
+b) Montrer que g  f  t  où t  est la translation de vecteur BC .
+BC  BC  (0,25 pt)
+3.a) Montrer qu’il existe une unique similitude directe  s  qui  transforme  B  en  I  et  C  en  J.
+Déterminer l’angle et le rapport de s .  (0,5 pt)
+(0,25 pt)
+b) Déterminer s(A)  et s(O) .
+c) Caractériser la composée h  r_{1}          s .                                                                               (0,25 pt)
+4) Soit *  l’ellipse de foyers I et J passant par C.
+a) Montrer que K* .
+b) Construire les sommets de * . Justifier la construction.                                                                 (0,25       pt)
+                                                                                                                           (0,25 pt )
+Ex
+    er
+      rc
+        ciic
+        ce
+Exe    e  4    4  po  nttss))
+          4 (4(     poiin
+                           f                                    x 1
+1) Soit la fonction         définie sur      par f (x)            .
+                                                              eˣ
+a) Dresser le tableau de variation de f.                                                                                   (0,75 pt )
+b)  Tracer C la courbe représentative de f dans un repère orthonormé.                                                       (0,25 pt)
+2) Soit n
+  et f (x)n             (1eₓx)ⁿ . Pour tout x     , on pose : F (x)ₙ      ^3ˣ_{1}f (t)dtₙ      .
+ Montrer à l’aide d’une intégration par parties, que pour tout n
+  et pour tout x :
+F     (x)  (n 1)F (x) f     (x)
+    n1             n       n1                                                                                              (0,75 pt)
+3) Soit Iₙ  F (0)ₙ     ^3^{0}_{1}f (t)dtₙ   .
+a) Vérifier que pour tout n
+  , In1  (n 1)In 1 .                                                              (0,5pt)
+b) Montrer que la suite (I )ₙ          est décroissante et positive.                                                        (0,5 pt)
+c) Montrer que pour tout n
+  , n 1 1 d In d n1  . En déduire lim I                   .
+                                                                                          nof  n                           (0,5 pt )
+4) Pour tout n
+ , on pose : Un  n!In
+a) Montrer que Uₙ_{1}  Uₙ n 11 ! . En déduire que Uₙ  e ¦ₖⁿ                            0    k !1   .                            (0,5 pt )
+                           n        1
+b) Calculer alors nlim     ¦         .
+                       of k 0 k !                                                                                           (0,25 pt)
+Ex
+    er
+      rc
+        ciic
+        ce
+   Exe  e  5          nttss))
+          5  ((5
+               5  po
+                 poiin
+Soit f  la fonction définie sur          par f(x)  xln(x 1)  et (C)  sa courbe représentative dans un
+repère orthonormé.
+1.a) Justifier que lim f(x)   f  et lim f(x)   f . Interpréter graphiquement.
+b) Calculer f '(x)     xo1                 xof                                                                             (0,5 pt)
+                      et justifier que :       1x t0x d 0 f '(x) d 0                                                          (0,5 pt)
+                                                                 f '(x) t  0
+                                                                 .
+c) Dresser le tableau de variation de f .                                                                                  (0,5 pt)
+2.a) Tracer la courbe (C) .                                                                                                 (0,25 pt)
+                                    x^2      x 1    1                       ^3 1    x^2
+b) En remarquant que 1 x                       1 x , calculer                       dx .
+                                                                                0 1 x                                      (0,    5 pt)
+c) En utilisant une intégration par parties, calculer l’aire A du domaine plan limité par la courbe
+(C) , l’axe des abscisses  et les droites d’équations                 x    0     et  x  1.                                 (0,25 pt)
+                                                              U  ^3         1
+3) Pour tout entier naturel non nul n on pose :                 n               x ⁿ ln(1 x)dx
+a) Montrer que l’écriture précédente définit bien une suite numérique (U ₙ ) . Justifier que
+U_{1}  1 .
+        4                                                                                                                  (0,5 pt)
+b) Montrer que pour tout n IN
+  : 0 d Uₙ d nln 2         .  En déduire lim U       .
+                                                       1                     nof     n     (0,5 pt)
+4) Pour tout n t 2 ; et pour tout réel x de  (0,1) on pose :
+                              S (x)  1 x x^2 x^3 x           4   ....  (
+                                n    1          xⁿ       1               x)ⁿ  .
+a) Justifier que :   S (x)                   (
+                         n          1 x     1)ⁿ^{1} 1 x  .                                    (0,25 pt )
+                                1)ᵏ  ln     ( 1)ⁿ      1 xn   1
+    n                         (
+                         ¦
+b) Montrer que:               k 1           2   1 ^3      1         dx .                       (0,25 pt )
+                       k 0                             0     x
+c) En utilisant une intégration par parties, montrer que :
+                                     ln 2   (
+                                             1)ⁿ^{1} §                    (
+                                Uₙ  n 1         n 1 ¨© ln 2 ¦ⁿ       k1)ᵏ ·¸    .           (0,25 pt)
+                                                                   k 0   1 ^{1}
+ 1     1                 1          (
+5) Soit Vₙ  1 2 3 4 ... n1)ⁿ .
+a) Montrer que : 2(n1 2) d ^301 1xn 1 dx d    1   .
+                                                                                            (0,25 pt)
+                                       x    n 2
+b) En déduire que :  nlim V      ln 2 .
+                    of          n                                                          (0,25pt)
+c) Déduire lim (n 1)U     .
+ nof                 n                                                                     (0,25 pt)
+                                                Fin.

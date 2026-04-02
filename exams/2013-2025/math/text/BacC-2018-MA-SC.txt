@@ -1,0 +1,437 @@
+Sujets corrigés du Bac  Equipe de Maths – Ecoles privées Elmaarif & Erraja
+
+République Islamique de Mauritanie  Baccalauréat  Honneur – Fraternité – Justice
+Ministère de l’Education Nationale  Séries : C & TMGM
+Direction des Examens et de l’Evaluation  2018  Epreuve: MATHEMATIQUES
+SERVICE DES EXAMENS  Session Complémentaire  Durée: 4 heures
+Exercice 1 (5 points)  !  Coefficients : 9 & 6
+!
+!
+Le plan complexe est muni d’un repère orthonormé (((( O; i ! , j!!!! )))) . Pour tout nombre complexe  z on
+pose : P (((( z))))  =
+=
+=  −
+−  +
++  +
++  +
++  −
+−  −
+= z³ −  −
+−(((( 7 +
++ 3i )))) z²  +
++ ((((12 +
++15i )))) z −
+− 4 −
+−18i .
+1.a) Calculer  P(2)  et déterminer les nombres a   et b tels que ∀
+∀
+∀z ∈
+∈
+∈ ℂ
+ℂ
+∀  ∈  ℂ : P (((( z ))))  ==== ((((z −−−−  2)))) (((( z 2   ++++ az ++++ b ))))  0.75 pt
+ℂ
+b) En déduire l’ensemble des solutions de l’équation  P(z) ====  0 .  0.5 pt
+c) On considère les points A, B et D images des solutions de l’équation P(z) ==== 0  tels que
+Im(((( z  ))))   ≤
+≤
+≤  ≤
+≤
+≤ Im(((( z  ))))  ≤
+A  B  ≤ Im(((( zD ))))  . Placer les points A, B et D et déterminer la nature du triangle ABD.  0.75 pt
+2° a) Déterminer le barycentre du système{{{{(((( A;9 )))) , ((((B;−−−−  6
+rapport à ((((BD)))) .  )))) , ((((C;2))))}}}} , où C est le symétrique de A par  0.5 pt
+b) Déterminer et construire l’ensemble Γ
+Γ
+Γ
+9MA² −  Γ₁ des points M du plan tels que  0.5 pt
+−
+−  +
++  =
+= −
+− 6MB² +  −
++ 2MC² =
+= −
+−10 .
+c) Déterminer et construire l’ensemble Γ  −
+−  +
++  =
+=  −
+− 6MB² +  −
++ 2MC² =
+Γ  = −
+Γ des points M du plan tels que 4MA² −
+Γ 2  −10   0.5 pt
+Γ
+Γ
+d) Déterminer et construire l’ensemble Γ
+####
+####  ###!
+###!  ###!
+####!!!!  ###!  ###!  ####  ###!  ###!
+###!  ###!  ####!!  ###!
+((((  ####  ###!  ###!  Γ₃ des points M du plan tels que
+9MA −  ###! ))))( ####!!  ###!  ###!
+−
+−  +
++ 2MC ((MA −  ###!
+−
+−  +  =
+− 6MB +  =
++  (####  − MB +
++ MC))))  0.5 pt
++  =
+= 10 .
+3° Soit   S⁰ =
+=
+= id et ∀  =
+=  = S %%%% Sⁿ  où S est la similitude directe qui transforme A en B et B en D.
+∀  =
+∀n ∈
+∈
+∈ ℕ
+ℕ
+∀  ∈  ℕ , Sⁿ⁺⁺⁺⁺¹  =
+ℕ
+a) Déterminer la nature et les éléments caractéristiques de S²⁰¹⁸  0.5 pt
+b) Justifier que S²⁰²⁰²⁰²⁰ est une homothétie de rapport positif.  0.5 pt
+Exercice 2 (5 points)
+
+=
+=  +
++  ∀
+∀  >
+= ((((x +  >
++ 1 ))))e x  ; ∀
+I- On considère la fonction numérique f définie sur [[[[0, +  !!!!"  ((((  )))  −−−−1  ∀x >
++
++
+∞
+∞
++∞
+∞[[[[ par  """f  x) =
+##""$$#"$#"$f ((((0))))  =  > 0 .
+=
+=
+= 0
+On note ((((C))))  sa courbe représentative dans un repère orthonormé d’unité graphique 4 cm.
+1° a) Etudier la continuité et la dérivabilité de f à droite de 0  0.5 pt
+b) Dresser le tableau de variations de f sur [[[[0, +
++
++
+∞
+∞
++∞
+∞[[[[  0.5 pt
+
+≤
+≤  +
++  −
+−   ≤
+≤ e−−−−t  +  ≤
++ t −
+− 1 ≤
+≤ 2  0.5 pt
+2° a) Montrer que ∀  t²
+∀
+∀t ≥
+≥
+∀  ≥ 0 ,  0 ≤
+≥
+−
+−
+−  ≤
+≤  −
+−  ≤
+≤  −
+b) En déduire que ∀  −1  ≤ f ((((x)))) −  1  − 1
+− x ≤
+∀  ≤  −
+∀x >
+>
+∀  > 0 ,  ≤
+>  x  2x² − 2x  0.25 pt
+c) En déduire que la courbe ((((C)))) admet une asymptote oblique Δ
+Δ
+Δ dont on donnera l’équation.  0.25 pt
+Δ
+3° Construire la courbe ((((C))))  et la droite  Δ
+Δ
+Δ .  0.5 pt
+Δ
+4° a) Montrer que f réalise une bijection de [[[[0, +
++
++
+∞
+∞
++∞
+∞[[[[  sur un intervalle J que l’on précisera.  0.25 pt
+b) Construire la courbe ((((Cʹʹʹʹ)))) de  f −−−−¹  , où f −−−−¹ est la réciproque de f.  0.25 pt
+
+=
+=  +
++  ∀
+∀   >
+= '''' x  +  >
++  (((( e  ; ∀
+II-  ∀  !!!!  ((((  ))))  %%%%  1 &&&&  −−−−x1   ∀x >
+∀
+∀n ∈
+∈
+∈ℕ
+ℕ
+ℕ∗∗∗∗ , on définit sur  [[[[0, +
++
++
+∞
+∀  ∈  ℕ  ∞  la fonction numérique fₙ  par ##""$$#"$#"$fⁿ ((((0 ))))  = ))))  n ****  > 0 .
++∞
+∞[[[[  """"f  x  =
+=
+=
+n  = 0
+1° a) Montrer que fₙ est continue et dérivable à droite de 0  0.5 pt
+
+ℕ  =
+ℕ∗∗∗∗ , l’équation  f  ((((x)))) =
+b) Etudier les variations de f  et en déduire que ∀  =  1
+∀
+∀n ∈
+∈
+∈ ℕ
+n  ∀  ∈ ℕ  n  = n admet une unique  0.5 pt
+solution  α  +
++  ∞
+∞
+α  +∞
+α  sur ]]]]0, +
+α  n  ∞[[[[ .
+−
+=  −
+=  −
+−
+= f  ((((x))) −
+2° a) Soit  g ((((x)))) =  )  − 1  . Etudier sur  ]]]]0, +
++
++∞
+∞
++∞
+∞[[[[ le signe de de  g  ((((x)))) −
+n  n  n  n++++1  − gₙ ((((x)))) et en déduire que la  0.5 pt
+suite ((((α
+α
+αₙ )))) est strictement décroissante et 1 ((((  1  ))))qu’elle est convergente.
+α
+
+ℕ
+b) Montrer que ∀  ℕ∗∗∗∗ ,  α
+∀
+∀n ∈
+∈
+∈ ℕ  α
+α   =
+=  −  α
+∀  ∈  ℕ  α   =  −  αₙ .  0.5 pt
+−  . En déduire la limite de α
+n = n  eααααₙ   − 1  α
+
+
+                   Ecoles Privées Elmaarif et Erraja                   Sujets corrigés de Maths              7C      Sujet : 2018C                        Corrigé par Mahfoudh O. Mohamed Ammou                                                                     21
+
+Sujets corrigés du Bac  Equipe de Maths – Ecoles privées Elmaarif & Erraja
+Exercice 3 (5 points)
+Soit ABCD est un carré direct de centre O et de côté a >  . On note G le milieu du segment  ++--++--AB,,..,,.. et
+>
+>  0
+>
+E et F les points tels que le quadrilatère AEFG soit un carré direct.
+1°.a) Faire une figure illustrant les données qu’on complétera au fur et à mesure. On prendra (AB)  0.5 pt
+horizontale.
+b) Montrer qu’il existe une unique rotation r qui transforme O en A et B en O.  0,25 pt
+c) Déterminer les éléments caractéristiques de r.  0,25 pt
+=
+= E et g ((((O)))) =
+=  =
+d) Soit  g l’antidéplacement défini par g ((((B)))) =  =
+glissante et déterminer sa forme réduite.  = G . Montrer que g est une symétrie  0.5 pt
+2°.a) Montrer qu’il existe une unique similitude directe s qui transforme C en F et B en E,  0.5 pt
+déterminer le rapport et un angle de s.
+b) Déterminer l’image du carré ABCD par s puis en déduire le centre de s  0.5 pt
+3° Soit  h =
+=
+= s %%%% r−−−−¹
+=
+a) Montrer que h est une homothétie dont on précisera le rapport  0,25 pt
+b) Soit I le centre de h. Montrer que I est le barycentre du système {{{{(O,1);(E, 2)}}}} . Placer I  0,25 pt
+c) Pour tout point M du plan, autre que I, on pose Mʹʹʹʹ =
+=
+= r(M) et  Mʹʹʹʹʹʹʹʹ  =
+=  =
+=
+Montrer que la droite (M ʹʹʹʹM ʹʹʹʹʹʹʹʹ) passe par  = s(M) .  0,25 pt
+un point fixe que l’on précisera
+4° Soit  Γ
+Γ
+Γ l’hyperbole, de foyers O et F, qui passe par le point Jprojeté orthogonal de Isur ((((OF)))) .
+Γ  ###
+###
+!
+! ###!
+###  ###!
+###!
+! ###!
+(G,GB,GO) .  0.5 pt
+a) Déterminer les cordonnées des points O, E, I et J dans le repère  ###!
+b) Ecrire l’équation de Γ
+Γ
+Γ dans ce repère.  0.5 pt
+Γ
+c) Déterminer les sommets, les asymptotes et l’excentricité de Γ
+Γ
+Γ .  0.5 pt
+Γ
+d) Construire Γ
+Γ
+Γ .  0.25 pt
+Γ
+Exercice 4 (5 points)
+=
+=  −
+−  +
++  +
+= −  +
+−x +
++ 2ln ((((1 +
+ℝ  + eˣ )))) et soit  ((((C))))  sa courbe représentative dans un repère
+ℝ par f ((((x)))) =
+On définit la fonction f sur  ℝ
+!  ℝ
+!
+((((  !
+orthonormé  ! !!!! ))))
+O; i , j  .
+Partie A :
+1° a) Donner le tableau de variation de f  1 pt
+b) Démontrer que la courbe ((((C)))) admet deux asymptotes D  et Dʹʹʹʹ que l’on déterminera et préciser
+leurs positions relatives par rapport à  ((((C)))) .  0.5 pt
+c) Construire la courbe ((((C))))  et leurs asymptotes dans le même repère.  0.25 pt
+2° Soit g la restriction de f sur l’intervalle  I =
+=
+=  +
++
+∞
+= [[[[0, +  ∞
++∞
+∞[[[[ .
+a) Montrer que g est une bijection de l’intervalle  I sur un intervalle J que l’on précisera.  0.25 pt
+b) Construire, dans le repère précédent, la courbe ((((Cʹʹʹʹ))))  de g−−−−¹  0.25 pt
+Partie B :
+=
+= ln5 et ∀
+=  ℕ
+On considère la suite numérique ((((u  ))))   par u  =  ∀  ℕ∗∗∗∗  u  =
+∀n ∈
+∈
+∈ ℕ  =
+∀  ∈ ℕ  =
+n  0  n = ////0ln 5 ((((f ʹʹʹʹ(( ((t))))))))ndt
+1° Calculer u₁  0.25 pt
+∀
+∀
+x∈
+∈
+∈[[[[0,ln5]]]] 0 ≤
+∀
+∈  ≤
+≤  ≤
+≤
+≤ f ʹʹʹʹ((((x)))) ≤  2
+2° a) Montrer que ∀  ≤ 3  0.25 pt
+
+b) En déduire que ∀  ≤  %%%%   2 &&&&ⁿ
+≤  ≤
+≤
+∀  ≤ u  ≤
+∀n ∈
+∈
+∈ ℕ
+ℕ
+∀  ∈  ℕ 0 ≤
+ℕ  n ≤ ''))')')  3 **((**((   ⋅⋅⋅⋅  ln 5  0.25 pt
+
+c) Déterminer la limite de ((((uₙ ))))  0.25 pt
+3° a) Montrer que ∀
+∀
+∀  ∈
+∈  +
++   ∞
+∞  −
+−  =
+=  −
+∀x ∈  −
+∈[[[[0, +
++∞
+∞[[[[  ((((f ʹʹʹʹ((((x ))))))))²  −
+− 1 =
+= −
+−2f ʹʹʹʹʹʹʹʹ ((((x ))))  0.25 pt
+−
+−
+−
+b) Montrer que ∀  −  −2  %%%%  2 &&&&ⁿ⁺⁺⁺⁺¹
+−  =
+=
+∀  − u  =
+∀n ∈
+∈
+∈ ℕ
+ℕ
+∀  ∈  ℕ u  −
+ℕ  n++++2  n = n +  ''''  ((((  0.25 pt
++
++ 1 ))))   3 ****
++
+n  2  %%%%   2 &&&&²ᵏ−−−−  1
+0
+0  0
+ℕ  0  ''''  ((((  et u  =  0
+c) En déduire que ∀  ℕ∗∗∗∗  u  =  %%%%   9 &&&&  n  1 %%%%  2 &&&&²ᵏ
+∀
+∀n ∈
+∈
+∈ ℕ
+ℕ  =
+=  −
+−  =
+=  −
+∀  ∈  = ln 5 −  −
+− 0  = ln ''''  ((((   −
+− 0
+2n  2k −  0 ''''  ((((  0.5 pt
+−
+−
+k ====1  − 1 ))))  3 ****  2n++++1  ))))   5 ****  k ====1 k ))))  3 ****
++
+0  +
+0
+0  =  u  +
+=  −
+ℕ  −
+4° ∀  ℕ∗∗∗∗  on pose v  =  2n  1 %%%%  2 &&&&ᵖ  = ln 3 −
+∀
+∀n ∈
+∈
+∈ ℕ
+∀  ∈   ℕ  =
+= 0
+=  ''''  ((((  . Montrer que v  =  + u  n
+n  p====1  p ))))  3 ****  n  −   2n  2 2n⁺⁺⁺⁺¹  puis en déduire nlim v  .  0.5 pt
+→
+→++++∞∞∞∞
+→
+→
+Y|Ç
+Y|Ç–
+Y|Ç
+- Y|Ç
+Ecoles Privées Elmaarif et Erraja  Sujets corrigés de Maths  7C  Sujet : 2018C  Corrigé par Mahfoudh O. Mohamed Ammou  22

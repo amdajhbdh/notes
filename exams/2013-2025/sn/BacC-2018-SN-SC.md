@@ -1,0 +1,89 @@
+---
+title: "BAC C 2008 - Session Normale - Mathématiques"
+year: 2008
+exam: "BAC C"
+session: "Normale"
+subject: "Mathématiques"
+series: "C"
+duration: "4 heures"
+coefficients: "4"
+type: "Examen"
+---
+
+# BAC C 2008 - Session Normale - Mathématiques
+
+**Série:** C | **Durée:** 4 heures | **Coeff:** 4
+
+---
+
+2008.
+    Seon Se
+      sercice 1      (8pis)                                                                                                                  .
+      -On excite deux fibres                       B
+                                   A et dans les mémes conditions
+      ans le                                                   tableau ci-contre et correspondent aux valeurs           avec des                     dont              et  la durée de passage sont
+                                                                                                                                limites efficaces.
+      racer les courbes dexcitabilité correspondant                                                                       deux fibres                                      .      Fibre A              Fibre  ;
+      Définir          la                                                                             aux                                (1pt)                                                             |
+                 :                                                           rhéobase, la chronaxie et le temps utile. (0.75pt)                                            Tntensité
+      Déterminer la valeur de :                                   la  rhéobase, la chronaxie et                         le                                                    mY,          ms)        my.
+      spt)                                                                                                                      temps utile pour chaque        fibre,         PY            iH
+      Comparer                                 des deux fibres.
+      -On se propose                                                 quelques           (0.5p1)
+                                                                                     propriétés  de la                   fibre  nerveuse par la réalisation des           |    5            3
+               pani                            anew]                         expériences suivantes :                                                                           5            2          4
+          =N                                                                 Expérience          1:                                                                                        1           6
+                                                                           U                  cde    ‘de     calmarcal           ‘est        placé
+                                                                             dispositif - expérimental                                    lacé dansdans    lele                bc              de
+                            Rid]                                                                                                 représenté         par    le                                              an
+      em document 1.                                                                                                                                           |
+                                                                             Au         temps    to,   on      place             Ry      4
+                                                                             P’axone.         Au       temps             ti,     on       ln    surface    de    ©}
+                                                                                                                                          introduit    R;    a
+                                                                             Pintérieur de ’axone.
+      u       temps  t,           ts et   ts,      applique                                                              stimulations
+               éant  toujours      introduite                          & Pintérieur           de                                Les
+     A‘intensités     croissantes.             on                                sur                     quatre                                   isolées  et   -70            Th                 Ber
+      sparaissant sur I'oscilloscope sont                                                                présentés sur le document 2.                                                       Il
+      -Expliquer                                                                               obtenu en (a) puis au temps tr. (1pt)                                          2H
+      -Analysez                                                     (b) (1pt)                                                                                                                     1        prem]
+      -Comparez les enregistrements du document 2 et dégagez deux propriétés de la                                                                                                       EEE
+      bre nerveuse.
+                     2 :
+                                               du montage schématisé dans le docurnent.                3;     on applique une stimulation efficace sur                                      .                 .
+     ois électrodes     réceptricesles                                           électriques
+                                     des                                         Ra, Rs et Re plactes aux     points              A,                           [=]                                Pos
+          C          situés    3                              distances                                                                                                                     en
+                      On donne les distances
+     +A                 ;      $,-B = 36mm                            ;
+     = enregistrements obtenus
+     -Montrez que le message                       sont présentés par le document 4.                                                         dene
+                                               nerveux se propage le long de la fibre avec la méme vitesse.                                                            (1pt)
+         xercice:2 (6pts)
+-¢   document ci-contre présente un-schéma général qui montre {es interactions
+          différentes structures impliquées                                                                     dans                                       hormonales                                [Eng
+                 et chez la                        ™                             Ja            fonction                                                                                                        .
+     -ldentifiez les               femme).                                                     RRR                                                                                                             .
+                      les      hormones Hy, Hy, Hy, Hs, Hs, Hs et Ho                                                                                                             —
+     “Quel                                              organes Oy, Oz et Os.    (0.15p1)                                                                                      A                             [EN
+                      donnerez-vous aux cellules ou structures X, Y, Z et                                                                    1550
+                             les actions                                                 des hormones Hs et Hy, sur                      (1p)
+     -Précisez les effets des                  hormones Hs et He sur                                   I'hypophyse.                                                                                     J
+                                                                                                 I’organe Os. (1p)
+     rercice 3       (6pts)                                                                                                                                                                       =
+              généalogique ci-contre est celui d'une famille dont
+      Exploitez       les      données du pédigrée en vus de :                                                 certains sujets sont atteints d'une maladie héréditaie.
+                     si I'alléle responsable de la maladie est dominant gu récessif. 0.
+      déterminer s'il
+     fin  de lever      ho d’un cas d’hérédité autoscmique ou liée au sexe (X ou Y)?
+                     a laI'ambiguité posée dans la                               14° question et de déterminer le génotype du fetus lly;                                                   §
+     rs enfants                                                technique de I’électrophorése.  Les résultats obtenus pour le couple (II et                                     et
+     Exploitez                                      sont donnés en désordre par le                   tableau.
+          a-          ces données en vue ce :                                                                                                                               Hombre                all zi
+              b- préciser                          confirmée.                                                                       H                                         Nombre              a7  | 0 1
+                 préciser                                     normal et          mut perm ay ot 22. 9.507                                                                                  duit            004
+          ¢-  Faire correspondre les résultats A,                                                              B, C, D 2t E aux individus     Ti, 1h,                                          ie phénctype
+     “notype.                                                                                                                                                          ot      en précisent.
+     “Que            le risque pourque le feetus                                         soit  malade ?                                                                                                         3
+              devient ce risque si                                     est:                Un                  2                                                                           J
+                                                                                                 FHA?                           0 say
