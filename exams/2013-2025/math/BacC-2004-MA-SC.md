@@ -1,12 +1,11 @@
 ---
-title: "BAC C 2004 - Session Complémentaire - Mathématiques"
+title: "Examen BacC 2004 Mathématiques"
 year: 2004
-exam: "BAC C"
 session: "Complémentaire"
 subject: "Mathématiques"
-series: "C & TMGM"
+series: "MA"
 duration: "4 heures"
-coefficients: "9 & 6"
+coefficients: "JOURS : 2 pts - 14h LAP: 2 pts - 16h"
 type: "Examen"
 ---
 
@@ -16,7 +15,7 @@ type: "Examen"
 
 ---
 
-## Exercice 1 (4 points)
+## Exercice 1 (3 points)
 
 Dans l'espace muni d'un repère orthogonal $(O, \vec{i}, \vec{j}, \vec{k})$, on donne les points $A(2; -3; 1)$, $B(3; -5; 0)$, $C(2; 5; -4)$ et $D(3; \frac{3}{2}; 3)$.
 

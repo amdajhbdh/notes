@@ -1,128 +1,115 @@
 ---
-title: "BAC C 2007 - Session Complémentaire - Mathématiques"
+title: Baccalauréat Série C - Mathématiques
 year: 2007
-exam: "BAC C"
-session: "Complémentaire"
-subject: "Mathématiques"
-series: "TMGM"
-duration: "4 heures"
-coefficients: "4"
-type: "Examen"
+session: Session Complémentaire
+subject: Mathématiques
+series: C
+duration: 4 heures
+coefficients: 9 & 6
+type: Examen
 ---
 
-# BAC C 2007 - Session Complémentaire - Mathématiques
+# Exercice 1 (4 points)
 
-**Série:** TMGM | **Durée:** 4 heures | **Coeff:** 4
+Dans le plan orienté, on considère le carré direct $ABCD$ de centre $O$. On note $E$ le symétrique de $C$ par rapport à $D$. On note $Q$ le point tel que $\overrightarrow{OQ} = 3\overrightarrow{OD}$.
+
+1. a) Construire le carré puis déterminer l'ensemble des points $M$ du plan tels que :
+   i) $MA = 5$;
+   ii) $MA - MB = a'$ (avec $a'$ à déterminer);
+   iii) $\langle \overrightarrow{MA}, \overrightarrow{MC} \rangle - 2\langle \overrightarrow{MB}, \overrightarrow{MC} \rangle + \langle \overrightarrow{MC}, \overrightarrow{MC} \rangle = 0$. \hfill (5 pt)
+
+   b) Quel constat peut-on faire concernant ces quatre ensembles ? \hfill (4 pt)
+
+2. Pour tout réel $k$, on définit l'application $f$ du plan dans lui-même qui à tout point $M$ associe le point $M'$ tel que :
+$$\overrightarrow{MM'} = k \overrightarrow{MB} + (1-k) \overrightarrow{MC}.$$
+
+   a) Pour quelles valeurs de $k$ l'application $f$ est-elle une translation ? Dans ce cas, donner son vecteur. \hfill (0,25 pt)
+   b) On suppose que $k \in ]0,1[$. Montrer que $f$ admet un unique point invariant. Reconnaître cet élément et donner ses coordonnées. \hfill (0,75 pt)
+   c) Montrer que lorsque $k$ varie dans $]0,1[$, le lieu géométrique du point $Q'$ (image de $Q$ par $f$) est un segment. Déterminer et construire ce lieu lorsque $k$ varie. \hfill (0,5 pt)
+   d) Pour $k = \frac{1}{3}$, déterminer et construire le lieu géométrique du point $G$, centre de gravité du triangle $DEM'$ lorsque $M$ décrit le cercle de diamètre $[CE]$. \hfill (0,5 pt)
+
+# Exercice 2 (6 points)
+
+Dans le plan orienté, on considère le carré direct $ABCD$. On note $I$, $J$ et $L$ les milieux respectifs des côtés $[AB]$, $[BC]$ et $[CD]$. On note $O$ le centre du carré et on suppose que $OA = 5$ (avec $a > 0$).
+
+1. a) Faire une figure (on pourra prendre $(AB)$ horizontal). \hfill (0,25 pt)
+   b) Montrer qu'il existe une unique rotation $r$ qui transforme $A$ en $O$. \hfill (0,5 pt)
+   c) Déterminer l'angle et le centre de cette rotation. \hfill (0,25 pt)
+
+2. Vérifier que $r = \ldots$ (à compléter selon le texte original). En déduire la nature et les éléments caractéristiques de $g$ tel que : $g = \ldots$ (à compléter). \hfill (6,5 pt)
+
+3. a) Montrer qu'il existe une unique similitude directe $s$ qui transforme $A$ en $B$ et $C$ en $D$. \hfill (0,25 pt)
+   b) Déterminer le rapport et l'angle de $s$. \hfill (0,5 pt)
+
+4. Vérifier que $\ldots$ (à compléter selon le texte original). \hfill (pr)
+
+5. a) Déterminer le rapport de $s$. \hfill (0,5 pt)
+
+6. a) Montrer que $h = s \circ s$ et préciser ses éléments caractéristiques. \hfill (0,5 pt)
+   b) En déduire que le centre $T$ de $s$ appartient au cercle $(C)$ de centre $C$ et de rayon $CD$ et au cercle de diamètre $[AB]$. Placer $T$. \hfill (0,5 pt)
+   b) $h = s \circ s$ ; pour tout point $M$ du plan on pose $h(M) = M''$ et $s(M) = M'$.
+   a) En utilisant $h$, montrer que le milieu du segment $[MM']$ est un point fixe que l'on déterminera. En déduire que le quadrilatère $AMM'O$ est un parallélogramme. \hfill (0,5 pt)
+   b) Montrer que $s(O) = L$ (où $L$ est à déterminer selon le texte original). \hfill (0,25 pt)
+   c) En déduire que les points $A$, $F$, $T$ et $L$ sont cocycliques. \hfill (0,25 pt)
+   d) Déterminer la position des points $A$, $F$, $T$ et $L$ dans chacun des cas suivants :
+      i) $M = A$; ii) $M = F$; iii) $M = T$; iv) $M = L$. \hfill (0,5 pt)
+   e) On suppose que $M$ est distinct des points $A$, $L$, $F$ et $T$.
+   a) Montrer que $\ldots$ (à compléter selon le texte original). \hfill (0,25 pt)
+   b) En déduire que $\ldots$ (à compléter selon le texte original). \hfill (0,25 pt)
+   c) En déduire que les points $M$ du plan tels que $\ldots$ sont alignés. Tracer cette droite. \hfill (0,25 pt)
+
+# Problème (10 points)
+
+## Partie A (5 points)
+
+Pour tout entier naturel $n$, on définit la fonction $f_n$ sur $\mathbb{R}_+^*$ par : $f_n(x) = x - n\ln x$.
+
+Soit $\mathcal{C}_n$ sa courbe représentative dans un repère orthonormé direct $(O; \vec{i}, \vec{j})$ d'unité traditionnelle.
+
+1. Dans cette question, on suppose que $n = 1$, et pour tout $x > 0$ :
+   a) Étudier le signe de $f_1(x)$ et en déduire une interprétation graphique. \hfill (0,75 pt)
+   b) Calculer $\lim\limits_{x \to 0^+} f_1(x)$ et $\lim\limits_{x \to +\infty} f_1(x)$ puis donner une interprétation graphique. \hfill (0,75 pt)
+   c) Dresser le tableau de variation de $f_1$. \hfill (0,75 pt)
+   d) Tracer $\mathcal{C}_1$ dans le repère $(O; \vec{i}, \vec{j})$. \hfill (0,25 pt)
+
+2. Dans cette question, on suppose que $n \geq 2$.
+   a) Dresser le tableau de variation de $f_n$. \hfill (6,5 pt)
+   b) Montrer que les tangentes aux courbes $\mathcal{C}_n$ aux points $x = e^n$ passent par un point commun que l'on déterminera. \hfill (0,25 pt)
+   c) On considère les points $M_n$, $M'_n$ et $M''_n$ de même abscisse $x = e^n$ appartenant respectivement aux courbes $\mathcal{C}_n$, $\mathcal{C}_{n+1}$ et $\mathcal{C}_{n-1}$.
+   a) Vérifier que pour tout $x > 0$ : $f_n(x) \leq f_{n+1}(f_n(x))$. \hfill (0,5 pt)
+   b) En déduire que : $M_nM'_n = \ldots$ (à compléter selon le texte original). \hfill (0,25 pt)
+   c) Tracer $\mathcal{C}_n$ dans le repère précédent en donnant une méthode géométrique simple pour la construction point par point de $\mathcal{C}_n$ en partant de $\mathcal{C}_{n-1}$. \hfill (0,5 pt)
+
+## Partie B (5 points)
+
+Soit $g$ la fonction de variable réelle $x$ définie par :
+$$g(x) = \begin{cases}
+x - \ln x & \text{si } x > 0 \\
+0 & \text{si } x = 0
+\end{cases}$$
+
+Soit $\mathcal{C}_g$ la courbe représentative de $g$ dans un nouveau repère orthonormé $(O; \vec{I})$ d'unité traditionnelle.
+
+1. a) Déduire de la question A.1.c) que le domaine de définition de $g$ est $D_g = [0, +\infty[$. \hfill (5 pt)
+   b) Montrer que la fonction $g$ est continue sur $D_g$. \hfill (0,25 pt)
+2. a) Calculer $\lim\limits_{x \to 0^+} g(x)$ et donner une interprétation graphique. \hfill (5 pt)
+   b) Calculer $\lim\limits_{x \to +\infty} g(x)$ et donner une interprétation graphique. \hfill (5 pt)
+3. a) Calculer $g'(x)$ pour $x > 0$. \hfill (5 pt)
+   b) Dresser le tableau de variation de $g$ puis construire sa courbe $\mathcal{C}_g$. \hfill (nx _1 pt)
+4. a) À partir de $g(x)$ sur l'intervalle $[1; e]$, démontrer que : $\ldots$ (à compléter selon le texte original). \hfill (0 pt)
+5. Pour tout entier naturel $n$, on définit la suite numérique $(u_n)$ par :
+$$u_n = \sum_{k=1}^n \frac{1}{k}.$$
+   a) Calculer $u_1$ et $u_2$. \hfill (conclure? pt)
+   b) Montrer que $(u_n)$ est positive et croissante. \hfill (Que peut on en déduire ? pt)
+   c) Montrer que pour tout entier naturel $n$, $u_n \leq \ln(n) + 1$. En déduire $\lim\limits_{n \to +\infty} \frac{u_n}{\ln n} = 1$. \hfill (0,25 pt)
+6. On pose $v_n = u_1 + u_2 + \ldots + u_n$ pour tout entier naturel $n$.
+   a) Montrer que : $v_n = \ldots$ (à compléter selon le texte original). \hfill (0,25 pt)
+   b) Montrer que $v_n = \ldots$ (à compléter selon le texte original). \hfill (0,25 pt)
+   c) En utilisant la question B.4), montrer que $\lim\limits_{n \to +\infty} \frac{v_n}{n \ln n} = 1$. \hfill (1,25 pt)
+7. a) Montrer que : $v_n = \ldots$ (à compléter selon le texte original). \hfill (4,25 pt)
+   b) Montrer que pour tout entier naturel $n$, $v_n = \ldots$ (à compléter selon le texte original). \hfill (0,25 pt)
+   c) Montrer que la suite $(v_n)$ est convergente. \hfill (4,25 pt)
 
 ---
 
-République Islamique de Mauritanie    — Fraternité - Justice
-          de I'Education
-                  et  desᴺᵃᵗⁱᵒⁿᵃˡᵉ 3ACCAlAUT
-Direction des Examen  concurs.     EAL Series:^{4}  C & TMGM
-       Service des Examens            2007  Epreuve: Mathématiqu
-        Durée: 4 heures
-                             Session Complémentaire    Coeflicients: 9& 6
-    Excrcice 1 4 points)
-    Dans le plan orienté     P. on considére le carré direct ABCD de centre
-    Onrote E le symétrique de C par rapport 2 D.        Q et decoté 3
-    1.a) Construire Ic carré puis déterminer I'ensemble des points M du plan P dans chzcun
-    des cas swvants ;
-             Merl,    (MA        5p
-             Mel, & MA" -MB'     =a’
-                   <> (MA        —     2MB + MC)=0
-               h) Quel        Mer, [MA ~                            =  MD ~ Mc)
-                          constat peut on faire       4 propos de ces quatre ensembles.
-           2.         tout réel k , on définit                                    P dans lui-méme qui & tour point                      M          0,25 pr)
-                plan          le point M" tel que       :     MM"             ~MBE     +       (1-k)MC.
-                  Pour quelles valeurs de             "application f,  est    une transiation?                                 alors son vectenr   9.5 pz}
-                  Ca suppose que    k €                 -Montrer que f,       admet un unique point invariant                         . Reconnaitre
-                  1   ot  donner      ces éléments                                                                                                0,75 pri
-                             ater et construing le      géométrique des points                Q,        lorsque     k  décrin        if.           @.5 pr)
-                        k= :    determiner            construire                  le lieu géométrique du point  G centre de               du
-          tnangle     DMM" lorsque             M décsit ie cercle  de diamétre              (cE)
-    Fxercice 2 6 points)
-                            Dars le plan orienté, on considére le      direct     ABCD
-          Vo   Jo         L des milicux  respectifs des cotés (AB),                          (BC).   de  centre        et  de        5  (a >Q)
-                                                                                              (CD) et (DA)
-            b}        nase                 figure (On pouna prendre (AB) horizontalc),                                                    0.25
-                         Moatrer qu'il existe une unique rotation  r qui transforme                  A en O                                             pt;
-            ©)  Déterminer  "angle et  le  centre       de cette rotation.                                      et         K                       0,25 pt)
-    2.2 Vénfier gue           r=                                                                                                                    6,5 pr)
-           1 En déduire la nature ef     les              éléments caractéristiques de    g   telie que:        g =                            9,5 pt)
-    Aa)                   qu'il existe unc unique similitude directc              s,      qui        transforme            en   | et  C en B     0.25
-           1 Determiner     Je         of               de                                                                                0,5           pry
-           3 Vérifier                                                                                                                              pr)
-    4.                                     divecte qui transforme  A en OQ    et          Ben  D                                              0.25 pt)
-          #1              le  rapport                 de s,                                                                                        0.5 pj
-  TT                                                                                                                                              a
-    Annales du Baccalauréat National                  Mathématiques    / Séries   :       C & TMGM              IPN /Mr               - 2013       1
-b) Montrer que le centre  T de s,, appartient au cercle (C,) de centre C et de rayon CD et au cercle
-      de diamétre (AB). Placer T.                                                            0,5 pt)
-             (C,)
-     h=s, os,"    ;       pour tout point M du plan pn pose 5,(M)=M" ct 5,(M)=M".
- a) En utilisant h, montrer que le      F du segment ™M »] est un point fixe que Ion
-déterminera. En déduire que le quadrilatére AM     est un paralléfogramme.                   0,5 pt)
-                                                                                                 pt)
- b) Montrer que  s,(0)=L.                                                            0,25
- c) En déduire que les points A, F, T ct    L sont cocycliques.                             0.25 pt)
- Déterminer la position des points     et   M" dans chacun des cas suivants
-M=A, M=F,M=TectM=L.                                                                  0,5 pt)
-b) On suppose que M cst distinct des points A,L,Fet T.
-Montrer que               =    1                                             0,25 pt)
-c) En déduire             I”   des points M du plan tels que les    ¢t soient
-alignés. Tracer I.                                                           0,25 py
-               10 points)
-                                                   Partie A 5 points)
-      Pour tout entier naturel         n       on définit la fonction f, sur KR, par: f(x)=x-nlnx     .
- Soit €, sa courbe représentative dans un repére orthonormé direct     (0; i, j)      2em .
-     (hans estie question on suppose que           n=1, et pour tout x de         ona:            f(x)=x-lox
-               gine  f(x)     Tonner une interprétation graphique.                                           0.75 pt)
- 2 Caleuler    lim   f(x)        lim              tim (f,      — x)          une
-                                                                  (x) - Donner interprétation graphique      0,75 pr)
-               fe                      x
-©:)  Dresser le tableau de variation de        f,.                                                            0,75 pi
-il)  Tracer C, dans le repere       (0:1, 0                                                                   0.25 ps
-2.  Dans cette question,         suppose que         n2 1
-i)  Dresser le 1ableau de                     de f, .                                                         6,5 pt)
-1              les points              a      toutes les courbes  puis der kes positions relativesde C,
-+}  Montrer que les tangentes aux courbes          C, aux points                  x, =e passent par un point
-commun gue                déterminera.                                                                       0,25 pt)
-“.  On considére les points      My. M,        et     M_, de méme abscisse x, et  apparienant respectivement
- aux courbes C,.          C, et  C,-
-    &) Vérifier que pour tout       x>0 ona: f                       a(f,                                     0,5 pt)
-    b) En déduire que :          MM,               .                                                         0,25 pr)
-      Trace;  C, dans le repére précedent el donner une méthode géoméuique simple pour la
-              de C,       point  par point, &  partir de Cet        lacourbe C,       dans
-construction         ,                                                                ce repére.              0.5 pt)
-     CER                         Gods                                             Shin                       3
-Annales du Baccalauréat National               Mathématiques / Séries :  C & TMGM IPN /Mr /2012 - 2013       32
-B 5 penis)
-Soit g la fonction de variable réclle x   par:
-                                          Gx) x-lax'Xx  x>0
-                                                  8(0)=0
-Soit la courbe de      g dans un nouveau repére                         (0; I)                        5p
-1.0 Déduire de            A.1.c) que Je domaine de définition de g est    D, =                       5p)
-   b) Monuer que la fonction          g est continue sur D,.graphique.                           0,25 py
-2.2 Calculer     lim   g(x) - Donner une interprétation
-   b) Calculer             im £2. Donner une interprétation graphique.
-                       x                                                                             5p)
-   3.8 Calculer  g'(x) pour x>0.
-   b} Dresser le       tableau de variation de    g  puis construire sa courbe    I.      nx _1
-     d'un encadrement
-4,  A partir                       de g(x) sur    Vintervalle[1;e) ; démontrerque:      ona 0
-    Pour tout entier naturel       1, on définit la suite numérique (u,)par:
-                                       =          pow                           ot   [ax
-     4 Calculer    Ug  et   U,.                                               conclure?
-    b) Montrer que        (u,) est positive et                      Que peut an en
-    ©) Montrer que pour tout entier naturel       ons,     0SU            el . En déduire lim U, .  0.25
-62 On pose 1=       $              =             (Io J’ᵉᵗ pour tout entier naturel nS, =     +...+U,. 0,25 pr)
-    Montrer que :      S, =                       .
-    b) Mentrer J       = §, = I                   (  wit dx                   0,25 pt)
-    ¢) En utilisant B.4). monuer que              2 l'un déduire que =   lim 8 =1    1,25
-                                                                         kid
-d)Montrer que S_                      +                                   4.25
-¢) Pour quelles valeurs de         a  ;    S, est une vakur approchée de  1a    pt)
-                                                      Fin.
-                       Sei                        mos                     SORT    EN
-Annales du Baccalauréat National                  Mathématiques     / Séries :  C & TMGM IPN  - 2013  33
+*Fin de l'exercice*

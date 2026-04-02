@@ -1,96 +1,100 @@
 ---
-title: "BAC C 2007 - Session Normale - Mathématiques"
+title: Baccalauréat Série C - Mathématiques
 year: 2007
-exam: "BAC C"
-session: "Normale"
-subject: "Mathématiques"
-series: "TMGM"
-duration: "4 heures"
-coefficients: "4"
-type: "Examen"
+session: Session Normale
+subject: Mathématiques
+series: C
+duration: 4 heures
+coefficients: 9 & 6
+type: Examen
 ---
 
-# BAC C 2007 - Session Normale - Mathématiques
+# Exercice 1 (4 points)
 
-**Série:** TMGM | **Durée:** 4 heures | **Coeff:** 4
+Le plan est muni d'un repère orthonormé direct. On considère le triangle direct $ABC$ d'angles aigus et de centre de gravité $G$. On construit les trois segments $[AA']$, $[BB']$ et $[CC']$ tels que :
+$$
+\begin{align*}
+\vec{BB'} &= \vec{CA} \\
+\vec{CC'} &= \vec{AB} \\
+\vec{AA'} &= \vec{BC}
+\end{align*}
+$$
+On note $a$, $b$, $c$, $a'$, $b'$, $c'$ les affixes respectives des points $A$, $B$, $C$, $A'$, $B'$, $C'$. On considère la rotation vectorielle $\vec{r}$ d'angle $\alpha$ telle que :
+$$\vec{r}(\vec{z}) = e^{i\alpha} \vec{z}$$
+
+L'objectif de cet exercice est l'étude de la configuration précédente en utilisant deux méthodes.
+
+**A)** Dans cette partie on se propose de démontrer, par deux méthodes, que les triangles $ABC$ et $A'B'C'$ ont le même centre de gravité.
+
+1. Méthode 1 : Utilisation des nombres complexes
+   a) Montrer que : $a' = a - ib + ic$. \hfill (0,5 pt)
+   b) Écrire $b'$ et $c'$ en fonction de $a$, $b$, $c$. \hfill (0,5 pt)
+   c) En déduire que les triangles $ABC$ et $A'B'C'$ ont le même centre de gravité. \hfill (0,25 pt)
+
+2. Méthode 2 : Utilisation d'une rotation vectorielle
+   a) Vérifier que $\vec{GA'} + \vec{GB'} + \vec{GC'} = \vec{0}$. \hfill (5 pt)
+   b) En déduire que $GA' + GB' + GC' = 0$. \hfill (0,25 pt)
+   c) En déduire que les triangles $ABC$ et $A'B'C'$ ont le même centre de gravité. \hfill (0,25 pt)
+
+**B)** L'objectif de cette partie est de construire le triangle $ABC$ connaissant le triangle $A'B'C'$.
+
+1. Méthode 1 : Utilisation des nombres complexes
+   a) Démontrer que $a = -i(b' - c')$. En déduire la nature du triangle $A'B'C$. \hfill (0,5 pt)
+   b) En déduire les deux résultats similaires au résultat précédent. \hfill (0,25 pt)
+
+2. Méthode 2 : Utilisation d'une rotation vectorielle
+   a) Démontrer que $\vec{AB} = \vec{CA'}$. En déduire la nature du triangle $ABC$. \hfill (0,5 pt)
+   b) Donner les résultats similaires au résultat précédent. \hfill (0,25 pt)
+   c) Construire, en le justifiant, le triangle $ABC$ à partir d'un triangle $A'B'C'$ donné d'angles aigus. \hfill (0,25 pt)
+
+# Exercice 2 (5 points)
+
+Dans le plan orienté, on considère le losange direct $ABCD$ de centre $J$ tel que $\overrightarrow{AJ} = -\overrightarrow{CJ}$ et $\overrightarrow{BJ} = -2\overrightarrow{DJ}$.
+
+On désigne par $\mathcal{C}$ le cercle de centre $C$ et de rayon $CI = a$ et par $\mathcal{C}'$ le cercle de centre $B$ et de rayon $BJ = 2a$.
+
+1. a) Faire une figure (on pourra prendre $(BD)$ horizontale). \hfill (0,5 pt)
+   b) Placer sur la figure précédente les points $E$ et $F$ tels que $\overrightarrow{EB} + 2\overrightarrow{EC} = \vec{0}$. \hfill (0,5 pt)
+
+2. On considère l'ensemble $\mathcal{I}$ des points $M$ du plan tels que : $|z_M| = 2$.
+   a) Vérifier que les points $E$ et $F$ appartiennent à $\mathcal{I}$. \hfill (0,25 pt)
+   b) Déterminer puis construire l'ensemble $\mathcal{I}$. \hfill (0,25 pt)
+
+3. Montrer qu'il existe une unique rotation $\gamma$ qui transforme $C$ en $B$ et $A$ en $I$. Déterminer l'angle $\theta$ et le centre $O$ de cette rotation. Placer $O$ sur la figure. \hfill (0,75 pt)
+
+4. a) Montrer qu'il existe une unique similitude $\sigma$ qui transforme $C$ en $B$ et $A$ en $D$. \hfill (0,25 pt)
+   b) Montrer que $\sigma(I) = 1$. \hfill (0,25 pt)
+   c) Donner les éléments caractéristiques de $\sigma$. \hfill (0,5 pt)
+   d) Montrer que $\sigma^2 = T_{-}$ (où $T_{-}$ est la translation de vecteur $-1$). \hfill (0,25 pt)
+
+5. On pose $f = h \circ \rho$ où $h$ est une homothétie de centre $B$ et de rapport $2$, et $\rho$ la rotation définie en question 3).
+   a) Montrer que $f = 5$. \hfill (0,25 pt)
+   b) Donner la forme réduite de $\sigma$. \hfill (0,25 pt)
+
+6. Soit une similitude directe qui transforme $I$ en $T$.
+   a) Montrer que toutes les similitudes $g^*$ sont de même rapport $k^*$ que l'on déterminera. \hfill (0,25 pt)
+   b) Déterminer le lieu géométrique des centres des similitudes $g^*$. \hfill (0,25 pt)
+   c) Dans le cas où $\sigma'$ est une homothétie, donner les positions possibles du centre et les valeurs du rapport de cette homothétie. \hfill (0,25 pt)
+
+# Problème (11 points)
+
+## Partie A
+
+Soit $f$ la fonction de variable réelle $x$ définie par :
+$$f(x) = \ln(2^x) - x = x\ln 2 - x = x(\ln 2 - 1)$$
+
+Soit $\mathcal{C}$ sa courbe représentative dans un repère orthonormé direct $(O; \vec{i}, \vec{j})$ d'unité $2$ cm.
+
+1. a) Calculer $\lim\limits_{x \to -\infty} f(x)$, $\lim\limits_{x \to +\infty} f(x)$, $\lim\limits_{x \to 0^-} f(x)$ et $\lim\limits_{x \to 0^+} f(x)$. Interpréter graphiquement ces limites. \hfill (1 pt)
+   b) Déterminer $f'(x)$, la dérivée de $f$. \hfill (0,5 pt)
+   c) Dresser le tableau de variation de $f$. \hfill (0,5 pt)
+   d) Tracer $\mathcal{C}$ dans le repère $(0; 1, \vec{j})$. \hfill (0,5 pt)
+
+2. Pour $k \in \mathbb{R}^*$, on définit sur $\mathbb{R} \setminus \{0,1\}$ la fonction $f_k$ par : $f_k(x) = kx^5$.
+   a) Montrer que le point d'absisse $x_0 = \sqrt[4]{-\frac{1}{k}}$ est un centre de symétrie de $\mathcal{C}_k$. \hfill (0,5 pt)
+   b) Montrer que $\mathcal{C}_k$ est obtenu à partir de $\mathcal{C}$ par une transformation simple que l'on déterminera. \hfill (0,5 pt)
+   c) Que peut-on dire des courbes $\mathcal{C}_k$ et $\mathcal{C}_{k'}$ pour $k \neq k'$ ? \hfill (0,5 pt)
 
 ---
 
-République Islamique de Mauritanie        Honneur— Fraternité Justice
-  Ministére de I’Education Nationale Baccalauréat =
-Direction des Examens et des Concours            Séries : C & TMGM
-         Service des Examens    2007           Epreuve: Mathématiques
-        Durée: 4 heures
-        Coefficients: 9     &     6
-                          Session normale
-    Exercice 1 4 points)
-    Le plan  est  muni dun repére orthonormé direct. On considére le
-    triangle direct  ABC d’angles aigus et de centre de gravit¢G. On
-    construit les trois segments(AA'),(BB')  et(cC') tels que :     i
-    et (BC,  (zn),
-    BB'=CA et (CA, BBY)    2
-       CC'=AB     et      = Flan]         31
-       Onnote a,b, ¢, a', b' et ¢'    les affixes respectives des points     A,
-       B, C,     A',   B'  et C'. On  considére        la   rotation vectorielle ¢
-       d’angle    =:
-       L’objectif de cet exercice est I’étude de la configuration précédente en utilisant deux méthodes.
-              A) Dans cette partie on se propose de démontrer, par deux méthodes, que les triangles
-              ABC ct A'B'C' sont de méme centre de gravité.
-       1. Méthode 1 : Utilisation des nombres complexes
-          a) Montrer que : a'=a—ib+ic.                                            0,5 py
-          b) Ecrire b' et  ¢'         en fonction de  ¢.                                                                    0,5 py)
-          ¢) En déduire que les triangles ABC et A'B'C'sont de méme centre de gravité.                                     0,25 py)
-       2. Méthode 2 : Utilisation d’une rotation vectorielle
-          a) Verifier que      + BB                           + CC')=.-            5p)
-          b) En déduire que GA'+GB'+GC'                                                                                        0,25
-                                                                                                                                pt)
-          c) En déduire que les triangles ABC et            sont de. méme centre de gravité.                               0,25 pt)
-                                      B) Lobjectif de cette partie est de construire le triangle ABC connaissant le triangle A'B'C'
-       1. Méthode 1 : Utilisation des nombres complexes
-          a) Démontrer                =i, en déduire la nature du triangle A'B'C.                                           0,5 pt)
-              c—
- lL       b) En déduire les deux résultats similaires au résultat précédent.                                               0,25 pt)
-       2.           Méthode 2 : Utilisation d’une rotation vectorielle
-          a) Démontrer que      =CA',             en déduire la nature du triangle        0,5 py
-          b) Donner les résultats similaires au résultat précédent.                                                         0,25 py
-       3. Construire, en le justifiant, le triangle ABC 2   partir ’un triangle A'B'C' donné d’angles aigus.               0,25 pt)
-    Baccalauréat 2007 Session Normale Epreuve de Mathématiques Séries : C & TMGM    13
-Exercice 2 5 points)
-        Dans le plan orienté, on considére le losange direct ABCD de centre     J     tel          que        -
-On désigne I, le cercle de centre     C et de rayon               CI =a et par i] le cercle de centre     B et de rayon BJ =2a.
-1.a) Faire une figure (On     pourra prendre (BD) horizontale).                                                         0,5 pt)
-   b) Placer sur la figure précédente les points  E et     F tels que: EB + 2EC=0 et                                    0,5 py)
-2.  On     ’ensemble I, des points                         M du plan tels que :   =2.
-   a) Vérifier que les points,   E et F appartiennent a        .
-   b) Déterminer puis construire                                                                                       0,25 py)
-3.  Montrer qu’il existe une unique rotation   y  qui transforme   C en B et A en I. Déterminer I’angle
-et le centre © de cette rotation. Placer       sur la figure.                                                          0,75 pt)
-4.2 Montrer qu’il existe une unique similitude     §    qui transforme C en      B et         A en  D.                  0,25 py
-    b) Montrer que  s(I)=1    -                                                                                        0,25 py)
-    c) Donner les éléments caractéristiques de §   .                                                                     0,5 py
-    d) Montrer que      =T,-                                                                                           0,25 py)
-5.0npose f=heor, ol h                              de centre B et de rapport 2,    et r la rotation définie en 3).
-   a) Montrer que    f =5.                                                                                             0,25 pt)
-   b) Donner la forme réduite de s.                                                                                    0,25 pt)
-6.  Soit une similitude directe qui transforme         I,  enT,.
-    a)  Montrer que toutes les similitudes g*  sont de méme rapport k*               que I’on déterminera.             0,25 pt)
-    b) Déterminer le lieu géométrique des centres des                                                                  0,25 py)
-       Dans le cas oli §' est une homothétie, donner les positions possibles du centre et les valeurs du rapport
-de cette homothétie.                                                                                                    0,25 py
-        |                                                      J
-Probléme 11 points)
-                                                           Partie A           8
-        Soit    f la fonction de variable réélle x  définie par:      nl  2ˣ     ;xelR        A
-                                                                          x—
-Soit  C sa courbe représentative dans un repére orthonormé direct (Qj; i, h) d’unité 2cm  .
-1.2 Caleuler lim f(x), im f(x),    lim f(x)et        lim   f(x). Interpréter graphiquement ces limites.       (1py
-   b)  Déterminer f(x) ob  est la fonction dérivée de f.
-   ¢) Dresser le tableau de variation de f .                                                               0,5 pt)
-2.a) Pour tout x  appartenant 2 IR — {0;1}     ,   montrer que f(x)+ f(1 —x) = 0.Interpréter ce résultat.  0,5 pt)
-   b) Tracer C dans le repére (0; 1, J) -                                                                  0,5 py)
-                                                                          nf]
-3. Pour k e¢ R*  on définit, sur R —     ,    la   fonction f, par: f(x)=    kx 5
-SoitC, sa courbe représentative dans un repére orthonormé      (Q; Lh d’unité 2em -
-   a) Montrer que le point of    md) est un centre de symétrie de C, .
-   b) Montrer que C, est     de C     par une transformation simple que I’on déterminera.                   0,5 py
-   ©) Que peut on dire des courbes       C, et C_,  ?
+*Fin de l'exercice*

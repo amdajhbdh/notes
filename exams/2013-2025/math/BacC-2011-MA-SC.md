@@ -1,108 +1,122 @@
 ---
-title: "BAC C 2011 - Session Complémentaire - Mathématiques"
+title: Baccalauréat Série C - Mathématiques
 year: 2011
-exam: "BAC C"
-session: "Complémentaire"
-subject: "Mathématiques"
-series: "C"
-duration: "4 heures"
-coefficients: "4"
-type: "Examen"
+session: Session Complémentaire
+subject: Mathématiques
+series: C
+duration: 4 heures
+coefficients: 9 & 6
+type: Examen
 ---
 
-# BAC C 2011 - Session Complémentaire - Mathématiques
+# Exercice 1 (4 points)
 
-**Série:** C | **Durée:** 4 heures | **Coeff:** 4
+Dans l'ensemble des nombres complexes $\mathbb{C}$, on pose :
+$$P(z) = z^2 - 2z + 2$$
+
+1. a) Calculer $P(2)$. \hfill (0,5 pt)
+   b) Résoudre l'équation $P(z) = 1$. \hfill (0,5 pt)
+
+2. Dans le plan complexe muni d'un repère orthonormé $(O; \vec{u}, \vec{v})$, on considère les points $A$, $B$ et $C$ tels que :
+   - $z_A$ et $z_B$ sont les solutions de l'équation $P(z) = 0$
+   - $z_C$ est l'image de $z_A$ par la rotation de centre $O$ et d'angle $\frac{\pi}{2}$
+   
+   a) Montrer que le triangle $ABC$ est rectangle et isocèle en $A$. \hfill (0,5 pt)
+   b) Montrer que le quadrilatère $ABOC$ est un parallélogramme. \hfill (0,5 pt)
+
+3. Soit $s$ la transformation qui à tout point $M$ d'affixe $z$ associe le point $M'$ d'affixe $z'$ tel que :
+$$z' = \bar{z} + t$$
+où $t$ est un nombre complexe fixé.
+   
+   a) Justifier que $s$ est une similitude directe du plan. \hfill (0,5 pt)
+   b) Déterminer les caractéristiques de $s$ (rapport, angle, centre). \hfill (0,5 pt)
+   c) Vérifier que $s(B) = C$. \hfill (0,5 pt)
+
+# Exercice 2 (4 points)
+
+1. On considère la fonction $g$ définie sur $\mathbb{R}$ par :
+$$g(x) = \ln\left(\frac{1+x}{1-x}\right)$$
+
+   a) Dresser le tableau de variations de $g$. \hfill (0,5 pt)
+   b) Montrer que $g$ réalise une bijection de $(-1,1)$ sur $\mathbb{R}$. \hfill (0,75 pt)
+   c) Montrer que l'équation $g(x) = 0$ admet dans $\mathbb{R}$ une unique solution $a$ telle que $-0,7 < a < 0$. \hfill (0,5 pt)
+
+2. On considère la fonction $f$ définie sur $\mathbb{R}$ par :
+$$f(x) = 2x$$
+
+   a) Calculer $f'(x)$ puis vérifier que $f(x) = 2x$. \hfill (0,5 pt)
+   b) Dresser le tableau de variations de $f$. \hfill (0,5 pt)
+   c) Tracer la courbe $(C)$ de $f$ dans un repère orthonormé. \hfill (0,73 pt)
+
+3. On considère la suite numérique $(U_n)$ définie pour tout entier naturel $n \geq 2$ par :
+$$U_n = \sum_{k=1}^n \frac{1}{k^2}$$
+
+   a) Montrer que pour tout $n \geq 2$ : $U_n < 2$. \hfill (0,25 pt)
+   b) Montrer que pour tout $n \geq 2$ : $U_n > U_{n-1}$. \hfill (0,25 pt)
+   c) Déterminer l'entier naturel $n$ tel que $U_n > 1,5$. \hfill (0,25 pt)
+
+# Exercice 3 (5,5 points)
+
+Dans le plan orienté, on considère un carré $ABCD$ de sens direct, de côté $a$. On note $E$, $F$, $G$ et $H$ les milieux respectifs des côtés $[AB]$, $[BC]$, $[CD]$ et $[DA]$.
+
+1. a) Faire une figure que l'on complétera au fur et à mesure (on prendra $(AB)$ horizontale). \hfill (0,5 pt)
+   b) Montrer qu'il existe une unique rotation $r$ telle que $r(A) = F$. Puis construire les points $B^*$ et $C^*$ images respectives de $B$ et $C$ par $r$. \hfill (0,5 pt)
+   c) Déterminer le centre $J$ de $r$ et un angle de $r$. \hfill (0,5 pt)
+
+2. Soit $h_1$ l'homothétie de centre $D$ et de rapport $k$ telle que :
+$$h_1(A) = B$$
+   
+   a) Justifier que $h_1$ est une homothétie du carré $ABCD$ par la similitude. \hfill (0,75 pt)
+   b) Déterminer le rapport $k$ et l'angle de $h_1$. \hfill (0,75 pt)
+
+3. Soit $Q$ le centre de l'homothétie $h_1$.
+   
+   a) Montrer que le point $Q$ appartient aux cercles de diamètres respectifs $[DH]$. \hfill (0,5 pt)
+   b) On considère les cercles $\mathcal{C}_1$ et $\mathcal{C}_2$ passant par $Q$ et de centres respectifs $A$ et $O$ (où $O$ est le centre du carré $ABCD$). Soit $T$ l'intersection de $\mathcal{C}_1$ et $\mathcal{C}_2$.
+   a) Montrer que $s(T) = T'$ où $s$ est la similitude définie en question 2. \hfill (0,5 pt)
+   b) En déduire que les points $T$, $A$, $O$ et $T'$ sont cocycliques. \hfill (0,5 pt)
+
+4. Soit $M$ un point du plan distinct de $Q$ et appartenant à $\mathcal{C}_1$ tel que $s(M) = M'$.
+   
+   a) Montrer que $s(M) = M'$. \hfill (0,5 pt)
+   b) Déterminer le lieu géométrique du point $M$ lorsque les points $M$, $M'$ et $M''$ sont alignés. \hfill (0,5 pt)
+
+5. Soit $A'$ et $O'$ les points diamétralement opposés à $Q$ respectivement sur les cercles $\mathcal{C}_1$ et $\mathcal{C}_2$.
+   
+   a) Déterminer la nature du triangle $QJK$ où $J$ et $K$ sont les milieux de $[AB]$ et $[BC]$. En déduire le lieu géométrique du point $J$ lorsque $r$ est appliqué. \hfill (0,5 pt)
+
+# Exercice 4 (6,5 points)
+
+On considère la fonction $f$ définie sur $\mathbb{R}_+^*$ par :
+$$f(x) = x\ln(x+1)$$
+
+1. Soit $(C)$ sa courbe représentative dans un repère orthonormé $(O; \vec{u}, \vec{v})$.
+   
+   a) Calculer $\lim\limits_{x\to 0^+} f(x)$, $\lim\limits_{x\to +\infty} f(x)$ et $\lim\limits_{x\to 1} f(x)$. Interpréter graphiquement ces limites. \hfill (0,75 pt)
+   b) Montrer que la fonction $f$ est strictement décroissante sur $]0,1[$ et strictement croissante sur $[1,+\infty[$. \hfill (0,75 pt)
+   c) Déterminer $a$, $b$ et $c$ tels que pour tout $x \in \mathbb{R}$ : $f''(x) = ax^2 + bx + c$. \hfill (0,5 pt)
+   d) Déterminer le tableau de variations de $f$ et construire la courbe $(C)$. \hfill (0,5 pt)
+
+2. Pour tout entier $n \geq 2$, on pose :
+$$U_n = \int_0^1 \ln(x+1) dx$$
+
+   a) Montrer que la précédente définition définit bien une suite numérique $(U_n)$. \hfill (0,5 pt)
+   b) Calculer $U_n$ en donnant une interprétation graphique. \hfill (0,5 pt)
+   c) Montrer que la suite $(U_n)$ est décroissante. Justifier que la suite $(U_n)$ converge. \hfill (0,5 pt)
+   d) Pour tout entier $n \geq 2$ : $0 < U_n < \frac{1}{n}$. En déduire le limite de la suite $(U_n)$. \hfill (0,5 pt)
+
+3. Pour tout entier $n \geq 2$, on pose :
+$$V_n = \int_0^1 \frac{1}{x+1} dx$$
+
+   a) Vérifier que $V_n = n+1$. \hfill (0,5 pt)
+   b) En déduire que $\lim\limits_{n\to +\infty} V_n = +\infty$. \hfill (0,5 pt)
+
+4. Pour tout entier $n \geq 2$, on pose :
+$$W_n = \int_0^1 \frac{x}{x+1} dx$$
+
+   a) Montrer que $W_n = \ln 2$. \hfill (0,5 pt)
+   b) En déduire que $J_n^i = \frac{3}{2} + 3 + n$. \hfill (0,5 pt)
 
 ---
 
-République Istamique de
-Ministére d*Etat a I' Education Nationale,    i    Honneur — Fraternité — Justice
-    I"Enscigncment
-    Recherche Supéricur et i      Bacea la uv cat
-    Direction des Scientifique        E
-                  Examens of de Evaluation        2001 “gmp
-    Service des        =        A Coefficients: 9&6
-     Exercice |        4 pointy)
-       Dans                          des nombres complexes T, on poser
-       . Calculer P(2).                                                                                                              0.5
-        b) Résoudre I'équation       P(z)= 1.
-     2 Duns te plan muni d'un                                              (O;u, 73, ei consicére les  points A,  B
-     solutions   de I’équation       P(2)          <li. Piecer                     les pointsA,                       et C images des
-     triangle  ABC  est rectangle isocdle et que le quadrilatére                  est un                B ot      C.          que le
-     3 Soit   s  la transformation^3  Qui associeʸ       d tout point    M             Jo  parallélogramme.            = =            m
-                                                                                  7       roint        M'd'affixe z' T+i
-    a) Justifier que   s est         une similitude directe du plan.
-     b) Déterminer les               caractéristiques dz     s
-         Vérifier que        = B.                                                                                                    oa
-    Exercice 2 4 points)                                                                                                             0.5
-    1 On considére la fonction           définic sur         IR par:                        4
-    a) Dresser le tableau de variations de        Eg.                                     2x 2.
-    b) Montrer que g réalise une bijection de      IR             sur IR                                                             0,75
-    ¢)  Montrer que I"équation £(x)= 0 admet dans IR                    unc unigue solution a   telle   que 6,6 Sa <0,7.             0.5
-    2 On considére la fonction       f     définic sur   IR par:                      2x
-    2 Caleuler     f'(x), puis    vérifier que     f(x) =                                                                            0.5
-    2 Dresser le             de variation de   f.
-    fi   TracerJil la   courbe                     (C)            de        dans   un            repére orthogonal                   0,73
-         =Jem
-    +) On considére la suite numérique            )définic pour tut               nitere!              n2 1 par: U,    = (rose       0,25
-    Inne            pas a caleuler Pinéerale           U,                                                             N        .
-    )   Montrer cue pour tous emicr                                           1       gy                Jim                       0,5
-    )  Déterminer       entier naturel                                                                  Rot
-    Xercice3 5.5ᵘⁿpoints)                      gue pour tout            n 2,  Gg U, sims,                                         0,25
-         le plan orienté on considére un                       ABCD de sens direct, de
-    espoints        F, G    ct    H  sont     les milicux                 des segments                     O.
-    +a)Faire une figure que          complétera au fur                  ct A mesure (on prendre (AB)   [Bc), (cD) et     (pa).
-         Montrer qu'il  existe        une unique rotation     rtelle que                               horizontale)              0,5
-     Déterminer le centre      1  ct un angle de Ja      r.                         et                                           0.5
-     Montrer   que       r(A) =F         puis construire les points B*        images respectives de              Betde C parr.   (0s,
-    acealauréag 2011    Session ee                                                                                0.5
-                          complémentaire                                             de   Les          _  C& TMGM 12
-    Annales du Baccalauréat National           Mathématiques            // SériesSéries  C & TMGM         IPN /Mr 2012-
-                                                                                  :                                   2013           13
-3 Soit h1’homothétie
-1 Justifier que s       est   de centre        D et de rapport     k                   s=roh.                                                 0.7%
-                                             du carré ABCD par la similitudes.
-b) Déterminer "imageᵘⁿᵉ similitude directe. Déterminer le rapport et Pangle de s.                                                             0,75
-4 Soit Q le centre de la similitudes                                                       {
-a)  Montrer ue le point appartient aux cercles de diamétres respectifs                                                ct     (DH).             ©.5
-b)   On considére les cercles         I'et         passant par     Q et de centres respectifs                       Aet O. Soit T intersection
-de   Tet                que   €2.   Démontrer que            s(T)=T".     En déduire       que les points ©,       A, O et     Tsont
-                                                                                           i
-     Soit M       up point de I"   distinct de Q       etde T'     .    On   pose s(M)=M".      que les points     M.M                         0,5
-et   T sont alignés.                                                                       sur les cercles   Tet
-d) Soit   A' et O'       les points diamétralement opposésa Q          respectivement
-                         Jet K les milieux respectifs des segments. (MM ') et              Mdéent
- Diéterminer la nature du          triangle                   QJK En déduire le lieu géométrique du point Jlorsque                              0.5
- privédeQ     etde T                         .
- Exercice4
-             fonction définic sur                                  par                  f(x) =xIn(x+1).
- Soit f  la   6.5 points)
- Soit   (C)  sa courbe représentative dans un repére orthonormal (0; u,v).
-  1.  8         lim f(x), lim         f(x), lim 16             .   Interpréter graphiquement.                                                   0.75
-                Peery                                        x
-      Montrer que la fonction f       est striclement décroissante sur I'intervalle        et     strictement croissante                            75
-                                                                                                                                                 0,75
-                              oof  -
-  ur             [05+
-      Ine ox le                     tableau de variations de f et construire la courbe (C).
-          Déterminer a, b ct tels que, pour tout x                                     x        3                                                  0.5
-  2.  a)                 trois réels               ¢
-  15  A I'aide d'une intégration par parties, calculer, en unités d'aires,                     I'aire 4  de la partie du plan limitée
-  par la courbe (C), 'axe des abscisses et ies droites                                x = 0 et x =1                                              ©.35)
-    3 Pour tout entier n21, on pose :     U,                   In(x+1)dx.
-#1) Montrer que                     précédente définit                bien une suite numérique(U,).                                                 ©5
-    b) Calenler U,      ct en donner une interprétation graphique.                                                                                 0.5
-2 Montrer que la suite (U, )est décroissante. La suite (U,)converge-t-elle 2 Justifier.                                                             05
-                 que pour tout entier n 21, 0<U,                    »                              En déduire la limite de la suite (U,).        0.5L
-    4 Démontrer
-                                                              nel
-    4 Pour tout entier      n          2 1, on pose:  V,
-    a) Vérifierque:                         U =  n+l    3                                                                                          0.5
-                 gs: pve                                     En déduire Ia limite de la suite (V,).                                              0s
-      ©)     Démontrer que pour tout enticr n 21,            V,        sr =_{3} + 3 + n+                                                            0.5
-      Tin                           1.11                     (-1)"
-      in     déduire que Jimⁱ    (  543     +                      In2
-                                                             Fin.
- I                       2011                                 ds                           CA 22
-Annales du Baccalauréat National      Mathématiques                / Séries :  C & TMGM IPN /Mr /2012 - 2013                                     14
+*Fin de l'exercice*

@@ -1,138 +1,100 @@
 ---
-title: "BAC C 2006 - Session Complémentaire - Mathématiques"
+title: Baccalauréat Série C - Mathématiques
 year: 2006
-exam: "BAC C"
-session: "Complémentaire"
-subject: "Mathématiques"
-series: "TMGM"
-duration: "4 heures"
-coefficients: "4"
-type: "Examen"
+session: Session Complémentaire
+subject: Mathématiques
+series: C
+duration: 4 heures
+coefficients: 9 & 6
+type: Examen
 ---
 
-# BAC C 2006 - Session Complémentaire - Mathématiques
+# Exercice 1 (5 points)
 
-**Série:** TMGM | **Durée:** 4 heures | **Coeff:** 4
+Le plan complexe est muni d'un repère direct. Soit $a$ un réel strictement positif, $A$ le point de coordonnées $(a;0)$, et $(D)$ la droite d'équation $x = -a$.
+
+Pour chaque valeur du paramètre $t \in \mathbb{R}_+^*$, on note $s_t$ l'application du plan complexe dans lui-même qui à tout point $M$ d'affixe $z$ associe le point $M_t$ d'affixe $z_t$ tel que :
+$$z_t = f(t)(\cos t + i\sin t)z$$
+où $f(t)$ est une fonction réelle strictement positive.
+
+1. a) Quelle est la nature de l'application $s_t$ ? Donner ses éléments caractéristiques.
+   b) Donner les équations analytiques qui définissent $s_t$ et $s_t^{-1}$ par rapport à un repère orthonormé direct $(\vec{i},\vec{j})$.
+
+2. Dans cette question, on pose $f(t) = 1$ pour tout $t \in \mathbb{R}$.
+   a) Montrer que si $M \notin (D)$ alors $\forall t \in \mathbb{R}$, le triangle $OMM_t$ est rectangle en $O$.
+   b) Le point $M$ étant fixe, quel est le lieu décrit par $M_t$ lorsque $t$ décrit $\mathbb{R}$ ?
+   c) Montrer que l'image de la droite $(D)$ par $s_t$ est une droite. On donnera une équation cartésienne dépendant seulement de $a$ et de $\tan(t)$.
+
+3. Dans cette question, on suppose toujours que $f(t) = \cos t$ mais avec $A = (5;0)$.
+   a) Donner une mesure de l'angle $\angle BAC$.
+   b) Soit $H$ le point d'intersection des droites $(AM)$ et $(A_{-t}M_t)$. Montrer que les points $O$, $H_t$, $A$ et $A_{-t}$ sont cocycliques.
+   c) Montrer que les points $O$, $H_t$, $M$ et $M_t$ sont cocycliques. Quelle est la projection orthogonale de $O$ sur $(AM)$ ?
+   d) Soit $(D_t)$ l'image de la droite $(D)$ par $s_t$. Montrer que lorsque $t$ varie, $(D_t)$ passe par un point fixe.
+
+# Exercice 2 (4 points)
+
+On considère, dans l'ensemble des nombres complexes, l'équation suivante :
+$$z^3 - 3z^2 + 4 = 0$$
+où $m$ est un entier supérieur ou égal à $2$.
+
+1. a) Déterminer les solutions $z_1$ et $z_2$ de l'équation $z^2 - 2z + 2 = 0$ telles que $\operatorname{Re}(z_1) < 0$ et écrire sous forme trigonométrique les solutions $z_1$ et $z_2$ de l'équation $z^3 - 3z^2 + 4 = 0$.
+   b) Posons $u = z_1 + z_2$. Montrer que pour tout $p \in \mathbb{N}$, $(u)^p + (\overline{u})^p = 2^{p+1}\cos\left(\frac{p\pi}{3}\right)$ où $\overline{u}$ est le conjugué de $u$.
+   c) On considère l'application $f$ définie sur l'ensemble des nombres complexes par :
+$$f(z) = z^3 - 3z^2 + 4$$
+   d) Résoudre, dans l'ensemble des nombres complexes, l'équation $f(z) = 0$.
+
+# Problème
+
+## Partie A
+
+Soit $f$ la fonction numérique définie par :
+$$f(x) = \begin{cases}
+x & \text{si } |x| \leq 1 \\
+\frac{1}{x} & \text{si } |x| > 1
+\end{cases}$$
+
+1. a) Déterminer l'ensemble $D$ de définition de $f$.
+   b) Montrer que $f$ est impaire.
+   c) Dresser le tableau de variations de $f$.
+   d) Tracer la courbe représentative $(C)$ de $f$ dans un repère orthonormé.
+
+2. Montrer que $f$ réalise une bijection de $D$ sur $\mathbb{R}$.
+
+3. b) Soit $g$ la réciproque de $f$. Montrer que pour tout réel $x$, $g(x) = \operatorname{sign}(x) \cdot \max(|x|, 1)$.
+   c) Tracer la courbe représentative de $g$ dans le repère orthonormé.
+
+4. Déterminer l'ensemble du plan compris entre les deux courbes $(C)$ et $(C')$ et situé dans le premier quadrant.
+
+## Partie B
+
+Pour tout entier naturel $m$ et pour tout réel $x > 0$, on pose :
+$$u_m(x) = \ln(x^m + 1)$$
+
+1. Justifier l'existence de $V_n \in \mathbb{N}^*$ et $x > 0$ telles que $u_{V_n}(x) \geq n$.
+2. b) Calculer $u'_m(x)$.
+   c) Montrer que si $x > 1$ alors $u'_m(x) < \frac{m}{x}$.
+3. c) Montrer que si $x \in (0,1)$ alors la suite $(u_m(x))$ est convergente et calculer sa limite.
+4. d) Vérifier que si $x \in \mathbb{R}$ alors $u'_m(x) = \frac{mx^{m-1}}{x^m + 1}$.
+   e) Déduire alors que si $x > 1$ alors $\lim\limits_{m \to +\infty} u_m(x) = +\infty$.
+
+## Partie C
+
+Soit $h$ la fonction numérique définie par :
+$$h(x) = \ln(x) + \ln(f(x))$$
+où $f$ est la fonction définie dans la partie A.
+
+1. a) Justifier que pour tout $x \in \mathbb{R}\setminus\{-1,0,1\}$, $h(x)$ est définie.
+   b) Montrer que $h$ est dérivable sur son ensemble de définition.
+   c) En déduire que $h'(x) = \frac{1}{x} + f'(x)$.
+
+2. b) Montrer que $h$ est convexesur $]1,+\infty[$.
+   c) Tracer la courbe représentative de $h$ dans un nouveau repère orthonormé.
+
+3. d) Montrer que si $k \in \mathbb{N}^*$ alors $\sum_{i=1}^k \ln(i) \leq \ln(k!)$.
+   e) Montrer que si $n \in \mathbb{N}^*$ alors $\ln(n!) < \ln((n+2)!)$.
+   f) Montrer que la suite $u_n = \ln(n!)$ est convergente.
+   g) Montrer que la suite $u_n = \ln(n!)$ est convergente.
 
 ---
 
-de Mauritanie                                                                    Hoaneur      — Fraternité _ Justice
-                 Fondamentalᴾᴱⁿˢᵉⁱᵍⁿᵉᵐᵉⁿᵗ                                        Baccalauréat                                      : C  &      TMGM   |
-                    et Secondaire                                                                                 Séries
-Direction des Examens et de                                                                     2006                                      wed
-             Service des Examens                                                Session complémentaire                      Coefficients: 9     & 6
-Exercice 1 5                points)
-ede                         *   Leₐ                           plan complexe  (P)est muni d'un repére                 direct        v )  ;
-                                       est un nombre
-                                                       réel strictement positif;
-                            *              le point de coordonnées 830                            ;
-                            *©  f             la  droite d'équation                  x =a       ;             de                        sur
-                                       estune fonction réelle strictement positive variable réelle                               t, définie
-Pour   chaque   valeur du paramétre             t,  on note                  s,  I'application de          (P)dans  (P)qui & tout point   M d'affixe  z fait
-correspondre le point          M, = s                                        z, telle que  :   z, = f(t)(cost +isint)z.
-                    est la nature
-                               de        "application                                    s,? Donner
-1.a) Quelle                                                                            ses éléments  caractéristiques.
-   b) Donner les équations analytiques qui définissent                                 , et celles qui définissent   par rapport            (8;              est
-                réciproque des,
-                                      on pose : f(t)=                        pour tout    t    €
-2. Dans cette question,                                es
-                    si      M  #  Q      alors V t  €                                   le triangle  OMM, est rectangle
-       Montrer
-   4            que                                                                                               en
-   b) Le point  M étant fixe, quel est                                                   décrit par  M, lorsque t    décrit                    pl)
-   ©)  Montrer que        I'image      de  la  droite  (D)par                   §,    est  une     droite               on donnera une  équation     cartésienne
-dépendant seulement de a et de tan(t)
-3. Dans cette question,
-                Montrer M 2 O alors V t €              |                               le  triangle  OMM, est rectangle
-   a)           que si         on pose: f(1)= cost pour tout                            t  € |                          en M,
-   b) Le point  M      étant fixe,      quel est                                I" (M) décrit par        M, lorsque t décrit
-4.          On suppose toujours que     f(t)=    cost  maisavec                   t                        A, =5,(A).
-   a) Donner une mesure de                     (aia)
-   b) Soit   H, le point d'intersection des droites                             (AM) et         (A,M,). Montrer que les points O,        H,,   A et      A, sont
-cocycliques. 0,3p0
-                que les points          O, H,, M et M, sont cocycliques.                                   Quelle est la projection orthogonale de         O sur
-   ©) Montrer                                                                                                                                           la
-droite (AM)? 0,501
-   d) Soit      (D,) I'image de la droite      (D) par 8, . Montrer que, lorsque                           t varie, (D,)                passe par un point fixe. (0,5p0
-Exercice2                 4 points)                                                                                                                   (iz)
-                                           On considére, dans I"ensemble des nombres complexes,                   suivante :
-                                        ou  égal &  2.
-ol m est un                       entier supérieur
-                                               et écrire sous forme trigonométrique  les solutions   z,       et    z, de I'équation (E,). ol z, est la solution
-1.8 Déterminer
-telle  que : Re(z,) <0. 10.50
-   b) Posons: u                        Montrer que:                          Vpe IN,   (u) +a) =                     2% (od u est le        de
-                                                                                                                  conjugué u.)
-   ©) On considére                                                     f définie de I'ensemble des nombres complexe sur lui-méme par :
-Montrer que:    f(z) = a1                  + { + w)⁻                         le. spi)p>.             pn
-d) Résoudre, dans I'ensemble des nombres complexes, I'équation f(z) =
-Baccalauréat 2006 Session Complémentaire                                        Epreuve de Mathématiques      Séries : C & TMGM                        3
-UU                                                                                   7
-                                                                                               Lo             IVI                                      EY]
-2.  On considére dans le plan      complexe      muni d'un      repére  orthonormé  direct      tes  deux points A(=2i)    et
-    oi 2 est un nombre            complexe.
-M(z)
-               que si Z     est solution
- 8 Montrer                            de(E,) ators OM =         AM .0,5p0)
- b) En déduire que toute    solution  de (E, ) peut             sous    la forme a — oll    & est un réel. 4,50
-3.8 Résoudre, dans                 des nombres complexes, I'équation (E,
-                                de    (E, )  peuvent  s'écrire  sous    la forme
- b)      Montrer que les solutions
-                                z,                              ol kefo,
-               (1/1    points)
-Probléme
-                                                                          A
-                                                                     Partie
-    Soit {la fonction          numérique définie      par:                 12
-1.8 Déterminer "ensemble              D de définition
- b) Montrer                                        de
-               tableau de variations de      f
- ¢) Dresser leque   f est une fonction impaire. 4,
- d) Tracer la courbe représentative (C) de f dans           un  repére  orthonormé (Osi,
-2.8 Montrer                                                                                 j) d'unité 4 em 0,500
-               que  f         réalise
-                              une bijection      do D sur   IR
-                            de  .  Montrer
- b) Soit g       la réciproque                   que  pour  tout réel x,         = Sm
-        la       courbe représentative                g dans le repére        J)
- ©) Tracer
-3.  Déterminer          de    la partie du plan  comprise entre les   deux courbes  (C)et (C') et située dans le défini par :
-                                                                     Partie
-Pour tout entier naturel   m et pour tout réel          x2 0, on pose :1, B
-                                                                         (x)  =      dt et on convient que      =1.
-    Justifier  "existence de            Vn € IN et        Vx 20.0.5
- b) Calculer            1,(x)
-               que    Vp 21 et Vx20,0na: 051,               (x) <
- ©) Montrer
- d) Déduire
-               que Vx 2 0, la suite          (x)) est convergente et calculer sa limite.
-2.4 Vérifier que:     Vee IR    ona:             =              sp
-               que:   Vane  IN   et                             =                   fe
- ¢) Déduire alors que              et
-                  les questions     précédentes, calculer :  lim                            TT               (0,5pt)
-          d) En utilisant                                                                       ch
-                                                             PartieC
-          h Ia                               sur J 1; 1 par: h(x)                3
-Soit                         fonction numérique définie               =
-              la définition de         h sur  15
-1.8 Justifier
-                  que :     Vt €    IR\ - 151},  3                                b et¢ sont des réels     A    1,     fp
-          b) Montrer                                                                                          déterminer.
-                  que :      Vx & |   B(x)           = =x + f(x) ob   est  la fonction définie dans Ia   partie A. 0.2500
-          ©) En déduire
-                     2006    Session Complémentaire       Epreuve
-Baccalauréat                                                        de Mathématiques           Séries :  C &  TMGM     wn
-tin wi                                                                ©                        INU
-la       B   et construire sa courbe        dans un nouveau repere orthonorme.
-cigier  ¥x>0e                    ona  Inx<             im
-onreque  Vk e INT,:        £7ⁱ
-                           :   Inxdx € Ink    ctque Vke IN",  INi  <     0,50
-         Vin e IN3         In(n!)> (n+ 2!     + ~n+ di5 2.
-         définie sur IN"   par: = In(n!)~ (n + 2  n
-¥neIN',  U                 =    2n+1]     (0.23pm)
-erque    ©, >
-         la suite          est    (4,25p1
-ie aldrs gle
-                           Fin.
-"Annales du Baccalauréat National Mathématiques /Séries: C&    39
+*Fin de l'exercice*

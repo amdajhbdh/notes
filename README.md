@@ -24,14 +24,14 @@ python3 ../content-enhancer.py enhance-all 01-Concepts
 
 ## 📊 Vault Stats
 
-| Metric | Value |
-|--------|-------|
-| Total Notes | 686+ |
-| Textbooks | 11 |
-| Chapters | 941 |
-| Exercises | 1,571 |
-| BAC Papers | 23 (2002-2012) |
-| Spaced Repetition Cards | 100 |
+| Metric                  | Value          |
+| ----------------------- | -------------- |
+| Total Notes             | 686+           |
+| Textbooks               | 11             |
+| Chapters                | 941            |
+| Exercises               | 1,571          |
+| BAC Papers              | 23 (2002-2012) |
+| Spaced Repetition Cards | 100            |
 
 ---
 
